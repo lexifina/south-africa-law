@@ -1,0 +1,9 @@
+# s. 17
+Directors
+17. (1) The remuneration, allowances and other terms and conditions of service and service benefits of the National Director, a Deputy National Director and a Director shall be determined by the President: Provided that—
+(a) the salary of the National Director shall not be less than the salary of a judge of a High Court, as determined by the President under section 2 (1) of the Judges' Remuneration and Conditions of Employment Act, 1989 (Act No. 88 of 1989);
+(b) the salary of a Deputy National Director shall not be less than 85 per cent of the salary of the National Director; and
+(c) the salary of a Director shall not be less than 80 per cent of the salary of the National Director.
+(2) If an officer or employee in the public service is appointed as the National Director, a Deputy National Director or a Director, the period of his or her service as National Director, Deputy National Director or Director shall be reckoned as part of and continuous with his or her employment in the public service, for purposes of leave, pension and any other conditions of service, and the provisions of any pension law applicable to him or her as such officer or employee, or in the event of his or her death, to his or her dependants and which are not inconsistent with this section, shall, with the necessary changes, continue so to apply.
+(3) The National Director is entitled to pension provisioning and pension benefits determined and calculated under all circumstances, as if he or she is employed as a Director-General in the public service.
+(4) The President may, whenever in his or her opinion it is necessary and after consultation with the Minister and the National Director, transfer and appoint any Director to any Office contemplated in section 6 (1) or Investigating Directorate, or as a Special Director.

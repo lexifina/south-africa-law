@@ -1,0 +1,10 @@
+ACT To regulate matters incidental to the establishment by the Constitution of the Republic of South Africa, 1996, of a single national prosecuting authority; and to provide for matters connected therewith.
+PREAMBLE WHEREAS section 179 of the Constitution of the Republic of South Africa, 1996 (Act No.108 of 1996), provides for the establishment of a single national prosecuting authority in the Republic structured in terms of anAct of Parliament; the appointment by the President of a National Director of Public Prosecutions as head of the national prosecuting authority; the appointment of Directors of Public Prosecutions and prosecutors as determined by an Act of Parliament;
+AND WHEREAS the Constitution provides that national legislation must ensure that the Directors of Public Prosecutions are appropriately qualified and are responsible for prosecutions in specific jurisdictions;
+AND WHEREAS the Constitution provides that national legislation must ensure that the prosecuting authority exercises its functions without fear, favour or prejudice;
+AND WHEREAS the Constitution provides that the National Director of Public Prosecutions must determine, with the concurrence of the Cabinet member responsible for the administration of justice, and after consulting the Directors of Public Prosecutions, prosecution policy which must be observed in the prosecution process;
+AND WHEREAS the Constitution provides that the National Director of Public Prosecutions may intervene in the prosecution process when policy directives are not being complied with, and may review a decision to prosecute or not to prosecute;
+AND WHEREAS the Constitution provides that the Cabinet member responsible for the administration of justice must exercise final responsibility over the prosecuting authority;
+AND WHEREAS the Constitution provides that all other matters concerning the prosecuting authority must be determined by national legislation;
+B E IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as follows:—
+CHAPTER 1 Introductory provisions
