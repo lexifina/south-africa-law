@@ -1,0 +1,3 @@
+# s. 7
+Right to legal professional privilege
+7. Section 4 or 5 shall not be constmed so as to infringe upon the common law right to professional privilege between an attorney and his or her client in respect of information communicated to the attorney, whether in writing or verbally, so as to 35 enable him or her to provide advice, or render other legal assistance to or defend the client in connection with an offence under any law with which he or she is charged, in respect of which he or she has been arrested or summoned to appear in court or in respect of which an investigation with a view to instituting criminal proceedings is being conducted against him or her.
