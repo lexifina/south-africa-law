@@ -1,6 +1,7 @@
 # 160. Internal procedures
 (1) A Municipal Council—
 (a) makes decisions concerning the exercise of all the powers and the performance of all the functions of the municipality;
+(b) must elect its chairperson;
 (c) may elect an executive committee and other committees, subject to national legislation; and
 (d) may employ personnel that are necessary for the effective performance of its functions.
 (2) The following functions may not be delegated by a Municipal Council:
