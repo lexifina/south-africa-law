@@ -1,5 +1,5 @@
 # 58. Privilege
-(1) Cabinet members and members of the National Assembly—
+(1) Cabinet members, Deputy Ministers and members of the National Assembly—
 (a) have freedom of speech in the Assembly and in its committees, subject to its rules and orders; and
 (b) are not liable to civil or criminal proceedings, arrest, imprisonment or damages for—
 (i) anything that they have said in, produced before or submitted to the Assembly or any of its committees; or

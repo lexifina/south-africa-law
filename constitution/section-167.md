@@ -1,5 +1,5 @@
 # 167. Constitutional Court
-(1) The Constitutional Court consists of a President, a Deputy President and nine other judges.
+(1) The Constitutional Court consists of the Chief Justice of South Africa, the Deputy Chief Justice and nine other judges.
 (2) A matter before the Constitutional Court must be heard by at least eight judges.
 (3) The Constitutional Court—
 (a) is the highest court in all constitutional matters;

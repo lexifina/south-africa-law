@@ -1,9 +1,4 @@
 # Schedule 6: Transitional Arrangements
-(29) ANNEXURES
-(29) Amendments to Schedule 2 of the Previous Constitution
-(30) Government of National Unity: National Sphere
-(31) Government of National Unity: Provincial Sphere
-(32) Public Administration and Security Services: Amendments to Sections of the Previous Constitution
 Definitions
 1. In this Schedule, unless inconsistent with the context—
 “homeland” means a part of the Republic which, before the previous Constitution took effect, was dealt with in South African legislation as an independent or a self-governing territory;
@@ -53,15 +48,33 @@ National Council of Provinces
 (a) the proportion of party representation in the province’s delegation to the National Council of Provinces must be the same as the proportion in which the province’s 10 senators were nominated in terms of section 48 of the previous Constitution; and
 (b) the allocation of permanent delegates and special delegates to the parties represented in the provincial legislature, is as follows:
 PROVINCE PERMANENT DELEGATES SPECIAL DELEGATES
-1. Eastern Cape | ANC 5 NP 1 | ANC 4
-2. Free State | ANC 4 FF 1 NP 1 | ANC 4
-3. Gauteng | ANC 3 DP 1 FF 1 NP 1 | ANC 3 NP 1
-4. KwaZulu-Natal | ANC 1 DP 1 IFP 3 NP 1 | ANC 2 IFP 2
-5. Mpumalanga | ANC 4 FF 1 NP 1 | ANC 4
-6. Northern Cape | ANC 3 FF 1 NP 2 | ANC 2 NP 2
+1. Eastern Cape ANC 5 ANC 4
+NP 1
+2. Free State ANC 4 ANC 4
+FF 1
+NP 1
+3. Gauteng ANC 3 ANC 3
+DP 1 NP 1
+FF 1
+NP 1
+PROVINCE PERMANENT DELEGATES SPECIAL DELEGATES
+4. KwaZulu-Natal ANC 1 ANC 2
+DP 1 IFP 2
+IFP 3
+NP 1
+5. Mpumalanga ANC 4 ANC 4
+FF 1
+NP 1
+6. Northern Cape ANC 3 ANC 2
+FF 1 NP 2
+NP 2
 7. Northern Province ANC 6 ANC 4
-8. North West | ANC 4 FF 1 NP 1 | ANC 4
-9. Western Cape | ANC 2 DP 1 NP 3 | ANC 1 NP 3
+8. North West ANC 4 ANC 4
+FF 1
+NP 1
+9. Western Cape ANC 2 ANC 1
+DP 1 NP 3
+NP 3
 (2) A party represented in a provincial legislature—
 (a) must nominate its permanent delegates from among the persons who were senators when the new Constitution took effect and are available to serve as permanent delegates; and
 (b) may nominate other persons as permanent delegates only if none or an insufficient number of its former senators are available.
@@ -99,8 +112,7 @@ Assignment of legislation to provinces
 (a) amend or adapt the legislation to regulate its interpretation or application;
 (b) where the assignment does not apply to the whole of any piece of legislation, repeal and re-enact, with or without any amendments or adaptations referred to in paragraph (a), those provisions to which the assignment applies or to the extent that the assignment applies to them; or
 (c) regulate any other matter necessary as a result of the assignment, including the transfer or secondment of staff, or the transfer of assets, liabilities, rights and obligations, to or from the national or a provincial executive or any department of state, administration, security service or other institution.
-(3)
-(a) A copy of each proclamation issued in terms of subitem (1) or (2) must be submitted to the National Assembly and the National Council of Provinces within 10 days of the publication of the proclamation.
+(3) (a) A copy of each proclamation issued in terms of subitem (1) or (2) must be submitted to the National Assembly and the National Council of Provinces within 10 days of the publication of the proclamation.
 (b) If both the National Assembly and the National Council by resolution disapprove the proclamation or any provision of it, the proclamation or provision lapses, but without affecting—
 (i) the validity of anything done in terms of the proclamation or provision before it lapsed; or
 (ii) a right or privilege acquired or an obligation or liability incurred before it lapsed.
@@ -113,22 +125,26 @@ Courts
 16. (1) Every court, including courts of traditional leaders, existing when the new Constitution took effect, continues to function and to exercise jurisdiction in terms of the legislation applicable to it, and anyone holding office as a judicial officer continues to hold office in terms of the legislation applicable to that office, subject to—
 (a) any amendment or repeal of that legislation; and
 (b) consistency with the new Constitution.
-(2)
-(a) The Constitutional Court established by the previous Constitution becomes the Constitutional Court under the new Constitution.
-(b) Anyone holding office as the President, the Deputy President or a judge of the Constitutional Court when the new Constitution takes effect, becomes the President, the Deputy President or a judge of the Constitutional Court under the new Constitution, and continues in office for the unexpired portion of their term as fixed by section 176(1) of the new Constitution.
-(3)
-(a) The Appellate Division of the Supreme Court of South Africa becomes the Supreme Court of Appeal under the new Constitution.
-(b) Anyone holding office as the Chief Justice, the Deputy Chief Justice or a judge of the Appellate Division when the new Constitution takes effect, becomes the Chief Justice, the Deputy Chief Justice or a judge of the Supreme Court of Appeal under the new Constitution.
-(4)
-(a) A provincial or local division of the Supreme Court of South Africa or a supreme court of a homeland or a general division of such a court, becomes a High Court under the new Constitution without any alteration in its area of jurisdiction, subject to any rationalisation contemplated in subitem (6).
+(2) (a) The Constitutional Court established by the previous Constitution becomes the Constitutional Court under the new Constitution.
+(b) …….
+(3) (a) The Appellate Division of the Supreme Court of South Africa becomes the Supreme Court of Appeal under the new Constitution.
+(b) …….
+(4) (a) A provincial or local division of the Supreme Court of South Africa or a supreme court of a homeland or a general division of such a court, becomes a High Court under the new Constitution without any alteration in its area of jurisdiction, subject to any rationalisation contemplated in subitem (6).
 (b) Anyone holding office or deemed to hold office as the Judge President, the Deputy Judge President or a judge of a court referred to in paragraph (a) when the new Constitution takes effect, becomes the Judge President, the Deputy Judge President or a judge of such a court under the new Constitution, subject to any rationalisation contemplated in subitem (6).
 (5) Unless inconsistent with the context or clearly inappropriate, a reference in any legislation or process to—
 (a) the Constitutional Court under the previous Constitution, must be construed as a reference to the Constitutional Court under the new Constitution;
 (b) the Appellate Division of the Supreme Court of South Africa, must be construed as a reference to the Supreme Court of Appeal; and
 (c) a provincial or local division of the Supreme Court of South Africa or a supreme court of a homeland or general division of that court, must be construed as a reference to a High Court.
-(6)
-(a) As soon as is practical after the new Constitution took effect all courts, including their structure, composition, functioning and jurisdiction, and all relevant legislation, must be rationalised with a view to establishing a judicial system suited to the requirements of the new Constitution.
+(6) (a) As soon as is practical after the new Constitution took effect all courts, including their structure, composition, functioning and jurisdiction, and all relevant legislation, must be rationalised with a view to establishing a judicial system suited to the requirements of the new Constitution.
 (b) The Cabinet member responsible for the administration of justice, acting after consultation with the Judicial Service Commission, must manage the rationalisation envisaged in paragraph (a).
+(7) (a) Anyone holding office, when the Constitution of the Republic of South Africa Amendment Act, 2001, takes effect, as—
+(i) the President of the Constitutional Court, becomes the Chief Justice as contemplated in section 167(1) of the new Constitution;
+(ii) the Deputy President of the Constitutional Court, becomes the Deputy Chief Justice as contemplated in section 167(1) of the new Constitution;
+(iii) the Chief Justice, becomes the President of the Supreme Court of Appeal as contemplated in section 168(1) of the new Constitution; and
+(iv) the Deputy Chief Justice, becomes the Deputy President of the
+Supreme Court of Appeal as contemplated in section 168(1) of the new Constitution.
+(b) All rules, regulations or directions made by the President of the Constitutional Court or the Chief Justice in force immediately before the Constitution of the Republic of South Africa Amendment Act, 2001, takes effect, continue in force until repealed or amended.
+(c) Unless inconsistent with the context or clearly inappropriate, a reference in any law or process to the Chief Justice or to the President of the Constitutional Court, must be construed as a reference to the Chief Justice as contemplated in section 167(1) of the new Constitution.
 Cases pending before courts
 17. All proceedings which were pending before a court when the new Constitution took effect, must be disposed of as if the new Constitution had not been enacted, unless the interests of justice require otherwise.
 Prosecuting authority
@@ -151,8 +167,7 @@ Other constitutional institutions
 (b) consistency with the new Constitution.
 (3) Sections 199(1), 200(1), (3) and (5) to (11) and 201 to 206 of the previous Constitution continue in force until repealed by an Act of Parliament passed in terms of section 75 of the new Constitution.
 (4) The members of the Judicial Service Commission referred to in section 105(1)(h) of the previous Constitution cease to be members of the Commission when the members referred to in section 178(1)(i) of the new Constitution are appointed.
-(5)
-(a) The Volkstaat Council established in terms of the previous Constitution continues to function in terms of the legislation applicable to it, and anyone holding office as a member of the Council when the new Constitution takes effect, continues to hold office in terms of the legislation applicable to that office, subject to—
+(5) (a) The Volkstaat Council established in terms of the previous Constitution continues to function in terms of the legislation applicable to it, and anyone holding office as a member of the Council when the new Constitution takes effect, continues to hold office in terms of the legislation applicable to that office, subject to—
 (i) any amendment or repeal of that legislation; and
 (ii) consistency with the new Constitution.
 (b) Sections 184A and 184B (1) (a), (b) and (d) of the previous Constitution continue in force until repealed by an Act of Parliament passed in terms of section 75 of the new Constitution.
@@ -170,9 +185,9 @@ Bill of Rights
 23. (1) National legislation envisaged in sections 9(4), 32(2) and 33(3) of the new Constitution must be enacted within three years of the date on which the new Constitution took effect.
 (2) Until the legislation envisaged in sections 32(2) and 33(3) of the new Constitution is enacted—
 (a) section 32 (1) must be regarded to read as follows:
-(a) "(1) Every person has the right of access to all information held by the state or any of its organs in any sphere of government in so far as that information is required for the exercise or protection of any of their rights."; and
+“(1) Every person has the right of access to all information held by the state or any of its organs in any sphere of government in so far as that information is required for the exercise or protection of any of their rights.”; and
 (b) section 33(1) and (2) must be regarded to read as follows:
-(c) "Every person has the right to—
+“Every person has the right to—
 (a) lawful administrative action where any of their rights or interests is affected or threatened;
 (b) procedurally fair administrative action where any of their rights or legitimate expectations is affected or threatened;
 (c) be furnished with reasons in writing for administrative action which affects any of their rights or interests unless the reasons for that action have been made public; and
@@ -193,66 +208,68 @@ Additional disqualification for legislatures
 (a) lapses if the conviction is set aside on appeal, or the sentence is reduced on appeal to a sentence that does not disqualify that person; and
 (b) ends five years after the sentence has been completed.
 Local government
-26. [The source does not give the text in force on this date.]
+26. (1) Notwithstanding the provisions of sections 151, 155, 156 and 157 of the new Constitution—
+(a) the provisions of the Local Government Transition Act, 1993 (Act 209 of 1993), as may be amended from time to time by national legislation consistent with the new Constitution, remain in force in respect of a Municipal Council until a Municipal Council replacing that Council has been declared elected as a result of the first general election of Municipal Councils after the commencement of the new Constitution; and
+(b) a traditional leader of a community observing a system of indigenous law and residing on land within the area of a transitional local council, transitional rural council or transitional representative council, referred to in the Local Government Transition Act, 1993, and who has been identified as set out in section 182 of the previous Constitution, is ex officio entitled to be a member of that council until a Municipal Council replacing that council has been declared elected as a result of the first general election of Municipal Councils after the commencement of the new Constitution.
+(2) Section 245(4) of the previous Constitution continues in force until the application of that section lapses. Section 16(5) and (6) of the Local Government Transition Act, 1993, may not be repealed before 30 April 2000.
 Safekeeping of Acts of Parliament and Provincial Acts
 27. Sections 82 and 124 of the new Constitution do not affect the safekeeping of Acts of Parliament or provincial Acts passed before the new Constitution took effect.
 Registration of immovable property owned by the state
 28. (1) On the production of a certificate by a competent authority that immovable property owned by the state is vested in a particular government in terms of section 239 of the previous Constitution, a registrar of deeds must make such entries or endorsements in or on any relevant register, title deed or other document to register that immovable property in the name of that government.
 (2) No duty, fee or other charge is payable in respect of a registration in terms of subitem (1).
-ANNEXURE A Amendments to Schedule 2 to the previous Constitution
 1. The replacement of item 1 with the following item:
-(1) "1. Parties registered in terms of national legislation and contesting an election of the National Assembly, shall nominate candidates for such election on lists of candidates prepared in accordance with this Schedule and national legislation.".
+“1. Parties registered in terms of national legislation and contesting an election of the National Assembly, shall nominate candidates for such election on lists of candidates prepared in accordance with this Schedule and national legislation.”.
 2. The replacement of item 2 with the following item:
-(1) "2. The seats in the National Assembly as determined in terms of section 46 of the new Constitution, shall be filled as follows:
+“2. The seats in the National Assembly as determined in terms of section 46 of the new Constitution, shall be filled as follows:
 (a) One half of the seats from regional lists submitted by the respective parties, with a fixed number of seats reserved for each region as determined by the Commission for the next election of the Assembly, taking into account available scientifically based data in respect of voters, and representations by interested parties.
 (b) The other half of the seats from national lists submitted by the respective parties, or from regional lists where national lists were not submitted.”.
 3. The replacement of item 3 with the following item:
-(1) "3. The lists of candidates submitted by a party, shall in total contain the names of not more than a number of candidates equal to the number of seats in the National Assembly, and each such list shall denote such names in such fixed order of preference as the party may determine.".
+“3. The lists of candidates submitted by a party, shall in total contain the names of not more than a number of candidates equal to the number of seats in the National Assembly, and each such list shall denote such names in such fixed order of preference as the party may determine.”.
 4. The amendment of item 5 by replacing the words preceding paragraph (a) with the following words:
-(1) "5. The seats referred to in item 2(a) shall be allocated per region to the parties contesting an election, as follows:".
+“5. The seats referred to in item 2(a) shall be allocated per region to the parties contesting an election, as follows:”.
 5. The amendment of item 6—
-(1) (a) by replacing the words preceding paragraph (a) with the following words:
-(1) "6. The seats referred to in item 2(b) shall be allocated to the parties contesting an election, as follows:"; and
+(a) by replacing the words preceding paragraph (a) with the following words:
+“6. The seats referred to in item 2(b) shall be allocated to the parties contesting an election, as follows:”; and
 (b) by replacing paragraph (a) with the following paragraph:
-(1) "(a) A quota of votes per seat shall be determined by dividing the total number of votes cast nationally by the number of seats in the National Assembly, plus one, and the result plus one, disregarding fractions, shall be the quota of votes per seat.".
+“(a) A quota of votes per seat shall be determined by dividing the total number of votes cast nationally by the number of seats in the National Assembly, plus one, and the result plus one, disregarding fractions, shall be the quota of votes per seat.”.
 6. The amendment of item 7(3) by replacing paragraph (b) with the following paragraph:
-(1) "(b) An amended quota of votes per seat shall be determined by dividing the total number of votes cast nationally, minus the number of votes cast nationally in favour of the party referred to in paragraph (a), by the number of seats in the Assembly, plus one, minus the number of seats finally allocated to the said party in terms of paragraph (a).".
+“(b) An amended quota of votes per seat shall be determined by dividing the total number of votes cast nationally, minus the number of votes cast nationally in favour of the party referred to in paragraph (a), by the number of seats in the Assembly, plus one, minus the number of seats finally allocated to the said party in terms of paragraph (a).”.
 7. The replacement of item 10 with the following item:
-(1) "10. The number of seats in each provincial legislature shall be as determined in terms of section 105 of the new Constitution.".
+“10. The number of seats in each provincial legislature shall be as determined in terms of section 105 of the new Constitution.”.
 8. The replacement of item 11 with the following item:
-(1) "11. Parties registered in terms of national legislation and contesting an election of a provincial legislature, shall nominate candidates for election to such provincial legislature on provincial lists prepared in accordance with this Schedule and national legislation.".
+“11. Parties registered in terms of national legislation and contesting an election of a provincial legislature, shall nominate candidates for election to such provincial legislature on provincial lists prepared in accordance with this Schedule and national legislation.”.
 9. The replacement of item 16 with the following item:
-(1) "Designation of representatives
+“Designation of representatives
 16. (1) After the counting of votes has been concluded, the number of representatives of each party has been determined and the election result has been declared in terms of section 190 of the new Constitution, the Commission shall, within two days after such declaration, designate from each list of candidates, published in terms of national legislation, the representatives of each party in the legislature.
 (2) Following the designation in terms of subitem (1), if a candidate’s name appears on more than one list for the National Assembly or on lists for both the National Assembly and a provincial legislature (if an election of the Assembly and a provincial legislature is held at the same time), and such candidate is due for designation as a representative in more than one case, the party which submitted such lists shall, within two days after the said declaration, indicate to the Commission from which list such candidate will be designated or in which legislature the candidate will serve, as the case may be, in which event the candidate’s name shall be deleted from the other lists.
 (3) The Commission shall forthwith publish the list of names of representatives in the legislature or legislatures.”..
 10. The amendment of item 18 by replacing paragraph (b) with the following paragraph:
-(1) "(b) a representative is appointed as a permanent delegate to the National Council of Provinces;".
+“(b) a representative is appointed as a permanent delegate to the National Council of Provinces;”.
 11. The replacement of item 19 with the following item:
-(1) "19. Lists of candidates of a party referred to in item 16(1) may be supplemented on one occasion only at any time during the first 12 months following the date on which the designation of representatives in terms of item 16 has been concluded, in order to fill casual vacancies: Provided that any such supplementation shall be made at the end of the list.".
+“19. Lists of candidates of a party referred to in item 16 (1) may be supplemented on one occasion only at any time during the first 12 months following the date on which the designation of representatives in terms of item 16 has been concluded, in order to fill casual vacancies: Provided that any such supplementation shall be made at the end of the list.”.
 12. The replacement of item 23 with the following item:
-(1) "Vacancies
+“Vacancies
 23. (1) In the event of a vacancy in a legislature to which this Schedule applies, the party which nominated the vacating member shall fill the vacancy by nominating a person—
 (a) whose name appears on the list of candidates from which the vacating member was originally nominated; and
 (b) who is the next qualified and available person on the list.
 (2) A nomination to fill a vacancy shall be submitted to the Speaker in writing.
 (3) If a party represented in a legislature dissolves or ceases to exist and the members in question vacate their seats in consequence of item 23A(1), the seats in question shall be allocated to the remaining parties mutatis mutandis as if such seats were forfeited seats in terms of item 7 or 14, as the case may be.”.
 13. The insertion of the following item after item 23:
-(1) "Additional ground for loss of membership of legislatures
+“Additional ground for loss of membership of legislatures
 23A. (1) A person loses membership of a legislature to which this Schedule applies if that person ceases to be a member of the party which nominated that person as a member of the legislature.
 (2) Despite subitem (1) any existing political party may at any time change its name.
-(3) An Act of Parliament may, within a reasonable period after the new Constitution took effect, be passed in accordance with section 76(1) of the new Constitution to amend this item and item 23 to provide for the manner in which it will be possible for a member of a legislature who ceases to be a member of the party which nominated that member, to retain membership of such legislature.
+(3) An Act of Parliament may, within a reasonable period after the new
+Constitution took effect, be passed in accordance with section 76(1) of the new Constitution to amend this item and item 23 to provide for the manner in which it will be possible for a member of a legislature who ceases to be a member of the party which nominated that member, to retain membership of such legislature.
 (4) An Act of Parliament referred to in subitem (3) may also provide for—
 (a) any existing party to merge with another party; or
 (b) any party to subdivide into more than one party.”.
 14. The deletion of item 24.
 15. The amendment of item 25—
-(1) (a) by replacing the definition of "Commission" with the following definition:
-(1) " 'Commission' means the Electoral Commission referred to in section 190 of the new Constitution;"; and
+(a) by replacing the definition of “Commission” with the following definition:
+“‘Commission’ means the Electoral Commission referred to in section 190 of the new Constitution;”; and
 (b) by inserting the following definition after the definition of “national list”:
-(1) " 'new Constitution' means the Constitution of the Republic of South Africa, 1996;".
+“‘new Constitution’ means the Constitution of the Republic of South Africa, 1996;”.
 16. The deletion of item 26.
-ANNEXURE B Government of National Unity: National Sphere
 1. Section 84 of the new Constitution is deemed to contain the following additional subsection:
 “(3) The President must consult the Executive Deputy Presidents—
 (a) in the development and execution of the policies of the national government;
@@ -270,7 +287,7 @@ ANNEXURE B Government of National Unity: National Sphere
 “Cabinet
 91. (1) The Cabinet consists of the President, the Executive Deputy Presidents and—
 (a) not more than 27 Ministers who are members of the National Assembly and appointed in terms of subsections (8) to (12); and
-(b) not more than one Minister who is not a member of the National Assembly and appointed in terms of subsection (13), provided the President, acting in consultation with the Executive Deputy Presidents and the leaders of the participating parties, deems the appointment of such a Minister expedient.
+(b) not more than one Minister who is not a member of the 175 National Assembly and appointed in terms of subsection (13), provided the President, acting in consultation with the Executive Deputy Presidents and the leaders of the participating parties, deems the appointment of such a Minister expedient.
 (2) Each party holding at least 80 seats in the National Assembly is entitled to designate an Executive Deputy President from among the members of the Assembly.
 (3) If no party or only one party holds 80 or more seats in the Assembly, the party holding the largest number of seats and the party holding the second largest number of seats are each entitled to designate one Executive Deputy President from among the members of the Assembly.
 (4) On being designated, an Executive Deputy President may elect to remain or cease to be a member of the Assembly.
@@ -301,7 +318,8 @@ ANNEXURE B Government of National Unity: National Sphere
 (12) If any determination of portfolio allocations is varied under subsection (10) (c), the affected Ministers must vacate their portfolios but are eligible, where applicable, for reappointment to other portfolios allocated to their respective parties in terms of the varied determination.
 (13) The President—
 (a) in consultation with the Executive Deputy Presidents and the leaders of the participating parties, must—
-(i) determine a specific portfolio for a Minister referred to in subsection (1) (b) should it become necessary pursuant to a decision of the President under that subsection;
+(i) determine a specific portfolio for a Minister referred to in subsection (1)
+(b) should it become necessary pursuant to a decision of the President under that subsection;
 (ii) appoint in respect of that portfolio a person who is not a member of the National Assembly, as the Minister responsible for that portfolio; and
 (iii) fill, if necessary, a vacancy in respect of that portfolio; or
 (b) after consultation with the Executive Deputy Presidents and the leaders of the participating parties, must terminate any appointment under paragraph (a) if it becomes necessary for the purposes of the Constitution or in the interest of good government.
@@ -323,36 +341,35 @@ ANNEXURE B Government of National Unity: National Sphere
 (6) If the Minister concerned fails to comply with a requirement of the President under subsection (5), the President may remove the Minister from office—
 (a) if it is a Minister referred to in section 91(1)(a), after consultation with the Minister and, if the Minister is not a member of the President’s party or is not the leader of a participating party, also after consultation with the leader of that Minister’s party; or
 (b) if it is a Minister referred to in section 91(1)(b), after consultation with the Executive Deputy Presidents and the leaders of the participating parties.”.
-ANNEXURE C Government of National Unity: Provincial Sphere
 1. Section 132 of the new Constitution is deemed to read as follows:
 “Executive Councils
 132. (1) The Executive Council of a province consists of the Premier and not more than 10 members appointed by the Premier in accordance with this section.
 (2) A party holding at least 10 per cent of the seats in a provincial legislature and which has decided to participate in the government of national unity, is entitled to be allocated one or more of the Executive Council portfolios in proportion to the number of seats held by it in the legislature relative to the number of seats held by the other participating parties.
 (3) Executive Council portfolios must be allocated to the respective participating parties according to the same formula set out in section 91(9), and in applying that formula a reference in that section to—
 (a) the Cabinet, must be read as a reference to an Executive Council;
-(b) a Minister, must be read as a reference to a member of an Executive Council; and
+(b) a Minister, must be read as a reference to a member of an
+Executive Council; and
 (c) the National Assembly, must be read as a reference to the provincial legislature.
 (4) The Premier of a province after consultation with the leaders of the participating parties must—
-(1) determine the specific portfolios to be allocated to the respective participating parties in accordance with the number of portfolios allocated to them in terms of subsection (3);
-(2) appoint in respect of each such portfolio a member of the provincial legislature who is a member of the party to which that portfolio was allocated under paragraph (a), as the member of the Executive Council responsible for that portfolio;
-(3) if it becomes necessary for the purposes of the Constitution or in the interest of good government, vary any determination under paragraph (a), subject to subsection (3);
-(4) terminate any appointment under paragraph (b)—
+(a) determine the specific portfolios to be allocated to the respective participating parties in accordance with the number of portfolios allocated to them in terms of subsection (3);
+(b) appoint in respect of each such portfolio a member of the provincial legislature who is a member of the party to which that portfolio was allocated under paragraph (a), as the member of the Executive Council responsible for that portfolio;
+(c) if it becomes necessary for the purposes of the Constitution or in the interest of good government, vary any determination under paragraph (a), subject to subsection (3);
+(d) terminate any appointment under paragraph (b)—
 (i) if the Premier is requested to do so by the leader of the party of which the Executive Council member in question is a member; or
 (ii) if it becomes necessary for the purposes of the Constitution or in the interest of good government; or
-(5) fill, when necessary, subject to paragraph (b), a vacancy in the office of a member of the Executive Council.
+(e) fill, when necessary, subject to paragraph (b), a vacancy in the office of a member of the Executive Council.
 (5) Subsection (4) must be implemented in the spirit embodied in the concept of a government of national unity, and the Premier and the other functionaries concerned must in the implementation of that subsection seek to achieve consensus at all times: Provided that if consensus cannot be achieved on—
 (a) the exercise of a power referred to in paragraph (a), (c) or (d)(ii) of that subsection, the Premier’s decision prevails;
 (b) the exercise of a power referred to in paragraph (b), (d)(i) or (e) of that subsection affecting a person who is not a member of the Premier’s party, the decision of the leader of the party of which such person is a member prevails; and
 (c) the exercise of a power referred to in paragraph (b) or (e) of that subsection affecting a person who is a member of the Premier’s party, the Premier’s decision prevails.
 (6) If any determination of portfolio allocations is varied under subsection (4) (c), the affected members must vacate their portfolios but are eligible, where applicable, for reappointment to other portfolios allocated to their respective parties in terms of the varied determination.
 (7) Meetings of an Executive Council must be presided over by the Premier of the province.
-(8) An Executive Council must function in a manner which gives consideration to the consensus-seeking spirit embodied in the concept of a government of national unity, as well as the need for effective government.".
+(8) An Executive Council must function in a manner which gives consideration to the consensus-seeking spirit embodied in the concept of a government of national unity, as well as the need f or effective government.”.
 2. Section 136 of the new Constitution is deemed to contain the following additional subsections:
 “(3) Members of Executive Councils are accountable individually to the Premier and to the provincial legislature for the administration of their portfolios, and all members of the Executive Council are correspondingly accountable collectively for the performance of the functions of the provincial government and for its policies.
 (4) Members of Executive Councils must administer their portfolios in accordance with the policy determined by the Council.
 (5) If a member of an Executive Council fails to administer the portfolio in accordance with the policy of the Council, the Premier may require the member concerned to bring the administration of the portfolio into conformity with that policy.
 (6) If the member concerned fails to comply with a requirement of the Premier under subsection (5), the Premier may remove the member from office after consultation with the member, and if the member is not a member of the Premier’s party or is not the leader of a participating party, also after consultation with the leader of that member’s party.”.
-ANNEXURE D Public administration and security services: Amendments to sections of the previous Constitution
 1. The amendment of section 218 of the previous Constitution—
 (a) by replacing in subsection (1) the words preceding paragraph (a) with the following words:
 “(1) Subject to the directions of the Minister of Safety and Security, the National Commissioner shall be responsible for—”;
@@ -365,7 +382,7 @@ ANNEXURE D Public administration and security services: Amendments to sections o
 2. The amendment of section 219 of the previous Constitution by replacing in subsection (1) the words preceding paragraph (a) with the following words:
 “(1) Subject to section 218(1), a Provincial Commissioner shall be responsible for—”.
 3. The amendment of section 224 of the previous Constitution by replacing the proviso to subsection (2) with the following proviso:
-"Provided that this subsection shall also apply to members of any armed force which submitted its personnel list after the commencement of the Constitution of the Republic of South Africa, 1993 (Act 200 of 1993), but before the adoption of the new constitutional text as envisaged in section 73 of that Constitution, if the political organisation under whose authority and control it stands or with which it is associated and whose objectives it promotes did participate in the Transitional Executive Council or did take part in the first election of the National Assembly and the provincial legislatures under the said Constitution.".
+“Provided that this subsection shall also apply to members of any armed force which submitted its personnel list after the commencement of the Constitution of the Republic of South Africa, 993 (Act 200 of 1993), but before the adoption of the new constitutional text as envisaged in section 73 of that Constitution, if the political organisation under whose authority and control it stands or with which it is associated and whose objectives it promotes did participate in the Transitional Executive Council or did take part in the first election of the National Assembly and the provincial legislatures under the said Constitution.”.
 4. The amendment of section 227 of the previous Constitution by replacing subsection (2) with the following subsection:
 “(2) The National Defence Force shall exercise its powers and perform its functions solely in the national interest in terms of Chapter 11 of the Constitution of the Republic of South Africa, 1996.”.
 5. The amendment of section 236 of the previous Constitution—
@@ -373,8 +390,9 @@ ANNEXURE D Public administration and security services: Amendments to sections o
 “(1) A public service, department of state, administration or security service which immediately before the commencement of the Constitution of the Republic of South Africa, 1996 (hereinafter referred to as “the new Constitution”), performed governmental functions, continues to function in terms of the legislation applicable to it until it is abolished or incorporated or integrated into any appropriate institution or is rationalised or consolidated with any other institution.”;
 (b) by replacing subsection (6) with the following subsection:
 “(6) (a) The President may appoint a commission to review the conclusion or amendment of a contract, the appointment or promotion, or the award of a term or condition of service or other benefit, which occurred between 27 April 1993 and 30 September 1994 in respect of any person referred to in subsection (2) or any class of such persons.
-(c) The commission may reverse or alter a contract, appointment, promotion or award if not proper or justifiable in the circumstances of the case."; and
-(d) by replacing "this Constitution", wherever this occurs in section 236, with "the new Constitution".
+(b) The commission may reverse or alter a contract, appointment, promotion or award if not proper or justifiable in the circumstances of the case.”; and
+(c) by replacing “this Constitution”, wherever this occurs in section 236, with
+“the new Constitution”.
 6. The amendment of section 237 of the previous Constitution—
 (a) by replacing paragraph (a) of subsection (1) with the following paragraph:
 “(a) The rationalisation of all institutions referred to in section 236(1), excluding military forces referred to in section 224(2), shall after the commencement of the Constitution of the Republic of South Africa, 1996, continue, with a view to establishing—
