@@ -1,0 +1,2 @@
+# s. 21
+21. Subject to the Constitution of the Republic of South Africa, 1996 (Act No. 108 of 10 1996), and the Criminal Procedure Act, 1977, the provisions of this Act will not detract from a person's civil or criminal liability, in terms of any other law, on account of his or her infringement of any intellectual property right and from the capacity or competence in terms of any law to institute civil or criminal proceedings in respect of such infringement.

@@ -1,0 +1,11 @@
+# s. 8
+Storage of seized goods, and access thereto
+8. (1) Goods that have been seized in terms of section 4( 1 ) must be stored and kept in safe custody at a counterfeit goods depot until the person in charge of the depot—
+(a) is ordered by a competent court in terms of this Act to return. release, destroy or otherwise dispose of those goods as specified in the orde~ or
+(b) is directed by the inspector concerned, in the circumstances provided for in subsection (1)(b) or (2)(u), (b) or (c) of section 9, to release those goods to the suspect.
+(2) Goods seized in terms of section 4(1) will be available for inspection by the complainant, or, as the case may be, prospective complainant (if any). the suspect and any other interested person at the counterfeit goods depot on any working day during normal office hours.
+(3) The person in charge of the counterfeit goods depot, on the request of the complainant or prospective complainant (as the case may be) or the suspect, must make the relevant seized goods available for testing or analysis by or on behalf of any such complainant or the suspect if the person so in charge, having taken into account the nature of such seized goods, the nature of the tests or analyses to be conducted. and the competence and suitability of the person by whom the tests or analyses are to be conducted. is satisfied that a request in that regard is reasonable.
+(4) The person in charge of a counterfeit goods depot who is not willing to allow seized goods under his or her custody to be made available to the suspect for testing or analysis by any person or by a particular person, must forthwith refer the matter to the complainant or prospective complainant (as the case may be) who must either confirm or reverse that decision within 48 hours.
+(5) (a) W%ere any such complainant has confirmed the decision not to allow the seized goods to be made available to the suspect for testing or analysis, that decision must be con~'eyed in writing to the suspect who may apply to the court for an order rescinding the decision and allowing those goods to be made so available.
+(b) The court will grant the application if it finds the decision to be unreasonable in the circumstances.
+Seized goods to be released if criminal investigation or criminal or ci}-il proceedings not contemplated against suspect

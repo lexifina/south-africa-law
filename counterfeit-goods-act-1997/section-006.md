@@ -1,0 +1,24 @@
+# s. 6
+Pro\tilons relating to issue and execution of warrant
+6. (1) The warrant contemplated in section 4(2) read with section 5(1) will be issued in chambers by any judge of the High Court or by a magistrate who has jurisdiction in the area where the relevant suspected act of dealing in counterfeit goods is alIeged to 50 have taken or to be taking place or is likely to take place, and will be issued only if it appears to the judge or magistrate from information on oath or atlirmation that there are reasonable .gounds for believing that an act of dealing in counterfeit goods has taken or is taking place or is likely to take place, and the inspector seeking the warrant ..
+.
+—
+1-$ No. 1s324 GOVERNNIENT GAZEITE, 1 OCTOBER 1997 Act SO. 37.1997 COUNTERFEIT GOODS ACT, 1997 may be asked to specify which of the powers contemplated in section 4(1) is or are likely to be exercised.
+(2) A warrant in terms of this section maybe issued either with reference to only one separate suspected act of dealing in counterfeit goods or with reference to any number of such acts, whether any such act involves only one alleged offender or any number of alleged offenders, and irrespective of whether such offender or number of offenders is identified specifically by name or by reference to any particular place or circumstances, and any point in time.
+(3) A warrant in terms of this section may be issued on any day and will be in force until—
+(a) it has been executed; or
+(b) it is cancelled by the judge or magistrate who issued it, or. if not available, by any other judge, or by any other magistrate with like authority (as the case may be); or
+(c) the expiry of three months from the day of its issue; or
+(d) the purpose for which the warrant was issued, no longer exists, whichever may occur first.
+(4) A warrant issued in terms of this section maybe executed by day only, unless the person who has issued the warrant has authorised the execution thereof by night at times which must be reasonable, and the entry upon or into and search of any place, premises or vehicle specified in the warrant, and the search of any person thereat, thereon or therein. must be conducted with strict regard to decency and order, including—
+(a) a person's right to, respect for and protection of his or her dignity;
+(b) the right of a person to freedom and security of his or her person; and
+(c) the right of a person to his or her personal privacy.
+(5) An inspector executing a warrant in terms of this section must immediately before commencing with the execution thereof—
+(a) ~ identify himself or herself to the person in control of the place, premises or vehicle to be entered upon or entered, if that person is present. and hand to that person a copy of the warrant, or, if that person is not present. affix a copy of the warrant to a prominent spot at. on or to the place, premises or vehicle;
+furnish that person at his or her request with particulars regarding the inspector's authority to execute such a warrant. For that purpose an inspector may be requested to produce the certificate issued in respect of him or her under section 22(3).
+inspector who on the authority of a warrant issued in terms of subsection (1)
+(6) An may enter upon or enter, and search, any place, premises or vehicle and search any person thereat, thereon or therein, may use such force as may be reasonably necesszwy to overcome any resistance to the entry and search.
+(7) An inspector may enter upon or enter, and search, any place, premises or vehicle, and may search any person thereat, thereon or therein, only if he or she audibly has first demanded access thereto and has notified the purpose of the entry, unless the inspector on reasonable grounds is of the opinion that any goods. document, article or item may be destroyed or be lost if access is first demanded and that purpose notified.
+(8) If. during the execution of a warrant in terms of this section, a person claims that any goods. document. article or item found at. on or in the place. premises or vehicle in question contains privileged information and refuses the inspection or removal thereof, the inspector executing the warrant, if of the opinion that the goods, document. article or item may be relevant to and necessary for the investigation of any complaint or any alleged or suspected act of dealing in counterfeit goods, must request the registrar of the High @M hat,ing jurisdiction, or that registrar's deputy, to seize and remove such goods. document, article or item for safe custody until the court has made a ruling on the question whether or not the information in question is privileged.
+(9) In undertaking any search for and inspection and seizure of suspected counterfeit NO. 18324 Act SO. 37.1997 goods an inspector may be assisted by the complainant (if any) or any other knowledgeable person in identifying goods as suspected counterfeit goods.
