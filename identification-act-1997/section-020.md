@@ -1,0 +1,5 @@
+# s. 20
+Surrender or seizure of identity card of deceased person
+20. (1) Any person who has in his or her possession a document being or purporting to be an uncanceled identity card of a person who has died, shall within 30 days after 25 the document came into his or her possession, hand over or send by registered post such document for cancellation to the Director-General.
+(2) A document handed over or sent to the Director-General in terms of subsection(1), shall without delay after the receipt thereof be cancelled and destroyed in the prescribed manner and, unless a relative of the deceased person indicates in writing that he or she 30 wants it,
+(3) When it comes to the attention of the Director-General that any person is in possession of a document being or purporting to be an uncanceled identity card of a person who has died, he or she shall without delay seize that document. and thereupon the provisions of subsection (2) shall mutufis mufandis apply in respect of that 35 document.

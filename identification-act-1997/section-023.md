@@ -1,0 +1,4 @@
+# s. 23
+Reproduction of documents
+23. (1) Notwithstanding anything to the contrary contained in any other law, the Director-General may, in respect of a person or class of persons determined by him or 30 her, reproduce or cause to be reproduced any document from which the population register is compiled or maintained by means of any process which in his or her opinion accurately and durably reproduces such documents, and may preserve or cause to be preserved those reproductions in lieu of such documents.
+(2) A reproduction referred to in subsection (1 ) shall, notwithstanding anything to the 35 contrary contained in any other law, for all purposes be deemed to be the original document from which it was reproduced. and a copy of such reproduction which has been certified by the Director-General as a true copy, shall in any court of law be conclusive proof of the contents of the relevant original document.
