@@ -1,0 +1,24 @@
+# s. 4
+4. The substitution for section 7 of the following section:
+"Certain maintenance orders deemed for certain puroses to have been made under Maintenance Act, 1998 Act No. 99, 1998 No. and year of law MAINTENANCE ACT, 1998 Short title Extent of repeal or amendment
+7. Any maintenance order registered under section 4 or confirmed under sec-tion 6 shall for the purposes of sections [11, 12 and 14] 16(2) to (4). 31, 38 and 40 of the Maintenance Act, [1963] 1998, be deemed to be a maintenance order made under section [5(4)] 16( 1 ) of the said Act by the maintenance court where [such] the order has been so registered or confirmed: Provided that in a prosecution for a contravention of the said section [11] 31 in respect of an —
+order registered under section 4 of this Act, the provisions of section [13] 41 of the said Act shall not apply.".
+. The substitution for section 8 of the following section:
+"Transmission to designated country of emoluments attachment order made in the Republic
+8. When it appears to any court in the Republic that any person in respect of whom it has, before or after the com-mencement of this Act, made an order under section [12(1)] 16(2) of the Main-tenance Act, [1963] 1998, is resident in the Republic but is employed or is in receipt of a salary, wage or any other form of remuneration or allowance in a designed country, that court may trans-mit a certified copy of the record of the proceedings in which the order was made to the Director-General for trans-mission to the administrative head of the Department of Justice of such desig-
+6. The amendment of section 9 by the sub-stitution for subsection (3) of the follow-ing subsection:
+"(3) Any order registered under sub-section ( 1 ) and any notice issued under subsection (2), shall, for the purposes of [subsections (2) and (3) of section 12] sections 16(3)(b) and (c) and 38 of the Maintenance Act, [1963] 1998, be deemed to be an order made [or] under subsection (2) of section 16 of that Act and a notice issued under [section 12(1) of that Act] subsection (3)(a) of the said section 16, respectively.".
+7. The amendment of section 11 by the substitution for subsection ( 1 ) of the fol-owing subsection:
+Act No. 99, 1998 No. and year of law Short title Extent of repeal or amendment "(1 ) Subject to the provisions of this Act and any rules made thereunder, the procedure and rules of evidence. includ-ing the competency, compellability, examination or cross-examination of witnesses, to be followed at or in con-nection with an enquiry under the Main-tenance Act, [1963] 1998, shall, in so far as they can be applied. apply mutatis mutandis to enquiries under section 6(4),", Act No. 2 of 1991 Maintenance Amendment Act, The repeal of the whole.
+A c t No. 204 of 1993 General Law Sixth Amendment The repeal of sections 3 and 4.
+Act, 1993 Act No. 18 of 1996 Justice Laws Rationalisation Act, The amendment of section 10 --
+(a) by the substitution for subsection ( 1 ) of the following subsection:
+"(l ) Notwithstanding the provi-sions of the Reciprocal Enforce-ment of Maintenance Orders (Coun-tries in Africa) Act. 1989 (Act No. 6 of 1989), or the coming into opera-tion of the Constitution. any main-tenance order registered in terms of section 4 of the Reciprocal Enforce-ment of Maintenance Orders (Coun-tries in Africa) Act. 1989. or con-firmed in terms of section 6 of that Act or under any corresponding law in force in any of the affected terr-tories, shall continue to be in force.
+and shall be deemed to be a mainte-nance order made under section [5(4)] 16(1 )(a)(i) or [5(4)](b)(i) of the Maintenance Act [1963 (Act No. 23 of 1963)] 1998, as the case may be. by the maintenance court where such order has been so regis-tered or confirmed.": and
+(b) by the substitution for subsection
+(2) of the following subsection:
+"(2) Any maintenance order.
+or other order related thereto.
+made in any affected territory under any law repealed by this Act, shall continue to be i n force, and shall be deemed to have been made under a corre-sponding provision of the Main-tenance Act, [1963] 1998.".
+Proclamation No, 21 of Government Employees Pension The amendment of section 21 by the sub-Law, 1996 stitution for subsection ( 1 ) of the follow-ing subsection:
+5? Act No. 99, 1998 No. and year of law Short title Extent of repeal or amendment "(1 ) No benefit or right in respect of a benefit payable under this Act shall be capable of being assigned or transferred or otherwise ceded or of being pledged or hypothecated or, save as is provided in section [11(2)1 26 or 40 of the Main-tenance Act, [1963 (Act No. 23 of 1963)] 1998. and section 7(8) of the Divorce Act. 1979 (Act No. 70 of 1979), be liable to be attached or sub-jected to any form of execution under a judgment or order of a court of law. " Act NO. 104 of 1996 Judicial Matters Amendment The repeal of section 9 Act, 1996
