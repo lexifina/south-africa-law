@@ -1,0 +1,2 @@
+GOVERNMENT GWE~E. 28 OCTOBER 1998 Act No. 77, 1998 (English text signed bj the President.) (Assented to 20 October 1998.) ACT To provide for the estabUshment of a commercial port at Ngqura; for the ' construction, equipmenb control, management, powession and maintenance of such port by Transnet Limited; and to provide for matters connected therewith.
+B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:—
