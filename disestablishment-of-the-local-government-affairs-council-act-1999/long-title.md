@@ -1,0 +1,2 @@
+~ No, 20708 GOVERNNIENT G,4ZE~E. 6 DECE\lBER [999 ,ict No. 39, 1999 D[SEST.ABL[SHN[ENT OF THE LOCAL GOVERN>tEXT ,4 FF,AJRS COUNCIL ACT. 1 YY9 (Eltglish te.rt signed by the President. J (Assented to 2 December 1999. ) ACT To provide for the disestablishment of the Local Government Affairs Council; to repeal the Local Government Affairs Council Act (House of Assembly), 1989 (Act No. S4 of 19S9); and provide for matters connected therewith.
+B E IT ENACTED hy the Parliament of the Republic of South Africa, as follows:—
