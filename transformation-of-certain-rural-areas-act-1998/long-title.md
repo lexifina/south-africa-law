@@ -1,0 +1,2 @@
+~ GOVERNMENT GAZE~E. 2 NOVEMBER 1998 Act No. 94, 1998 (English text signed by the President. ) (Assented to 20 October 1998.) ACT To provide for the transfer of certain land to municipalities and certain other legal entities; the removal of restrictions on the alienation of land; matters with regard to minerals; the repeal of the Rural Areas Act, 1987, and related laws; and to provide for matters connected therewith.
+B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:—
