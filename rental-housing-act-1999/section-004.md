@@ -1,0 +1,3 @@
+# s. 4
+RELATIONS BETWEEN TENANTS AND LANDLORDS
+4. General provisions
