@@ -1,0 +1,8 @@
+SCHEDULE I
+LAWS REPEALED (Section 11(1)) No. and year of law Short title Extent of repeal Act No. 52 of 1951 Prevention of Illegal Squatting Act, 1951 The whole Act No. 24 of 1952 Prevention of Illegal Squatting Amendment Act, 1952 The whole Act No. 62 of 1955 General Law Amendment Act, Section 30 Act No. 76 of 1963 Black Laws Amendment Act, Section 12 Act No. 92 of 1976 Prevention of Illegal Squatting Amendment Act, 1976 The whole Act No. 72 of 1977 Prevention of Illegal Squatting Amendment Act, 1977 The whole Act No. 33 of 1980 Prevention of Illegal Squatting Amendment Act, 1980 The whole Act No. 68 of 1986 Abolition of Influx Control Act, Sections 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 and 15 Act No. 104 of 1988 Prevention of Illegal Squatting Amendment Act, 1988 The whole Act No. 80 of 1990 Prevention of Illegal Squatting Amendment Act, 1990 The whole Act No.108 of 1991 Abolition of Racially Based Land Measures Act, 1991 Sections 20 and 21 Act No. 113 of 1991 Less Formal Township Establish-ment Act, 1991 Section 31, and that part of the
+Schedule amending the Preven-tion of Illegal Squatting Act, Act No. 134 of 1992 Provincial and Local Authority Affairs Amendment Act, 1992 Section 1 Act No. 88 of 1996 Abolition of Restrictions on the Jurisdiction of Courts Act, 1996 Sections 3 and 4
+SCHEDULE II
+LAWS AMENDED (Section 11(2))
+1. Section 29 of the Extension of Security of Tenure Act, 1997, is hereby amended by the substitution for subsection (2) of the following subsection:
+''(2) The provisions of the Prevention of Illegal [Squatting Act, 1951 (Act No.
+52 of 1951)] Eviction from and Unlawful Occupation of Land Act, 1998, shall not apply to an occupier in respect of land which he or she is entitled to occupy or use in terms of this Act.''.

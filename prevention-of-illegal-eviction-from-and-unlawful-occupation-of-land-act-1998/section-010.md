@@ -1,0 +1,3 @@
+# s. 10
+Transfer of powers, duties or functions
+10. The President may by proclamation in the Gazette, either generally or in respect of such area or in such circumstances as may be specified in the proclamation, provide that any power, duty or function which in terms of this Act is permitted or required to be exercised, carried out or performed by any authority or person mentioned in the Act, may be or must be, as the case may be, exercised, carried out or performed by such authority or person, including a person in the service of such authority or an organ of state, as may be specified in the proclamation.
