@@ -1,0 +1,6 @@
+# s. 63
+Disposal of perishables
+63. (1) If any fish or other thing of a perishable nature is seized in terms of section 51 the Minister may, notwithstanding any other provision of this Act—
+(a) return the fish or other thing to the person from whom it was seized on receiving adequate security equivalent to the value of the fish or thing; or
+(b) cause the sale of the fish or other thing at a price which is reasonable in the circumstances and, if court proceedings are instituted, pay the proceeds of the sale into a suspense account of the Department pending a court order in respect of the forfeiture of the proceeds or, if no proceedings are instituted, release the proceeds to the person from whom the fish or other thing was seized: Provided that, if, after making all reasonable efforts, the Minister is unable to sell the fish or other thing, or where such fish or other things are unfit for sale, he or she may dispose thereof in such other manner as he or she deems fit, including by destruction.
+(2) If any live fish has been seized in terms of section 51, it may be released or destroyed at the discretion of the seizing fishery control officer where he or she for any sufficient reason considers such act desirable.

@@ -1,0 +1,5 @@
+# s. 54
+Seizure of vehicles or aircraft
+54. (1) Where any vehicle or aircraft is seized in terms of section 51, the driver or pilot thereof shall take the vehicle or aircraft to such place in the territory of the Republic as a fishery control officer shall designate as being the nearest or most convenient place for the holding of such vehicle or aircraft and the vehicle or aircraft may be detained pending the outcome of any proceedings in terms of this Act until it is released on payment or lodging of security in terms of section 62.
+(2) If a driver or pilot fails or refuses to take a vehicle or aircraft contemplated in subsection (1) to the designated place, a fishery control officer may take charge of the vehicle or aircraft for the purpose of bringing it to the designated place.
+(3) A court with jurisdiction over a vessel seized in terms of section 51, shall have jurisdiction over any vehicle or aircraft seized in connection with the same offence in terms of this section notwithstanding the whereabouts of the said vehicle or aircraft.

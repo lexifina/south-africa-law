@@ -1,0 +1,4 @@
+# s. 38
+International agreements
+38. (1) No international agreement entered into by the national government of the Republic concerning access to fish in South African waters shall exceed the total resources or the total mass of fish allowed to the appropriate category of foreign fishing vessels in terms of any applicable determination of the total allowable catch or applicable fishery plan.
+(2) Any international agreement entered into by the national government of the Republic concerning access to fish in South African waters shall include a provision establishing the responsibility of the foreign state or an association to take necessary measures to ensure compliance by its vessels with the terms and conditions of the agreement and with the legislation relating to fishing in South African waters.
