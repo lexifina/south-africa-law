@@ -4,4 +4,4 @@ An Act of Parliament enacted in accordance with the procedure established by sec
 (b) determine procedures by which local government may—
 (i) consult with the national or a provincial government;
 (ii) designate representatives to participate in the National Council of Provinces; and
-(iii) nominate persons to the Financial and Fiscal Commission.
+(iii) participate in the process prescribed in the national legislation envisaged in section 221(1)(c).
