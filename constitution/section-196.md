@@ -12,7 +12,8 @@
 (i) to investigate and evaluate the application of personnel and public administration practices, and to report to the relevant executive authority and legislature;
 (ii) to investigate grievances of employees in the public service concerning official acts or omissions, and recommend appropriate remedies;
 (iii) to monitor and investigate adherence to applicable procedures in the public service; and
-(iv) to advise national and provincial organs of state regarding personnel practices in the public service, including those relating to the recruitment, appointment, transfer, discharge and other aspects of the careers of employees in the public service.
+(iv) to advise national and provincial organs of state regarding personnel practices in the public service, including those relating to the recruitment, appointment, transfer, discharge and other aspects of the careers of employees in the public service; and
+(g) to exercise or perform the additional powers or functions prescribed by an Act of Parliament.
 (5) The Commission is accountable to the National Assembly.
 (6) The Commission must report at least once a year in terms of subsection (4)(e)—
 (a) to the National Assembly; and
@@ -20,8 +21,7 @@
 (7) The Commission has the following 14 commissioners appointed by the President:
 (a) Five commissioners approved by the National Assembly in accordance with subsection (8)(a); and
 (b) one commissioner for each province nominated by the Premier of the province in accordance with subsection (8)(b).
-(8)
-(a) A commissioner appointed in terms of subsection (7)(a) must be—
+(8) (a) A commissioner appointed in terms of subsection (7)(a) must be—
 (i) recommended by a committee of the National Assembly that is proportionally composed of members of all parties represented in the Assembly; and
 (ii) approved by the Assembly by a resolution adopted with a supporting vote of a majority of its members.
 (b) A commissioner nominated by the Premier of a province must be—

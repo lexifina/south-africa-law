@@ -6,7 +6,7 @@
 (2) The need for a Commission established by this Chapter to reflect broadly the race and gender composition of South Africa must be considered when members are appointed.
 (3) The Auditor-General must be a woman or a man who is a South African citizen and a fit and proper person to hold that office. Specialised knowledge of, or experience in, auditing, state finances and public administration must be given due regard in appointing the Auditor-General.
 (4) The President, on the recommendation of the National Assembly, must appoint the Public Protector, the Auditor-General and the members of—
-(a) the Human Rights Commission;
+(a) the South African Human Rights Commission;
 (b) the Commission for Gender Equality; and
 (c) the Electoral Commission.
 (5) The National Assembly must recommend persons—

@@ -1,7 +1,7 @@
 # 181. Establishment and governing principles
 (1) The following state institutions strengthen constitutional democracy in the Republic:
 (a) The Public Protector.
-(b) The Human Rights Commission.
+(b) The South African Human Rights Commission.
 (c) The Commission for the Promotion and Protection of the Rights of Cultural, Religious and Linguistic Communities.
 (d) The Commission for Gender Equality.
 (e) The Auditor-General.

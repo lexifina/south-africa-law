@@ -139,7 +139,7 @@ Oaths and affirmations
 Other constitutional institutions
 20. (1) In this section “constitutional institution” means—
 (a) the Public Protector;
-(b) the Human Rights Commission;
+(b) the South African Human Rights Commission;
 (c) the Commission on Gender Equality;
 (d) the Auditor-General;
 (e) the South African Reserve Bank;
@@ -193,10 +193,7 @@ Additional disqualification for legislatures
 (a) lapses if the conviction is set aside on appeal, or the sentence is reduced on appeal to a sentence that does not disqualify that person; and
 (b) ends five years after the sentence has been completed.
 Local government
-26. (1) Notwithstanding the provisions of sections 151, 155, 156 and 157 of the new Constitution—
-(a) the provisions of the Local Government Transition Act, 1993 (Act 209 of 1993), as may be amended from time to time by national legislation consistent with the new Constitution, remain in force until 30 April 1999 or until repealed, whichever is sooner; and
-(b) a traditional leader of a community observing a system of indigenous law and residing on land within the area of a transitional local council, transitional rural council or transitional representative council, referred to in the Local Government Transition Act, 1993, and who has been identified as set out in section 182 of the previous Constitution, is ex officio entitled to be a member of that council until 30 April 1999 or until an Act of Parliament provides otherwise.
-(2) Section 245(4) of the previous Constitution continues in force until the application of that section lapses. Section 16(5) and (6) of the Local Government Transition Act, 1993, may not be repealed before 30 April 1999.
+26. [The source does not give the text in force on this date.]
 Safekeeping of Acts of Parliament and Provincial Acts
 27. Sections 82 and 124 of the new Constitution do not affect the safekeeping of Acts of Parliament or provincial Acts passed before the new Constitution took effect.
 Registration of immovable property owned by the state
