@@ -1,0 +1,37 @@
+# s. 33
+Non-compliance with national road traffic law enforcement code
+33. (1) The Shareholders Committee may, where it reasonably suspects that any provincial authority or local government body has failed to comply with the national road traffic law enforcement code—
+(a) request and obtain information and documents pertaining to the execution of 25 road traffic law enforament under the control of the provincial authority or local government body in question; and
+(b) authorise a person to enter any building or premises under the control of the provincial authority or local government body in question for the purpose of obtaining the information and documents referred to in paragraph (a), and is entitled to all reasonable assistance by any member or employee of the provincial authority or local government body in question.
+(2) For the purposes of subsection(1), where the Shareholders Committee establishes that—
+(a) a provincial authority or local government body, the SAPS or another 35 statutory institution vested with the powers to perform road traffic law enforcement, with which the Corporation has contracted to provide road traffic law enforcement, has failed to comply with the national road traffic law enforcement code, the Shareholders Committee may terminate the contract and appoint an alternative service provider which may include the Corpora- 40 tion; and
+(b) a provincial authority or local government body, which has not been contracted by the Corporation to provide road traffic law enforcement, has failed to comply with the national road traffic law enforcement code, the Shareholders Committee must—
+(i) in the case of a provincial authority, notify the Minister; and
+(ii) in the case of a local government body, notify the Minister and the MEC concerned.
+(3) If the Minister pursuant to a notification in terms of subsection (2)(b)(i), is satisfied that a provincial authority has failed to comply with the national road traffic law 50 enforcement code as contemplated in subsection (2)(b)(i), he or she must notify the provincial authority of such failure in writing and request compliance with that code within a period specified in the notice.
+(4) The Minister may, on the request of the provincial authority extend the period contemplated in subsection (3).
+(5) The Minister may, where a provincial authority fails to comply with the national road trafic law enforcement code within the period specified in the notice or the extended period contemplated in subsection (4), and after consultation with the Minister for Provincial Affairs and Constitutional Development—
+N,>. IYY70 GOVERNklENT GAZE~E. 28 APRIL 1999 Act N(). 20. 1999 ROAD TR.AFFIC \lANAGEh4ENT CORPORATION ACT, 1999
+(a) appoint a person to administer and supervise the provision of road traffic law enforcement by the provincial authority in question and charge such person with the responsibility to ensure that the provision of road traffic law enforcement by such provincial authority complies with the national road traffic law enforcement code; and
+(b) take such other steps as he or she considers necessary to ensure compliance with the national road traffic law enforcement code.
+(6) A person appointed in terms of subsection (5)(a) may, subject to section 100(2) of the Constitution of the Republic of South Africa, 1996 (Act No. 108 of 1996), exercise all the powers and must perform all the duties of the executive head of the provincial authority concerned.
+(7) If the Minister is satisfied that a provincial authority complies with the national road traffic law enforcement code, he or she may terminate the appointment of the person referred to in subsection (5)(a).
+(8) Upon receipt of a notification contemplated in subsection (2)(b) (ii), the Minister may request the MEC concerned to intervene after a decision by the provincial executive as contemplated in section 139 of the Constitution of the Republic of South Africa, 1996, and must provide the MEC with a copy of the notification.
+(9) (a) If the MEC fails to intervene as requested, the Minister after a decision by the provincial executive may intervene as contemplated in section 100 of the Constitution of the Republic of South Africa, 1996, in which case subsections (12)to(16) apply with the necessary changes.
+(b) For the purpose of this subsection, any reference in subsections (12) to (16) te
+(i) the MEC, shall be deemed to be a reference to the Minister;
+(ii) the MEC responsible for local government, shall be deemed to be a reference to the Minister for Provincial Affairs and Constitutional Development;
+(iii) the Premier, shall be deemed to be a reference to the President;
+(iv) section 139(2) of the Constitution of the Republic of South Africa, 1996, shall be deemed to be a reference to section 100(2) of the Constitution.
+(10) If the MEC is satisfied that a local government body has failed to comply with the national road traffic law enforcement code, he or she must notify the local government body of such failure in writing and if the Shareholders Committee does not decide to exempt the local government body from compliance with the code, request compliance with that code within a period specified in the notice.
+(11 ) The MEC may, on the request of the provincial authority, extend the period contemplated in subsection (10).
+(12) The MEC may, where a local government body fails to comply with the national road traffic law enforcement code within the period specified in the notice or the extended period contemplated in subsection (11), and after consultation with—
+(a) the MEC responsible for local government in the province concerned, or where no such MEC has been appointed, the Premier or the MEC to whom the responsibilities have been assigned by the Premier; and
+(b) the MEC for Safety and Security in the case where road traffic law enforcement is provided by a municipal police service—
+(i) appoint a person to administer the provision of road traffic law enforcement by the local government body in question and charge such person with the responsibility to ensure that the provision of road traffic law enforcement services by such local government body complies with the national road traffic law enforcement code; and
+(ii) take such other steps as he or she considers necessary to ensure compliance with the national road traffic law enforcement code.
+(13) Where an adminis~ator is appointed in terms of section 64N(4)(a) of the South African Police Service Act, 1995 (Act No. 68 of 1995), that administrator must perform the functions contemplated in subsection (12)(b)(i).
+(14) A person appointed in terms of subsection (12)(b)(i) may, subject to section 139(2) of the Constitution of the Republic of South Africa, 1996, exercise all the powers and must perform all the duties of the executive head of the local government body concerned.
+Y(,, 19~-() G()\"ERN\iENT G,4ZETTE. 2S APRIL 1999 :tct N(). 20, 1999 ROAD TRAFFIC \l,4NAGEMENT CORPORATION ACT, 199Y ( 15) If the MEC is satisfied that a local government body complies with the national road traffic law enforcement code. he or she may terminate the appointment of the person referred to in subsection (13)(b)(i).
+( 16) All expenditure incurred by or in connection with the intervention of the MEC, in the provision of road traffic law enforcement as contemplated in this section. must be in accordance with the contract between the Corporation and the local government body in question, CWPTER 5
+PRIVATE INVESTMENT IN ROAD TRAFFIC
