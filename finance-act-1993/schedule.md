@@ -1,0 +1,1 @@
+SCHEDULE COLUMN 1 COLUMN 2 _______________________________________________________________________ Name of local authority Amount of loan _________________________________________________________________________ Bellville R646 068,07 Kleinmond R270 073,41 Ashton R201 798,52 Robertson R377 943,70 Lutzville R173 714,25 Beacon Bay R 51 871,17
