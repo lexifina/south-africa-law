@@ -1,0 +1,5 @@
+# s. 33
+Publication
+33. (1) The Regulatory Committee must, before considering any application for the granting, renewal, transfer or amendment of a permit issued for either three months, six months or one year authorising cabotage or for the granting, renewal, transfer or amendment of a three-month, six-month or one-year permit for cross-border passenger road transport, publish in the Gazette the particulars of any application as may be prescribed and invite any person to make representations in the manner and within the time prescribed, in respect of such application, except where the agreement provides otherwise and subject to the provisions of subsection (2).
+(2) No representations made by a foreign carrier pursuant to a publication in terms of paragraph (a) will be taken into account unless South African carriers are afforded an opportunity to make representations, after a similar publication procedure, as referred to in subsection (1), in the state where the foreign carrier is registered.
+(3) The Minister may, in consultation with the Regulatory Committee and the relevant stakeholders, extend the publication procedure to freight transport.

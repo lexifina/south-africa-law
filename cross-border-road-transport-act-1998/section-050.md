@@ -1,0 +1,4 @@
+# s. 50
+Minute keeping by Board and Regulatory Committee
+50. (1) The Chairperson of the Board and the Regulatory Committee must cause minutes to be kept of each meeting of the Board and the Regulatory Committee respectively and must cause copies of such minutes to be circulated to all members of the Board or members of such Committee as the case may be.
+(2) The minutes prepared in terms of subsection (1), when signed at a subsequent meeting of the Board or the Regulatory Committee by the person presiding thereat must, in the absence of proof or error therein, be deemed to be a true and correct record of the proceedings which they purport to minute and must, at any proceedings in terms of this Act or before a court of law or any tribunal or commission of inquiry, constitute prima facie evidence of the proceedings of the Board or the Regulatory Committee.

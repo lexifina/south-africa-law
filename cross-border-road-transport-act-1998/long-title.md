@@ -1,0 +1,6 @@
+ACT To provide for co-operative and co-ordinated provision of advice, regulation, facilitation and law enforcement in respect of cross-border road transport by the public and private sectors; to that end, to provide for the establishment of the Cross-Border Road Transport Agency; to repeal certain laws; and to provide for matters connected therewith.
+PREAMBLE SINCE there is a need to improve the unimpeded flow by road of freight and passengers in the region, to liberalise market access progressively in respect of cross-border freight road transport, to introduce regulated competition in respect of cross-border passenger road transport and to reduce operational constraints for the cross-border road transport industry as a whole;
+AND SINCE there is a need to enhance and strengthen the capacity of the public sector in support of its strategic planning, enabling and monitoring functions;
+AND SINCE there is a commitment to empower the cross-border road transport industry to maximise business opportunities and to regulate themselves incrementally to improve safety, security, reliability, quality and efficiency of services;
+B E IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as follows:—
+PART 1 Definitions
