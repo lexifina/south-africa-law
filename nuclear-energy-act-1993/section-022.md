@@ -1,0 +1,7 @@
+# s. 22
+22. (1) Except on the written authority of the Minister, no person, except the AEC, shall export from the Republic source material, special nuclear material or restricted material or nuclear related equipment and material.
+(2) An authority under subsection (1) may be granted on such conditions as the Minister may in his discretion impose, but taking into account the provisions of the Nuclear Non-Proliferation Treaty, the Safeguards Agreement or other similar agreements with other institutions or other governments: Provided that the export of source material, special nuclear material and restricted material and the equipment and material referred to in subsection (1)(b)-
+(a) to a nuclear weapons state shall at all times be subject to the condition that the material and the equipment may be used for peaceful purposes only;
+(b) to a non-nuclear weapons state shall always be subject to the condition that the material and the equipment shall at all times be subject to comprehensive international safeguards.
+(3) Any authority granted by the Minister under subsection (1) and the conditions imposed by him under subsection (2) shall be granted and imposed by him only after consultation with the Board of Directors.
+(4) In the event of an application for an authorization being refused, the Minister shall in writing inform the applicant of his decision, stating the reasons for such decision.

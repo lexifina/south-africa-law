@@ -1,0 +1,4 @@
+# s. 79
+Reproduction of documents of AEC and CNS
+79. (1) The AEC or the CNS may reproduce or cause to be reproduced documents in its possession or under its control by microfilming or any other process which in its judgment reproduces such a document in a durable and accurate manner, and may keep or cause to be kept the reproduction instead of the original document in question.
+(2) Any reproduction referred to in subsection (1) shall for the purposes of this Act be deemed to be the relevant original document, and a copy obtained by means of such a reproduction and which has been certified by the chief executive officer or the executive officer, or an officer authorized by the chief executive officer or the executive officer, as a true copy, shall be conclusive evidence in any court of law of the contents of the original document in question.

@@ -1,0 +1,5 @@
+# s. 44
+Executive officer of CNS
+44. (1) The Minister shall with the concurrence of the council appoint an employee of the CNS as executive officer of the CNS.
+(2) The executive officer shall be responsible for the management and the performance of the functions of the CNS by virtue of this Act and such functions as may be assigned to him by the council or the Minister in terms of the provisions of this Act or by the provisions of this Act or any other law, and shall report on such matters as the council or the Minister may determine.
+(3) Whenever the executive officer is absent or for any reason unable to perform his functions or whenever there is a vacancy in the office of the executive officer, the chairman of the council may designate an employee of the CNS to act as executive officer until the executive officer is able to resume his functions or until an executive officer is appointed in terms of subsection (1), and that employee shall, while so acting, have all the powers and perform all the functions of the executive officer.

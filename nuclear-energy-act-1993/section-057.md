@@ -1,0 +1,5 @@
+# s. 57
+Display of copies of regulations and conditions by licensees
+57. (1) A licensee shall at all times while the nuclear licence granted to him is in force, post or in any other manner display and cause to be kept so posted or displayed, at a place suitable for this purpose, or if the CNS has for the purposes of this subsection designated a place, at such designated place, on the site, or at or in the nuclear installation, or at or on the vessel in question, a copy of the wording of any regulation or condition to which the relevant nuclear licence is subject under the provisions of this Act.
+(2) Such copy of the wording of any regulation or condition shall be in bold print and worded, in addition to the official languages of the Republic, in such other languages determined in each individual case by the CNS, as to be conveniently read and understood by all persons present or carrying out duties on the site, or at or in the nuclear installation, or at or on the vessel in question.
+Representations in connection with nuclear licences, and inspection of certain documents

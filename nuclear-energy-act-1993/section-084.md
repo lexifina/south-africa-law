@@ -1,0 +1,5 @@
+# s. 84
+84. Section 1 of the Hazardous Substances Act, 1973 (Act No. 15 of 1973), is hereby amended by the substitution for the definition of "Group IV hazardous substance" of the following definition:
+"`Group IV hazardous substance' means fabricated radio-isotopes contemplated in the definition of 'nuclear-hazard material' in section 1 of the Nuclear Energy Act, 1982 (Act No. 92 of 1982), which are radioactive material which is outside a nuclear installation as defined in the said Act Nuclear Energy Act, 1993, and is not a material which forms part of or is used or intended to be used in the nuclear fuel cycle, and-
+(a) have has an activity concentration of more than 100 becquerels per gram and a total activity of more than 4 000 becquerels; or
+(b) have has an activity concentration of 100 becquerels or less per gram or a total activity of 4 000 becquerels or less and which the Minister has by notice in the Gazette declared to be a Group IV hazardous substance, and which are is used or intended to be used for medical, scientific, agricultural, commercial or industrial purposes, and any radioactive waste arising from such radioactive material;".

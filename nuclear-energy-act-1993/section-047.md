@@ -1,0 +1,3 @@
+# s. 47
+47. (1) Members or alternate members of the council and other persons referred to in sections 38 and 43 who are not in the full-time service of the State or employees of the CNS, shall be paid from the funds of the CNS such remuneration and allowances and be afforded such benefits as the Minister may determine with the concurrence of the Minister of State Expenditure.
+(2) The CNS shall out of its own funds pay to its employees such salaries, allowances, subsidies and other benefits as the council may determine in accordance with a system approved from time to time for that purpose by the Minister with the concurrence of the Minister of State Expenditure.

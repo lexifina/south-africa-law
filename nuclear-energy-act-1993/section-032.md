@@ -1,0 +1,3 @@
+# s. 32
+32. The chief executive officer may, as far as is practicable, having regard to the public interest and safety, and upon such terms as the Board of Directors may determine, make available for nuclear research and technology development and for the training of persons to qualify them to engage in nuclear research and technology development, such quantities and kinds of nuclear material, radioactive material and nuclear related equipment and material as the chief executive officer may in his discretion determine, having regard to the quantities thereof available.
+CHAPTER V Council for Nuclear Safety

@@ -1,0 +1,9 @@
+# s. 72
+Compensation in respect of injuries suffered by persons employed by CNS
+72. (1) If a person who is employed in any capacity by or on behalf of the CNS, while so performing services suffers a personal injury or contracts a disease attributable to ionizing radiation from any radioactive material, or to the flammable, explosive, poisonous or special properties of radioactive material, or to the ionizing radiation produced by any apparatus or arising from the production or application of radioactive material or any apparatus, and in respect of which no liability can be established in terms of section 61, the CNS shall, subject to subsection
+(2)-
+(a) defray all reasonable expenses incurred by or on behalf of such person in respect of medical, surgical, dental or hospital treatment, expert nursing services or the supply and maintenance of any artificial part of the body or other device necessitated by such injury or disease; and
+(b) pay compensation in respect of disablement or death caused by such injury or disease.
+(2) (a) If any person who is entitled to any benefit under this section would also be entitled, but for the provisions of this section, to any benefit in respect of the same injury or disease under the Workmen's Compensation Act, 1941 (Act No. 30 of 1941), his right under the said Act shall ipso facto lapse.
+(b) Nothing contained in this section shall affect any right which any person may have under his contract of employment or under any provision of any law, to benefits more favourable than those to which he may be entitled under this section: Provided that no person shall be entitled to claim benefits both under this section and under the said contract or provision.
+Recovery of losses and damage from persons in employment of AEC or subsidiary company or CNS
