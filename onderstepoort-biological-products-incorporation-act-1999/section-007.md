@@ -1,0 +1,4 @@
+# s. 7
+Transfer of assets
+7.( 1 ) The Director-General may, with the approval of the Minister&ranted, in the case of immovable property and an} rights in such property, with the concurrence of the Minister of Public Works, or, in the case of movable property and any rights in such property, with the concurrence of the Minister of Finance, transfer such property to the 5 company.
+(2) A registrar as defined in section 102 of the Deeds Re&istries Act, 1937 (Act No. 47 of 1937), shall, upon submission to him or her of a certificate by the Director-General to the effect that a real right in respect of immovable property has been transferred to the company in terms of subsection (1), make such entries or endorsements as are necessary 10 in any register or document to effect registration of such right in the name of the company, and no stamp duty, office fee or other fee shall be payable in respect thereof.
