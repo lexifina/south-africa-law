@@ -1,0 +1,7 @@
+# s. 2
+2. (1) Where an area that is declared a metropolitan transport area after the commencement of this Act, is situated wholly within the region of a regional services council that is wholly or partly charged with functions regarding the land use and transport planning in its region in terms of section 3(1)(b) of the Regional Services Councils Act, 1985 (Act No.109 of 1985), and also is not situated wholly within the area of jurisdiction of a transitional metropolitan council falling within that region, any other municipality whose area of jurisdiction falls wholly within that metropolitan transport area may, despite subsection (3)(a) of section 4 of the Urban Transport Act, be designated the core city of that metropolitan transport area—
+(a) if there are good and practical reasons for doing so; and
+(b) with the agreement of the regional services council concerned and that other municipality; and
+(c) subject to subsection (2) of this section.
+(2) In performing its core city functions in terms of the Urban Transport Act, a municipality so designated must liaise and at all times co-ordinate its activities with those of that regional services council so as to ensure that the land use and transport planning in the region is developed in a duly co-ordinated and integrated fashion.
+Core cities to submit current public transport records to MEC in respect of their metropolitan transport areas

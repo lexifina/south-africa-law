@@ -1,0 +1,6 @@
+# s. 7
+7. (1) From the date of commencement of this Act, unless clearly inappropriate—
+(a) all the powers, functions and duties conferred or imposed on the Roads Board by or in terms of the Urban Transport Act, will pass to the Director-General who, as from that date, may exercise any such power and, in the circumstances contemplated in that Act, must perform any such function or duty;
+(b) any power, function or duty exercised or performed by the Roads Board under the Urban Transport Act, and any other act performed by it in connection therewith, before the commencement of this Act, will be regarded and treated as if it had been exercised or performed by the Director-General under paragraph (a) of this subsection; and
+(c) any reference in the Urban Transport Act to the Roads Board, however expressed, will be regarded and treated, for all purposes, as if it were a reference to the Director-General, subject to subsection (2).
+(2) After the commencement of this Act, any reference in the Urban Transport Act to an officer of the Roads Board, however expressed, must be regarded and treated for all purposes as a reference to an employee of the Department acting on the authority of the Director-General in connection with any matter relating to a power, function or duty of the Director-General in terms of subsection (1)(a).

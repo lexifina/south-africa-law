@@ -1,0 +1,5 @@
+# s. 6
+6. Where any contract for the provision of a public road transport service within a metropolitan transport area has been awarded by a provincial tender board after completion of a process of public tendering in terms of any law, a permit authority, despite any contrary provisions of the Road Transportation Act or a replacing provincial law, may not refuse the successful tenderer's application for the grant or renewal of a public road carrier permit required for the purposes of that service except on any of the following grounds:
+(a) Any previous conviction of the applicant for an offence in terms of the Road Transportation Act or any replacing provincial law, and any other failure by the applicant as an operator of public transport.
+(b) The existence of any prohibition, limitation or restriction imposed by law on the use of motor vehicles in any area or on any street or road on the route or in the area where the applicant proposes to operate the transport service.
+Director-General of Transport to succeed South African Roads Board with regard to its functions under Urban Transport Act

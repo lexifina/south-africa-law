@@ -1,0 +1,7 @@
+# s. 3
+3. (1) After the commencement of this Act, the core city of each metropolitan transport area must prepare a record in accordance with the document titled ''Requirements and Format for Preparation of Current Public Transport Records by Core Cities'', as published in the Gazette on 22 May 1998 under General Notice No. 847 of 1998, to be known as a current public transport record, reflecting—
+(a) all the public transport services being provided and operated within its metropolitan transport area under the authority of road carrier permits issued under the Road Transportation Act or a replacing provincial law; and
+(b) all the facilities and infrastructure in place and utilised in that metropolitan transport area for the purpose of or in connection with those public transport services, as well as the facilities and infrastructure being developed within that metropolitan transport area for that purpose or in that connection.
+(2) Every core city must submit its current public transport record to the MEC not later than 31 December 1998. However, the MEC, with the agreement of the Minister, by notice in the provincial gazette may extend the period for the submission of current public transport records for metropolitan transport areas under the jurisdiction of the province concerned, to a later date specified in the notice.
+(3) The core city must ensure that the current public transport record is updated on a continuous basis and consolidated regularly.
+Transport planning for metropolitan transport areas must be integrated with land development process
