@@ -1,0 +1,4 @@
+# s. 2
+2. Any member of the South African Police Service must, at the scene of an incident of domestic violence or as soon thereafter as is reasonably possible, or when the incident of domestic violence is reported-
+(a) (bl render such assistance to thle complainant as may be required in the circumstances, including assisting or making arrangements for the complain-ant to find a suitable shelter and to obtain medical treatment;
+if it is reasonably possible to do so, hand a notice containing information as prescribed to the complainant in the official language of the complainant's choice; and if it is reasonably possible to do so, explain to the complainant the content of such notice in the prescribed manner, including the remedies at his or her disposal in terms of this Act alnd the right to lodge a criminal complaint, if applicable.
