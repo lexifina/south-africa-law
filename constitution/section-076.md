@@ -11,7 +11,7 @@
 (ii) the amended Bill as passed by the Council; or
 (iii) another version of the Bill.
 (e) If the Mediation Committee is unable to agree within 30 days of the Bill’s referral to it, the Bill lapses unless the Assembly again passes the Bill, but with a supporting vote of at least two thirds of its members.
-(f) If the Mediation Committee agrees on the Bill as passed by the Assembly, the Bill must be referred to the Council, and if the Council passes the Bill, the Bill must be submitted to the President for assent.
+(f) If the Mediation Committee agrees on the Bill as passed by the Assembly, the Bill must be referred to the Council, and if passes the Bill, the Bill must be submitted to the President for assent.
 (g) If the Mediation Committee agrees on the amended Bill as passed by the Council, the Bill must be referred to the Assembly, and if it is passed by the Assembly, it must be submitted to the President for assent.
 (h) If the Mediation Committee agrees on another version of the Bill, that version of the Bill must be referred to both the Assembly and the Council, and if it is passed by the Assembly and the Council, it must be submitted to the President for assent.
 (i) If a Bill referred to the Council in terms of paragraph (f) or (h) is not passed by the Council, the Bill lapses unless the Assembly passes the Bill with a supporting vote of at least two thirds of its members.
@@ -42,7 +42,7 @@
 (f) section 197.
 (4) A Bill must be dealt with in accordance with the procedure established by subsection (1) if it provides for legislation—
 (a) envisaged in section 44(2) or 220(3); or
-(b) envisaged in Chapter 13, and which affects the financial interests of the provincial sphere of government.
+(b) envisaged in Chapter 13, and which includes any provision affecting the financial interests of the provincial sphere of government.
 (5) A Bill envisaged in section 42(6) must be dealt with in accordance with the procedure established by subsection (1), except that—
 (a) when the National Assembly votes on the Bill, the provisions of section 53(1) do not apply; instead, the Bill may be passed only if a majority of the members of the Assembly vote in favour of it; and
 (b) if the Bill is referred to the Mediation Committee, the following rules apply:

@@ -6,7 +6,7 @@
 (d) KwaZulu-Natal;
 (e) Mpumalanga
 (f) Northern Cape
-(g) Northern Province
+(g) Limpopo
 (h) North West;
 (i) Western Cape.
 (2) The boundaries of the provinces are those that existed when the Constitution took effect.
