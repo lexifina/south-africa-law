@@ -1,0 +1,6 @@
+# s. 16
+Commission or provincial service commissions
+16. (1) Any person who, immediately prior to the commencement of this Act, held office as the chairperson or any other member of the Public Service Commission or a provincial service commission referred to in section 14(2)(a)-
+(a) may be appointed as a commissioner; or
+(b) if he or she is not so appointed, may with his or her consent be appointed on contract, at the same salary and conditions of service, for the unexpired portion of his or her term of office, and he or she shall perform such functions in any department or other organisational component in the public service as 10 the President or, as the case may be, the Premier of the province concerned may determine after consultation with the relevant executing authority.
+(2) If ~Y such person is not appointed as a commissioner or on contract, he or she shall be entitled to such pension and other benefits as he or she would have been entitled to if he or she had been a head of a department who was discharged from the public 15 service owing to the abolition of his or her post: Provided that the actual salary or other service benefits of any such person at the relevant time shall be taken into account in calculating his or her pension and other benefits.
