@@ -1,0 +1,2 @@
+# 235. Self-determination
+The right of the South African people as a whole to self-determination, as manifested in this Constitution, does not preclude, within the framework of this right, recognition of the notion of the right of self-determination of any community sharing a common cultural and language heritage, within a territorial entity in the Republic or in any other way, determined by national legislation.
