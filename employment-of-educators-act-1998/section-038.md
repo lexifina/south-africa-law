@@ -1,0 +1,22 @@
+# s. 38
+Transitional arrangements in respect of certain colleges
+38. (1) In this section-"college" means a college of education, technical college, youth college, community college, state-aided college, state college or other college which is wholly or partly funded by the State in respect of the salaries and other conditions of service of persons-
+(a) holding posts on the establishment of that college which had been created under section 3(1) of the repealed Act; or
+(b) employed additional to the said establishment under the repealed Act;
+and "the repealed Act" means the Educators' Employment Act, 1994 (promulgated under Proclamation No. 138 of 1994).
+(2) In order to deal effectively with any matter relating to the employment of educators at any college until such time as that college is declared to be a higher education institution under the Higher Education Act, 1997 (Act No. 101 of 1997), or a further education and training institution under the Further Education and Training Act, 1998, as the case may be-
+(a) any post on the establishment of that college which had been created immediately before the commencement of this Act by the Member of the Executive Council under section 3(1) of the repealed Act shall, notwithstanding the provisions of section 37(1), continue to exist and shall, for the purposes of this Act, be deemed to be a post created by the Member of the Executive Council under section 5(1)(b) and allocated to that college by the Head of Department under section 5(2);
+(b) the establishment of that college consisting immediately before the commencement of this Act of posts which had been so created shall, notwithstanding the provisions of the said section 37(1), continue to exist and shall, for the purposes of this Act, be deemed to be an educator establishment of that college as contemplated in section 5(2);
+(c) any person who, immediately before the commencement of this Act-
+(i) was holding any post which had been so created shall, notwithstanding the provisions of the said section 37(1), continue to hold that post and shall, for the purposes of this Act, be deemed to have been appointed in, or promoted or transferred to, the post concerned under Chapter 3, as the case may be;
+(ii) was employed additional to that establishment under the repealed Act shall, notwithstanding the provisions of the said section 37(1), continue to be so employed and shall, for the purposes of this Act, be deemed to have been so employed under this Act;
+(d) the salary and other conditions of service applicable to that person immediately before the commencement of this Act shall, notwithstanding the provisions of the said section 37(1), continue to be applicable to that person and shall, for the purposes of this Act, be deemed to have been determined by the Minister under section 4 in respect of the person concerned, and the provisions of this Act shall, with the necessary changes, apply in respect of that college, post, establishment, person, salary or conditions of service, and the Member of the Executive Council, the Head of Department and the Minister shall have all such powers, duties and functions assigned by or under this Act to them in relation to-
+(i) a public school;
+(ii) a post on the educator establishment of the said school;
+(iii) the said educator establishment;
+(iv) an educator holding the said post or employed additional to the said educator establishment; or
+(v) the salary or other conditions of service of the said educator, as are necessary to deal with any such matter:
+Provided that any inquiry into inefficiency and any proceedings in respect of a charge of misconduct instituted or commenced against that person under the repealed Act shall be continued and concluded as if the said section 37(1) had not been enacted.
+(3) (a) Subject to the provisions of this Act or the Labour Relations Act, a college may create posts additional to the establishment contemplated in subsection (2).
+(b) The college shall be the employer of persons holding the said posts.
+(4) The provisions of this section, other than the proviso to subsection (2), shall cease to apply to the college, post, establishment, person, salary or conditions of service concerned on the date on which that college is declared to be a higher education institution under the Higher Education Act, 1997, or a further education and training institution under the Further Education and Training Act, 1998, as the case may be.
