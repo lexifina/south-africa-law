@@ -1,0 +1,8 @@
+# s. 5
+Witness protection officers
+5. ( I) The Director-General must. subject to the laws governing the public service, appoin! for each branch office established in terms of section 2(2) a person as witness protection officer, who shall be the head of' such branch oflice,
+(2) Whenever a witness protection officer is for any reason unable to exercise, perform or carry out his or her powers, functions and duties or when the appointment of a person as witness protection officer is pending, the Director-General may, subject to the laws governing the public service, appoint a person as acting witness protection officer to exercise, perform or carry out the powers, functions and duties of the witness protection officer concerned.
+(3) In order to achieve the objects of this Act and subject to the control and directions of the Director, a witness protection officer may exercise the powers and must perform the functions or carry out the duties conferred upon, assigned to or imposed upon him or her by the Director or under this Act.
+(4) A witness protection officer shall in the exercise of the powers, performance of the functions and carrying out of the duties conferred upon, assigned to or imposed upon him or her by the Director or under this Act, be assisted by other members of the Office designated for that purpose by the Director.
+(5) A witness protection ofticer must at all times control and supervise the activities of security officers in his or her area and must as often as the Director requires. but at least once every six months. submit a written report to the Director on such activities or on any other matter relating to this Act which the Director requests the witness protection officer to dea: with in such report.
+Security officers
