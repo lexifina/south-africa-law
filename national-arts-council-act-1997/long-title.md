@@ -1,0 +1,2 @@
+NO, 18426 Act No. 56, 1997 ACT To establish a juristic person to be known as the National Arts Council; to determine its objects, functions and method of work; to prescribe the manner in which it is to be managed and governed; to regulate its stafl matters and financial affairs; and to provide for matters connected therewith.
+(Afrikaans text signed by the President. ) (Assented to 6 November 1997. ) B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:—
