@@ -1,0 +1,7 @@
+Act No. 25,2004 (English text signed by the President.) (Assented to on 14 December 2004.) ACT To give effect to the provisions of the Constitution establishing and assigning functions to an Auditor-General; to provide for the auditing of institutions in the PU vide for accountability arrangements of the Auditor-General;
+to obsolete legislation; and to provide for matters connected therewith.
+PREAMBLE WHEREAS the Constitution establishes the Auditor-General as a State Institution Supporting Constitutional Democracy; and WHEREAS the Constitution further -establishes the Auditor-General as the external auditor of all national and provincial state departments and municipalities, and any other institutions or accounting entities required by national or provincial legislation to be audited by the Auditor-General;
+recognises the independence of the Auditor-General, subject only to the Constitution and the law;
+requires the Auditor-General to be impartial and to perform his or her powers and functions without fear, favour or prejudice;
+prohibits any person or organ of state from interfering with the functioning of the Auditor-General;
+requires the Auditor-General to submit audit reports to any legislature that has a direct interest in the audit, and to any other authority prescribed by national legislation, and that all reports be made public; and provides for the granting of additional powers and functions to the Auditor-General as prescribed by national legislation, E IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, B as foii0Ws:-
