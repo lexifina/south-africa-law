@@ -1,0 +1,8 @@
+# s. 56
+56. Appointment of curator.<1) me Registrar may, notwithstanding the provisions of sections 52 and 53, if he or she is of the opinion that it is in the interest of members or that it is desirable to do so, because material irregularities have come to his or her notice, or because a medical scheme is not in a sound financial condition or as a result of an inspection of the affairs of a medical scheme, apply, with the concurrence of the Council, to the High Court, for the appointment of a curator to tie control of and to manage the business of that medical scheme.
+(2) me provisions of the Financial Institutions (Investment of Funds) Act, 1984 (Act No. 39 of 1984), insofar as those provisions relate to the appointment of a curator in terms of the said Act, and insofar as they are not inconsistent with the provisions of this Act, shall apply with the necessary changes to the appointment of a curator of a medical scheme in terms of this section.
+(3) In the application of the Financial Institutions (Investment of Funds) Act, 1984 as provided for by subsection (1>
+(a) a reference to a company and the registrar in section 1 of the Financial Institu-tions (hvestment of Funds) Act, 1984, shall be construed as a reference also to a board of trustees and the Registrar, respectively;
+(b) a reference in that Act to a director, official, employee or agent shall be con-strued as a reference also to a member of the board of trustees or the principal officer, as the case may be; and
+(c) a reference in that Act to a financial institution shall be construed as a reference also to a medical scheme.
+CHAP~R 12

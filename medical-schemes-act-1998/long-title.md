@@ -1,0 +1,3 @@
+STATUTES OF THE REPUBLIC OF SOUTH AFRICA–MEDICmE, DENTISTRY AND PHAWACY NO. 131 OF 1998 [ASSENTED TO 20 NOVEMBER, 1998] [DATE OF COMMENCEMENT TO BE PROCLAIMED] (English text signed by the President) ACT To consolidate the laws relating to registered medical schemes; to provide for the esta-blishment of the Council for Medical Schemes as a juristic person; to provide for the appointment of the Registrar of Medical Schemes; to make provision for the registration and control of certain activities of medical schemes; to protect the interests of members of medical schemes; to provide for measures for the co-ordination of medical schemes; and to provide for incidental matters.
+ARRANGEMENT OF ACT
+CHAPTER 1

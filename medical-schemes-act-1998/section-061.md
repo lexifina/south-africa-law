@@ -1,0 +1,11 @@
+# s. 61
+61. Undesirable business practices.+1 ) Notwithstanding the provisions of any other law, the Registrar may, with the concurrence of the Council and the Minister, by notice in the Gazette, declare a particular business practice as undesirable for—
+(a) all or a particular category of medical schemes; or
+(b) all or a particular category of persons who render contractual, administrative or intermediary services.
+(2) me Registrar shall not publish the declaration referred to in subsection (1) unless he or she has, at least 60 days before that declaration is given, by notice in the Gazette pub-lished his or her intention to make the declaration and invited interested persons thereby to make written representations regarding the proposed declaration so as to reach him or her within 21 days after the date of publication of that notice.
+(3) me Registrar may, if he or she is satisfied that a medical scheme or any other per-son is carrying on a business practice which, in his or her opinion, may become the subject of a declaration under subsection (l), in writing, direct that medical scheme or person to suspend that particular business practice for such a period, not exceeding three months, as he or she deems necessary to enable the matter to be dealt with in terms of subsection (l).
+(4) No medical scheme or other person shall, on or after the date of a notice referred to in subsection (1), or of a directive referred to in subsection (3), carry on the business practice referred to in the directive referred to in subsection (3).
+(Issue No 33- Supp/ementa~)
+(5) me Registrar may, in writing, direct a medical scheme or other person who has, on or after the date of a notice referred to in subsection (1), or a directive referred to in subsection
+(3), carried on the business practice concerned, to rectify, to his or her satisfaction, anything STAm OF ~E REP~LIC OF Som A~CA–MEDICNE, DENTISmY AND PHAWACY as. 61 – 63 Medical Schmes Act, No. 131 of 1998 SS. 61 – 63 which he or she is satisfied was caused by or arose out of that carrying on of the business practice concerned.
+(6) A medical scheme or other person who is under subsection (5) directed to rectify anything, sha~ do so within 60 days after it has so been directed.

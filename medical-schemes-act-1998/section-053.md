@@ -1,0 +1,15 @@
+# s. 53
+53. Winding-up.+1) Chapter XV of the Companies Act 1973 (Act No. 61 of 1973), shall, subject to the provisions of this section and with the necessary changes, apply in relation to the winding-up of a medical scheme and in such application the Registrar shall be deemed to be a person authorised by section 346 of the Companies Ac6 1973, to ~e an application to the High Court for the winding-up of the medical scheme.
+(2) me Registrar may, with the concurrence of the Council and with the approval of the High Court, retie an application under section 346 of the Companies Act 1973, for the winding-up of a medical scheme if he or she is satisfied, that it is in the interest of the members of that medical scheme to do so.
+(3) In the application of Chapter XN of the Companies Ack 1973, as provided for by subsection (1>
+(a)
+(b)
+(c) (4
+(e) m ~)
+(h) a reference which relates to the inability of a medical scheme to pay its debts shall be construed as relating also to its inabdity to comply with the require-ments prescribed by section 35 (1) of this Acfi in addition to any question whether it is just and equitable that a medical scheme should be wound up, there shall be considered also the question whether it is in the interests of the members of that medical scheme that it should be wound Up;
+notwithstanding any other provision of that Chapter, there shall be considered whether a person is acting in contravention of section 20 of this Act;
+a reference in sections 392, 394 (5) and 400 to the Master shall be construed as a reference also to the Registr~, a reference to the Registrar of Companies in sections 375 (5) (a) and 419(1) shall be construed as a reference also to the Registrm, a reference in section 400 to a contravention of any provision of that Act shall be cons~ed as a reference also to a contravention of any provision of this Act;
+section 346 (3) of the Companies Ac4 1973, sha~ not apply where the Registrar m~es the application to the High COW, and a reference to a company shall be construed as referring also to a medical scheme, and a reference to a director shall be construed as referring also to a member of a board of trustees.
+(4) If an apphcation to the High Court for or in respect of the winding-up of a medical scheme is made by any person other than the Registrar—
+(a) it shall not be heard tiess copies of the notice of motion and of all accompany-ing affidavits and other documents filed in support of the application are lodged with the Registrar at least 15 days, or such shorter period as the High Court may allow on good cause show before the application is set down for hearing; and (Issue No 33- Supplementu~) STATUTES OF THE REPUBLIC OF Soum AFMCA–MEDICm, DENTISTRY AND PHAWACY Ss. 53-55 Medical Schemes Act, No. 131 of 1998 Ss. 53-55
+(b) the Registrar may, if satisfied that the application is contrary to the interests of the members of the medical scheme concerned, make application to the High Court to join the application as a party and file affidavits and other documents in opposition to the application.
