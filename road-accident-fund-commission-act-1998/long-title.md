@@ -1,0 +1,2 @@
+ACT To provide for the establishment of a commission of inquiry to inquire into, and to make recommendations regarding, a system for the payment of compensation or benefits, or a combination of compensation and benefits, in the event of the injury or death of persons in road accidents; and to provide for incidental matters.
+B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:—

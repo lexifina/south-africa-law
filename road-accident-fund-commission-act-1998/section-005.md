@@ -1,0 +1,13 @@
+# s. 5
+Functions of Commission
+5. (1) The Commission must inquire into—
+(a) the nature of the existing system for the payment of compensation in the event of the injury or death of persons in road accidents, with reference to—
+(i) the terms and conditions governing that system, as provided for in terms of the Road Accident Fund Act, 1996 (Act No. 56 of 1996), and the regulations thereunder, and the problems experienced in this respect; and
+(ii) the current financial condition of the Road Accident Fund, taking full account of all likely contingent liabilities that have already arisen, whether the claims relating thereto have already been lodged or not, and whether those claims have already been settled or not; and
+(b) the nature and the relative advantages and disadvantages of—
+(i) all available representations concerning the matters referred to in paragraph (a) received in writing or orally, where records exist, by the Ministry and the Department of Transport, by the Road Accident Fund and the Multilateral Motor Vehicle Accidents Fund, and by the Portfolio Committee on Transport of the National Assembly, since 10 May 1994;
+and
+(ii) the issues raised and the proposals contained in the White Paper on the Road Accident Fund, Notice No. 170 of 1998, published in the Gazette No. 18658 of 4 February 1998, and in the preceding drafts thereof, and the available submissions thereon made to the bodies referred to in subparagraph (i) in writing or orally, where records exist, as well as recordings of public hearings and meetings.
+(2) The Commission must make recommendations to the President on a reasonable, equitable, affordable and sustainable system for the payment by the RoadAccident Fund of compensation or benefits, or a combination of compensation and benefits, in the event of the injury or death of persons in road accidents in the Republic, and in doing so the Commission must have due regard to the provisions of the Constitution of the Republic of South Africa, 1996 (Act No. 108 of 1996).
+(3) The recommendations referred to in subsection (2) must take into account and must be made with reference to the necessity or desirability of achieving, as soon as may be practicable, the Road Accident Fund's solvency in the sense that its liabilities, contingent or otherwise, are fully funded. The Commission must also consider the audit reports of the Auditor-General in respect of the Road Accident Fund and the Multilateral Motor Vehicle Accidents Fund, covering several years before the making of the recommendations.
+(4) The Minister must make available to the Commission all the documents and records contemplated in subsection (1)(b)(i) and (ii).
