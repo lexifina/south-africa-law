@@ -10,5 +10,7 @@
 (2) A person who is not eligible to be a member of a provincial legislature in terms of subsection (1)(a) or (b) may be a candidate for the legislature, subject to any limits or conditions established by national legislation.
 (3) A person loses membership of a provincial legislature if that person—
 (a) ceases to be eligible; or
-(b) is absent from the legislature without permission in circumstances for which the rules and orders of the legislature prescribe loss of membership.
+(b) is absent from the legislature without permission in circumstances for which the rules and orders of the legislature prescribe loss of membership; or
+(c) Ceases to be a member of the party that nominated that person as a member of the legislature, unless that member has become a member of another party in accordance with Schedule 6 A.
 (4) Vacancies in a provincial legislature must be filled in terms of national legislation.
+(Sub -s. (4) suspended until second election of legislature. See Sch. 6 item 11 (2).)
