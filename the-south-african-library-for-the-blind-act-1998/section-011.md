@@ -1,0 +1,2 @@
+# s. 11
+11. Subject to section 2 of the State Land Disposal Act, 1961 (Act No. 48 of 1961), the 25 Minister may, in consultation with the Board and with the concurrence of the Minister of Public Works, the Minister for Agriculture and Land Affairs and the Minister of Finance, and on such conditions as the Minister may determine, transfer to the Library for the Blind any immovable property belonging to the State in order to enable the Library for the Blind to perform its functions.
