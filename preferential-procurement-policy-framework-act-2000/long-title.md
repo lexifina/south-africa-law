@@ -1,0 +1,2 @@
+~ GOVERNMENT GAZE~E. 3 =BRUARY 2000 Act No. 5,2000 PRE=RENTIAL PROCUREMENT POLICY FRAhlEWORK ACT (English text signed by the President.) (Assented to 2 February 2000.) ACT To give effect to section 217(3) of the Constitution by providing a framework for the implementation of the procurement policy contemplated in section 217(2) of the Constitution; and to provide for matters connected therewith.
+B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:—
