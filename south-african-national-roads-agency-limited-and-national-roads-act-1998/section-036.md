@@ -1,0 +1,13 @@
+# s. 36
+Accounting and auditing
+36. (1) The Agency must keep proper books and records of account for each financial year in accordance with generally accepted accounting practice and procedure, with regard to its income, expenditure and transactions during the financial year and the state of its assets and liabilities during and as at the end of the financial year.
+(2) Annually, as soon as possible after the end of each financial year, the Agency must have the following financial statements prepared for that year, namely, a statement of income and expenditure, a cash-flow statement and a balance sheet, which must accurately reflect the Agency's transactions and financial sources, position and state of affairs so as to comply with the requirements of the Companies Act.
+(3) (a) The Agency's books and records of account and financial statements must be audited annually by the Auditor-General.
+(b) The Chief Executive Officer must annually, within three months after the end of the financial year, submit the Agency's financial statements as approved by the Board and certified to that effect by the Chief Executive Officer, to the Auditor-General for auditing who, upon completion of the audit, must furnish an auditor's report to the Board through its chairperson.
+(c) The chairperson must forthwith, on receipt of the auditor's report, convene a meeting of the Board. At that meeting the auditor's report must be considered by the Board.
+(4) In the auditor's report the Auditor-General must express an opinion, amongst others—
+(a) as to whether the information contained in the Agency's financial statements has been presented on a basis consistent with that of the previous financial year (where applicable);
+(b) as to the transactions and activities of the Agency which had come to the Auditor-General's attention in the course of the examination during auditing and which were not authorised (if any), whether by or in terms of this Act or by any directives issued thereunder;
+(c) as to the transactions and activities of the Agency which so had come to the Auditor-General's attention and which were not consistent with the objects and functions of the Agency in all material respects (if any);
+(d) as to whether, broadly speaking, there are adequate measures and procedures in place for the proper management of the Agency, that is to say, for managing the Agency effectively, efficiently and according to sound economic prin-ciples.
+The auditor's report in addition must draw attention to any other matters arising from the auditing which, in the Auditor-General's opinion, should be brought to the notice of the Minister and Parliament in the interest of the public or the national interest.

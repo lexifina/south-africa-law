@@ -1,0 +1,9 @@
+# s. 8
+Nature of State's financial interest in Agency
+8. (1) In exchange for the nett value of the assets invested in the Agency in terms of section 7, the State, as provided in an agreement entered into by the Agency and the Minister acting with the approval of the Minister of Finance, will be issued with fully paid-up shares in the Agency—
+(a) for an amount equal to the nett value of the assets so invested in the Agency;
+or
+(b) for an amount equal to a percentage, specified in the agreement, of the nett value of the assets so invested, subject to subsection (2).
+(2) If the amount for which shares in the Agency are to be issued to the State is less than the nett value of the assets invested in the Agency, the Agency will be indebted to the State for an amount equal to the difference between the nett value of the assets so invested and the value of the shares so issued. The terms and conditions of that loan must be set out in the agreement mentioned in subsection (1). In that agreement provision may be made that theAgency issues the State with debentures for the whole or any part of the amount of the loan.
+(3) For the purposes of this section, any reference to the nett value of the assets invested in the Agency, however expressed, must be understood to mean all the moneys mentioned in subsection (1) of section 7 plus the value of all the movable, immovable and other property (assets) made over or transferred to the Agency in terms of subsections (2), (3) and (4) of that section, minus an amount representing the sum of all the liabilities made over to the Agency under subsection (3) of that section.
+(4) Where the value of any assets consisting of immovable property is to be determined for the purposes of this section, regard must be had to the criteria mentioned in section 12(1) and (5)(b), (c), (d), (e), (f) and (h) of the Expropriation Act, 1975 (Act No. 63 of 1975).

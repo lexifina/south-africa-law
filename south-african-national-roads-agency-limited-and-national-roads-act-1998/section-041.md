@@ -1,0 +1,12 @@
+# s. 41
+Expropriation of land for purposes of national road
+41. (1) Subject to subsection (2) and to the obligation to pay compensation, for which the Agency will be responsible, the Minister, if satisfied on reasonable grounds that the Agency reasonably requires—
+(a) any land for a national road or for works or other purposes connected with a national road, including any access road, the acquisition, excavation, mining or treatment of gravel, stone, sand, clay, water or any other material or substance, the accommodation of road building staff and the storage or maintenance of any plant, vehicles, machines, equipment, tools, stores or material, may expropriate that land for the Agency;
+(b) gravel, stone, sand, clay, water or any other material or substance on or in land for the construction of a road or for works or any of the purposes mentioned in paragraph (a), may take it for the Agency or authorise the Agency to take it;
+(c) the right to use land temporarily for any of the purposes for which the Minister is competent to expropriate land under paragraph (a), may take that right for the Agency or authorise the Agency to take that right.
+(2) The Minister may not exercise a power in terms of subsection (1) unless satisfied on reasonable grounds that the Agency is unable to acquire the land or anything mentioned in paragraph (b) of that subsection, or the right to use the land temporarily, by agreement with the owner of the land or the holder of any relevant right in respect of the land, as the case may be.
+(3) Subject to the obligation to pay compensation, and if satisfied on reasonable grounds that any land is or will be divided by a road contemplated in paragraph (a) of subsection (1) in such a manner that the land or any part of it is or will be useless to its owner, the Minister may expropriate that land or the relevant part thereof.
+(4) Where the Minister expropriates any land for the Agency in terms of subsection
+(1) or (3), theAgency becomes the owner thereof on the date of expropriation of the land concerned.
+(5) Subject to this section, the provisions of sections 7 to 24 of the Expropriation Act, 1975, will apply with regard to any expropriation in accordance with subsection (1) or
+(3), reading in the changes necessary in the context. However, any reference in those sections of the Expropriation Act, 1975, to ''section 2'', must be understood as a reference to this section.

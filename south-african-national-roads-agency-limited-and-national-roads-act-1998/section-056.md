@@ -1,0 +1,3 @@
+# s. 56
+56. (1) Where, in a notice or any other document to any person issued in terms of this Act, the Agency has stated, specified or prescribed a period within which the person must or may perform, carry out, do or cease any act, activity or other thing, the Agency, on application by that person and at its discretion, may allow that person a further period for performing, carrying out, doing or ceasing that act, activity or thing.
+(2)Any further period so allowed, will be regarded and treated for the purposes of this Act as if it were the period stated, specified or prescribed in the Agency's notice or other document.

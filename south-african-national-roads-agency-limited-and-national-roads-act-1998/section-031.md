@@ -1,0 +1,6 @@
+# s. 31
+Agency may render assistance to other countries in certain circumstances
+31. (1) Where the Republic and any other country have entered into an agreement in terms of which the Republic undertakes to assist the other country in connection with the planning, design, construction, operation, management, control, maintenance or rehabilitation of any road of a national or main character in that other country, the Agency, subject to paragraph (b), may in that other country perform any function or work or undertake any operations with regard to the agreed assistance—
+(a) which, in terms of this Act, it is competent to perform or undertake in the Republic, if and to the extent requested thereto by the Government of the Republic or if designated for that purpose by a provision of the agreement to which the Government of the Republic has agreed after consultation with the Agency; and
+(b) in accordance with an operating agreement entered into between the Agency, the Government of the Republic and the government of that other country.
+(2) The Agency may not spend its own funds in performing any function or work or undertaking any operations in another country in terms of subsection (1) and may, in addition, charge a fee for so performing any function or work or so undertaking any operations.
