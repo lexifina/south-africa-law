@@ -1,0 +1,2 @@
+ACT To extend the application of the Road Traffic Act, 1989, to the whole of the Republic; to repeal certain laws relating to road traffic applicable only in particular areas of the Republic in so far as they fall outside the functional areas mentioned in Schedules 4 and 5 to the Constitution; to make transitional arrangements; and to provide for matters connected therewith.
+B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:—
