@@ -1,0 +1,3 @@
+No 27275 GOVEKNblENT Gr\ZETTE. I I FEBRUARY 3005 No. 35. 2004 TRADITIONAL HEALTH PRACTITIONERS ACT. 7004 (English test signed by the Presideut.) (Assented to 7 Febnrtrp 2005.) ACT To establish the Interim Traditional Health Practitioners Council of South Africa;
+to provide for a regulatory framework to ensure the efficacy, safety and quality of traditional health care services; to provide for the management and control over the registration, training and conduct of practitioners, students and specified categories in the traditional health practitioners profession; and to provide for matters connected therewith.
+B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:-

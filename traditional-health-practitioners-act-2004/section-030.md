@@ -1,0 +1,4 @@
+# s. 30
+Inquiries into charges of misconduct
+30. (1) Notwithstanding anything to the contrary in this Act, the Council may institute an inquiry into any complaint, allegation or charge of unprofessional conduct against any person registered in terms of this Act and, on finding such person guilty of such conduct, to impose any of the penalties contemplated in section 34: Provided that in the case of a complaint, charge or allegation which forms or is likely to form the subject of a criminal case in a court of law, the Council may postpone the holding of an inquiry until such case has been concluded.
+(2) If the Council is in doubt as to whether any inquiry should be held in connection with a complaint, charge or allegation, it may, in connection with the allegation, charge or complaint in question, consult with or seek further information from any person, including the person against whom the allegation, charge or complaint has been lodged.

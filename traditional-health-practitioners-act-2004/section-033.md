@@ -1,0 +1,7 @@
+# s. 33
+Report by investigating officer
+33. (1) The investigating officer responsible for an investigation under this Act must compile a report of the investigation and submit that report to the registrar.
+(2) If the report contemplated in subsection (1) reveals evidence of improper or disgraceful conduct contemplated in this Act and no complaint, charge or allegation regarding such conduct has been made for the purpose of an inquiry in terms of section 30, such report is deemed to be a complaint made for the purpose of an inquiry and the registrar must serve a copy thereof on the registered person concerned.
+(3) If the report contemplated in subsection (1) reveals evidence which, in the opinion of the chairperson of the Council, makes it desirable that an inquiry on the grounds of an apparent impairment of the complainant's rights be instituted, the registrar must serve a copy thereof on the registered person concerned.
+(4) If the report Contemplated in subsection (1) does not reveal evidence of unprofessional conduct contemplated in this Act, the registrar must serve a copy thereof on the registered person concerned.
+(5) To the extent that the report contemplated in subsection (1) contains statements of witnesses which would have been admissible as evidence at an inquiry into impairment of rights or into complaints, charges or allegations of unprofessional conduct, section 213 of the Criminal Procedure Act, 1977 (Act No. 51 of 1977), applies with the necessary changes in respect of those statements at such an inquiry.
