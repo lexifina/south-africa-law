@@ -1,0 +1,3 @@
+# s. 23
+Establishment of provincial heritage resources authorities
+23. An MEC may establish a provincial heritage resources authority which shall be responsible for the management of the relevant heritage resources within the province, which shall be a body corporate capable of suing and being sued in its corporate name and which shall be governed by a Council constituted as prescribed by regulations published in the Provincial Gazette: Provided that the members of the Council shall be appointed in a manner which applies the principles of transparency and representivity and takes into account special competence, experience and interest in the field of heritage resources.

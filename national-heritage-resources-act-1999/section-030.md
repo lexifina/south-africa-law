@@ -1,0 +1,30 @@
+# s. 30
+Heritage Registers
+30. (1)Aprovincial heritage resources authority must compile and maintain a heritage register listing the heritage resources in the province which it considers to be conservation-worthy in terms of the heritage assessment criteria set out in section 3(3) and prescribed under section 7.
+(2) Subject to subsection (7), a provincial heritage resources authority may, by notice in the Provincial Gazette, list a heritage resource or amend or delete an entry in a heritage register.
+(3) Heritage resources must be listed in accordance with—
+(a) the sub-categories of Grade II and Grade III heritage resources prescribed under section 7, if any;
+(b) the areas of jurisdiction of local authorities; and
+(c) any additional categories prescribed by the provincial heritage resources authority in consultation with SAHRA.
+(4) A provincial heritage resources authority must prescribe the procedure and information required for—
+(a) the nomination of a resource for listing in a heritage register; and
+(b) the compilation of an inventory of heritage resources referred to in subsection
+(5), which shall require at least compliance with such minimum standards as may be prescribed by SAHRA for the recording of information under section 39.
+(5) At the time of the compilation or revision of a town or regional planning scheme or a spatial development plan, or at any other time of its choosing, or at the initiative of a provincial heritage resources authority where in the opinion of a provincial heritage resources authority the need exists, a planning authority shall compile an inventory of the heritage resources which fall within its area of jurisdiction and submit such inventory to the relevant provincial heritage resources authority, which shall list in the heritage register those heritage resources which fulfil the assessment criteria under subsection (1).
+(6) A provincial heritage resources authority may approve an inventory of heritage resources submitted to it by any person for listing in the heritage register.
+(7) A provincial heritage resources authority shall not list a place in a heritage register without having consulted the owner of such place regarding inter alia the provisions to be established under subsection (11) for the protection of the place.
+(8) The MEC may, after consultation with the MEC for local government, prescribe the process of consultation referred to in subsection (7).
+(9) On publication of a notice in the Provincial Gazette concerning the listing in the heritage register of a place within its area of jurisdiction, or the amendment or deletion of an entry for such place, a local authority must notify the owner of such place.
+(10) A local authority shall notify SAHRA and the provincial heritage resources authority when a place within its area of jurisdiction which is listed in the heritage register is destroyed, whereupon the provincial heritage resources authority shall record the destruction of the place against the entry in the heritage register for that place, and SAHRA shall record such destruction in the inventory of the national estate.
+(11) Within six months of the publication of a notice in the Provincial Gazette concerning the inclusion in the heritage register of a place falling within its area of jurisdiction, every local authority must make provision for the protection of such place through the provisions of its planning scheme or by-laws under this Act: Provided that any such protective provisions shall be jointly approved by the provincial heritage resources authority, the relevant local authority and the provincial planning authority, and provided further that—
+(a) the special consent of the local authority shall be required for any alteration to or development affecting a place listed in the heritage register;
+(b) the local authority must, prior to the consideration of an application under paragraph (a), notify any conservation bodies which have, in terms of section 25(1)(b), registered their interest in the geographical area or type of property concerned and give them a reasonable period in which to register an objection or make other representations with respect to the application;
+(c) in assessing an application under paragraph (a), the local authority shall consider—
+(i) the cultural significance of the place and how this could be affected by the proposed alteration or development; and
+(ii) any objection or representations under paragraph (b);
+(d) where the local authority resolves to approve an application under paragraph
+(a) which would materially affect the cultural significance of the place and an objection to such approval has been registered under paragraph (b), unless the conservation body concerned withdraws such objection, the objection shall be deemed to be an appeal in terms of section 49 and the local authority shall submit the application and all relevant information to the relevant appeal body; and
+(e) in the event of any alteration or development of a place listed in a heritage register being undertaken without the consent of the local authority, the local authority may require the owner to stop such work instantly and restore the site to its previous condition within a specified period. If the owner fails to comply with the local authority's requirements the local authority shall have the right to carry out such restoration work itself and recover the cost thereof from the owner.
+(12) A provincial heritage resources authority or a local authority within whose area of jurisdiction such site is located may provisionally protect any place in an inventory referred to in subsections (5) and (6): Provided that such provisional protection shall be withdrawn when the place is listed in the heritage register.
+(13) A local authority may mark any place falling within its area of jurisdiction listed in a heritage register with a badge indicating its status.
+(14) Inclusion of a place in a heritage register shall not exempt any person from complying with the provisions of sections 35 and 36.
