@@ -1,0 +1,6 @@
+# s. 23
+Interim arrangements
+23. (1) Despite any provision to the contrary in any other law, the Minister may, during the period from the date on which this section comes into operation to the transfer date and in consultation with the Minister of Finance, take the steps or authorise anything to be done which may be necessary to promote—
+(a) the transfer to the Authority of the assets, liabilities, rights or obligations contemplated in section 13(2), the secondment or making available of an officer of the Department contemplated in section 12(3) or the employment by the Authority of an officer of the Department as contemplated in section 13(1)(b); and
+(b) the commercialisation and setting up of business units in respect of functions related to the South African civil aviation safety and security system prior to the commencement by the Authority of the performance of its functions.
+(2) The Minister must during the period from the date on which this section comes into operation to 31 March 1999 by notice in the Gazette determine which of the functions contemplated in section 4 are to be carried out by the Authority as from the date of that notice: Provided that all functions contemplated in section 4 must be carried out by the Authority as from 1 April 1999.
