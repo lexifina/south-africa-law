@@ -1,0 +1,31 @@
+# s. 59
+Transitional provisions
+59. ( I ) (a) From the date of commencement of this Act, the Regulatory Board must be
+(b) In order to give effect to that succession-regarded as the successor to the Public Accountants' and Auditors' Board.
+(i) any board members of the Public Accountants' and Auditors' Board who immediately prior to the commencement of this Act were members of that Board, must be deemed to have been appointed members of'the Regulatory Board for the remainder of the period for which each member was appointed as a board member under the Public Accountants' and Auditors' Act, 199 I ;
+(ii) all property which immediately before the date this Act comes into force was 10 property of the Public Accountants' and Auditors' Board shall, by virtue of this Act, without any assignment or other form of transfer or the need for any consent become on that date property of the Regulatory Board;
+(iii) all rights or obligations of the Public Accountants' and Auditors' Board, whether contractual or otherwise, which were in existence immediately before 15 the date this Act comes into force and do not fall within subparagraph (ii) shall become, on that date, rights or obligations of the Regulatory Board and, in their application or construction, be treated for all purposes as if the Public Accountants' and Auditors' Board and the Regulatory Board were the same
+(iv) regarding anything done or falling to be done, or any other event occurring, on or after the date this Act comes into force, any reference in an existing document to the Public Accountants' and Auditors' Board must be construed as or, as the case may require, as including a reference to the Regulatory Board; and
+(v) for the purposes only of section 197 of the Labour Relations Act, I995 (Act No. 6 of 1995). the provisions of this subsection must be regarded as the transfer of a business from the Public Accountants' and Auditors' Board to the Regulatory Board.
+(c) The Registrar of Deeds concerned must, at the request of the Regulatory Board 30 and on submission of the relevant title deeds and other documents, make the necessary entries and endorsements in respect of his or her registers and other documents in order to give effect to a transfer in terms of subsection ( I ) .
+(d) No transfer duty, stamp duty or other fees shall be payable in respect of such
+(2) Subject to subsection (3), any unfinished business of the Public Accountants' and Auditors' Board on the date this Act comes into force, which is dealt with by that Board under a provision of the Public Accountants' and Auditors' Act, 1991, and for which no corresponding provision appears in this Act, must be completed by that Board as if this Act had not been passed.
+(3) (a) Any proceedings in connection with an application for registration as accountant and auditor still pending on the commencement date must, with effect from that date, be deemed to be proceedings for registration as an auditor contemplated in this Act and must further be administered, considered and completed by the Regulatory Board.
+(6) In the case of any such proceedings, and in the case of any new applications for registration as an auditor received by the Regulatory Board, the requirements for registration set out in section I5(2) and (4) of the Public Accountants' and Auditors' Act, 199 I , must despite the repeal of that Act and any inconsistency with a provision of this Act be deemed to be still applicable until a date determined by the Minister by notice in 50 the Gazette.
+(4) The Education and Training Committee of the Public Accountants' and Auditors' Board, as it existed immediately prior to the commencement date, is deemed to be a committee established by the Regulatory Board under section 20 to determine the requirements for the professional development and achievement of professional 55 competence.
+(5) Any committee performing, immediately prior to the commencement date, an investigating or disciplinary function under the Public Accountants' and Auditors' Act, 1991, remains validly constituted and must complete its functions after that date as if this Act had not been passed.
+person in law;
+transfer, entry or endorsement.
+Act No. 26,2005
+(6) Any person who immediately prior to the commencement date was registered as an accountant and auditor under the Public Accountants' and Auditors' Act, 1991, is deemed to be registered as an auditor under this Act.
+(7) Any training contract registered, any recognition of educational institutions or recognition of training officers under the Public Accountants' and Auditors' Act, 1991, is deemed to be a registration or recognition under this Act.
+(8) (a) The Examination Regulations as contained in the Manual of Information:
+Guidelines for Registered Accountants and Auditors, issued by the Public Accountants' and Auditors' Board as at the commencement date, must be deemed to have been
+(b) The Disciplinary Regulations as contained in the said Manual (excluding paragraphs 2.1 to 2.1.2 I , inclusive, thereof) must be deemed to have been prescribed by the Regulatory Board, to the extent that the Disciplinary Regulations are consistent with this Act.
+(c) The Code of Professional Conduct as contained in the said Manual (including 15 paragraphs 1 to 2.1.21, inclusive, of the Disciplinary Regulations) must be deemed to have been prescribed by the Regulatory Board.
+(d) The Circulars as contained in the said Manual must be deemed to have been issued by the Regulatory Board.
+(e) The Recognition Model as contained in the said Manual must be deemed to have 2G been prescribed by the Regulatory Board.
+(' The auditing pronouncements issued by the Public Accountants' and Auditors' Board are, with etfect from the commencement date, deemed to have been issued by the Regulatory Board.
+(9) Subject to the provisions of this Act, on and after the commencement date, 25 anything which was done under a provision of a law repealed by section 58 and which could be done under a corresponding provision of this Act is deemed to have been done under that corresponding provision.
+(IO) A reference in any of the preceding subsections to the commencement date is a reference to the date that subsection comes into force.
+prescribed by the Regulatory Board in respect of registered auditors.

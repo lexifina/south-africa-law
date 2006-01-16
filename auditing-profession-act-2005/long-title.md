@@ -1,0 +1,2 @@
+(English text signed by the President.) (Assented to 12 January 2006.) ACT To provide for the establishment of the Independent Regulatory Board for Auditors; to provide for the education, training and professional develcipment of registered auditors; to provide for the accreditation of professional bodies; to provide for the registration of auditors; to regulate the conduct of registered auditors; to repeal an Act; and to provide for matters connected therewith.
+E IT ENACTED by the Parliament of the Republic of South Africa, as B foiiows:-
