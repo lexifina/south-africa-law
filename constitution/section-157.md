@@ -9,6 +9,5 @@
 (b) of proportional representation as described in paragraph (a) combined with a system of ward representation based on that municipality’s segment of the national common voters roll.
 (3) An electoral system in terms of subsection (2) must result, in general, in proportional representation.
 (a) If the electoral system includes ward representation, the delimitation of wards must be done by an independent authority appointed in terms of, and operating according to, procedures and criteria prescribed by national legislation.
-(b) Where a municipal boundary has been determined in terns of Section 155 (6A), a ward delimited within that municipal boundary may not extended across the provincial boundary concerned.
 (5) A person may vote in a municipality only if that person is registered on that municipality’s segment of the national common voters roll.
 (6) The national legislation referred to in subsection (1)(b) must establish a system that allows for parties and interests reflected within the Municipal Council making the appointment, to be fairly represented in the Municipal Council to which the appointment is made.
