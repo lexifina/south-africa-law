@@ -1,0 +1,6 @@
+# s. 28
+Height or depth of electronic communications network facilities
+28. (1)(a) Aerial electronic communications networks or electronic communications facilities along any railway or public or private street, road, footpath or land must be at the prescribed height above the surface of the ground.
+(b) The electronic communications network service licensee must place electronic communications networks and electronic communications facilities, pipes, tunnels and tubes at the prescribed depth below the surface of the ground.
+(2) If the owner of any private land proves to the satisfaction of an electronic communications network service licensee that he or she is obstructed in the free use of his or her land because of the insufficient height or depth of any electronic communications network or electronic communications facility, pipe, tunnel or tube constructed by the electronic communications network service licensee, the electronic communications network service licensee may, subject to the provisions of sections 22 and 25, take such steps as he or she may consider necessary for giving relief to that owner.
+(3) In taking any action in terms of this section, due regard must be had to the environmental laws of the Republic.
