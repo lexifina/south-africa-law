@@ -1,0 +1,28 @@
+# s. 7
+Issue and renewal of refining licences
+7. (1) The Regulator may, after consultation with the National Treasury, in the case of gold, and the National Commissioner, issue to any person, in the prescribed form and for a period not exceeding 30 years, a refining licence entitling the holder to do such of the following, as may be specified in the licence, namely-(') to buy or receive unwrought precious metal in any form from the South African Mint or any person contemplated in section 2( 1);
+(b) to buy or receive semi-fabricated precious metal from the South African Mint or any person contemplated in section 3( 1);
+(c) to smelt, refine or change the form of unwrought precious metal in his or her lawful possession and thereafter to dispose of such precious metal-
+(i) in accordance with the terms and conditions of his or her licence and the provisions of this Act to the South African Mint or any person contemplated in section 4(l)(u), (b), (4, (e) or fl; or
+(ii) in semi-fabricated form to any person contemplated in section 5( 1) (a),
+(d) to extract precious metal from any material, substance or solution in his or her lawful possession and to dispose of such precious metal in accordance with the terms and conditions of his or her licence and the provisions of this Act;
+(e) to buy or receive from the holder of a refining licence or a precious metal beneficiation licence, an authorised dealer or a producer, any material, substance or solution in the lawful possession of that holder, authorised dealer or producer containing precious metal and to extract from such material, substance or solution precious metal and to dispose of the precious metal in accordance with the terms and conditions of his or her licence and the provisions of this Act; or to import any unwrought or semi-fabricated precious metal into the Republic subject to the terms and conditions of his or her licence.
+(2) Any person who is refused a refining licence may, within 30 days after having been notified by the Regulator of the refusal, appeal in the prescribed manner to the Minister who may-
+(a) dismiss the appeal;
+(b) direct the Regulator to issue such a licence to that person, subject to the succeeding provisions of this section; or
+(c) make any other order he or she deems fit.
+@I, (4, (4, I9 or (a);
+fl
+(3) Before the Regulator issues a refining licence the applicant for the licence must pay the prescribed fee.
+(4) A refining licence terminates in accordance with the terms and conditions under which it was issued.
+(5) The holder of a refining licence may not carry on any activity authorised by the licence elsewhere than on the premises or at the place described on the licence or described in any endorsement of that licence in terms of subsection (6), and the holder may not be in possession of unwrought precious metal at any place elsewhere than on the premises or at the place so described unless he or she is transporting such unwrought precious metal in accordance with section 11.
+(6) (a) If at any time it becomes necessary for the holder of a refining licence to transfer or extend the activities contemplated in subsection (5) to any premises or place not described on his or her licence the Regulator, after consultation contemplated in subsection (l), may endorse on the licence the situation of such new or additional Act No. 37,2005 premises or place and must forthwith in writing notify the National Treasury and the National Commissioner, as the case may be, of the endorsement.
+(b) An endorsement contemplated in paragraph (a) does not allow the holder of the refining licence to conduct business from the additional premises or place under a name
+(c) If the holder of the refining licence wishes to conduct business from any other premises or place under a name that differs from the name used on the existing premises or place, he or she must apply for a new licence in respect of the additional premises or place.
+(7) (a) The Regulator, after consultation contemplated in subsection (l), may renew 10 a refining licence for m h e r periods of up to 30 years each upon payment of the prescribed fee if an application for such renewal is made at least 30 days before the expiration of the licence.
+(b) Subsection (2) applies with the necessary changes in connection with the refusal by the Regulator of any application in terms of paragraph (a).
+(8) Whenever-that differs from the name used on the existing premises or place.
+(a) any application under subsection (7) for the renewal of a refining licence is refused by the Regulator and no review of or appeal against such refusal is lodged or any review or appeal so lodged is dismissed;
+(b) any refining licence has expired and no application for its renewal has been 20 made by the holder thereof;
+(c) any refining licence has been cancelled under this Act; or (4 the activities authorised by such licence are discontinued permanently, the person who held the licence must forthwith submit to the Regulator a solemn declaration of the mass of any unwrought precious metal in his or her possession at the 25 date such licence expired or was refused or cancelled or such activities were discontinued, and must dispose of such unwrought precious metal in accordance with this Act within 30 days after the date of such declaration or within such longer period as the Regulator may allow.
+(9) The holder of a refining licence issued in terms of this section must forthwith and 30 in writing advise the Regulator of any unlawful conduct relating to precious metals in which he was asked or approached to participate or which he was asked to facilitate.
