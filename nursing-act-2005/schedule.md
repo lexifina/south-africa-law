@@ -1,0 +1,2 @@
+SCHEDULE No. 19 of 1997 No. 45 of 1997 (Section 60) \NO.
+and year I Short Title I Extent of repeal Nursing Amendment Act The whole Extension of Terms of Office of Members of Certain Councils Act Section 6 No. 50 of 1978 I Nursing Act I The whole No. 71 of 1981 I The whole No. 70 of 191 I Nursing Amendment Act q:!Nursim Amendment Act I The whole I No. 5 of 1995 No. 88 of 1996 I Nursing Amendment Act I The whole I Abolition of Restrictions on the Jurisdiction of 1 Section 78 I I Courts Act I I15
