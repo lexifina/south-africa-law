@@ -1,0 +1,5 @@
+# s. 10
+10. (1 ) A marriage officer may solemnise and register a civil union at any time on any day of the week, but is not obliged to solemnise a civil union at any other time than
+(2) A marriage olfcer must solemnise and register a civil union in a public ofice or private dwelling-house or on the premises used for such purposes by the marriage otlicer, with open doors and in the presence of the parties themselves and at least two competent witnesses, but the foregoing provisions of this subsection do not prohibit a marriage officer to solemnise a civil union in any place other than a place mentioned 10 herein, iflhe civil union must be solemnised in such other place by reason ofthe serious or longstanding illness of, or serious bodily injury to. one or both of the parties.
+( 3 ) No person is competent to enter into a civil union through any other person acting as his or !?et- representative.
+Formula for solemnisation of marriage or civil partnership between the. hours of eight in the morning and four in the afternoon.

@@ -1,0 +1,6 @@
+# s. 14
+Offences and penalties
+14. (1) Any marriage offtcer who purports to solemnise a civil union which he or she is not authorised under this Act to solemnise or which to his or Iier knowledge is legally 20 prohibited. and any person not being a marriage oficer who purports to solemnise a civil union. shall he guilty of an offence and liable on conviction to a fine or. in default of payment. to imprisonment for a period not exceeding 12 months.
+( 2 ) Any marriage olljcer who demands or receives any fee, gift or reward for or by reason of anything done by him or her as marriage officer in terms of this Act, shall be 25 guilty of an offence and liable on conviction to ii fine or, in default of payment. to imprisonment for a period not exceeding six monlhs.
+( 3 ) Any tnarriage officer who knowingly solemiiises a civil union in contravention of the provisions of this Act, shall be guilty of an offence and liable on conviction to a tine or. in default of payment, to imprisonment for a period not exceeding six months.
+(4) Any person who, for the purposes of this Act. makes any false representation or false svaternent knowing it to he false. shall be guilty of an offence and liable on conviction to the pcnalties prescribed by law for per.jury.

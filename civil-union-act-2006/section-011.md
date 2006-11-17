@@ -1,0 +1,9 @@
+# s. 11
+11. ( 1 ) A marriage officer must inquire from the parties appearing before him or her whether their civil union should be known as a marriage or a civil partnership and must thereupon proceed by solemnising the civil union in accordance with the provisions of this section.
+(2) In solemnising any civil union. the marriage officer must put the following 20 questions to each of the parties separately. and each of the parties must reply thereto in the atlirmative:
+"Do you, A.B.? declare that as far as you know there is no lawful impediment to your proposed marriagdcivil partnership with C.D. here present. and that you call all here present to witness that you take C.D. as your lawful spousekivil partner'?"l 25 and thereupon the parties must give each other the right hand and the marriage officer concerned must declare the marriage or civil partnership, as the case may be, solemnised in the following words:
+"I declare that A.B. and (?.I>. here present have been lawfully joined in a ( 3 ) If the provisions of this section relating to the questions to be put to each of the parties separately or to the declaration whereby the marriage or civil partnership shall be declared to he solemnised. or to the requirement that the parties must give each other the right hand. have not been strictly complied with owing to-( 0 ) an error, omission.,or oversight commilted i n good faith by the marriage 3.5 oflicer:
+(17) an error. omission or oversight committed in good faith by the parties; or
+(c) the physical disability of one or both of the parties.
+marri agekiv i I partnership. " .
+and such civil union has in every other respect been solemnised in accordance with the provisions of this Act. that civil union shall. provided there was no other lawhl 40 impediment thereto. be valid and binding.
