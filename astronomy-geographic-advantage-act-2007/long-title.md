@@ -1,0 +1,2 @@
+ACT To provide for the preservation and protection of areas within the Republic that are uniquely suited for optical and radio astronomy; to provide for intergovern-mental co-operation and public consultation on matters concerning nationally significant astronomy advantage areas; and to provide for matters connected therewith.
+B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:—
