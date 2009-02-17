@@ -1,0 +1,6 @@
+ACT To provide for the National Qualifications Framework; to provide for the responsibilities of the Minister of Education and the Minister of Labour; to provide for the South African Qualifications Authority; to provide for Quality Councils; to provide for transitional arrangements; to repeal the South African Qualifications Authority Act, 1995; and to provide for matters connected therewith.
+PREAMBLE WHEREAS the advancement and recognition of learning is an essential attribute of a free and democratic nation and a prerequisite for the development and well-being of its citizens;
+WHEREAS the National Qualifications Framework has been developed and imple-mented in terms of the South African Qualifications Act, 1995;
+WHEREAS the National Qualifications Framework has won wide acceptance as the principal instrument through which national education and training qualifications are recognised and quality-assured; and WHEREAS a review of the implementation of the National Qualifications Framework has necessitated changes to the governance and organisation of the framework so that its objectives may be more effectively and efficiently realised, B E IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as follows:—
+CHAPTER 1
+DEFINITIONS, OBJECT AND APPLICATION OF ACT
