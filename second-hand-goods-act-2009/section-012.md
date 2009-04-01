@@ -1,0 +1,7 @@
+# s. 12
+Transfer of certificate
+12. (1) Subject to subsection (2), a certificate issued in terms of this Act may not be transferred.
+(2) A registered dealer who wishes to transfer the business to which the registration relates, may only transfer such business to another registered dealer.
+(3) The certificate of the dealer transferring the business must be surrendered to the National Commissioner upon the issue of a new certificate.
+(4) (a) If a registered dealer dies, is declared by any court to be incapable of managing his or her own affairs or becomes mentally ill as contemplated in the Mental Health Care Act, 2002 (Act No. 17 of 2002), or if the estate of such dealer is sequestrated or if such dealer is liquidated, the executor, curator, administrator, trustee or liquidator of such person, as the case may be, may, subject to any law relating to deceased estates, mental health or insolvency, during the currency of the certificate of registration and without formal transfer of the certificate, conduct the business in question on such premises, either personally or through an agent approved by the National Commissioner in writing.
+(b) For the period pending the appointment of such executor, curator, administrator, trustee or liquidator, the person managing the affairs of the dealer concerned must, for the purposes of this subsection, be regarded as being such a dealer's executor, curator, administrator, trustee or liquidator, as the case may be.
