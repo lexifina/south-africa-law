@@ -1,0 +1,7 @@
+# Section 154
+
+Municipalities in co-operative government
+
+154. (1) The national government and provincial governments, by legislative and other measures, must support and strengthen the capacity of municipalities to manage their own affairs, to exercise their powers and to perform their functions.
+
+(2) Draft national or provincial legislation that affects the status, institutions, powers or functions of local government must be published for public comment before it is introduced in Parliament or a provincial legislature, in a manner that allows organised local government, municipalities and other interested persons an opportunity to make representations with regard to the draft legislation.
