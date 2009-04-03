@@ -34,7 +34,7 @@ Map No. 16 of Schedule 2 to Notice 1998 of 2005
 
 The Province of Gauteng
 
-Map No. 4 of Schedule 1 to Notice 1998 of 2005
+Map No. 4 in Notice 1490 of 2008
 
 Map No. 17 of Schedule 2 to Notice 1998 of 2005
 
@@ -104,7 +104,7 @@ Map No. 45 of Schedule 2 to Notice 1998 of 2005
 
 The Province of North West
 
-Map No. 5 of Schedule 1 to Notice 1998 of 2005
+Map No. 5 in Notice 1490 of 2008
 
 Map No. 46 of Schedule 2 to Notice 1998 of 2005
 
