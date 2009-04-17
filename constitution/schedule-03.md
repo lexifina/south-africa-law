@@ -1,5 +1,4 @@
 # Schedule 3: Election Procedures
-Part A - Election procedures for constitutional Office-bearers
 Application
 1. The procedure set out in this Schedule applies whenever—
 (a) the National Assembly meets to elect the President, or the Speaker or Deputy Speaker of the Assembly;
@@ -36,13 +35,8 @@ Rules
 (c) the form on which nominations must be submitted; and
 (d) the manner in which voting is to be conducted.
 (2) These rules must be made known in the way that the Chief Justice determines.
-Part B — Formula to Determine Party Participation in Provincial Delegations to the National Council of Provinces
+Delegations to the National Council of Provinces
 1. The number of delegates in a provincial delegation to the National Council of Provinces to which a party is entitled, must be determined by multiplying the number of seats the party holds in the provincial legislature by ten and dividing the result by the number of seats in the legislature plus one.
 2. If a calculation in terms of item 1 yields a surplus not absorbed by the delegates allocated to a party in terms of that item, the surplus must compete with similar surpluses accruing to any other party or parties, and any undistributed delegates in the delegation must be allocated to the party or parties in the sequence of the highest surplus.
-(3) If the competing surpluses envisaged in item 2 are equal, the undistributed delegates in the delegation must be allocated to the party or parties, including any merged party as contemplated in section 61 (2) (b), with the same surplus in sequence of votes recorded, starting with the party or merged party which recorded the highest number of votes, including combined votes in the case of a merged party, during the last election for the provincial legislature concerned, but if any of the parties with the same surplus-
-(1) came into existence on account of changes of party membership or subdivision of parties within that legislature as contemplated in section 61 (2) (b); and
-(2) did not participate in the last election for the provincial legislature concerned,
-the legislature must allocate the undistributed delegates in the delegation to the party or parties with the same surplus in a manner which is consistent with democracy.
-[ Top ]
-Last modified: 15 October 2004 13:26:36.
-About the site | Terms & conditions Developed and maintained by GCIS This site is best viewed using 800 x 600 resolution with Internet Explorer 4.5, Netscape Communicator 4.5, Mozilla 1.x or higher.
+3. If the competing surpluses envisaged in item 2 are equal, the undistributed delegates in the delegation must be allocated to the party or parties with the same surplus in the sequence from the highest to the lowest number of votes that have been recorded for those parties during the last election for the provincial legislature concerned.
+4. If more than one party with the same surplus recorded the same number of votes during the last election for the provincial legislature concerned, the legislature concerned must allocate the undistributed delegates in the delegation to the party with the same surplus in a manner which is consistent with democracy.

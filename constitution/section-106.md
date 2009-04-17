@@ -9,8 +9,7 @@
 (e) anyone who, after this section took effect, is convicted of an offence and sentenced to more than 12 months’ imprisonment without the option of a fine, either in the Republic, or outside the Republic if the conduct constituting the offence would have been an offence in the Republic, but no one may be regarded as having been sentenced until an appeal against the conviction or sentence has been determined, or until the time for an appeal has expired. A disqualification under this paragraph ends five years after the sentence has been completed.
 (2) A person who is not eligible to be a member of a provincial legislature in terms of subsection (1)(a) or (b) may be a candidate for the legislature, subject to any limits or conditions established by national legislation.
 (3) A person loses membership of a provincial legislature if that person—
-(a) ceases to be eligible; or
+(a) ceases to be eligible;
 (b) is absent from the legislature without permission in circumstances for which the rules and orders of the legislature prescribe loss of membership; or
-(c) Ceases to be a member of the party that nominated that person as a member of the legislature, unless that member has become a member of another party in accordance with Schedule 6 A.
+(c) ceases to be a member of the party that nominated that person as a member of the legislature.
 (4) Vacancies in a provincial legislature must be filled in terms of national legislation.
-(Sub -s. (4) suspended until second election of legislature. See Sch. 6 item 11 (2).)
