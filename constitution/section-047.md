@@ -11,6 +11,5 @@
 (3) A person loses membership of the National Assembly if that person—
 (a) ceases to be eligible; or
 (b) is absent from the Assembly without permission in circumstances for which the rules and orders of the Assembly prescribe loss of membership; or
-(c) ceases to be a member of the party that nominated that person as a member of the Assembly, unless that member has become a member of another party in accordance with Schedule 6A.
+(c) ceases to be a member of the party that nominated that person as a member of the Assembly.
 (4) Vacancies in the National Assembly must be filled in terms of national legislation.
-(Sub-s. (4) suspended until second election of National Assembly. See Sch. 6 item 6 (4).)
