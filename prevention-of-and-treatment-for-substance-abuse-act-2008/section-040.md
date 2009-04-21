@@ -1,0 +1,6 @@
+# s. 40
+Temporary custody of person pending enquiry or removal to treatment centre
+40. (1) A magistrate holding an enquiry contemplated in section 35 may, if he or she deems it necessary or expedient to postpone or adjourn the enquiry for periods determined by him or her having regard to the circumstances of the case, order that the person concerned be admitted in custody to a treatment centre, halfway house, health establishment or other place regarded by the magistrate as suitable.
+(2) If the person concerned is under the age of 18 years, the magistrate may order that he or she be placed in custody in a child and youth care centre or be released on bail or warning, as if such person was a person whose trial on a criminal charge in a magistrate's court had been postponed or adjourned.
+(3) No person may be admitted in custody for a continuous period of longer than 28 days in terms of subsection (1).
+(4) The Minister may out of money appropriated by Parliament for that purpose, contribute towards the maintenance of any person who is, in terms of subsection (1), admitted or placed in a treatment centre, halfway house, child and youth care centre or any other place which is not maintained by the State.

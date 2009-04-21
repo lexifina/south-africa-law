@@ -1,0 +1,7 @@
+Act No. 70, 2008
+PREVENTION OF AND TREATMENT FOR SUBSTANCE ABUSE ACT, 2008 (English text signed by the President.) (Assented to 19 April 2009.) ACT To provide for a comprehensive national response for the combating of substance abuse; to provide for mechanisms aimed at demand and harm reduction in relation to substance abuse through prevention, early intervention, treatment and re-integration programmes; to provide for the registration and establishment of treatment centres and halfway houses; to provide for the committal of persons to and from treatment centres and for their treatment, rehabilitation and skills development in such treatment centres; to provide for the establishment of the Central Drug Authority; and to provide for matters connected therewith.
+PREAMBLE WHEREAS the drug trade has increased globally in intensity and reach;
+AND WHEREAS substance abuse in South Africa has increased rapidly and demands a comprehensive national response;
+AND WHEREAS South Africa continues to combat substance abuse through a wide range of programmes in order to reduce supply, demand and harm caused by substances;
+AND WHEREAS a uniform law to deal with the prevention of and treatment for substance abuse and the harm associated therewith, the rehabilitation of service users in the various institutions and the reintegration of service users in their communities is urgently required, B E IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as follows:-l.
+Definitions
