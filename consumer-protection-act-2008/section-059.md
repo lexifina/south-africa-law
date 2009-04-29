@@ -1,0 +1,6 @@
+# s. 59
+Recovery and safe disposal of designated products or components
+59. (1) If any national legislation prohibits the disposal or deposit of any particular goods, or any components, remnants, containers or packaging of any goods, into a common waste collection system—
+(a) any person who in the ordinary course of business supplies goods of that kind to consumers, must accept the return of any such goods, components, remnants, containers or packaging from any consumer, without charge to the consumer, irrespective of whether that person supplied the particular object to that particular consumer; and
+(b) any person who in the ordinary course of business produces, imports or distributes any such goods as part of the supply chain by which those goods reach the consumer, must in turn accept the return of any such goods, components, remnants, containers or packaging from any supplier contem-plated in paragraph (a).
+(2) If any regulation or industry waste management plan approved by any other legislation for the management of a specific waste type applies, the consumer may dispose or deposit the goods to a collection facility provided for in the regulation or industry waste management plan.
