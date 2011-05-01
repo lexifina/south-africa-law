@@ -11,5 +11,5 @@
 (ii) as to any material particular addressed in the prospectus relating to that offer; and
 (c) is subject to sections 102 to 111, read with the changes required by the context.
 (3) An advertisement drawing attention to an offer to the public, as contemplated in subsection (2)—
-(a) is not required to be filed, or registered with an exchange; and
-(b) will be regarded as having been intended to be a prospectus, issued by the person responsible for publishing or disseminating the advertisement, if it does not include the statements required by subsection (2)(a), despite any statement to the contrary contained in the advertisement.
+(a) that satisfies the requirements of subsection (2)(a) and (b) is not required to be filed, or registered with an exchange; or
+(b) that does not satisfy all of the requirements set out in subsection (2)(a) and (b) will, despite any statement to the contrary contained in the advertisement, be regarded as having been intended to be a prospectus issued by the person responsible for publishing or disseminating the advertisement, and is subject to every provision of this Act relating to such a prospectus.

@@ -10,7 +10,7 @@
 (c) the behaviour of the respondent;
 (d) the market circumstances in which the contravention took place;
 (e) the level of profit derived from the contravention;
-(f) the degree to which the respondent has co-operated with the Commission or Panel, as the case may be, and a court; and
+(f) the degree to which the respondent has co-operated with the Commission or Panel, as the case may be, and the court; and
 (g) whether the respondent has previously been found in contravention of this Act.
 (3) For the purpose of this section, the annual turnover of any person, is the amount determined in the prescribed manner.
 (4) A fine payable in terms of this section must be paid into the National Revenue Fund referred to in section 213 of the Constitution.

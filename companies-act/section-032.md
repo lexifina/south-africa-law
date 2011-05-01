@@ -8,5 +8,4 @@
 (b) use a form of name for any purpose if, in the circumstances, the use of that form of name is likely to convey a false impression that the name is the name of a company.
 (4) Every company must have its name and registration number mentioned in legible characters in all notices and other official publications of the company, including such notices and publications in electronic format as contemplated in the Electronic Communications and Transactions Act, and in all bills of exchange, promissory notes, cheques and orders for money or goods and in all letters, delivery notes, invoices, receipts and letters of credit of the company.
 (5) Contravention of subsection (1), (2), (3) or (4) is an offence.
-(6) A company, or incorporator, shareholder or director of a company, or a person acting with the authority or on behalf of the company, must not, by any act or omission, misrepresent to any person, in any way or to any degree, the true legal status of the company.
-(7) Despite section 19(2), if a person contravenes subsection (6), a court, on application by any person affected by that failure, may impose personal liability on any shareholder, director or incorporator of the company for any liability or obligation of the company, to the extent that the court determines to be just and equitable in the circumstances.
+(6) and (7) ......

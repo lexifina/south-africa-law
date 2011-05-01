@@ -1,15 +1,14 @@
 # 58. Shareholder right to be represented by proxy
 (1) At any time, a shareholder of a company may appoint any individual, including an individual who is not a shareholder of that company, as a proxy to—
 (a) participate in, and speak and vote at, a shareholders meeting on behalf of the shareholder; or
-(b) give or withhold written consent on behalf of the shareholder to a decision contemplated in section 60,
-provided that the shareholder may appoint more than one proxy to exercise voting rights attached to different shares held by the shareholder.
+(b) give or withhold written consent on behalf of the shareholder to a decision contemplated in section 60.
 (2) A proxy appointment—
 (a) must be in writing, dated and signed by the shareholder; and
 (b) remains valid for—
 (i) one year after the date on which it was signed; or
 (ii) any longer or shorter period expressly set out in the appointment, unless it is revoked in a manner contemplated in subsection (4)(c), or expires earlier as contemplated in subsection (8)(d).
 (3) Except to the extent that the Memorandum of Incorporation of a company provides otherwise—
-(a) a shareholder of that company may appoint two or more persons concurrently as proxies;
+(a) a shareholder of that company may appoint two or more persons concurrently as proxies, and may appoint more than one proxy to exercise voting rights attached to different securities held by the shareholder;
 (b) a proxy may delegate the proxy’s authority to act on behalf of the shareholder to another person, subject to any restriction set out in the instrument appointing the proxy; and
 (c) a copy of the instrument appointing a proxy must be delivered to the company, or to any other person on behalf of the company, before the proxy exercises any rights of the shareholder at a shareholders meeting.
 (4) Irrespective of the form of instrument used to appoint a proxy—

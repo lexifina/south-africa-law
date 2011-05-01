@@ -3,7 +3,7 @@
 (a) a public company;
 (b) a state-owned company, except to the extent that any such company has been exempted in terms of section 9; or
 (c) a private company, but only if—
-(i) the percentage of the issued securities of that company that have been transferred, other than by transfer between or among related or interrelated persons, within the period of 24 months immediately before the date of a particular affected transaction or offer exceeds the percentage prescribed in terms of subsection (2); or
+(i) the percentage of the issued securities of that company that have been transferred, other than by transfer between or among related or inter-related persons, within the period of 24 months immediately before the date of a particular affected transaction or offer exceeds the percentage prescribed in terms of subsection (2); or
 (ii) the Memorandum of Incorporation of that company expressly provides that the company and its securities are subject to this Part, Part C and the Takeover Regulations, irrespective of whether the company falls within the criteria set out in subparagraph (i).
 (2) The Minister, after consulting the Panel, may prescribe a minimum percentage, being not less than 10%, of the issued securities of a private company which, if transferred within a 24-month period as contemplated in subsection (1)(c)(i), would bring that company and its securities within the application of this Part, Part C, and the Takeover Regulations in terms of that subsection.
 (3) Despite the definition of ‘affected transaction’ set out in section 117(1)(c), this Part, Part C and the Takeover Regulations do not apply to—

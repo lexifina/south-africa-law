@@ -8,3 +8,4 @@
 (b) may proceed to make an appointment of a person proposed in terms of paragraph (a) if, within five business days after delivering the proposal, the audit committee does not give notice in writing to the board rejecting the proposed auditor.
 (4) If a company appoints a firm as its auditor, any change in the composition of the members of that firm does not by itself create a vacancy in the office of auditor for that year, subject to subsection (5).
 (5) If, by comparison with the membership of a firm at the time of its latest appointment, less than one half of the members remain after a change contemplated in subsection (4), that change constitutes the resignation of the firm as auditor of the company, giving rise to a vacancy.
+(6) Section 89, read with the changes required by the context, applies with respect to an auditor of a company, but a reference in that section to “company secretary” must be regarded as referring to the company’s auditor.

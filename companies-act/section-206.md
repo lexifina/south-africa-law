@@ -7,7 +7,7 @@
 (ii) that precludes that person from performing the functions of a member of the Companies Tribunal, the Panel or the Council, in a fair, unbiased and proper manner;
 (c) vote at any meeting of the Tribunal, Panel or Council, as the case may be, in connection with a matter contemplated in paragraph (b);
 (d) make private use of, or profit from, any confidential information obtained as a result of performing that person’s functions as a member of the Companies Tribunal, the Panel or the Council; or
-(e) divulge any confidential information referred to in paragraph (d) to any third party, except as contemplated in section 212(5), or—
+(e) divulge any confidential information referred to in paragraph (d) to any third party, except as contemplated in section 212(6), or—
 (i) to—
 (aa) the Commission, the Minister, or the National Treasury to the extent required by this Act or a law mentioned in Schedule 4;
 (bb) the South African Reserve Bank;

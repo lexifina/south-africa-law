@@ -2,7 +2,7 @@
 (1) The board of a company may resolve to issue shares of the company at any time, but only within the classes, and to the extent, that the shares have been authorised by or in terms of the company’s Memorandum of Incorporation, in accordance with section 36.
 (2) If a company issues shares—
 (a) that have not been authorised in accordance with section 36; or
-(b) in excess of the number of authorised shares of any particular class, the issuance of those shares may be retroactively authorised in accordance with section 36.
+(b) in excess of the number of authorised shares of any particular class, the issuance of those shares may be retroactively authorised in accordance with section 36 within 60 business days after the date on which the shares were issued.
 (3) If a resolution seeking to retroactively authorise an issue of shares, as contemplated in subsection (2), is not adopted when it is put to a vote—
 (a) the share issue is a nullity to the extent that it exceeds any authorisation;
 (b) the company must return to any person the fair value of the consideration received by the company in respect of that share issue to the extent that it is nullified, together with interest in accordance with the Prescribed Rate of Interest Act, 1975 (Act No. 55 of 1975), from the date on which the consideration for the shares was received by the company, until the date on which the company complies with this paragraph;

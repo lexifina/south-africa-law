@@ -1,10 +1,10 @@
 # 104. Liability for untrue statements in prospectus
-(1) If securities are offered to the public for subscription or sale, pursuant to a prospectus, every—
+(1) If securities are offered to the public for subscription or sale pursuant to a prospectus, every—
 (a) person who becomes a director between the issuing of the prospectus and the holding of the first general shareholders meeting at which directors are elected or appointed;
 (b) person who has consented to be named in the prospectus as a director, or as having agreed to become a director either immediately or after an interval of time;
 (c) promoter of the company; or
 (d) person who—
-(i) authorised the issue of the prospectus, or under this Act, is regarded as having authorised the issue of that prospectus; or
+(i) authorised the issue of the prospectus or, under this Act, is regarded as having authorised the issue of the prospectus; or
 (ii) made that offer to the public, is liable to compensate any person who acquired securities on the faith of the prospectus for any loss or damage the person may have sustained as a result of any untrue statement in the prospectus, or in any report or memorandum appearing on the face of, issued with, or incorporated by reference in, the prospectus.
 (2) The liability contemplated in subsection (1) is in addition to the liability of a director of the company, as set out in section 77(3)(d)(ii).
 (3) Liability contemplated in this section does not attach to a person if—
@@ -15,7 +15,7 @@
 (aa) before the prospectus was filed; or
 (bb) to that person’s knowledge, before any allotment under the prospectus, or before the acceptance of the offer;
 (c) any untrue statement purporting to be a statement made by an official person or contained in what purports to be a copy of or extract from a public official document was a correct and a fair representation of the statement or copy of or extract from the document;
-(d) that person consented to become a director of the company, but subsequently withdrew that consent before the issue of the prospectus, and that it was issued without that person’s consent;
+(d) that person consented to become a director of the company, but subsequently withdrew that consent before the issue of the prospectus, and it was issued without that person’s consent;
 (e) the prospectus was issued without the knowledge or consent of that person and, on becoming aware of its issue, that person forthwith gave reasonable public notice that it was issued without the knowledge or consent of that person; or
 (f) after the issue of the prospectus and before allotment or acceptance thereunder, that person, on becoming aware of any untrue statement in it, withdrew any consent to the prospectus and gave reasonable public notice of the withdrawal and of the reason for it.
 (4) If a prospectus contains the name of a person as a director of the company, or as having agreed to become a director of that company, and that person has not consented to becoming a director, or has withdrawn consent before the issue of the prospectus, and has not authorised or consented to the issue of the prospectus, the directors of the company, except any without whose knowledge or consent the prospectus was issued—
@@ -28,5 +28,4 @@
 (a) being a director, or having been named as a director;
 (b) having agreed to become a director;
 (c) having authorised the issue of the prospectus; or
-(d) having become a director between the issue of the prospectus and the holding of the first general shareholders meeting at which directors are elected or appointed,
-has satisfied any liability under this section by making a payment to another person, may recover a contribution, as in cases of contract, from any other person, who, if sued separately, would have been liable to make the same payment, unless the person who has satisfied such liability was, and that other person was not, guilty of fraudulent misrepresentation.
+(d) having become a director between the issue of the prospectus and the holding of the first general shareholders meeting at which directors are elected or appointed, has satisfied any liability under this section by making a payment to another person, may recover a contribution, as in cases of contract, from any other person, who, if sued separately, would have been liable to make the same payment, unless the person who has satisfied such liability was, and that other person was not, guilty of fraudulent misrepresentation.

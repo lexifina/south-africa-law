@@ -11,5 +11,5 @@
 (b) the newly established financial year end must be later than the date on which the notice is filed; and
 (c) the date as changed may not result in a financial year ending more than 15 months after the end of the preceding financial year.
 (5) Despite subsection (2)(b) or (3), the financial year of a company that has changed the date contemplated in subsection (1) ends on the date as changed.
-(6) If, in a particular year, the financial year of a company ends on a Saturday, Sunday or public holiday, that financial year will be regarded to have ended on the next following business day.
+(6) ......
 (7) The financial year of the company is its annual accounting period.

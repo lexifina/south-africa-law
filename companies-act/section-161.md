@@ -6,6 +6,6 @@
 (ii) rectify any harm done to the securities holder by—
 (aa) the company as a consequence of an act or omission that contravened this Act or the company’s Memorandum of Incorporation, rules or applicable debt instrument, or violated any right contemplated in paragraph (a); or
 (bb) any of its directors to the extent that they are or may be held liable in terms of section 77.
-(2) The right to apply to a court in terms of this section is in addition to any other remedy available to a holder of a companies securities—
+(2) The right to apply to a court in terms of this section is in addition to any other remedy available to a holder of a company’s securities—
 (a) in terms of this Act; or
 (b) in terms of the common law, subject to this Act.

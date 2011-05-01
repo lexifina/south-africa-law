@@ -20,10 +20,10 @@
 (c) after receiving a demand in terms of paragraph (b), the offeror is entitled, and bound, to acquire the securities concerned on the same terms that applied to securities whose holders accepted the original offer.
 (5) If an offeror has given notice in terms of subsection (1), and no order has been made in terms of subsection (3), or if the offeror has received a demand in terms of subsection (4)(b)—
 (a) six weeks after the date on which the notice was given or, if an application to a court is then pending, after the application has been disposed of, or after the date on which the demand was received, as the case may be, the offeror must—
-(i) transmit a copy of the notice to the regulated company whose securities are the subject of the offer, together with an instrument of transfer, executed on behalf of the holder of the those securities by any person appointed by the offeror; and
-(ii) pay or transfer to that company the consideration representing the price payable by the offeror for the securities concerned,
+(i) transmit a copy of the notice to the regulated company whose securities are the subject of the offer, together with an instrument of transfer, executed on behalf of the holder of the those [sic] securities by any person appointed by the offeror; and
+(ii) pay or transfer to that company the consideration representing the price payable by the offeror for the securities concerned;
 (b) subject to the payment of prescribed fees or duties, the company must thereupon register the offeror as the holder of those securities.
-(6) An instrument of transfer contemplated in subsection (5) is not required for any securities for which a securities warrant is for the time being outstanding.
+(6) An instrument of transfer contemplated in subsection (5) is not required for any securities for which a share warrant is for the time being outstanding.
 (7) A regulated company must deposit any consideration received under this section into a separate interest bearing bank account with a banking institution registered under the Banks Act and, subject to subsection (8), those deposits must be—
 (a) held in trust by the company for the person entitled to the securities in respect of which the consideration was received; and
 (b) paid on demand to the person contemplated in paragraph (a), with interest to the date of payment.

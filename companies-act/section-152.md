@@ -1,6 +1,6 @@
 # 152. Consideration of business rescue plan
 (1) At a meeting convened in terms of section 151, the practitioner must—
-(a) introduce the proposed business rescue plan for consideration by the creditors, and if applicable, by the shareholders;
+(a) introduce the proposed business plan for consideration by the creditors and, if applicable, by the shareholders;
 (b) inform the meeting whether the practitioner continues to believe that there is a reasonable prospect of the company being rescued;
 (c) provide an opportunity for the employees’ representatives to address the meeting;
 (d) invite discussion, and entertain and conduct a vote, on any motions to—
@@ -27,6 +27,6 @@
 (b) implement the plan as adopted.
 (6) To the extent necessary to implement an adopted business rescue plan—
 (a) the practitioner may, in accordance with that plan, determine the consideration for, and issue, any authorised securities of the company, despite section 38 or 40 to the contrary; and
-(b) if the business rescue plan was approved by the shareholders of the company, as contemplated in subsection (3)(c), the practitioner may amend the company’s Memorandum of Incorporation to authorise, and determine the preferences, rights, limitations and other terms of, any securities that are not otherwise authorised, but are contemplated to be issued in terms the business rescue plan, despite any provision of section 16, 36 or 37 to the contrary.
+(b) if the business rescue plan was approved by the shareholders of the company, as contemplated in subsection (3)(c), the practitioner may amend the company’s Memorandum of Incorporation to authorise, and determine the preferences, rights, limitations and other terms of, any securities that are not otherwise authorised, but are contemplated to be issued in terms of the business rescue plan, despite any provision of section 16, 36 or 37 to the contrary.
 (7) Except to the extent that an approved business rescue plan provides otherwise, a pre-emptive right of any shareholder of the company, as contemplated in section 39, does not apply with respect to an issue of shares by the company in terms of the business rescue plan.
 (8) When the business rescue plan has been substantially implemented, the practitioner must file a notice of the substantial implementation of the business rescue plan.

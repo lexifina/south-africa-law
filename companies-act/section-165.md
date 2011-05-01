@@ -47,7 +47,7 @@
 (iii) informed themselves about the subject matter of the decision to the extent they reasonably believed to be appropriate; and
 (iv) reasonably believed that the decision was in the best interests of the company.
 (8) For the purposes of subsection (7)—
-(a) a person is a third party if the company and that person are not related or interrelated; and
+(a) a person is a third party if the company and that person are not related or inter-related; and
 (b) proceedings by or against the company include any appeal from a decision made in proceedings by or against the company.
 (9) If a court grants leave to a person under this section—
 (a) the court must also make an order stating who is liable for the remuneration and expenses of the person appointed;
@@ -72,6 +72,6 @@
 (a) the ratification or approval—
 (i) does not prevent a person from making a demand, applying for leave, or bringing or intervening in proceedings with leave under this section; and
 (ii) does not prejudice the outcome of any application for leave, or proceedings brought or intervened in with leave under this section; or
-(b) the court may take that ratification or approval into account in making any judgement or order.
+(b) the court may take that ratification or approval into account in making any judgment or order.
 (15) Proceedings brought or intervened in with leave under this section must not be discontinued, compromised or settled without the leave of the court.
 (16) For greater certainty, the right of a person in terms of this section to serve a demand on a company, or apply to a court for leave, may be exercised by that person directly, or by the Commission or Panel, or another person on behalf of that first person, in the manner permitted by section 157.

@@ -3,7 +3,7 @@
 (a) by a court order in terms of section 130; or
 (b) as provided for in this section.
 (2) Upon request of an affected person, or on its own motion, the court may remove a practitioner from office on any of the following grounds:
-(a) Incompetence or failure to perform duties;
+(a) Incompetence or failure to perform the duties of a business rescue practitioner of the particular company;
 (b) failure to exercise the proper degree of care in the performance of the practitioner’s functions;
 (c) engaging in illegal acts or conduct;
 (d) if the practitioner no longer satisfies the requirements set out in section 138(1);

@@ -16,13 +16,12 @@
 (ii) are provided sufficient information, and permitted sufficient time, to enable them to reach a properly informed decision.
 (3) Subsection (2)(d) is not to be construed or applied to prohibit—
 (a) the furnishing of information in confidence by an offeree company to a bona fide potential offeror or vice versa; or
-(b) the issue of circulars by brokers or advisers to any party to the transaction to their own investment clients,
-with the prior approval of the Panel.
+(b) the issue of circulars by brokers or advisers to any party to the transaction to their own investment clients, with the prior approval of the Panel.
 (4) In carrying out its mandate, the Panel may—
 (a) require the filing, for approval or otherwise, of any document with respect to an affected transaction or offer, if the document is required to be prepared in terms of this Part, Part C and the Takeover Regulations;
-(b) issue clearance notices, if the Panel is satisfied that the offer or transaction satisfies the requirements of this Part, Part C and the Takeover Regulations; and
+(b) issue compliance certificates, if the Panel is satisfied that the offer or transaction satisfies the requirements of this Part, Part C and the Takeover Regulations; and
 (c) initiate or receive complaints, conduct investigations, and issue compliance notices, with respect to any affected transaction or offer, in accordance with Chapter 7, and the Takeover Regulations.
-(5) To the extent necessary to ensure compliance with this Part, Part C and the Takeover Regulations, and to fulfil the purposes contemplated in subsection (1), a compliance order contemplated in subsection (4)(b) may, among other things—
+(5) To the extent necessary to ensure compliance with this Part, Part C and the Takeover Regulations, and to fulfil the purposes contemplated in subsection (1), a compliance notice contemplated in subsection (4)(c) may, among other things—
 (a) prohibit or require any action by a person; or
 (b) order a person to—
 (i) divest of an acquired asset; or

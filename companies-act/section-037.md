@@ -1,5 +1,5 @@
 # 37. Preferences, rights, limitations and other share terms
-(1) All of the shares of any particular class authorised by a company have preferences, rights, limitations and other terms that are identical to those of other shares of the same class, except to the extent that the company’s Memorandum of Incorporation provides otherwise.
+(1) All of the shares of any particular class authorised by a company have preferences, rights, limitations and other terms that are identical to those of other shares of the same class.
 (2) Each issued share of a company, regardless of its class, has associated with it one general voting right, except to the extent provided otherwise by—
 (a) this Act; or
 (b) the preferences, rights, limitations and other terms determined by or in terms of the company’s Memorandum of Incorporation in accordance with section 36.
@@ -27,3 +27,10 @@
 (8) If the Memorandum of Incorporation of a company has been amended to materially and adversely alter the preferences, rights, limitations or other terms of a class of shares, any holder of those shares is entitled to seek relief in terms of section 164 if that shareholder—
 (a) notified the company in advance of the intention to oppose the resolution to amend the Memorandum of Incorporation; and
 (b) was present at the meeting, and voted against that resolution.
+(9) A person—
+(a) acquires the rights associated with any particular securities of a company—
+(i) when that person’s name is entered in the company’s certificated securities register; or
+(ii) as determined in accordance with the rules of the Central Securities Depository, in the case of uncertificated securities; and
+(b) ceases to have the rights associated with any particular securities of a company—
+(i) when the transfer to another person, re-acquisition by the company, or surrender to the company has been entered in the company’s certificated securities register; or
+(ii) as determined in accordance with the rules of the Central Securities Depository, in the case of uncertificated securities.

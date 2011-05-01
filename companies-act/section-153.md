@@ -20,3 +20,7 @@
 (b) set a date for resumption of the meeting, without further notice, at which the provisions of section 152 and this section will apply afresh.
 (5) If no person takes any action contemplated in subsection (1), the practitioner must promptly file a notice of the termination of the business rescue proceedings.
 (6) A holder of a voting interest, or a person acquiring that interest in terms of a binding offer, may apply to a court to review, re-appraise and re-value a determination by an independent expert in terms of subsection (1)(b)(ii).
+(7) On an application contemplated in subsection (1)(a)(ii), or (1)(b)(i)(bb), a court may order that the vote on a business rescue plan be set aside if the court is satisfied that it is reasonable and just to do so, having regard to—
+(a) the interests represented by the person or persons who voted against the proposed business rescue plan;
+(b) the provision, if any, made in the proposed business rescue plan with respect to the interests of that person or those persons; and
+(c) a fair and reasonable estimate of the return to that person, or those persons, if the company were to be liquidated.

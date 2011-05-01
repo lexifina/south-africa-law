@@ -14,7 +14,7 @@
 (b) terminate the proceedings before that panel and constitute another panel, which may include any member of the original panel, and direct that panel to conduct a new hearing.
 (5) The decision of a panel on a matter referred to it must be in writing and include reasons for that decision.
 (6) A decision of a single member of the Companies Tribunal hearing a matter as contemplated in subsection (1)(a), or of a majority of the members of a panel in any other case, is the decision of the Tribunal.
-(7) An decision by the Companies Tribunal with respect to a decision, notice or order by the Commission is binding on the Commission, subject to any review by the court.
+(7) A decision by the Companies Tribunal with respect to a decision of, or a notice or order issued by, the Commission is binding on the Commission, subject to any review by, or appeal to, a court.
 (8) An order of the Companies Tribunal may be filed in the High Court as an order of the court, in accordance with its rules.
 (9) A member of the Tribunal may not represent any person before the Tribunal.
 (10) If, on the expiry of the term of office of a member of the Companies Tribunal, that member is still considering a matter before the Tribunal, that member may continue to act as a member in respect of that matter only.

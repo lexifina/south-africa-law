@@ -3,8 +3,8 @@
 (a) the company—
 (i) files a resolution to place itself under supervision in terms of section 129(3); or
 (ii) applies to the court for consent to file a resolution in terms of section 129(5)(b);
-(b) a person applies to the court for an order placing the company under supervision in terms of section 131(1); or
-(c) during the course of liquidation proceedings, or proceedings to enforce a security interest, a court makes an order placing the company under supervision.
+(b) an affected person applies to the court for an order placing the company under supervision in terms of section 131(1); or
+(c) a court makes an order placing a company under supervision during the course of liquidation proceedings, or proceedings to enforce a security interest, as contemplated in section 131(7).
 (2) Business rescue proceedings end when—
 (a) the court—
 (i) sets aside the resolution or order that began those proceedings; or

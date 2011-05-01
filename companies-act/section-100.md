@@ -1,6 +1,6 @@
 # 100. Requirements concerning prospectus
 (1) This section does not apply in respect of listed securities, except listed securities that are the subject of an initial public offering.
-(2) Subject to the provisions of sections 102 to 111, a prospectus must—
+(2) Every prospectus is subject to the requirements and provisions of sections 102 to 111 and, in addition, must—
 (a) contain all the information that an investor may reasonably require to assess—
 (i) the assets and liabilities, financial position, profits and losses, cash flow and prospects of the company in which a right or interest is to be acquired; and
 (ii) the securities being offered and rights attached to them; and
@@ -27,6 +27,6 @@
 (b) the offeror, upon receipt of a notice in terms of paragraph (a), may either—
 (i) accept the withdrawal, and restore to the person any consideration already paid in respect of the subscription; or
 (ii) apply to the court for an order in terms of paragraph (c); and
-(c) the court, on an application in terms of paragraph (b)(ii) may make any order that is just and equitable in the circumstances, including, but not limited to, an order—
+(c) the court, on an application in terms of paragraph (b)(ii), may make any order that is just and equitable in the circumstances including, but not limited to, an order—
 (i) negating the right of the subscriber to withdraw the offer; or
 (ii) to reverse any transaction, or restore any consideration paid or benefit received by any person in terms of the offer and subscription.

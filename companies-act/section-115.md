@@ -3,25 +3,26 @@
 (a) the disposal, amalgamation or merger, or scheme of arrangement—
 (i) has been approved in terms of this section; or
 (ii) is pursuant to or contemplated in an approved business rescue plan for that company, in terms of Chapter 6; and
-(b) to the extent that Parts B and C of this Chapter and the Takeover Regulations apply to a company that proposes to—
-(i) dispose of all or the greater part of the assets or undertaking;
+(b) to the extent that Parts B and C of this Chapter, and the Takeover Regulations, apply to a company that proposes to—
+(i) dispose of all or the greater part of its assets or undertaking;
 (ii) amalgamate or merge with another company; or
-(iii) implement a scheme of arrangement, the Panel has issued a compliance notice in respect of the transaction in terms of section 119(4)(b), or exempted the transaction in terms of section 119(6).
+(iii) implement a scheme of arrangement, the Panel has issued a compliance certificate in respect of the transaction, in terms of section 119(4)(b), or exempted the transaction in terms of section 119(6).
 (2) A proposed transaction contemplated in subsection (1) must be approved—
-(a) by a special resolution adopted by persons entitled to exercise voting rights on such a matter, at a meeting called for that purpose and at which sufficient persons are present to exercise, in aggregate, at least 25% of all of the voting rights that are entitled to be exercised on that matter; and
+(a) by a special resolution adopted by persons entitled to exercise voting rights on such a matter, at a meeting called for that purpose and at which sufficient persons are present to exercise, in aggregate, at least 25% of all of the voting rights that are entitled to be exercised on that matter, or any higher percentage as may be required by the company’s Memorandum of Incorporation, as contemplated in section 64(2); and
 (b) by a special resolution, also adopted in the manner required by paragraph (a), by the shareholders of the company’s holding company if any, if—
 (i) the holding company is a company or an external company;
 (ii) the proposed transaction concerns a disposal of all or the greater part of the assets or undertaking of the subsidiary; and
-(iii) having regard to the consolidated financial statements of the holding company, the disposal by the subsidiary substantially constitutes a disposal of all or the greater part of the assets or undertaking of the holding company; and
+(iii) having regard to the consolidated financial statements of the holding company, the disposal by the subsidiary constitutes a disposal of all or the greater part of the assets or undertaking of the holding company; and
 (c) by the court, to the extent required in the circumstances and manner contemplated in subsections (3) to (6).
 (3) Despite a resolution having been adopted as contemplated in subsections (2)(a) and (b), a company may not proceed to implement that resolution without the approval of a court if—
-(a) the resolution was opposed by at least 15% of the voting rights that were exercised on that resolution, and any person who voted against the resolution requires the company to seek court approval; or
-(b) the court, on an application by any person who voted against the resolution, grants that person leave, in terms of subsection (6), to apply to a court for a review of the transaction in accordance with subsection (7).
+(a) the resolution was opposed by at least 15% of the voting rights that were exercised on that resolution and, within five business days after the vote, any person who voted against the resolution requires the company to seek court approval; or
+(b) the court, on an application within 10 business days after the vote by any person who voted against the resolution, grants that person leave, in terms of subsection (6), to apply to a court for a review of the transaction in accordance with subsection (7).
 (4) For the purposes of subsections (2) and (3), any voting rights controlled by an acquiring party, a person related to an acquiring party, or a person acting in concert with either of them, must not be included in calculating the percentage of voting rights—
-(a) present in satisfaction of the quorum requirement; or
-(b) voted in support of a resolution.
+(a) required to be present, or actually present, in determining whether the applicable quorum requirements are satisfied; or
+(b) required to be voted in support of a resolution, or actually voted in support of the resolution.
+(4A) In subsection (4), “act in concert” has the meaning set out in section 117(1)(b).
 (5) If a resolution requires approval by a court as contemplated in terms of subsection (3)(a), the company must either—
-(a) apply to the court for approval, and bear the costs of that application; or
+(a) within 10 business days after the vote, apply to the court for approval, and bear the costs of that application; or
 (b) treat the resolution as a nullity.
 (6) On an application contemplated in subsection (3)(b), the court may grant leave only if it is satisfied that the applicant—
 (a) is acting in good faith;

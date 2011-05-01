@@ -1,6 +1,4 @@
 # 22. Reckless trading prohibited
-(1) A company must not—
-(a) carry on its business recklessly, with gross negligence, with intent to defraud any person or for any fraudulent purpose; or
-(b) trade under insolvent circumstances.
-(2) If the Commission has reasonable grounds to believe that a company is engaging in conduct prohibited by subsection (1), the Commission may issue a notice to the company to show cause why the company should be permitted to continue carrying on its business, or to trade, as the case may be.
-(3) If a company to whom a notice has been issued in terms of subsection (2) fails within 20 business days to satisfy the Commission that it is not engaging in conduct prohibited by subsection (1), the Commission may issue a compliance notice to the company requiring it to cease carrying on its business or trading, as the case may be.
+(1) A company must not carry on its business recklessly, with gross negligence, with intent to defraud any person or for any fraudulent purpose.
+(2) If the Commission has reasonable grounds to believe that a company is engaging in conduct prohibited by subsection (1), or is unable to pay its debts as they become due and payable in the normal course of business, the Commission may issue a notice to the company to show cause why the company should be permitted to continue carrying on its business, or to trade, as the case may be.
+(3) If a company to whom a notice has been issued in terms of subsection (2) fails within 20 business days to satisfy the Commission that it is not engaging in conduct prohibited by subsection (1), or that it is able to pay its debts as they become due and payable in the normal course of business, the Commission may issue a compliance notice to the company requiring it to cease carrying on its business or trading, as the case may be.

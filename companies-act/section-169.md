@@ -1,7 +1,7 @@
 # 169. Investigation by Commission or Panel
 (1) Upon initiating or receiving a complaint, or receiving a direction from the Minister, in terms of this Act, the Commission or Panel, as the case may be, may—
 (a) except in the case of a direction from the Minister, issue a notice to the complainant in the prescribed form indicating that it will not investigate the complaint, if the complaint appears to be frivolous or vexatious, or does not allege any facts that, if proven, would constitute grounds for remedy under this Act;
-(b) if they think it expedient as a means of resolving the matter, refer the complainant to the Companies Tribunal, or to an accredited entity, as defined in section 166(3), with a recommendation that the complainant seek to resolve the matter with the assistance of that agency; or
+(b) if they think it expedient as a means of resolving the matter, refer the complainant to the Companies Tribunal, or to an accredited entity, as defined in section 166(3), with a recommendation that the complainant seek to resolve the matter with the assistance of that agency or person; or
 (c) direct an inspector or investigator to investigate the complaint as quickly as practicable, in any other case.
 (2) At any time during an investigation, the Commission or Panel, as the case may be, may—
 (a) designate one or more persons to assist the inspector or investigator conducting the investigation; or

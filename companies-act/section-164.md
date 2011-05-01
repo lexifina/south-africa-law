@@ -21,14 +21,14 @@
 (7) A shareholder who satisfies the requirements of subsection (5) may make a demand contemplated in that subsection by delivering a written notice to the company within—
 (a) 20 business days after receiving a notice under subsection (4); or
 (b) if the shareholder does not receive a notice under subsection (4), within 20 business days after learning that the resolution has been adopted.
-(8) A demand delivered in terms of subsections (5) to (7) must state—
+(8) A demand delivered in terms of subsections (5) to (7) must also be delivered to the Panel, and must state—
 (a) the shareholder’s name and address;
 (b) the number and class of shares in respect of which the shareholder seeks payment; and
 (c) a demand for payment of the fair value of those shares.
 (9) A shareholder who has sent a demand in terms of subsections (5) to (8) has no further rights in respect of those shares, other than to be paid their fair value, unless—
 (a) the shareholder withdraws that demand before the company makes an offer under subsection (11), or allows an offer made by the company to lapse, as contemplated in subsection (12)(b);
 (b) the company fails to make an offer in accordance with subsection (11) and the shareholder withdraws the demand; or
-(c) the company revokes the adopted resolution that gave rise to the shareholder’s rights under this section.
+(c) the company, by a subsequent special resolution, revokes the adopted resolution that gave rise to the shareholder’s rights under this section.
 (10) If any of the events contemplated in subsection (9) occur, all of the shareholder’s rights in respect of the shares are reinstated without interruption.
 (11) Within five business days after the later of—
 (a) the day on which the action approved by the resolution is effective;
@@ -58,8 +58,11 @@
 (bb) allow a reasonable rate of interest on the amount payable to each dissenting shareholder from the date the action approved by the resolution is effective, until the date of payment;
 (iv) may make an appropriate order of costs, having regard to any offer made by the company, and the final determination of the fair value by the court; and
 (v) must make an order requiring—
-(aa) the dissenting shareholders to either withdraw their respective demands, in which case the shareholder is reinstated to their full rights as a shareholder, or to comply with subsection (13)(a); and
+(aa) the dissenting shareholders to either withdraw their respective demands or to comply with subsection (13)(a); and
 (bb) the company to pay the fair value in respect of their shares to each dissenting shareholder who complies with subsection (13)(a), subject to any conditions the court considers necessary to ensure that the company fulfils its obligations under this section.
+(15A) At any time before the court has made an order contemplated in subsection (15)(c)(v), a dissenting shareholder may accept the offer made by the company in terms of subsection (11), in which case—
+(a) that shareholder must comply with the requirements of subsection (13)(a); and
+(b) the company must comply with the requirements of subsection (13)(b).
 (16) The fair value in respect of any shares must be determined as at the date on which, and time immediately before, the company adopted the resolution that gave rise to a shareholder’s rights under this section.
 (17) If there are reasonable grounds to believe that compliance by a company with subsection (13)(b), or with a court order in terms of subsection (15)(c)(v)(bb), would result in the company being unable to pays its debts as they fall due and payable for the ensuing 12 months—
 (a) the company may apply to a court for an order varying the company’s obligations in terms of the relevant subsection; and
@@ -70,3 +73,6 @@
 (19) For greater certainty, the making of a demand, tendering of shares and payment by a company to a shareholder in terms of this section do not constitute a distribution by the company, or an acquisition of its shares by the company within the meaning of section 48, and therefore are not subject to—
 (a) the provisions of that section; or
 (b) the application by the company of the solvency and liquidity test set out in section 4.
+(20) Except to the extent—
+(a) expressly provided in this section; or
+(b) that the Panel rules otherwise in a particular case, a payment by a company to a shareholder in terms of this section does not obligate any person to make a comparable offer under section 125 to any other person.

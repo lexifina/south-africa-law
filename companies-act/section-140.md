@@ -8,6 +8,7 @@
 (d) is responsible to—
 (i) develop a business rescue plan to be considered by affected persons, in accordance with Part D of this Chapter; and
 (ii) implement any business rescue plan that has been adopted in accordance with Part D of this Chapter.
+(1A) The practitioner must, as soon as practicable after appointment, inform all relevant regulatory authorities having authority in respect of the activities of the company, of the fact that the company has been placed under business rescue proceedings and of his or her appointment.
 (2) Except with the approval of the court on application by the practitioner, a practitioner may not appoint a person as part of the management of the company, or an advisor to the company or to the practitioner, if that person—
 (a) has any other relationship with the company such as would lead a reasonable and informed third party to conclude that the integrity, impartiality or objectivity of that person is compromised by that relationship; or
 (b) is related to a person who has a relationship contemplated in paragraph (a).

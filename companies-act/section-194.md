@@ -7,9 +7,10 @@
 (b) reappointed to a second term as chairperson of the Tribunal.
 (3) The Tribunal must comprise—
 (a) persons with suitable qualifications and experience in economics, law, commerce, industry or public affairs; and
-(b) sufficient persons with legal training to satisfy the requirements of subsection 3(a).
+(b) sufficient persons with legal training and experience to satisfy the requirements of section 195(3)(a).
 (4) The Minister must designate a member of the Tribunal as deputy chairperson of the Tribunal.
 (5) The deputy chairperson performs the functions of chairperson whenever—
 (a) the office of chairperson is vacant; or
 (b) the chairperson is for any other reason temporarily unable to perform those functions.
 (6) Sections 206 and 207 apply to the chairperson and other members of the Tribunal.
+(7) The chairperson and each other member of the Tribunal serves for a term of five years and may, subject to subsection (2)(b), be reappointed for a second term.

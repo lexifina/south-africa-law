@@ -1,11 +1,11 @@
 # 134. Protection of property interests
-Subject to subsections (2) and (3), during a company’s business rescue proceedings—
+(1) Subject to subsections (2) and (3), during a company’s business rescue proceedings—
 (a) the company may dispose, or agree to dispose, of property only—
 (i) in the ordinary course of its business;
 (ii) in a bona fide transaction at arm’s length for fair value approved in advance and in writing by the practitioner; or
 (iii) in a transaction contemplated within, and undertaken as part of the implementation of, a business rescue plan that has been approved in terms of section 152;
 (b) any person who, as a result of an agreement made in the ordinary course of the company’s business before the business rescue proceedings began, is in lawful possession of any property owned by the company may continue to exercise any right in respect of that property as contemplated in that agreement, subject to section 136; and
-(c) despite any provision of an agreement to the contrary, no person may exercise any right in respect of any property in the lawful possession of the company, irrespective whether the property is owned by the company, except to the extent that the practitioner consents in writing.
+(c) despite any provision of an agreement to the contrary, no person may exercise any right in respect of any property in the lawful possession of the company, irrespective of whether the property is owned by the company, except to the extent that the practitioner consents in writing.
 (2) The practitioner may not unreasonably withhold consent in terms of subsection (1)(c), having regard to—
 (a) the purposes of this Chapter;
 (b) the circumstances of the company; and

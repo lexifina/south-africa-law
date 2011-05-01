@@ -9,5 +9,5 @@
 (2) If a private company proposes to issue any shares, other than as contemplated in subsection (1)(b), each shareholder of that private company has a right, before any other person who is not a shareholder of that company, to be offered and, within a reasonable time to subscribe for, a percentage of the shares to be issued equal to the voting power of that shareholder’s general voting rights immediately before the offer was made.
 (3) A private or personal liability company’s Memorandum of Incorporation may limit, negate, restrict or place conditions upon the right set out in subsection (2), with respect to any or all classes of shares of that company.
 (4) Except to the extent that a private or personal liability company’s Memorandum of Incorporation provides otherwise—
-(a) in exercising a right in terms of subsection (2), a shareholder may subscribe fewer shares than the shareholder would be entitled to subscribe under that subsection; and
-(b) shares not subscribed by a shareholder within the reasonable time contemplated in subsection (2), may be offered to other persons to the extent permitted by the Memorandum of Incorporation.
+(a) in exercising a right in terms of subsection (2), a shareholder may subscribe for fewer shares than the shareholder would be entitled to subscribe for under that subsection; and
+(b) shares not subscribed for by a shareholder within the reasonable time contemplated in subsection (2), may be offered to other persons to the extent permitted by the Memorandum of Incorporation.

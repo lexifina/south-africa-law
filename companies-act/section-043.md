@@ -5,7 +5,7 @@
 (ii) does not include promissory notes and loans, whether constituting an encumbrance on the assets of the company or not; and
 (b) “security document” includes any document by which a debt instrument is offered or proposed to be offered, embodying the terms and conditions of the debt instrument including, but not limited to, a trust deed or certificate.
 (2) The board of a company—
-(a) may authorise the company to issue a secured or unsecured debt instrument at any time, except to the extent provided by that the company’s Memorandum of Incorporation; and
+(a) may authorise the company to issue a secured or unsecured debt instrument at any time, except to the extent provided otherwise by the company’s Memorandum of Incorporation; and
 (b) must determine whether each such debt instrument is secured or unsecured.
 (3) Except to the extent that a company’s Memorandum of Incorporation provides otherwise, a debt instrument issued by the company may grant special privileges regarding—
 (a) attending and voting at general meetings and the appointment of directors; or

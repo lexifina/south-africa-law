@@ -3,7 +3,7 @@
 (a) satisfy the financial reporting standards as to form and content, if any such standards are prescribed;
 (b) present fairly the state of affairs and business of the company, and explain the transactions and financial position of the business of the company;
 (c) show the company’s assets, liabilities and equity, as well as its income and expenses, and any other prescribed information;
-(d) set out the date on which the statements were produced, and the accounting period to which the statements apply; and
+(d) set out the date on which the statements were published, and the accounting period to which the statements apply; and
 (e) bear, on the first page of the statements, a prominent notice indicating—
 (i) whether the statements—
 (aa) have been audited in compliance with any applicable requirements of this Act;
@@ -25,13 +25,13 @@
 (b) form and content requirements for summaries contemplated in subsection (3).
 (5) Any regulations contemplated in subsection (4)—
 (a) must promote sound and consistent accounting practices;
-(b) in the case of financial reporting standards, must be consistent with the International Financial Reporting Standards of the International Accounting Standards Board or its successor body; and
+(b) in the case of financial reporting standards for public companies, must be in accordance with the International Financial Reporting Standards of the International Accounting Standards Board or its successor body; and
 (c) may establish different standards applicable to—
 (i) profit and non-profit companies; and
 (ii) different categories of profit companies.
 (6) Subject to section 214(2), a person is guilty of an offence if the person is a party to the preparation, approval, dissemination or publication of—
 (a) any financial statements, including any annual financial statements contemplated in section 30, knowing that those statements—
-(i) do not comply with the requirements of subsection (1); or
+(i) fail in a material way to comply with the requirements of subsection (1); or
 (ii) are materially false or misleading, as contemplated in subsection (2); or
 (b) a summary of any financial statements, knowing that—
 (i) the statements that it summarises do not comply with the requirements of subsection (1), or are materially false or misleading, as contemplated in subsection (2); or

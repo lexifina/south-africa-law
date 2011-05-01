@@ -2,7 +2,7 @@
 (1) This section—
 (a) applies concurrently with section 64 of the Banks Act, to any company that is subject to that section of that Act, but subsections (2), (3) and (4) of this section do not apply to the appointment of an audit committee by any such company; and
 (b) does not apply to a company that has been granted an exemption in terms of section 64(4) of the Banks Act.
-(2) At each annual general meeting, a public company or state-owned company, or other company that has voluntarily determined to have an audit committee as contemplated in section 34(2), must elect an audit committee comprising at least three members, unless—
+(2) At each annual general meeting, a public company, state-owned company or other company that is required only by its Memorandum of Incorporation to have an audit committee as contemplated in sections 34(2) and 84 (1)(c)(ii), must elect an audit committee comprising at least three members, unless—
 (a) the company is a subsidiary of another company that has an audit committee; and
 (b) the audit committee of that other company will perform the functions required under this section on behalf of that subsidiary company.
 (3) The first members of the audit committee may be appointed by—
@@ -33,16 +33,15 @@
 (iii) the internal financial controls of the company; or
 (iv) any related matter;
 (h) to make submissions to the board on any matter concerning the company’s accounting policies, financial control, records and reporting; and
-(i) to perform other functions determined by the board, including the development and implementation of a policy and plan for a systematic, disciplined approach to evaluate and improve the effectiveness of risk management, control, and governance processes within the company.
+(i) to perform such other oversight functions as may be determined by the board.
 (8) In considering whether, for the purposes of this Part, a registered auditor is independent of a company, the audit committee of that company must—
 (a) ascertain that the auditor does not receive any direct or indirect remuneration or other benefit from the company, except—
 (i) as auditor; or
-(ii) for rendering other services to the company, to the extent permitted in terms of subsection (6)(d);
+(ii) for rendering other services to the company, to the extent permitted in terms of subsection (7)(d);
 (b) consider whether the auditor’s independence may have been prejudiced—
 (i) as a result of any previous appointment as auditor; or
 (ii) having regard to the extent of any consultancy, advisory or other work undertaken by the auditor for the company; and
-(c) consider compliance with other criteria relating to independence or conflict of interest as prescribed by the Independent Regulatory Board for Auditors established by the Auditing Profession Act,
-in relation to the company, and if the company is a member of a group of companies, any other company within that group.
-(9) Nothing in this section precludes the appointment by a public company at its annual general meeting of an auditor other than one nominated by the audit committee, but if such an auditor is appointed, the appointment is valid only if the audit committee is satisfied that the proposed auditor is independent of the company.
+(c) consider compliance with other criteria relating to independence or conflict of interest as prescribed by the Independent Regulatory Board for Auditors established by the Auditing Profession Act, in relation to the company, and if the company is a member of a group of companies, any other company within that group.
+(9) Nothing in this section precludes the appointment by a company at its annual general meeting of an auditor other than one nominated by the audit committee, but if such an auditor is appointed, the appointment is valid only if the audit committee is satisfied that the proposed auditor is independent of the company.
 (10) Neither the appointment nor the duties of an audit committee reduce the functions and duties of the board or the directors of the company, except with respect to the appointment, fees and terms of engagement of the auditor.
 (11) A company must pay all expenses reasonably incurred by its audit committee, including, if the audit committee considers it appropriate, the fees of any consultant or specialist engaged by the audit committee to assist it in the performance of its functions.

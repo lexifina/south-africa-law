@@ -8,7 +8,7 @@
 (i) if the business rescue process was confirmed by a court order in terms of section 130, or initiated by an application to the court in terms of section 131, apply to a court for an order terminating the business rescue proceedings; or
 (ii) otherwise, file a notice of termination of the business rescue proceedings; or
 (c) there is evidence, in the dealings of the company before the business rescue proceedings began, of—
-(i) voidable transactions, or a failure by the company or any director to perform any material obligation relating to the company, the practitioner must direct the management to take any necessary steps to rectify the matter;
+(i) voidable transactions, or the failure by the company or any director to perform any material obligation relating to the company, the practitioner must take any necessary steps to rectify the matter and may direct the management to take appropriate steps;
 (ii) reckless trading, fraud or other contravention of any law relating to the company, the practitioner must—
 (aa) forward the evidence to the appropriate authority for further investigation and possible prosecution; and
 (bb) direct the management to take any necessary steps to rectify the matter, including recovering any misappropriated assets of the company.

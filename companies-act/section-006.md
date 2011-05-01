@@ -1,5 +1,5 @@
 # 6. Anti-avoidance, exemptions and substantial compliance
-(1) A court, on application by the Commission or Panel, may declare any agreement, transaction, arrangement, resolution or provision of a company’s Memorandum of Incorporation or rules—
+(1) A court, on application by the Commission, Panel or an exchange in respect of a company listed on that exchange, may declare any agreement, transaction, arrangement, resolution or provision of a company’s Memorandum of Incorporation or rules—
 (a) to be primarily or substantially intended to defeat or reduce the effect of a prohibition or requirement established by or in terms of an unalterable provision of this Act; and
 (b) void to the extent that it defeats or reduces the effect of a prohibition or requirement established by or in terms of an unalterable provision of this Act.
 (2) A person may apply to the Companies Tribunal for an administrative order exempting an agreement, transaction, arrangement, resolution or provision of a company’s Memorandum of Incorporation or rules from any prohibition or requirement established by or in terms of an unalterable provision of this Act, other than a provision that falls within the jurisdiction of the Panel.
@@ -17,7 +17,7 @@
 (c) the vocabulary, usage and sentence structure of the prospectus, notice, disclosure or document; and
 (d) the use of any illustrations, examples, headings or other aids to reading and understanding in the prospectus, notice, disclosure or document.
 (6) The Commission may publish guidelines for methods of assessing whether a prospectus, notice, disclosure or document satisfies the requirements of subsection (4)(b).
-(7) An unaltered electronically or mechanically generated reproduction of any document, other than a share certificate, may be substituted for the original for any purpose for which the original could be used in terms of this Act.
+(7) An unaltered electronically or mechanically generated reproduction of any document, other than a share certificate, may be substituted for the original for any purpose for which the original could be used in terms of this Act, if that reproduction satisfies any applicable prescribed requirements as to the form or manner of reproduction.
 (8) If a form of document, record, statement or notice is prescribed in terms of this Act for any purpose—
 (a) it is sufficient if the person required to prepare or complete such a document, record, statement or notice does so in a form that satisfies all of the substantive requirements of the prescribed form; and
 (b) any deviation from the design or content of the prescribed form does not invalidate the action taken by the person preparing or completing that document, record, statement or notice, unless the deviation—
@@ -48,5 +48,8 @@
 (i) is capable of facilitating any activity contemplated in paragraph (a); and
 (ii) satisfies any prescribed requirements.
 (14) The Minister may—
-(a) make regulations relating to the standards of operation, accessibility, technical requirements, service quality, and fees for the use of any system contemplated in subsection 13; and
+(a) make regulations relating to the standards of operation, accessibility, technical requirements, service quality, and fees for the use of any system contemplated in subsection (13); and
 (b) declare any system established or accredited by the Commission to be an acceptable mechanism for the filing of any particular document, in lieu of any other requirements set out in legislation relating to the filing of that document.
+(15) To the extent that the specific content, or a particular effect, of any provision of a company’s Memorandum of Incorporation—
+(a) is required of the company by or in terms of any applicable public regulation, or by the listing requirements of an exchange; and
+(b) has the effect of negating, restricting, limiting, qualifying, extending or otherwise altering the substance or effect of an unalterable provision of the Act, that provision of the company’s Memorandum of Incorporation must not be construed as being contrary to section 15(1)(a).

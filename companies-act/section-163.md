@@ -21,4 +21,4 @@
 (3) If an order made under this section directs the amendment of the company’s Memorandum of Incorporation—
 (a) the directors must promptly file a notice of amendment to give effect to that order, in accordance with section 16(4); and
 (b) no further amendment altering, limiting or negating the effect of the court order may be made to the Memorandum of Incorporation, until a court orders otherwise.
-(4) Whenever a court, on application by an interested person, or in any proceedings in which a company is involved, finds that the incorporation of, or any act by or on behalf of, or any use of, that company constitutes an unconscionable abuse of the juristic personality of the company as a separate entity, the court may declare that the company is to be deemed not to be a juristic person in respect of such rights, obligations or liabilities of the company, or of such member or shareholder thereof, or of such other person as specified in the declaration, and the court may give such further order or orders as it may deem fit in order to give effect to such declaration.
+(4) ......

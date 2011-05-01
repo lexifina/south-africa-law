@@ -1,7 +1,7 @@
 # 99. General restrictions on offers to public
 (1) A person must not offer to the public any securities of any person unless that second person—
 (a) is a company; and
-(b) in the case of a foreign company, a copy of its Memorandum of Incorporation, and a list of the names and addresses of its directors, has been filed within 90 business days before the offer to the public is made.
+(b) in the case of a foreign company, a copy of its Memorandum of Incorporation or comparable governing document, and a list of the names and addresses of its directors, has been filed within 90 business days before the offer to the public is made.
 (2) A person must not make an initial public offering unless that offer is accompanied by a registered prospectus.
 (3) Except with respect to securities that are the subject of a company’s initial public offering, a person must not make a—
 (a) primary offer to the public of any—
@@ -23,8 +23,7 @@
 (a) if the Commission has approved that exclusion in advance, on application by the company in the prescribed manner and form on the grounds that the number of those persons is insignificant relative to—
 (i) the number of existing holders of the company’s securities who are resident within the Republic; and
 (ii) the administrative cost and inconvenience of extending the rights offer to them; and
-(b) subject to any conditions attached to the approval contemplated in paragraph
-(a).
+(b) subject to any conditions attached to the approval contemplated in paragraph (a).
 (8) A person must not issue a prospectus or a document that purports to be a prospectus, or a document that may reasonably be misapprehended to be intended as a prospectus, unless it is a registered prospectus.
 (9) A prospectus may not be registered unless the requirements of this Act have been complied with and it has been filed for registration, together with any prescribed documents, within 10 business days after the date of that prospectus.
 (10) As soon as the Commission has registered a prospectus, it must send notice of the registration to the person who filed the prospectus for registration.

@@ -1,7 +1,8 @@
 # 166. Alternative dispute resolution
-(1) As an alternative to applying for relief to a court, or filing a complaint with the Commission in terms of Part D, a person who would be entitled to apply for relief, or file a complaint in terms of this Act, may refer a matter that could be the subject of such an application or complaint to—
-(a) the Companies Tribunal; or
-(b) an accredited entity, as defined in subsection (3), for resolution by mediation, conciliation or arbitration.
+(1) As an alternative to applying for relief to a court, or filing a complaint with the Commission in terms of Part D, a person who would be entitled to apply for relief, or file a complaint in terms of this Act, may refer a matter that could be the subject of such an application or complaint for resolution by mediation, conciliation or arbitration to—
+(a) the Companies Tribunal;
+(b) an accredited entity, as defined in subsection (3); or
+(c) any other person.
 (2) If the Companies Tribunal, or an accredited entity, to whom a matter is referred for alternative dispute resolution concludes that either party to the conciliation, mediation or arbitration is not participating in that process in good faith, or that there is no reasonable probability of the parties resolving their dispute through that process, the Companies Tribunal or accredited entity must issue a certificate in the prescribed form stating that the process has failed.
 (3) In this section, “accredited entity” means—
 (a) a juristic person or an association of persons accredited by the Commission in terms of subsection (4); or

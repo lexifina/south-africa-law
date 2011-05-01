@@ -6,21 +6,21 @@
 (3) Every company must maintain—
 (a) a copy of its Memorandum of Incorporation, and any amendments or alterations to it, and any rules of the company made in terms of section 15(3) to (5);
 (b) a record of its directors, including—
-(i) details of any person who has served as a director of the company, for a period of seven years after the person ceases to serve as a director; and
-(ii) the information required by or in terms of subsection (5);
+(i) all the information required in terms of subsection (5) in respect of each current director at any particular time; and
+(ii) with respect to each past director, the information required in terms of subparagraph (i), which must be retained for seven years after the past director retired from the company;
 (c) copies of all—
 (i) reports presented at an annual general meeting of the company, for a period of seven years after the date of any such meeting;
 (ii) annual financial statements required by this Act, for seven years after the date on which each such particular statements were issued; and
 (iii) accounting records required by this Act, for the current financial year and for the previous seven completed financial years of the company;
 (d) notice and minutes of all shareholders meetings, including—
-(i) all resolutions adopted by them, for seven years after the date each such resolution was adopted; and
-(ii) any document that was made available by the company to the holders of securities in relation to each such resolution;
+(i) all resolutions adopted by them; and
+(ii) any document that was made available by the company to the holders of securities in relation to each such resolution, for seven years after the date each such resolution was adopted;
 (e) copies of any written communications sent generally by the company to all holders of any class of the company’s securities, for a period of seven years after the date on which each such communication was issued; and
 (f) minutes of all meetings and resolutions of directors, or directors’ committees, or the audit committee, if any, for a period of seven years after the date—
 (i) of each such meeting; or
 (ii) on which each such resolution was adopted.
-(4) In addition to the requirements of subsection (3), every profit company must maintain—
-(a) a securities register or its equivalent, as required by section 50; and
+(4) In addition to the requirements of subsection (3), every company must maintain—
+(a) a securities register or its equivalent, as required by section 50, in the case of a profit company, or a member’s register in the case of a non-profit company that has members; and
 (b) the records required in terms of section 85, if that section applies to the company.
 (5) A company’s record of directors must include, in respect of each director, that person’s—
 (a) full name, and any former names;

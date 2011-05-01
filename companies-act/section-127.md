@@ -16,5 +16,4 @@
 (5) For a period of six months immediately following the later of the closing date of an offer, or the date on which the offer became unconditional—
 (a) the offeror;
 (b) any person who acted in concert with the offeror; or
-(c) any person who is subsequently acting in concert with a person contemplated in paragraph (a) or (b),
-must not make a second offer to any holder of securities of the target company, or acquire any interest in any such securities, on more favourable terms than those made under the original offer.
+(c) any person who is subsequently acting in concert with a person contemplated in paragraph (a) or (b), must not make a second offer to any holder of securities of the target company, or acquire any interest in any such securities, on more favourable terms than those made under the original offer.
