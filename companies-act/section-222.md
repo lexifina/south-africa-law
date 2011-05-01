@@ -1,0 +1,2 @@
+# 222. State liability
+The State, the Commission, the Commissioner, the Companies Tribunal, the Panel, an inspector, or any state employee or similar person having duties to perform under this Act, is not liable for any loss sustained by or damage caused to any person as a result of any bona fide act or omission relating to the performance of any duty under this Act, unless gross negligence is proved.

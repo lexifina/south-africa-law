@@ -1,0 +1,3 @@
+# 154. Discharge of debts and claims
+(1) A business rescue plan may provide that, if it is implemented in accordance with its terms and conditions, a creditor who has acceded to the discharge of the whole or part of a debt owing to that creditor will lose the right to enforce the relevant debt or part of it.
+(2) If a business rescue plan has been approved and implemented in accordance with this Chapter, a creditor is not entitled to enforce any debt owed by the company immediately before the beginning of the business rescue process, except to the extent provided for in the business rescue plan.

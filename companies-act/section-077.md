@@ -1,0 +1,55 @@
+# 77. Liability of directors and prescribed officers
+(1) In this section, “director” includes an alternate director, and—
+(a) a prescribed officer; or
+(b) a person who is a member of a committee of a board of a company, or of the audit committee of a company,
+irrespective of whether or not the person is also a member of the company’s board.
+(2) A director of a company may be held liable—
+(a) in accordance with the principles of the common law relating to breach of a fiduciary duty, for any loss, damages or costs sustained by the company as a consequence of any breach by the director of a duty contemplated in section 75, 76(2) or 76(3)(a) or (b); or
+(b) in accordance with the principles of the common law relating to delict for any loss, damages or costs sustained by the company as a consequence of any breach by the director of—
+(i) a duty contemplated in section 76(3)(c);
+(ii) any provision of this Act not otherwise mentioned in this section; or
+(iii) any provision of the company’s Memorandum of Incorporation.
+(3) A director of a company is liable for any loss, damages or costs sustained by the company as a direct or indirect consequence of the director having—
+(a) acted in the name of the company, signed anything on behalf of the company, or purported to bind the company or authorise the taking of any action by or on behalf of the company, despite knowing that the director lacked the authority to do so;
+(b) acquiesced in the carrying on of the company’s business despite knowing that it was being conducted in a manner prohibited by section 22(1);
+(c) been a party to an act or omission by the company despite knowing that the act or omission was calculated to defraud a creditor, employee or shareholder of the company, or had another fraudulent purpose;
+(d) signed, consented to, or authorised, the publication of—
+(i) any financial statements that were false or misleading in a material respect; or
+(ii) a prospectus, or a written statement contemplated in section 101, that contained—
+(aa) an ‘untrue statement’ as defined and described in section 95; or
+(bb) a statement to the effect that a person had consented to be a director of the company, when no such consent had been given,
+despite knowing that the statement was false, misleading or untrue, as the case may be, but the provisions of section 104(3), read with the changes required by the context, apply to limit the liability of a director in terms of this paragraph; or
+(e) been present at a meeting, or participated in the making of a decision in terms of section 74, and failed to vote against—
+(i) the issuing of any unauthorised shares, despite knowing that those shares had not been authorised in accordance with section 36;
+(ii) the issuing of any authorised securities, despite knowing that the issue of those securities was inconsistent with section 41;
+(iii) the granting of options to any person contemplated in section 42(4), despite knowing that any shares—
+(aa) for which the options could be exercised; or
+(bb) into which any securities could be converted, had not been authorised in terms of section 36;
+(iv) the provision of financial assistance to any person contemplated in section 44 for the acquisition of securities of the company, despite knowing that the provision of financial assistance was inconsistent with section 44 or the company’s Memorandum of Incorporation, to the extent that the resolution or agreement has been declared void in terms of section 44(5), read with section 218(1);
+(v) the provision of financial assistance to a director for a purpose contemplated in section 45, despite knowing that the provision of financial assistance was inconsistent with that section or the company’s Memorandum of Incorporation, to the extent that the resolution or agreement has been declared void in terms of section 45(6), read with section 218(1);
+(vi) a resolution approving a distribution, despite knowing that the distribution was contrary to section 46, subject to subsection (4);
+(vii) the acquisition by the company of any of its shares, or the shares of its holding company, despite knowing that the acquisition was contrary to section 46 or 48; or
+(viii) an allotment by the company, despite knowing that the allotment was contrary to any provision of Chapter 4, to the extent that the allotment or an acceptance is declared void under section 109(1) read with section 218(1).
+(4) The liability of a director in terms of subsection (3)(e)(vi) as a consequence of the director having failed to vote against a distribution in contravention of section 46—
+(a) arises only if—
+(i) immediately after making all of the distribution contemplated in a resolution in terms of section 46, the company does not satisfy the solvency and liquidity test; and
+(ii) it was unreasonable at the time of the decision to conclude that the company would satisfy the solvency and liquidity test after making the relevant distribution; and
+(b) does not exceed, in aggregate, the difference between—
+(i) the amount by which the value of the distribution exceeded the amount that could have been distributed without causing the company to fail to satisfy the solvency and liquidity test; and
+(ii) the amount, if any, recovered by the company from persons to whom the distribution was made.
+(5) If the board of a company has made a decision in a manner that contravened this Act, as contemplated in subsection (3)(e)—
+(a) the company, or any director who has been or may be held liable in terms of subsection (3)(e), may apply to a court for an order setting aside the decision of the board; and
+(b) the court may make—
+(i) an order setting aside the decision in whole or in part, absolutely or conditionally; and
+(ii) any further order that is just and equitable in the circumstances, including an order—
+(aa) to rectify the decision, reverse any transaction, or restore any consideration paid or benefit received by any person in terms of the decision of the board; and
+(bb) requiring the company to indemnify any director who has been or may be held liable in terms of this section, including indemnification for the costs of the proceedings under this subsection.
+(6) The liability of a person in terms of this section is joint and several with any other person who is or may be held liable for the same act.
+(7) Proceedings to recover any loss, damages or costs for which a person is or may be held liable in terms of this section may not be commenced more than three years after the act or omission that gave rise to that liability.
+(8) In addition to the liability set out elsewhere in this section, any person who would be so liable is jointly and severally liable with all other such persons—
+(a) to pay the costs of all parties in the court in a proceeding contemplated in this section unless the proceedings are abandoned, or exculpate that person; and
+(b) to restore to the company any amount improperly paid by the company as a consequence of the impugned act, and not recoverable in terms of this Act.
+(9) In any proceedings against a director, other than for wilful misconduct or wilful breach of trust, the court may relieve the director, either wholly or partly, from any liability set out in this section, on any terms the court considers just if it appears to the court that—
+(a) the director is or may be liable, but has acted honestly and reasonably; or
+(b) having regard to all the circumstances of the case, including those connected with the appointment of the director, it would be fair to excuse the director.
+(10) A director who has reason to apprehend that a claim may be made alleging that the director is liable, other than for wilful misconduct or wilful breach of trust, may apply to a court for relief, and the court may grant relief to the director on the same grounds as if the matter had come before the court in terms of subsection (9).

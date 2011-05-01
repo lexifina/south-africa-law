@@ -1,0 +1,14 @@
+# 4. Solvency and liquidity test
+(1) For any purpose of this Act, a company satisfies the solvency and liquidity test at a particular time if, considering all reasonably foreseeable financial circumstances of the company at that time—
+(a) the assets of the company or, if the company is a member of a group of companies, the aggregate assets of the company, as fairly valued, equal or exceed the liabilities of the company or, if the company is a member of a group of companies, the aggregate liabilities of the company, as fairly valued; and
+(b) it appears that the company will be able to pay its debts as they become due in the ordinary course of business for a period of—
+(i) 12 months after the date on which the test is considered; or
+(ii) in the case of a distribution contemplated in paragraph (a) of the definition of ‘distribution’ in section 1, 12 months following that distribution.
+(2) For the purposes contemplated in subsection (1)—
+(a) any financial information to be considered concerning the company must be based on—
+(i) accounting records that satisfy the requirements of section 28; and
+(ii) financial statements that satisfy the requirements of section 29;
+(b) subject to paragraph (c), the board or any other person applying the solvency and liquidity test to a company—
+(i) must consider a fair valuation of the company’s assets and liabilities, including any reasonably foreseeable contingent assets and liabilities, irrespective of whether or not arising as a result of the proposed distribution, or otherwise; and
+(ii) may consider any other valuation of the company’s assets and liabilities that is reasonable in the circumstances; and
+(c) unless the Memorandum of Incorporation of the company provides otherwise, a person applying the test in respect of a distribution contemplated in paragraph (a) of the definition of ‘distribution’ in section 1 is not to be regarded as a liability any amount that would be required, if the company were to be liquidated at the time of the distribution, to satisfy the preferential rights upon liquidation of shareholders whose preferential rights upon liquidation are superior to the preferential rights upon liquidation of those receiving the distribution.

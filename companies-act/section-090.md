@@ -1,0 +1,23 @@
+# 90. Appointment of auditor
+(1) Upon its incorporation, and each year at its annual general meeting, a public company or state-owned company must appoint an auditor.
+(2) To be appointed as an auditor of a company, whether as required by subsection (1) or as contemplated in section 34(2), a person or firm—
+(a) must be a registered auditor;
+(b) in addition to the prohibition contemplated in section 84(5), must not be—
+(i) a director or prescribed officer of the company;
+(ii) an employee or consultant of the company who was or has been engaged for more than one year in the maintenance of any of the company’s financial records or the preparation of any of its financial statements;
+(iii) a director, officer or employee of a person appointed as company secretary in terms of Part B of this Chapter;
+(iv) a person who, alone or with a partner or employees, habitually or regularly performs the duties of accountant or bookkeeper, or performs related secretarial work, for the company;
+(v) a person who, at any time during the five financial years immediately preceding the date of appointment, was a person contemplated in any of subparagraphs (i) to (iv); or
+(vi) a person related to a person contemplated in subparagraphs (i) to (v); and
+(c) must be acceptable to the company’s audit committee as being independent of the company, having regard to the matters enumerated in section 94(8), in the case of a company that has appointed an audit committee, whether as required by section 94, or voluntarily as contemplated in section 34(2).
+(3) If a company appoints a firm as an auditor, the individual determined by that firm, in terms of section 44(1) of the Auditing Profession Act, to be responsible for performing the functions of auditor must satisfy the requirements of subsection (2).
+(4) If a company that is required to appoint an auditor does not do so when it registers the incorporation of the company, the directors of the company must appoint the first auditor of the company within 40 business days after the date of incorporation of the company.
+(5) The first auditor of a company holds office until the conclusion of the first annual general meeting of the company.
+(6) A retiring auditor may be automatically reappointed at an annual general meeting without any resolution being passed, unless—
+(a) the retiring auditor is—
+(i) no longer qualified for appointment;
+(ii) no longer willing to accept the appointment, and has so notified the company; or
+(iii) required to cease serving as auditor, in terms of section 92;
+(b) an audit committee appointed by the company in terms of this Act objects to the reappointment; or
+(c) the company has notice of an intended resolution to appoint some other person or persons in place of the retiring auditor.
+(7) If an annual general meeting of a company does not appoint or reappoint an auditor the directors must fill the vacancy in the office in terms of the procedure contemplated in section 91within 40 business days after the date of the meeting.

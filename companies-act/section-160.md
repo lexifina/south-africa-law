@@ -1,0 +1,14 @@
+# 160. Disputes concerning reservation or registration of company names
+(1) A person to whom a notice is delivered in terms of section 12(3) or section 14(3), or any other person with an interest in the name of a company, may apply to the Companies Tribunal in the prescribed manner and form for a determination whether the name satisfies the requirements of section 11.
+(2) An application in terms of subsection (1) may be made—
+(a) within three months after the date of a notice contemplated in subsection (1), if the applicant received such a notice; or
+(b) on good cause shown at any time after the date of the reservation or registration of the name that is the subject of the application, in any other case.
+(3) After considering an application made in terms of subsection (1), and any submissions by the applicant and any other person with an interest in the name or proposed name that is the subject of the application, the Companies Tribunal—
+(a) must make a determination whether that name satisfies the requirements of section 11; and
+(b) may make an administrative order directing—
+(i) the Commission to—
+(aa) reserve a contested name for the applicant in terms of section 12;
+(bb) register the contested name, or amended name as the name of a company; or
+(cc) cancel a reservation granted in terms of section 12, if the reserved name has not been used by the person entitled to it; or
+(ii) a company to choose a new name, and to file a notice of an amendment to its Memorandum of Incorporation, within a period and on any conditions that the Tribunal considers just, equitable and expedient in the circumstances, including a condition exempting the company from the requirement to pay the prescribed fee for filing the notice of amendment contemplated in this paragraph.
+(4) Within 20 business days after receiving a notice or a decision issued by the Companies Tribunal in terms of this section, an incorporator of a company, a company, a person who received a notice in terms of section 12(3) or 14(3), an applicant under subsection (1) or and any other person with an interest in the name or proposed name that is the subject of the application, as the case may be, may apply to a court to review the notice or decision.
