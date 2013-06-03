@@ -28,7 +28,7 @@ In this Act, unless the context indicates otherwise—
 “board” means the board of directors of a company;
 “business days” has the meaning determined in accordance with section 5(3);
 “Cabinet” means the body of the national executive described in section 91 of the Constitution;
-“central securities depository” [The source does not give the text in force on this date.]
+“central securities depository” has the meaning set out in section 1 of the Financial Markets Act, 2012;
 “close corporation” means a juristic person incorporated under the Close Corporations Act, 1984 (Act No. 69 of 1984);
 “Commission” means the Companies and Intellectual Property Commission established by section 185;
 “Commissioner” means the person appointed to or acting in the office of that name, as contemplated in section 189;
@@ -70,7 +70,7 @@ but does not include any such action taken upon the final liquidation of the com
 “electronic communication” has the meaning set out in section 1 of the Electronic Communications and Transactions Act;
 “Electronic Communications and Transactions Act” means the Electronic Communications and Transactions Act, 2002 (Act No. 25 of 2002);
 “employee share scheme” has the meaning set out in section 95(1)(c);
-“exchange” [The source does not give the text in force on this date.]
+“exchange” when used as a noun, has the meaning set out in section 1 of the Financial Markets Act, 2012;
 “exercise”, when used in relation to voting rights, includes voting by proxy, nominee, trustee or other person in a similar capacity;
 “ex officio director” means a person who holds office as a director of a particular company solely as a consequence of that person holding some other office, title, designation or similar status specified in the company’s Memorandum of Incorporation;
 “external company” means a foreign company that is carrying on business, or non-profit activities, as the case may be, within the Republic, subject to section 23(2);
@@ -105,7 +105,7 @@ but does not include any such action taken upon the final liquidation of the com
 (i) had actual knowledge;
 (ii) investigated the matter to an extent that would have provided the person with actual knowledge; or
 (iii) taken other measures which, if taken, would reasonably be expected to have provided the person with actual knowledge of the matter;
-“listed securities” [The source does not give the text in force on this date.]
+“listed securities” has the meaning set out in section 1 of the Financial Markets Act, 2012;
 “Master” means the officer of the High Court, referred to in section 2 of the Administration of Estates Act, 1965 (Act 66 of 1965), who has jurisdiction over a particular matter arising in terms of this Act;
 “material”, when used as an adjective, means significant in the circumstances of a particular matter, to a degree that is—
 (a) of consequence in determining the matter; or
@@ -121,7 +121,7 @@ but does not include any such action taken upon the final liquidation of the com
 (ii) date it was converted to a company in terms of Schedule 2; or
 (c) a domesticated company is structured and governed;
 “Minister” means the member of the Cabinet responsible for companies;
-“nominee” [The source does not give the text in force on this date.]
+“nominee” means a person that acts as the registered holder of securities or an interest in securities on behalf of other persons;
 “non-profit company” means a company—
 (a) incorporated for a public benefit or other object as required by item 1(1) of Schedule 1; and
 (b) the income and property of which are not distributable to its incorporators, members, directors, officers or persons related to any of them except to the extent permitted by item 1(3) of Schedule 1;
@@ -132,7 +132,7 @@ but does not include any such action taken upon the final liquidation of the com
 (b) by holders of the company’s securities acting other than at a meeting, as contemplated in section 60;
 “organ of state” has the meaning set out in section 239 of the Constitution;
 “Panel” means the Takeover Regulation Panel, established by section 196;
-“participant” [The source does not give the text in force on this date.]
+“participant” has the meaning set out in section 1 of the Financial Markets Act, 2012;
 “person” includes a juristic person;
 “personal financial interest”, when used with respect to any person—
 (a) means a direct material interest of that person, of a financial, monetary or economic nature, or to which a monetary value may be attributed; but
@@ -190,7 +190,7 @@ but does not include any such action taken upon the final liquidation of the com
 “Takeover Regulations” means the regulations made by the Minister in terms of sections 120 and 223;
 “this Act” includes the Schedules and regulations;
 “unalterable provision” means a provision of this Act that does not expressly contemplate that its effect on any particular company may be negated, restricted, limited, qualified, extended or otherwise altered in substance or effect by a company’s Memorandum of Incorporation or rules;
-“uncertificated securities” [The source does not give the text in force on this date.]
+“uncertificated securities” means any securities defined as such in section 1 of the Financial Markets Act, 2012;
 “uncertificated securities register” means the record of uncertificated securities administered and maintained by a participant or central securities depository, as determined in accordance with the rules of a central securities depository, and which forms part of the relevant company’s securities register established and maintained in terms of Part E of Chapter 2;
 “voting power”, with respect to any matter to be decided by a company, means the voting rights that may be exercised in connection with that matter by a particular person, as a percentage of all such voting rights;
 “voting rights”, with respect to any matter to be decided by a company, means—
