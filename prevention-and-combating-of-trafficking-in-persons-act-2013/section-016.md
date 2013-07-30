@@ -1,0 +1,10 @@
+# s. 16
+16. (1) (a) The Director-General: Home Affairs may, despite the provisions of the Immigration Act, and subject to paragraph (b), issue a visitor's visa in terms of section 11(1)(b)(iv) of the Immigration Act to a victim of trafficking if that person is present in the Republic and has agreed in writing to cooperate with the law enforcement or prosecuting authorities in the investigation of and the prosecution of a case of trafficking in persons, as the case may be.
+(b) The Director-General: Home Affairs may only issue a visitor's visa in terms of paragraph (a) if the National Commissioner of the South African Police Service or the National Director of Public Prosecutions, in writing, confirms that the person is required for purposes of a police investigation or criminal prosecution, as the case may be, and that the continued presence of the person in South Africa is essential for the successful prosecution of a person who is alleged to have committed an offence under Chapter 2.
+(c) The Director-General: Home Affairs may despite the provisions of the Immigration Act, extend or withdraw a visitor's visa referred to in paragraph (a) if he or she is requested in writing to do so by the National Commissioner of the South African Police Service or the National Director of Public Prosecutions in the prescribed manner.
+(d) The Director-General: Home Affairs may, despite the provisions of this subsection, refuse to issue a visitor's visa or the extension thereof if there are substantial and compelling reasons to do so.
+(2)Avisitor's visa referred to in subsection (1) may be issued to a victim of trafficking regardless of—
+(a) his or her status; or
+(b) whether a visitor's visa as provided for in section 15 was issued or has expired.
+(3) The National Commissioner of the South African Police Service or the National Director of Public Prosecutions must, in writing, request the Director-General: Home Affairs to withdraw a visitor's visa issued in terms of this section when the need for that visitor's visa no longer exists.
+Application for rights of permanent residence in terms of section 31(2)(b) of
