@@ -1,0 +1,5 @@
+# s. 29
+Consultation with other land development authorities
+29. (1) A municipality must consult any organ of state responsible for administering legislation relating to any aspect of an activity that also requires approval in terms of this Act in order to coordinate activities and give effect to the respective requirements of such legislation, and to avoid duplication.
+(2) A municipality, in giving effect to Chapter 3 of the Constitution, may, after consultation with the organ of state contemplated in subsection (1), enter into a written agreement with that organ of state to avoid duplication in the submission of information or the carrying out of a process relating to any aspect of an activity that also requires authorisation under this Act.
+(3) After a municipality has concluded an agreement contemplated in subsection (2), the relevant Municipal Planning Tribunal may take account of any process authorised under the legislation covered by that agreement as adequate for meeting the requirements of this Act.
