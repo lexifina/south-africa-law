@@ -6,10 +6,12 @@ Supreme Court of Appeal
 
 (2) A matter before the Supreme Court of Appeal must be decided by the number of judges determined in terms of an Act of Parliament.
 
-(3) The Supreme Court of Appeal may decide appeals in any matter. It is the highest court of appeal except in constitutional matters, and may decide only—
+(3) (a) The Supreme Court of Appeal may decide appeals in any matter arising from the High Court of South Africa or a court of a status similar to the High Court of South Africa, except in respect of labour or competition matters to such extent as may be determined by an Act of Parliament.
 
-(a) appeals;
+(b) The Supreme Court of Appeal may decide only—
 
-(b) issues connected with appeals; and
+(i) appeals;
 
-(c) any other matter that may be referred to it in circumstances defined by an Act of Parliament.
+(ii) issues connected with appeals; and
+
+(iii) any other matter that may be referred to it in circumstances defined by an Act of Parliament.

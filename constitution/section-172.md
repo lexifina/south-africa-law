@@ -12,7 +12,7 @@ Powers of courts in constitutional matters
 
 (ii) an order suspending the declaration of invalidity for any period and on any conditions, to allow the competent authority to correct the defect.
 
-(2) (a) The Supreme Court of Appeal, a High Court or a court of similar status may make an order concerning the constitutional validity of an Act of Parliament, a provincial Act or any conduct of the President, but an order of constitutional invalidity has no force unless it is confirmed by the Constitutional Court.
+(2) (a) The Supreme Court of Appeal, the High Court of South Africa or a court of similar status may make an order concerning the constitutional validity of an Act of Parliament, a provincial Act or any conduct of the President, but an order of constitutional invalidity has no force unless it is confirmed by the Constitutional Court.
 
 (b) A court which makes an order of constitutional invalidity may grant a temporary interdict or other temporary relief to a party, or may adjourn the proceedings, pending a decision of the Constitutional Court on the validity of that Act or conduct.
 

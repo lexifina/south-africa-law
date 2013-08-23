@@ -1,7 +1,7 @@
 # Section 175
 
-Acting judges
+Appointment of acting judges
 
-175. (1) The President may appoint a woman or a man to be an acting judge of the Constitutional Court if there is a vacancy or if a judge is absent. The appointment must be made on the recommendation of the Cabinet member responsible for the administration of justice acting with the concurrence of the Chief Justice.
+175. (1) The President may appoint a woman or man to serve as an acting Deputy Chief Justice or judge of the Constitutional Court if there is a vacancy in any of those offices, or if the person holding such an office is absent. The appointment must be made on the recommendation of the Cabinet member responsible for the administration of justice acting with the concurrence of the Chief Justice, and an appointment as acting Deputy Chief Justice must be made from the ranks of the judges who had been appointed to the Constitutional Court in terms of section 174(4).
 
 (2) The Cabinet member responsible for the administration of justice must appoint acting judges to other courts after consulting the senior judge of the court on which the acting judge will serve.

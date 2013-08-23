@@ -24,7 +24,7 @@ Judicial Service Commission
 
 (j) four persons designated by the President as head of the national executive, after consulting the leaders of all the parties in the National Assembly; and
 
-(k) when considering matters relating to a specific High Court, the Judge President of that Court and the Premier of the province concerned, or an alternate designated by each of them.
+(k) when considering matters relating to a specific Division of the High Court of South Africa, the Judge President of that Division and the Premier of the province concerned, or an alternate designated by each of them.
 
 (2) If the number of persons nominated from within the advocates’ or attorneys’ profession in terms of subsection (1)(e) or (f) equals the number of vacancies to be filled, the President must appoint them. If the number of persons nominated exceeds the number of vacancies to be filled, the President, after consulting the relevant profession, must appoint sufficient of the nominees to fill the vacancies, taking into account the need to ensure that those appointed represent the profession as a whole.
 
