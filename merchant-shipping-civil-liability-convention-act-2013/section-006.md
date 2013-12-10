@@ -1,0 +1,5 @@
+# s. 6
+Construction of certain provision and references in 1992 Liability Convention
+6. (1) Paragraph 1 of Article VII of the 1992 Liability Convention, in so far as it relates to the Republic, must be construed as requiring the owner of a ship registered in the Republic to maintain the insurance or other financial security referred to in that paragraph.
+(2) For the purposes of paragraph (a)(i) of Article II of the 1992 Liability Convention, and in so far as it relates to the Republic, the reference to the territorial sea must be construed as a reference to the territorial waters of the Republic referred to in section 4 of the Maritime Zones Act, 1994 (Act No. 15 of 1994).
+(3) For the purposes of paragraph (a)(ii) of Article II of the 1992 Liability Convention, and in so far as it relates to the Republic, the reference to exclusive economic zone must be construed as a reference to the exclusive economic zone of the Republic within the meaning of section 7 of the Maritime Zones Act, 1994 (Act No. 15 of 1994).
