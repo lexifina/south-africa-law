@@ -1,0 +1,3 @@
+# s. 33
+Rectification of errors
+33. The Minister may, if anything which is required to be done or performed in terms of this Act on or before a specified day or at a specified time or during a specified period, has not been done or performed, and the Minister is satisfied that such failure was due to an error or oversight and that it would not be to the detriment of any person affected by such failure and after that person has been informed of such failure, where applicable, authorise it to be done or performed on or before any other day or at any other time or during any other period, and anything done or performed during this period is of full force and effect and is deemed to have been lawfully done or performed in accordance with the provisions of this Act.
