@@ -1,0 +1,2 @@
+Merchant Shipping (International Oil Pollution Compensation Fund) Adminsitration Act, 2013 ACT To provide for administrative matters in connection with the levy imposed in terms of the Merchant Shipping (International Oil Pollution Compensation Fund) Contributions Act, 2013; and to provide for matters connected therewith.
+B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:—
