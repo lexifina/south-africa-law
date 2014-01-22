@@ -1,0 +1,36 @@
+# s. 16
+Entering and search of premises and attachment and removal of articles
+16. (1) Any commissioner, or any member of staff or a police officer authorised thereto by a commissioner, may, subject to the provisions of this section, for the purposes of exercising the powers and performing the functions mentioned in section 13 or conducting an investigation, search any person or enter and search any premises on or in which anything connected with an investigation is or is suspected to be.
+(2) The entry and search of any person or premises under this section must be conducted with strict regard to decency and order, including the protection of a person's right to—
+(a) respect for and protection of his or her dignity;
+(b) freedom and security; and
+(c) his or her personal privacy.
+(3) A commissioner or member of staff or police officer contemplated in subsection
+(1) may, subject to the provisions of this section—
+(a) inspect and search the person or premises referred to in that subsection, and there make such enquiries as he or she may deem necessary;
+(b) examine any article or document found on the person or on or in the premises;
+(c) request information regarding such article or document from the owner or person in control of the premises or from any person in whose possession or control that article or document is, or who may reasonably be expected to have the necessary information;
+(d) make copies of or take extracts from any book or document found on the person or on or in the premises;
+(e) request from any person whom he or she suspects of having the necessary information, an explanation regarding that article or document;
+(f) attach anything on the person or on or in the premises which in his or her opinion has a bearing on the investigation concerned; and
+(g) if he or she wishes to retain anything contemplated in paragraph (f) for further examination or for safe custody, against the issue of a receipt, remove it from the person or premises: Provided that any article that has been so removed, must be returned as soon as possible after the purpose for such removal has been accomplished: Provided further that if there is no person present to receive the receipt when it is issued, it must be affixed to a prominent place on the premises.
+(4) Any person from whom information is required in terms of subsection (3)(a), (c) and (e) may be assisted at such enquiry by a legal representative, and must at the commencement of such enquiry be so informed.
+(5) (a) The person referred to in subsection (1) may only be searched or the premises referred to in the said subsection may only be entered and searched, by virtue of a search warrant or an entry and search warrant issued by a magistrate, or judge of a High Court, if it appears to such magistrate or judge from information on oath that there are reasonable grounds for believing that any article or document, which has a bearing on the investigation concerned, is in the possession or under the control of any person or on or in any premises within such magistrate's or judge's area of jurisdiction and cannot reasonably be obtained in any other manner.
+(b) The functions referred to in subsection (3) may only be performed by virtue of a warrant issued by a magistrate, or judge of a High Court, if it appears to such magistrate or judge from information on oath that there are reasonable grounds for believing that an article or document referred to in paragraph (a) is in the possession or under the control of any person or on or in any premises within such magistrate's or judge's area of jurisdiction.
+(c) A warrant must authorise any commissioner or any member of staff or a police officer to perform the functions referred to in subsection (3) and must to that end authorise such person to search any person or to enter and search any premises identified in the warrant.
+(d) A warrant must be executed by day, unless the person issuing the warrant in writing authorises the execution thereof by night at times which are reasonable in the circumstances.
+(e) A warrant may be issued on any day and is of force until—
+(i) it is executed; or
+(ii) it is cancelled by the person who issued it or, if such person is not available, by any person with like authority; or
+(iii) the expiry of one month from the day of its issue; or
+(iv) the purpose for the issuing of the warrant has lapsed, whichever may occur first.
+(f) A person executing a warrant under this section must, at the commencement of such execution, hand the person referred to in the warrant or the owner or the person in control of the premises, if such a person is present, a copy of the warrant: Provided that if such person is not present, he or she must affix a copy of the warrant to the premises at a prominent and visible place.
+(g) A person executing a warrant under this section or an entry or search under subsection (6) must, at the commencement of such execution, identify himself or herself and if that person requires authorisation to execute a warrant under this section, the particulars of such authorisation must also be furnished.
+(6) Subject to the provisions of subsections (2), (4), (5)(g), (7) and (8), any commissioner, or any member of staff or a police officer upon request by a commissioner, may, without a warrant, enter and search any premises, other than a private dwelling, for the purposes of attaching and removing, if necessary, any article or document—
+(a) if the person or persons who may consent to the entering and search for an attachment and removal of an article or document consents or consent to such entering, search, attachment and removal of the article or document concerned; or
+(b) if he or she, on reasonable grounds, believes—
+(i) that a warrant will be issued to him or her if he or she applies for such warrant; and
+(ii) that the delay in obtaining such a warrant would defeat the object of the entry and search.
+(7) An entry and search in terms of subsection (6) must be executed by day unless the execution thereof by night is justifiable and necessary.
+(8) A person who may lawfully under this section enter and search any premises may use such force as may be reasonably necessary to overcome any resistance against such entry and search of the premises, including the breaking of any door or window of such premises: Provided that such person must first audibly demand admission to the premises and notify the purpose for which he or she seeks to enter and search such premises.
+(9) If during the execution of a warrant in terms of subsection (5) or a search in terms of subsection (6), a person claims that an article or document found on the person or on or in the premises concerned contains privileged information and refuses the inspection or removal of such article or document, the person executing the warrant or search must, if he or she is of the opinion that the article or document contains information that has a bearing on the investigation and that such information is necessary for the investigation, request the registrar of the High Court which has jurisdiction or his or her delegate, to attach and remove that article or document for safe custody until a court of law has made a ruling on the question whether the information concerned is privileged or not.

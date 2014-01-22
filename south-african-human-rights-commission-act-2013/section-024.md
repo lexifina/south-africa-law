@@ -1,0 +1,6 @@
+# s. 24
+Repeal of law and transitional arrangements
+24. (1) The Human Rights Commission Act, 1994 (Act No. 54 of 1994), is hereby repealed.
+(2) Any person who, immediately before the commencement of this Act, has been appointed to a post in or additional to the fixed establishment of the South African Human Rights Commission or is otherwise dealt with in terms of the Human Rights Commission Act, 1994, is deemed to have been so appointed or dealt with under the corresponding provisions of this Act.
+(3) Anything done, including any regulation made or instruction issued or other administrative measure taken or any contract entered into or any obligation incurred under the Human Rights CommissionAct, 1994, which could be done under thisAct and which was in force immediately before the commencement of this Act, is deemed to have been so done, issued, taken, entered into or incurred, as the case may be, under this Act until amended, withdrawn or repealed under this Act.
+(4) Any reference in any law to the Human Rights Commission Act, 1994, must, unless the context otherwise indicates or if clearly inappropriate, be construed as a reference to this Act, or to the corresponding provision thereof, as the case may be.
