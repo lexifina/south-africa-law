@@ -1,0 +1,4 @@
+ACT To provide for public employment services; to provide for the establishment of schemes to promote the employment of young work seekers and other vulnerable persons; to provide for schemes to assist employees in distressed companies to retain employment; to facilitate the employment of foreign nationals in a manner that is consistent with the objects of this Act and the Immigration Act, 2002; to provide for the registration and regulation of private employment agencies; to provide for the establishment of the Employment Services Board; to provide for the establishment of Productivity South Africa; to provide for the establishment of Supported Employment Enterprises; to provide for transitional provisions; and to provide for matters connected therewith.
+B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:—
+CHAPTER 1
+INTERPRETATION, PURPOSES AND ADMINISTRATION
