@@ -1,0 +1,5 @@
+ACT To provide for the development and promotion of sustainable tourism for the benefit of the Republic, its residents and its visitors; to provide for the continued existence of the South African Tourism Board; to provide for the establishment of the Tourism Grading Council; to regulate the tourist guide profession; to repeal certain laws; and to provide for matters connected therewith.
+PREAMBLE SINCE tourism in South Africa has grown considerably since the country's first democratic election;
+AND SINCE inadequate, uncoordinated, inconsistent and fragmented tourism planning and information provision is the most pervasive challenge facing the development and growth of tourism in the Republic;
+AND SINCE transformation is vital to ensure the sustainable growth and development of the tourism sector;
+AND SINCE these challenges are best addressed through a concerted effort by all spheres of government and the private sector to work together to create an environment that is conducive to the sustainable growth, development and transformation of tourism, P ARLIAMENT OF THE REPUBLIC OF SOUTH AFRICA therefore enacts as follows:—
