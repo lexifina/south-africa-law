@@ -1,0 +1,10 @@
+# 45. Conflict of interest
+(1) If any member of the Regulator or any person appointed by the Regulator in terms of this Act has a material interest in any matter which could conflict with the proper performance of his or her duties in terms of this Act or the Promotion of Access to Information Act, he or she must disclose that interest, as prescribed, as soon as practicable after the relevant facts came to his or her knowledge.
+(2) (a) If a member of the Regulator or person referred to in subsection (1)—
+(i) is present at a meeting of the Regulator or committee referred to in section 49 or 50 at which a matter contemplated in that subsection is to be considered, the member or person concerned must disclose the nature of his or her interest to the meeting before the matter is considered; or
+(ii) fails to make a disclosure as required by this subsection and is present at a meeting of the Regulator or committee, as the case may be, or in any other manner participates in the proceedings, such proceedings in relation to the relevant matter must, as soon as the non-disclosure is discovered, be reviewed and be varied or set aside by the Regulator or the committee, as the case may be, without the participation of the member or person concerned.
+(b) A member of the Regulator or person referred to in subsection (1) who is obliged to make a disclosure in terms of this subsection may not be present during any deliberation, or take part in any decision, in relation to the matter in question.
+(c) Any disclosure made in terms of this subsection must be noted in the minutes of the relevant meeting of the Regulator or committee.
+(3) A member of the Regulator or person referred to in subsection (1) who has disclosed a conflict of interest in terms of subsection (1)—
+(a) may perform all duties relating to the matter in question if a decision has been taken that the interest is trivial or irrelevant; or
+(b) must be relieved of all duties relating to the matter in question and such duties must be performed by another member of the Regulator or by another person referred to in subsection (1), as the case may be, who has no such conflict of interest.

@@ -1,0 +1,2 @@
+# 54. Duty of confidentiality
+A person acting on behalf or under the direction of the Regulator, must, both during or after his or her term of office or employment, treat as confidential the personal information which comes to his or her knowledge in the course of the performance of his or her official duties, except if the communication of such information is required by law or in the proper performance of his or her duties.
