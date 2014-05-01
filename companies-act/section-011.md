@@ -2,6 +2,8 @@
 (1) Subject to subsections (2) and (3), a company name—
 (a) may comprise one or more words in any language, irrespective of whether the word or words are commonly used or contrived for the purpose, together with—
 (i) any letters, numbers or punctuation marks;
+(ii) any of the following symbols: +, &, #, @, %, =;
+(iii) any other symbol permitted by the regulations made in terms of subsection (4); or
 (iv) round brackets used in pairs to isolate any other part of the name, alone or in any combination; or
 (b) in the case of a profit company, may be the registration number of the company together with the relevant expressions required by subsection (3).
 (2) The name of a company must—
