@@ -1,0 +1,8 @@
+# s. 39
+Transitional provisions and savings
+39. (1) In this section, ''IDZ Regulations'' means the Industrial Development Zone Programme Regulations published under Government Notice R1224 in Government Gazette 21803 of 1 December 2000, as amended.
+(2) Any designation of an industrial development zone under the IDZ Regulations which is in force immediately before this Act comes into operation, remains in force and must be regarded as a designation of a Special Economic Zone under this Act.
+(3) Any industrial development zone operator permit issued under the IDZ Regulations which is in force immediately before thisAct comes into operation, remains in force and must be regarded as a Special Economic Zone operator permit issued under this Act.
+(4)Any industrial development zone enterprise approved to be located in an industrial development zone under the IDZ Regulations before thisAct comes into operation, must be regarded as a business approved to be located in a Special Economic Zone in terms of this Act: Provided that such a business must comply with the criteria in section 24(4) and section 38(3).
+(5) Notwithstanding subsections (2), (3) and (4), any industrial development zone operator must ensure that the industrial development zone complies with the framework regulating Special Economic Zones in terms of this Act, within three years of commencement of this Act.
+(6) Any application for the designation of an industrial development zone or for the issuing of an operator permit made under the IDZ Regulations which is not finalised immediately before this Act comes into operation, must be dealt with as an application for designation as a Special Economic Zone or an application for an operator permit, as the case may be, in terms of this Act.
