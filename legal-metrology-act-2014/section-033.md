@@ -1,0 +1,5 @@
+# s. 33
+Prohibition of false statement as to quantity
+33. (1) Subject to subsection (2), any person who directly or indirectly makes any false, incorrect or untrue declaration or statement or wilfully misleads any person as to the quantity or a measurement value, expressed by number or in terms of any measurement unit, of any item in connection with its purchase, sale, counting or measurement or in the computation of any charges for services rendered or for any other measurement of a legal nature on the basis of number or measurement, is guilty of an offence.
+(2) If the difference between the actual and any represented quantity, expressed by number or in terms of any measurement unit, in respect of which any declaration or statement contemplated in subsection (1) is made and such difference is permissible in terms of this Act, that declaration or statement must not be regarded as false, incorrect or untrue merely because of the existence of that difference.
+Measurement for prescribed purpose to be effected in terms of certain measure-ment units and by means of verified measuring instruments

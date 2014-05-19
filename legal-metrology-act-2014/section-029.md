@@ -1,0 +1,2 @@
+# s. 29
+29. Notwithstanding anything to the contrary in this Act or any other law, the Minister may, by notice in the Gazette, restrict or prohibit the manufacture, import, use or possession of any measuring instrument or container to such extent and under such conditions as may be necessary in order to achieve the object of effecting the application of measurement units of the International System of Units and any other prescribed measurement unit in the Republic.

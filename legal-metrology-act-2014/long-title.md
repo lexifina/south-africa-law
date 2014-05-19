@@ -1,0 +1,4 @@
+ACT To provide for the administration and maintenance of legal metrology technical regulations in order to promote fair trade and to protect public health and safety and the environment; and to provide for matters connected therewith.
+PREAMBLE Whereas it is desirable to—
+●promote fair trade and to protect public health and safety and the environment;
+●provide for the implementation of a regulatory and compliance system for legal metrology by the National Regulator for Compulsory Specifications and for the administration and maintenance of legal metrology technical regulations; and ●provide for market surveillance by the National Regulator for Compulsory Specifications in order to ensure compliance with legal metrology technical regulations, B E IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as follows:—

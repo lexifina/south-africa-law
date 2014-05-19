@@ -1,0 +1,6 @@
+# s. 32
+Measuring instruments to be wholly exposed
+32. (1) Any person who, in the presence of the purchaser of any product and in connection with the measuring of the quantity of such product, uses any measuring instrument, must keep such measuring instrument wholly exposed to the view of such purchaser.
+(2) Any person who uses any measuring instrument in the presence of a person in respect of whom the first mentioned person provides a service must keep such measuring instrument wholly exposed to the view of the person in respect of whom the first mentioned person provides a service.
+(3) Any person who uses any measuring instrument other than in the presence of a person in respect of whom the first mentioned person provides a service, must grant free access to such measuring instrument and its indications to any person affected by or to whom the measurement applies.
+(4) Any person who, in the retail trade, sells any product prepacked by him or her must, at the request of the purchaser of such product who wishes to measure the quantity of the product purchased, make available to that purchaser a verified measuring instrument suitable for measuring the quantity of the product in question.
