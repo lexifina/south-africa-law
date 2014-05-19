@@ -1,0 +1,2 @@
+ACT To provide for the establishment of the South African Language Practitioners' Council; to provide for the objects, powers, duties and functions of the Council; to determine the manner in which the Council is to be managed, governed, staffed and financed; to regulate the training of language practitioners; to provide for control of the accreditation and registration of language practitioners; and to provide for matters connected therewith.
+B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:—

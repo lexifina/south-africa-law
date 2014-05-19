@@ -1,0 +1,8 @@
+# s. 31
+Register as proof
+31. (1) (a) A copy of the last published issue of a register or supplementary list purporting to be printed and published on the authority of the Council is prima facie proof in all legal proceedings of the facts therein recorded.
+(b) The absence of the name of a person from such copy is proof, unless there is credible evidence to the contrary, that such person is not registered according to the provisions of this Act.
+(2) For the purposes of subsection (1) a certified extract or a certificate contemplated in section 32(3) bearing a date subsequent to the date of publication of the register or supplementary list contemplated in subsection (1) is ''credible evidence to the contrary''.
+(3) If the registrar issues a certificate dated later than the date of publication of the register or supplementary list contemplated in subsection (1) to the effect that a language practitioner's name has been removed from the register since the date of publication of the register or supplementary list and has not been restored thereto, that certificate is proof, in the absence of credible evidence to the contrary, that such person is not registered in terms of the provision of this Act.
+(4)Acertificate of registration is proof of registration for a period of one year only and thereafter an annual practising certificate, issued upon payment of the prescribed annual fee and upon submission of such information as may be required by the Council to enable it to keep accurate statistics on human resources in the language field, is proof of registration in the absence of credible evidence to the contrary.
+Issue of duplicate registration certificate, certificate of status, extract from register or certificate by registrar
