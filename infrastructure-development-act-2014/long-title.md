@@ -1,0 +1,3 @@
+ACT To provide for the facilitation and co-ordination of public infrastructure development which is of significant economic or social importance to the Republic;
+to ensure that infrastructure development in the Republic is given priority in planning, approval and implementation; to ensure that the development goals of the state are promoted through infrastructure development; to improve the management of such infrastructure during all life-cycle phases, including plan-ning, approval, implementation and operations; and to provide for matters incidental thereto.
+B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:—
