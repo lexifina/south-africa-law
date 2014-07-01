@@ -1,0 +1,4 @@
+# s. 15
+Valuation reports
+15. (1) A registered valuer must within six months of the date of the notice referred to in section 12(2) or such extended period as may be approved by the Valuer-General on good cause shown in respect of each valuation referred to in section 12, prepare a valuation report.
+(2) A valuation report must reflect such opinions, statements and information as may be required or prescribed and must reflect an opinion or conclusion on the valuation of the property which is the subject of the valuation and must include all relevant information including, where applicable, the current use of the property, the history of the acquisition and use of the property, the market value of the property, an explanation on how a value was determined and the methodology utilised in determining the value.
