@@ -1,0 +1,2 @@
+# s. 183
+183. The Commissioner must take all reasonable steps, including the making of any necessary rules, to ensure that the legislative and administrative measures regulating a non-reciprocal generalised system of preferences of a country implementing such a system for goods of South African origin are complied with to the extent that those measures require the performance of any acts in the Republic as a precondition for benefiting from that system.

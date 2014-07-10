@@ -1,0 +1,13 @@
+# s. 133
+Determination of customs value according to similar goods method
+133. (1) If the similar goods method is used for determining the customs value of any specific imported goods—
+(a) the transaction value per unit of similar goods, as previously determined by the customs authority in terms of section 117 or 118(1)(a) or (b), which were sold for export to the Republic at the same commercial level and in substantially the same quantity and exported to the Republic at or about the same time as the goods being valued, must be taken as the customs value per unit of the goods being valued, subject to any adjustments that must be made in terms of subsection (2); or
+(b) if no determination contemplated in paragraph (a) was made that can be used for purposes of that paragraph, the transaction value per unit of similar goods, as previously determined by the customs authority in terms of section 117 or 118(1)(a) or (b), which were sold for export to the Republic at either a different commercial level or quantity level, or at a different commercial level and quantity level, and exported to the Republic at or about the same time as the goods being valued, must be taken as the customs value per unit of the goods being valued, subject to any adjustments that must be made in terms of subsection (3).105
+(2) The transaction value of the similar goods used for a valuation in terms of subsection (1)(a) must be adjusted to compensate for any differences in costs and charges contemplated in section 131(3) and (4) resulting from differences in distances and modes of transport to the port or place of export, between the similar goods and the goods being valued.
+(3) The transaction value of the similar goods used for a valuation in terms of subsection (1)(b) must be adjusted to compensate for any differences in—
+(a) the sale for export to the Republic of the similar goods and of the goods being valued at the different commercial levels or quantity levels; and
+(b) costs and charges for different distances and modes of transport to the port or place of export, between the similar goods and the goods being valued.
+(4) If in applying this section more than one similar goods transaction is used for
+104. Transaction value of goods are determined in accordance with section 131. See definition of ''transaction value'' in section 1.
+105. Transaction value of goods are determined in accordance with section 131. See definition of ''transaction value'' in section 1.
+determining the value of the goods being valued, the transaction yielding the lowest value must be taken as the customs value of the goods.
