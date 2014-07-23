@@ -1,0 +1,2 @@
+# s. 44
+44. When an outbound vehicle arrives at a land border-post the requirements of this Act relating to the vehicle and the goods and persons on board the vehicle must be complied with. These requirements include declaring goods that must be declared in terms of section 483 and clearing the vehicle and any goods on board the vehicle in terms of section 93 for export, excluding goods exempted from clearance in terms of section 95.

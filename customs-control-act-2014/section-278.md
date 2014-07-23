@@ -1,0 +1,2 @@
+# s. 278
+278. Vehicles, vessels or light aircraft cleared for temporary admission in terms of section 272 as a private means of transport for a traveller visiting the Republic may, despite the other provisions of this Part, be cleared and released for export under the temporary admission procedure in accordance with simplified clearance and release processes and requirements provided for in Part 3 of Chapter 24.

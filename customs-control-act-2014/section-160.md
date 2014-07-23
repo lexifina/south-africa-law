@@ -1,0 +1,4 @@
+# s. 160
+160. (1) If any goods are in terms of a provision of this Act regarded for tax purposes to be cleared for outright export, the goods may not be dealt with or released as if the goods were actually cleared for outright export, but the customs authority may allow or direct the exporter of the goods to formally clear the goods for outright export within a period determined by the customs authority.
+(2) The customs authority may not in terms of subsection (1) allow or direct goods to be cleared for outright export where such clearance will be inconsistent with this Act160 or other applicable legislation.161
+(3) If goods in free circulation are in terms of a provision of this Act regarded for tax purposes to be cleared for outright export, no domestic tax paid on such goods that would have been refundable in terms of a tax levying Act regulating that tax had the goods actually been cleared for outright export is recoverable from the Commis-sioner.162

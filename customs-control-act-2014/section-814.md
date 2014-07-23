@@ -1,0 +1,7 @@
+# s. 814
+Burden on right-holders to protect their rights
+814. (1) The right-holder whose application has been granted in terms of section 806 or 810 must, within a period of ten calendar days after the detention of the goods, read with section 908, submit to the customs authority a notice455 indicating whether or not the right-holder intends to apply to a court for a finding that the detained goods are counterfeit goods that infringe an intellectual property right in respect of protected goods for which the application in terms of section 806 or 810 was granted.
+(2) A copy of the notice submitted to the customs authority in terms of subsection (1) must simultaneously be submitted to a person who in relation to the detained goods is an affected party if the name and address or contact details of that person are available to or reasonably determinable by the right-holder.
+(3) If the right-holder submits a notice indicating that the right-holder—
+(a) intends to apply to a court for a finding that the detained goods are counterfeit goods, the goods must be removed to a counterfeit goods depot in accordance with section 815; or
+(b) intends not to apply to a court for a finding that the detained goods are counterfeit goods, the customs authority must promptly terminate the detention of the goods, but no such termination of a detention affects the application of the Counterfeit Goods Act in relation to those goods.

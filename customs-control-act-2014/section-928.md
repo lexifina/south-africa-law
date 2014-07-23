@@ -1,0 +1,6 @@
+# s. 928
+Act and Excise Duty Act
+928. (1) Despite the enactment of thisAct, the Customs DutyAct and the Customs and Excise Amendment Act, 2014, any measure in force in terms of the 1964 Act immediately before the effective date in relation to any goods or a person or matter contemplated in section 927(a), (b) or (c), continues on and after the effective date to be in force in relation to those goods or that person or matter but only if and to the extent that a measure of a corresponding kind can in relation to those goods or that person or matter be issued, granted, imposed or made after the effective date in terms of this Act, the Customs Duty Act or the Excise Duty Act.475
+(2) A measure that continues in force in terms of subsection (1) must for all purposes, including for purposes of any future amendment, substitution, repeal, withdrawal or suspension thereof, be regarded to have been issued, granted, imposed or made in terms of the relevant enabling provision of this Act, the Customs Duty Act or the Excise Duty Act, as the case may be, which provides for a measure of a corresponding kind to be issued, granted or imposed on or after the effective date.476
+(3) Subsections (1) and (2) must be read subject to sections 931 to 939.
+Continued application of 1964 Act on and after effective date in relation to certain goods and persons

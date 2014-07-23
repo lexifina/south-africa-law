@@ -1,0 +1,3 @@
+# s. 154
+154. (1) If goods under a customs procedure are in terms of section 112 regarded for tax purposes to be cleared for home use under Chapter 8 those goods lose the tax status they had under that customs procedure and acquire a tax due status in relation to import tax as from the date on which those goods were cleared for, or otherwise came under, that customs procedure.
+(2) Any import tax146 that would have been payable on the goods referred to in subsection (1) had the goods actually been cleared for home use under Chapter 8 on the date referred to in that subsection, becomes payable in respect of those goods at such rate,147 at such time and by such person or persons as may be determined in terms of the applicable tax levying Act.148

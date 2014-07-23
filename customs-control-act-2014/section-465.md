@@ -1,0 +1,5 @@
+# s. 465
+465. (1) Compensating products obtained from goods exported from the Republic under the outward processing procedure may be cleared for home use as outward processed compensating products only if those compensating products were imported into the Republic —
+(a) within a timeframe as may be determined in a tax levying Act referred to in section 458(a) for the class or kind of goods from which those products were obtained or, if two or more tax levying Acts authorise the same class or kind of goods to be cleared for outward processing, within a period determined uniformly in those tax levying Acts for that class or kind of goods; or
+(b) if no period is in terms of paragraph (a) determined for the relevant class or kind of goods, within two years from the time of clearance334 for outward processing of the goods from which those compensating products were obtained.
+(2) A timeframe referred to in subsection (1)(a) or (b) is subject to extension or shortening in terms of section 908 or 909.

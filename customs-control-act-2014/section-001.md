@@ -1,0 +1,3 @@
+# s. 1
+1. This includes all items booked as a person's baggage or excess baggage irrespective of whether that baggage accompanied, or is to accompany, that person on the same vessel, aircraft, train or vehicle in which that person entered or is to leave the Republic or whether that baggage arrived, or is to be sent, on a separate vessel, aircraft, train or vehicle. It also includes any goods bought or acquired by a person from a tax free shop at the place of entry after having entered the Republic. The only condition is that the traveller must have the goods on or physically with him or her when processed through Customs.
+Baggage which is not with the traveller when processed through Customs is ''unaccompanied baggage'' as defined.

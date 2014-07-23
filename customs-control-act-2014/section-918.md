@@ -1,0 +1,5 @@
+# s. 918
+Exemptions, authorisations, permissions, approvals, recognitions and directions
+918. (1) (a) Where this Act confers a power on the Commissioner, the customs authority or a customs officer to grant an exemption, authorisation, permission, approval or recognition, or to issue a direction, or to allow an act to be carried out, that power includes the power to grant the exemption, authorisation, permission, approval or recognition, or to issue the direction, or to allow the carrying out of such act, on such conditions or for such period as the Commissioner, customs authority or customs officer may determine.
+(b) A condition and a period determined in terms of paragraph (a) must be consistent with this Act and any applicable tax levying Act.
+(2) Where this Act provides that an act may be carried out only on authority of an exemption, authorisation, permission, approval or recognition granted by the Commis-sioner, the customs authority or a customs officer, no such exemption, authorisation, permission or approval may be granted to regularise an act that has already been carried out.

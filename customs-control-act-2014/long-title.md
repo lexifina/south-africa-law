@@ -1,0 +1,1 @@
+ACT To provide for customs control of all vessels, aircraft, trains, vehicles, goods and persons entering or leaving the Republic; to facilitate the implementation of certain laws levying taxes on goods and of other legislation applicable to such goods and persons; and for matters incidental thereto.

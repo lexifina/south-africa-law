@@ -1,0 +1,4 @@
+# s. 158
+Tax status of goods exported without clearance
+158. (1) If goods exported, or in the process of being exported, from the Republic are in terms of section 96(1) regarded for tax purposes to be cleared for outright export, those goods acquire a tax due status in relation to export tax as from a date determined by the customs authority.
+(2) Any export tax154 that would have been payable on the goods referred to in subsection (1) had the goods actually been cleared for outright export on the date applied to the goods in terms of that subsection, becomes payable in respect of those goods at such rate,155 at such time and by such person or persons as may be determined in terms of the applicable tax levying Act.156 Tax status of goods under customs procedures regarded to be cleared for outright export

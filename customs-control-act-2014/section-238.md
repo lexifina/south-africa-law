@@ -1,0 +1,3 @@
+# s. 238
+238. (1) The responsibility for ensuring that an excise warehouse transit operation is carried out and completed in accordance with this Act and any steps taken or directions issued by the customs authority in terms of section 123 rests jointly and severally with the carrier who carries out the excise warehouse transit operation and the licensee of the excise manufacturing warehouse where the goods are to be delivered.
+(2) The responsibilities conferred in terms of subsection (1) do not absolve any other person from complying with this Act or any steps or directions referred to in that subsection in connection with the excise warehouse transit of the goods.

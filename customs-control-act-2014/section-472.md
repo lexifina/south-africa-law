@@ -1,0 +1,4 @@
+# s. 472
+472. (a) When section 114(1) is in terms of section 471 applied to any goods exported under the outward processing procedure in circumstances where the ground for regarding the exported goods to be cleared for outright export pertains only to a part of the compensating products obtained from the exported goods, only a proportionate part of the exported goods must in terms of that section be regarded to be cleared for outright export.
+(b) In determining the proportionate part of the exported goods that must be regarded to be cleared for outright export in terms of paragraph (a), a conversion rate determined in terms of section 469 must be used.
+Effect on outward processed compensating products when goods exported for outward processing are regarded to be cleared for outright export

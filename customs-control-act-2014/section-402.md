@@ -1,0 +1,9 @@
+# s. 402
+402. (1) A vessel, aircraft, locomotive or railway carriage leaving the Republic as a means of transport currently in use for the transport of goods in the ordinary course of international trade or for the transport of travellers for reward between countries, comes under the temporary export procedure without any formal clearance or release for that procedure if the vessel, aircraft, locomotive or railway carriage—
+(a) is not leaving the Republic on the outbound leg of the temporary admission procedure;299 and
+(b) is destined to return to the Republic without any interruption in its current use as a means of transport for goods in the ordinary course of international trade or for the transport of travellers for reward between countries.300
+(2) If the current use of a vessel, aircraft, locomotive or railway carriage that automatically came under the temporary export procedure in terms of subsection (1) as a means of transport for goods in the ordinary course of international trade or for the transport of travellers for reward between countries, is for any reason interrupted or
+299. See section 289.
+300. The arrival and departure requirements set out in Chapter 3 are not affected by this provision and those requirements must be complied with when vessels, aircraft, locomotives or railway carriages that automatically come under the temporary export procedure leave or return to the Republic.
+discontinued whilst the vessel, aircraft, locomotive or railway carriage is under that procedure, the carrier operating that vessel, aircraft, locomotive or railway carriage or, if that carrier is not located in the Republic, that carrier's registered agent, must immediately report the interruption or discontinuation to the customs authority, as may be prescribed by rule.
+(3) Parts 2, 3 and 4 of this Chapter do not apply to vessels, aircraft, locomotives or railway carriages referred to in subsection (1).

@@ -1,0 +1,8 @@
+# s. 494
+Clearance of international postal articles destined for export
+494. (1) (a) International postal articles destined for export from the Republic that are not in terms of section 95 exempted from clearance requirements for goods destined for export, must be cleared for export as required by section 93.
+(b) The provisions of this Act regulating the regular clearance and release of goods destined for export apply, subject to subsection (2) and the other provisions of this Chapter, to the clearance and release of international postal articles referred to in paragraph (a) destined for export.
+(2) (a) If an international postal article with a customs value not exceeding an upper limit prescribed by the Minister by notice in the Gazette is to be cleared for outright export, the postal declaration accompanying that postal article in terms of section 497 must for purposes of the clearance be regarded to be a clearance declaration for outright export under the export procedure.358
+(b) The simplified clearance process provided for in paragraph (a) does not apply if the exporter of a postal article intends to apply in terms of Chapter 4 of the Customs Duty Act for a drawback of duty exceeding R100.
+(c) International postal articles cleared for outright export in accordance with the simplified clearance process provided for in paragraph (a) may be exempted by rule from any provision of this Act applicable to the regular clearance or release of goods for outright export.
+Part 3 Customs processing of international postal articles Removal of international postal articles to international postal clearance depots

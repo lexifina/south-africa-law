@@ -1,0 +1,2 @@
+# s. 43
+43. When an inbound vehicle arrives at a land border-post the requirements of this Act relating to the vehicle, and goods and persons on board the vehicle, must be complied with. These requirements include declaring goods that must be declared in terms of section 478, and clearing the vehicle and any goods on board the vehicle for home use or a customs procedure in terms of section 89 excluding goods exempted from clearance in terms of section 91.

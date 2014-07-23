@@ -1,0 +1,2 @@
+# s. 391
+391. Vehicles, small vessels or light aircraft which left the Republic as a private means of transport for a traveller under a clearance and release for temporary export in terms of section 383 may on their return to the Republic, despite the other provisions of this Part, be cleared and released for home use as re-imported unaltered goods in accordance with simplified clearance and release processes and requirements referred to in Part 3 of Chapter 24.
