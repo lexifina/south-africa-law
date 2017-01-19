@@ -1,0 +1,4 @@
+# s. 2
+Approval of unauthorised expenditure
+2. (1) The unauthorised expenditure referred to in Schedule 1 to thisAct in the amount of R1 509 825 368.04, and described in the reports of the Committee on Public Accounts of the National Assembly identified in the second column of that Schedule, is authorised as a direct charge against the National Revenue Fund in terms of section 34(1)(a) of the Public Finance Management Act, 1999 (Act No. 1 of 1999).
+(2) The unauthorised expenditure referred to in Schedule 2 to this Act in the amount of R1 398 676 990.92, and described in the reports of the Committee on Public Accounts of the National Assembly identified in the second column of that Schedule, is authorised and previously surrendered funds are reallocated to the votes in terms of section 34(1)(b) of the Public Finance Management Act, 1999.

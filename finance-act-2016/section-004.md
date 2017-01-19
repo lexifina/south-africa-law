@@ -1,0 +1,4 @@
+# s. 4
+Short title
+4. This Act is called the Finance Act, 2016.
+(English text signed by the President) (Assented to 18 January 2017) Committee on Public Accounts Report Reference Financial Vote Title Year Column 2 Column 3 Column 4 COPA 2016 53,002,000.00 1st report 2005/06 Home Affairs 687,304,271.57 1st report 2010/11 Home Affairs 160,394,000.00 1st report 2012/13 Home Affairs 345,804,818.56 3th report 2008/09 Transport 263,320,277.91 3th report 2009/10 Transport 1,509,825,368.04 Committee on Public Accounts Report Reference Financial Vote Title Year Column 2 Column 3 Column 4 COPA 2015 46,881,000.00 1st report 2005/06 Home Affairs 140,640,282.92 1st report 2012/13 Home Affairs 3,782,000.00 2nd report 2005/06 Water and Sanitation 844,979,607.76 3th report 2008/09 Transport 362,394,100.24 3th report 2009/10 Transport 1,398,676,990.92
