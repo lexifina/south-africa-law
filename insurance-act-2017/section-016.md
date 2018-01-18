@@ -1,0 +1,8 @@
+# s. 16
+Termination of appointment of key persons
+16. (1) An insurer (other than a branch of a foreign reinsurer, a Lloyd's underwriter or Lloyd's) and a controlling company must notify the Prudential Authority of the termination of the appointment of a key person, within 30 days of such termination.
+(2) The representative of a branch of a foreign reinsurer and Lloyd's must notify the Prudential Authority of the termination of the appointment of a key person referred to in paragraphs (b) to (e) of the definition of ''key person'', within 30 days of such termination.
+(3) A branch of a foreign reinsurer or Lloyd's must notify the Prudential Authority of the termination of the appointment of a representative or a deputy representative of that branch of a foreign reinsurer or Lloyd's, within 30 days of such termination.
+(4) (a) Any key person, other than an auditor, of an insurer or a controlling company who resigns or whose appointment has been terminated, must at the request of the Prudential Authority, notify the Prudential Authority in writing of any matter relating to the affairs of that insurer or controlling company of which the key person became aware in the performance of that key person's role, responsibilities, duties or functions, and which may prejudice the ability of the insurer or controlling company to comply with this Act.
+(b) No information furnished by a key person under paragraph (a) may be used by the Prudential Authority in any subsequent criminal proceedings against such a key person.
+Part 3 Changes in control of insurer or controlling company and nominees

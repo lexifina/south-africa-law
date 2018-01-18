@@ -1,0 +1,37 @@
+# s. 56
+Business rescue applications and resolutions
+56. (1) The Prudential Authority may make an application under section 131 of the Companies Act in respect of an insurer or a controlling company, if the Prudential Authority reasonably believes that it is in the interests of the insurer's policyholders or, in the case of a controlling company, the interests of policyholders of the insurers that are part of the insurance group to do so.
+(2) (a) If an application to a court for an order relating to the business rescue of an insurer or a controlling company is made by an affected person other than the Prudential Authority—
+(i) it shall not be heard unless copies of the notice of motion and of all accompanying affidavits and other documents filed in support of the application have been lodged with the Prudential Authority at least 14 days before the application is set down for hearing;
+(ii) the Prudential Authority may, if the Prudential Authority reasonably believes that the application is not in the interests of policyholders of the insurer, or, in the case of a controlling company, the interests of policyholders of the insurers that are part of the insurance group, join the application as a party and file affidavits and other documents in opposition to the application.
+(b) The court may only grant an order relating to the business rescue of an insurer or a controlling company if the Prudential Authority has been notified of the application as required in paragraph (a)(i).
+(3) (a) Any resolution of an insurer or a controlling company to begin business rescue proceedings is subject to the approval of the Prudential Authority.
+(b) An insurer or a controlling company may file a resolution under section 129 of the Companies Act only after the Prudential Authority has approved the resolution.
+Versekeringswet, 2017 Wet No. 18 van 2017 bedoel, behalwe 'n waarborg wat 'n versekeringsverbintenis kragtens 'n lewens-versekeringspolis, of voorsiening van effekte, daarstel kan ingestel word teen die versekeraar of beheermaatskappy na verstryking van 'n tydperk van ses maande vanaf die datum van die kansellasie.
+(5) 'n Versekeraar of 'n beheermaatskappy kan nie ondernemingsredding begin of aangaan of gelikwideer word nie terwyl onder kuratele binne die betekenis van die Wet op Finansiële Instellings (Beskerming van Fondse), tensy die kurator om die ondernemingsredding of likwidasie aansoek doen.
+Deel 3 Ondernemingsredding Toepassing van Maatskappywet op ondernemingsredding van versekeraars en beheermaatskappye
+55. (1) Ondanks enige ander wet waarkragtens 'n versekeraar of beheermaatskappy ingestel of ingelyf is, is Hoofstuk 6 van die Maatskappywet van toepassing, behoudens hierdie artikel en met die nodige veranderinge, in verband met 'n versekeraar of 'n beheermaatskappy, tot die uitsluiting van enige soortgelyke bepalings kragtens die ''Co-operatives Act'' of enige ander wet waarkragtens 'n versekeraar of beheermaatskappy ingestel of ingelyf is, en in sodanige toepassing moet die Voorsorgowerheid geag word 'n geraakte persoon te wees.
+(2) By die toepassing van Hoofstuk 6 van die Maatskappywet—
+(a) moet 'n verwysing na die Kommissie uitgelê word ook 'n verwysing na die Voorsorgowerheid te wees;
+(b) moet die verwysing na krediteure uitgelê word as ook 'n verwysing na die polishouers van die versekeraar te wees;
+(c) moet 'n verwysing in verband met 'n versekeraar of beheermaatskappy se onvermoë om al sy skulde te delg, uitgelê word as dat dit ook verband hou met sy onvermoë om aan hierdie Wet se vereistes vir finansiële gesondheid te voldoen; en
+(d) benewens enige vraag oor die besigheid van 'n versekeraar, moet oorweeg word of enige voorgestelde stappe in die belang van polishouers van 'n versekeraar is of, in die geval van 'n beheermaatskappy, die belange van polishouer van die versekeraar wat deel van die versekeringsgroep is.
+Ondernemingsreddingaansoeke en besluite
+56. (1) Die Voorsorgowerheid kan 'n aansoek kragtens artikel 131 van die Maatskappywet doen ten opsigte van 'n versekeraar of 'n beheermaatskappy, indien die Voorsorgowerheid redelikerwys van mening is dat dit in die belang van die polishouers van versekeraars wat deel van die versekeringsgroep is, om dit te doen.
+(2) (a) Indien 'n aansoek aan 'n hof om 'n bevel aangaande die ondernemingsredding van 'n versekeraar of 'n beheermaatskappy deur 'n geraakte persoon behalwe die Voorsorgowerheid, gedoen word—
+(i) word dit nie aangehoor nie tensy afskrifte van die kennisgewing van mosie en van alle gepaardgaande beëdigde verklarings en ander dokumente ter ondersteuning van die aansoek by die Voorsorgowerheid ingedien word ten minste 14 dae voordat die aansoek aangehoor gaan word;
+(ii) die Voorsorgowerheid kan, indien die Voorsorgowerheid redelikerwys van mening is dat die aansoek nie in die belang is van polishouers van die versekeraar of, in die geval van 'n beheermaatskappy, in die belang van polishouers van die versekeraars wat deel is van die versekeringsgroep nie, by die aansoek aansluit as 'n party en beëdigde verklarings en ander dokumente in teenstand van die aansoek indien.
+(b) Die hof mag slegs 'n bevel in verband met die ondernemingsredding van 'n versekeraar of 'n beheermaatskappy toestaan indien die Voorsorgowerheid in kennis gestel is van die aansoek soos in paragraaf (a)(i) bedoel.
+(3) (a) 'n Besluit van 'n versekeraar of beheermaatskappy om ondernemingsredding-verrigtinge te begin is aan die goedkeuring van die Voorsorgowerheid onderhewig.
+(b) 'n Versekeraar of 'n beheermaatskappy kan 'n besluit kragtens artikel 129 van die Maatskappywet slegs indien nadat die Voorsorgowerheid die besluit goedgekeur het.
+(c) The Prudential Authority must grant or refuse an application for approval of a resolution within 14 days of the date on which the application was submitted to the Prudential Authority, or such longer period agreed between the Prudential Authority and the applicant.
+(d) If the Prudential Authority requested additional information in terms of section 60(4)(a)(i), then the period between the date on which the additional information was requested and when the information was provided to the Prudential Authority is not considered when determining the 14 days referred to in paragraph (c).
+(e) Any resolution of an insurer or a controlling company that is not approved by the Prudential Authority under paragraphs (a) or (b), is void.
+(4) Despite the provisions of the Companies Act, the following acts are subject to the approval of the Prudential Authority:
+(a) The appointment of a business rescue practitioner; and
+(b) the adoption of a business rescue plan.
+(5) Despite the provisions of the Companies Act, if the Prudential Authority does not approve a resolution referred to in subsection (3)(a) or (b), or the appointment or plan referred to in subsection (4)(a) or (b), the Prudential Authority must apply to court—
+(a) for the winding-up of the insurer or controlling company under section 58; or
+(b) to place the insurer or controlling company under curatorship in terms of section 54.
+(6) As from the date on which a business rescue practitioner is appointed, the business rescue practitioner of an insurer may not enter into any new insurance policies with policyholders or insurance policies with new policyholders, unless the practitioner has been granted prior approval to do so by the Prudential Authority.
+Part 4 Winding-up
