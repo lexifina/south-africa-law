@@ -1,0 +1,6 @@
+# s. 35
+Application for compulsory license
+35. (1) Any person who is of the opinion that the holder of a plant breeder's right unreasonably refuses to grant him or her a license under section 34, or that such a holder is imposing unreasonable conditions for the issue of such a license, may in the prescribed manner apply to the Registrar to issue a compulsory license in respect of the relevant plant breeder's right.
+(2) The Registrar must inform the holder of the plant breeder's right in writing of the application contemplated in subsection (1)(a) within 21 days of receiving that application.
+(3) The holder of the plant breeder's right may lodge a counter-statement with the Registrar within 60 days of receiving the information contemplated in subsection (2) in which the holder concerned sets out the reasons why he or she contests the application in question.
+(4) If the person who made the application and the holder of the relevant plant breeder's right at any stage after the application has been lodged with the Registrar reach an agreement with regard to the issue of a license, the person who made the application must inform the Registrar of the agreement within 21 days of reaching the agreement.

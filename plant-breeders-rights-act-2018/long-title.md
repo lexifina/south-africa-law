@@ -1,0 +1,2 @@
+ACT To provide for a system whereunder plant breeders' rights relating to varieties of certain kinds of plants may be granted; for the requirements that have to be complied with for the grant of such rights; for the scope and protection of such rights; and for the grant of licenses in respect of the exercise of such rights; and to provide for matters connected therewith.
+B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:—
