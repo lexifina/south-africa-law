@@ -1,0 +1,5 @@
+# s. 27
+Fine as compensation
+27. (1) The Authority may, whenever a fine has been imposed on a property practitioner under this Act and taking into account any amounts paid under the mandatory indemnity insurance contemplated in section 57, if any, order that any portion of the fine be applied towards the payment of compensation to any person who suffered a pecuniary loss as a result of the conduct of that property practitioner.
+(2) The Authority may, on receipt of a fine imposed on a property practitioner, make the payment contemplated in subsection (1), but no such payment may be made until all appeals in respect of the imposition of the fine have lapsed or have been finalised or abandoned.
+(3) This section does not preclude any person from referring any dispute against a property practitioner or other person to the Authority, but if an award is made by an Authority in favour of a person who has received payment from the Authority as contemplated in subsection (2), the Authority must take that payment into account.

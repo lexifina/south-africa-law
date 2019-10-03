@@ -1,0 +1,5 @@
+# s. 11
+Conflict of interest of members of Board
+11. (1) A member of the Board must, upon appointment, submit a declaration to the Minister, made under oath or by affirmation, to the effect that he or she is not disqualified from appointment as contemplated in section 8.
+(2) A member of the Board or of a committee of the Board, as the case may be, must immediately when he or she becomes aware of any conflict of interest, in writing, inform the Chairperson of the Board or the chairperson of a Board committee, as the case may be, of such conflict, and the relevant chairperson must immediately excuse that member from participating and voting in any part of a meeting or proceedings where the matter that has caused such a conflict is considered.
+(3) The Chairperson of the Board or of a committee of the Board must, immediately when he or she becomes aware of any conflict of interest, in writing, inform the Board or the Board committee of such conflict, and the Chairperson must recuse himself or herself from participating and voting in any part of a meeting or proceedings where the matter that has caused such a conflict is considered.

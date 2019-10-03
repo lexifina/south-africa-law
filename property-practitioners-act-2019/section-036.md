@@ -1,0 +1,5 @@
+# s. 36
+Control and management of Fund
+36. (1) Subject to subsections (2) and (3), the Authority is responsible for the management and administration of the Fund.
+(2) The Authority may, with the approval of the Minister, outsource the management and administration of the Fund to any portfolio management company or a financial institution in terms of the Financial Services Board Act, 1990, on the terms and conditions approved by the Minister, subject to subsection (3).
+(3) Each member of the Board, or if the management and administration of the Fund has been outsourced to any portfolio management company or institution as contemplated in subsection (2), that portfolio management company or institution, owes a fiduciary duty and a duty of care and skill to the Fund, and any such portfolio management company or financial institution may be held liable in accordance with the principles relating to breach of a fiduciary duty, for any loss, damages or costs sustained by the Fund as a consequence of any breach by such portfolio management company or financial institution of such a duty.

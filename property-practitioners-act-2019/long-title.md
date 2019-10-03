@@ -1,0 +1,10 @@
+ACT To provide for the regulation of property practitioners; to provide for the continuation of the Estate Agency Affairs Board as the Property Practitioners Regulatory Authority; to provide for the appointment of the members of the Board and matters incidental thereto; to provide for the appointment of the Chief Executive Officer and other staff members of the Authority; to provide for transformation of the property practitioners sector; to provide for the establish-ment of the transformation fund and establishment of the research centre on transformation; to provide for compliance with and enforcement of the provisions of the Act; to provide for the continuation of the Estate Agents Fidelity Fund as the Property Practitioners Fidelity Fund; to provide for consumer protection; to provide for the repeal of the Estate Agency Affairs Act, 1976; and to provide for matters connected therewith.
+PREAMBLE WHEREAS a healthy property market is a national asset that restores the dignity of all South Africans through the basic constitutional right to ownership of immovable property through security of tenure;
+AND WHEREAS a property is an asset to enhance economic activity, growth and development;
+AND WHEREAS patterns of property ownership are historically imbalanced;
+AND WHEREAS there are distortions within the property market, especially the secondary property market;
+AND WHEREAS transformation of the property market is a necessary intervention that will benefit the historically disadvantaged individuals;
+AND WHEREAS consumers require assistance when conducting property transac-tions;
+AND WHEREAS property practitioners can play an important role in providing such assistance;
+AND WHEREAS it is necessary to ensure that such assistance is rendered in a professional way;
+AND it is necessary to regulate circumstances when such assistance is not rendered in a professional way, (English text signed by the President) (Assented to 19 September 2019) B E IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as follows:—
