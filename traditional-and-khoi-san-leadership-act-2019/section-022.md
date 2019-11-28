@@ -1,0 +1,15 @@
+# s. 22
+22. (1) A kingship or queenship council, principal traditional council, traditional council, traditional sub-council and a Khoi-San council (in this section jointly referred to as a council) must endeavor to perform its statutory, financial and customary obligations in the best interest of its community and is accountable to the Premier concerned for the efficient and effective performance of such obligations.
+(2) A Premier must monitor a council situated within his or her province so as to ensure the effective and efficient performance of that council's statutory, financial and customary obligations.
+(3) If a Premier is of the view that a council does not or cannot fulfill a statutory, financial or customary obligation binding on that council, the Premier must—
+(a) by written notice, request the council to provide the Premier with the information relating to the council's performance in respect of the obligation required in the notice; or
+(b) if the Premier considers it necessary, designate a person or persons to investigate the matter.
+(4) If, based on the information received or investigation conducted as contemplated in subsection (3), a Premier is satisfied that a council does not or cannot fulfill its statutory, financial or customary obligations, the Premier may intervene by appointing any person or persons for a period determined by the Premier in writing—
+(a) to assist the council concerned to perform any or all of the statutory, financial and customary obligations assigned to such council; or
+(b) to assume responsibility for any or all the statutory, financial and customary obligations of such council.
+(5) If a person or persons are appointed in terms of subsection (4), the council concerned is divested of the specific or all of its statutory, financial and customary obligations, as the case may be.
+(6) A person or persons appointed in terms of subsection (4) must be competent to perform either the statutory, financial or the customary obligations of such council or all three, as the case may be.
+(7) (a) A person or persons appointed in terms of subsection (4) must submit monthly written reports to the Premier concerned setting out the steps taken and progress made in respect of the performance of the specific or all of the council's statutory, financial and customary obligations, as the case may be.
+(b) A Premier must submit copies of the reports contemplated in paragraph (a) to the National House and relevant provincial house for noting.
+(8) An appointment made in terms of subsection (4) must be reviewed before the expiry of a period of 180 days: Provided that such a period may, as many times as the Premier concerned deems necessary to ensure the efficient and effective performance of the specific or all of the relevant council's statutory, financial and customary obligations, be renewed for a further period of 180 days and must be reviewed before the expiry of any such period of 180 days.
+Support to kingship or queenship council, principal traditional council, traditional council, Khoi-San council and traditional sub-council
