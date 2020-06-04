@@ -1,0 +1,2 @@
+ACT To provide for the management, administration, accountability, and functioning of a professional Foreign Service of the Republic of South Africa; to provide for the operational requirements that are suitable and supportive of the operations of the Foreign Service in a global environment; and to provide for matters incidental thereto.
+B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:—
