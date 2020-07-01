@@ -1,0 +1,3 @@
+# 30. Authorisation concerning data subject’s trade union membership
+(1) The prohibition on processing personal information concerning a data subject’s trade union membership, as referred to in section 26, does not apply to the processing by the trade union to which the data subject belongs or the trade union federation to which that trade union belongs, if such processing is necessary to achieve the aims of the trade union or trade union federation.
+(2) In the cases referred to under subsection (1), no personal information may be supplied to third parties without the consent of the data subject.

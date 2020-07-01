@@ -1,0 +1,4 @@
+# 33. Authorisation concerning data subject’s criminal behaviour or biometric information
+(1) The prohibition on processing personal information concerning a data subject’s criminal behaviour or biometric information, as referred to in section 26, does not apply if the processing is carried out by bodies charged by law with applying criminal law or by responsible parties who have obtained that information in accordance with the law.
+(2) The processing of information concerning personnel in the service of the responsible party must take place in accordance with the rules established in compliance with labour legislation.
+(3) The prohibition on processing any of the categories of personal information referred to in section 26 does not apply if such processing is necessary to supplement the processing of information on criminal behaviour or biometric information permitted by this section.

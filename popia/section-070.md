@@ -1,0 +1,8 @@
+# 70. Directories
+(1) A data subject who is a subscriber to a printed or electronic directory of subscribers available to the public or obtainable through directory enquiry services, in which his, her or its personal information is included, must be informed, free of charge and before the information is included in the directory—
+(a) about the purpose of the directory; and
+(b) about any further uses to which the directory may possibly be put, based on search functions embedded in electronic versions of the directory.
+(2) A data subject must be given a reasonable opportunity to object, free of charge and in a manner free of unnecessary formality, to such use of his, her or its personal information or to request verification, confirmation or withdrawal of such information if the data subject has not initially refused such use.
+(3) Subsections (1) and (2) do not apply to editions of directories that were produced in printed or off-line electronic form prior to the commencement of this section.
+(4) If the personal information of data subjects who are subscribers to fixed or mobile public voice telephony services have been included in a public subscriber directory in conformity with the conditions for the lawful processing of personal information prior to the commencement of this section, the personal information of such subscribers may remain included in this public directory in its printed or electronic versions, after having received the information required by subsection (1).
+(5) “Subscriber”, for purposes of this section, means any person who is party to a contract with the provider of publicly available electronic communications services for the supply of such services.
