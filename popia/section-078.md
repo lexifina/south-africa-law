@@ -1,0 +1,3 @@
+# 78. Referral of complaint to regulatory body
+(1) If, on receiving a complaint in terms of section 74, the Regulator considers that the complaint relates, in whole or in part, to a matter that is more properly within the jurisdiction of another regulatory body established in terms of any law, the Regulator must forthwith determine whether the complaint should be dealt with, in whole or in part, under this Act after consultation with the body concerned.
+(2) If the Regulator determines that the complaint should be dealt with by another body, the Regulator must forthwith refer the complaint to that body to be dealt with accordingly and must notify the complainant of the referral.

@@ -1,0 +1,8 @@
+# 58. Responsible party to notify Regulator if processing is subject to prior authorisation
+(1) Information processing as contemplated in section 57(1) must be notified as such by the responsible party to the Regulator.
+(2) Responsible parties may not carry out information processing that has been notified to the Regulator in terms of subsection (1) until the Regulator has completed its investigation or until they have received notice that a more detailed investigation will not be conducted.
+(3) In the case of the notification of information processing to which section 57(1) is applicable, the Regulator must inform the responsible party in writing within four weeks of the notification as to whether or not it will conduct a more detailed investigation.
+(4) In the event that the Regulator decides to conduct a more detailed investigation, it must indicate the period within which it plans to conduct this investigation, which period must not exceed 13 weeks.
+(5) On conclusion of the more detailed investigation referred to in subsection (4) the Regulator must issue a statement concerning the lawfulness of the information processing.
+(6) A statement by the Regulator in terms of subsection (5), to the extent that the information processing is not lawful, is deemed to be an enforcement notice served in terms of section 95 of this Act.
+(7) A responsible party that has suspended its processing as required by subsection (2), and which has not received the Regulator’s decision within the time limits specified in subsections (3) and (4), may presume a decision in its favour and continue with its processing.
