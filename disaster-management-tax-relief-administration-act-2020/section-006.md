@@ -1,0 +1,7 @@
+# s. 6
+Change in Value-Added Tax Category
+6. (1) Notwithstanding anything to the contrary in the Value-Added Tax Act, a vendor registered under a Category A or Category B tax period is deemed to fall within a Category C tax period if that vendor, for the purposes of section 28 of that Act, furnishes a return to the Commissioner and calculates the tax payable by or refund due to the vendor in respect of a month that falls within the two months that constitute the Category A or Category B tax period: Provided that—
+(a) the calculation of tax payable by or refund due to the vendor, must be done in accordance with section 16 of that Act, as if the vendor falls within the Category C tax period; and
+(b) such vendor shall furnish a return to the Commissioner and calculate the tax payable or the refund due to the vendor, in respect of the month corresponding to the month in which the Category A or Category B tax period ends.
+(2) In respect of a vendor registered under a Category A tax period, this section commences during the April to May 2020 tax period and ends during the June to July 2020 tax period and will operate for a maximum period of four months.
+(3) In respect of a vendor registered under a Category B tax period, this section commences during the May to June 2020 tax period and ends during the July to August 2020 tax period and will operate for a maximum period of four months.
