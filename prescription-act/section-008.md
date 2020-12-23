@@ -1,0 +1,4 @@
+# 8. Application of certain provisions of Chapter I to the acquisition and extinction of servitudes by prescription
+(1) The provisions of sections 2, 3 4 and 5 shall apply mutatis mutandis to the acquisition of a servitude by prescription.
+(2) The provisions of sections 3, 4 and 5 shall apply mutatis mutandis to the extinction of a servitude by prescription.
+(3) For the purposes of the application of the provisions of section 4 (1) in relation to the acquisition or extinction of a servitude by prescription, any reference therein to the possessor of the thing shall be construed as a reference to the person in whose favour the prescription is running; and any reference therein to a claim to the ownership in the thing shall be construed as a reference to a claim for the termination of the exercise of the rights and powers or of the breach of the servitude, as the case may be, by virtue of which the prescription is running.

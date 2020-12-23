@@ -1,0 +1,2 @@
+# 1. Acquisition of ownership by prescription
+Subject to the provisions of this Chapter and of Chapter IV, a person shall by prescription become the owner of a thing which he has possessed openly and as if he were the owner thereof for an uninterrupted period of thirty years or for a period which, together with any periods for which such thing was so possessed by his predecessors in title, constitutes an uninterrupted period of thirty years.

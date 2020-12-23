@@ -1,0 +1,6 @@
+# 3. Completion of prescription postponed in certain circumstances
+(1) If—
+(a) the person against whom the prescription is running is a minor or is insane, or is a person under curatorship, or is prevented by superior force from interrupting the running of prescription as contemplated in section 4; or
+(b) the person in favour of whom the prescription is running is outside the Republic, or is married to the person against whom the prescription is running, or is a member of the governing body of a juristic person against whom the prescription is running; and
+(c) the period of prescription would, but for the provisions of this subsection, be completed before or on, or within three years after, the day on which the relevant impediment referred to in paragraph (a) or (b) has ceased to exist, the period of prescription shall not be completed before the expiration of a period of three years after the day referred to in paragraph (c).
+(2) Subject to the provisions of subsection (1), the period of prescription in relation to fideicommissary property shall not be completed against a fideicommissary before the expiration of a period of three years after the day on which the right of that fideicommissary to that property vested in him.

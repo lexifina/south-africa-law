@@ -1,0 +1,5 @@
+# 4. Judicial interruption of prescription
+(1) The running of prescription shall, subject to the provisions of subsection (2), be interrupted by the service on the possessor of the thing in question of any process whereby any person claims ownership in that thing.
+(2) Any interruption in terms of subsection (1), shall lapse, and the running of prescription shall not be deemed to have been interrupted, if the person claiming ownership in the thing in question does not successfully prosecute his claim under the process in question to final judgment or if he does so prosecute his claim but abandons the judgment or the judgment is set aside.
+(3) If the running of prescription is interrupted as contemplated in subsection (1), a new period of prescription shall commence to run, if at all, only on the day on which final judgment is given.
+(4) For the purposes of this section “process” includes a petition, a notice of motion, a rule nisi and any document whereby legal proceedings are commenced.
