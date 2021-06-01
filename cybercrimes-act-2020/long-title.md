@@ -1,0 +1,5 @@
+GENERAL EXPLANATORY NOTE:
+[ ] Words in bold type in square brackets indicate omissions from existing enactments.
+Words underlined with a solid line indicate insertions in existing enactments.
+ACT To create offences which have a bearing on cybercrime; to criminalise the disclosure of data messages which are harmful and to provide for interim protection orders; to further regulate jurisdiction in respect of cybercrimes; to further regulate the powers to investigate cybercrimes; to further regulate aspects relating to mutual assistance in respect of the investigation of cybercrimes; to provide for the establishment of a designated Point of Contact; to further provide for the proof of certain facts by affidavit; to impose obligations to report cybercrimes; to provide for capacity building; to provide that the Executive may enter into agreements with foreign States to promote measures aimed at the detection, prevention, mitigation and investigation of cybercrimes; to delete and amend provisions of certain laws; and to provide for matters connected therewith.
+P ARLIAMENT of the Republic of South Africa enacts, as follows:—

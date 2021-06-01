@@ -1,0 +1,15 @@
+# s. 40
+40. (1) The interception of an indirect communication as defined in section 1 of the Regulation of Interception of Communications and Provision of Communication-related Information Act, 2002, must take place in terms of a direction issued in terms of section 16(4) or 18(3) of that Act and must, subject to subsection (4), be dealt with further in the manner provided for in that Act.
+(2) The obtaining of real-time communication-related information as defined in section 1 of the Regulation of Interception of Communications and Provision of Communication-related Information Act, 2002, on an ongoing basis, as it becomes available, must take place in terms of a direction issued in terms of section 17(3) or 18(3) of that Act, and must, subject to subsection (4), be dealt with further in the manner provided for in that Act.
+(3) An electronic communications service provider who is—
+(a) in terms of section 30(1)(b) of the Regulation of Interception of Communi-cations and Provision of Communication-related Information Act, 2002, required to provide an electronic communications service which has the capability to store communication-related information; and
+(b) not required to store communication-related information in terms of a directive issued in terms of section 30(2) of that Act, must, in addition to any other obligation imposed by any law, comply with—
+(i) a real-time communication-related direction contemplated in subsection (2), in terms of which the electronic communications service provider is directed to provide real-time communication-related information in respect of a customer, on an ongoing basis, as it becomes available;
+(ii) an expedited preservation of data direction contemplated in section 41, in terms of which the electronic communications service provider is directed to preserve real-time communication-related information in respect of a customer;
+(iii) a preservation of evidence direction contemplated in section 42, in terms of which the electronic communications service provider is directed to preserve real-time communication-related information in respect of a customer;
+(iv) a disclosure of data direction contemplated in section 44, in terms of which the electronic communications service provider is directed to provide real-time communication-related information in respect of a customer that was preserved or otherwise stored by the electronic communications service provider; or
+(v) any order of the designated judge in terms of section 48(6), in terms of which the electronic communications service provider is ordered to—
+(aa) obtain and preserve any real-time communication-related information;
+or
+(bb) obtain and furnish traffic data.
+(4) Any indirect communication which is to be intercepted or any real-time communication-related information or traffic data which is to be obtained, at the request of an authority, court or tribunal exercising jurisdiction in a foreign State must further be dealt with in the manner provided for in an order referred to in section 48(6), which is issued by the designated judge.
