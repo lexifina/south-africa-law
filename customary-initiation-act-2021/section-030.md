@@ -1,0 +1,9 @@
+# s. 30
+Water, sanitation, food, health care, liquor and drugs
+30. (1) The principal of an initiation school and the relevant care-givers, must, subject to any criteria as may be developed in terms of section 15(1)(g), ensure that initiates at all times have access to clean water, appropriate sanitation facilities and are provided with food.
+(2) (a) The food referred to in subsection (1) must be provided by the parents or families of initiates or, where applicable, by the legal or customary guardians.
+(b) In any instance where the parents, family or legal or customary guardians are not in a position to provide such food, such parents, family or legal or customary guardians must inform the relevant principal and he or she may provide reasonable assistance in respect of the provisioning of food to the relevant initiates.
+(3) A principal must, notwithstanding sections 21(4)(b) and 23(2)(c), ensure that initiates have access to health care facilities whenever the need arises, taking into account any requirements as may be contained in a manual contemplated in section 15(3)(a).
+(4) (a) Subject to paragraph (b), no initiate or any person involved in initiation may, at an initiation school, use, possess, deal in, supply or manufacture any liquor as defined in section 1 of the Liquor Act.
+(b) In any instance where a moderate quantity of liquor is to be supplied for purposes of a religious sacrament which forms part of an initiation practice, it may only be provided to initiates to whom such sacrament applies and only in the presence and under the supervision of any of the persons referred to in section 10(2) of the Liquor Act.
+(5) No initiate or any person involved in initiation may, at an initiation school, use, possess, deal in, supply or manufacture any drug as contemplated in the Drugs and Drug Trafficking Act.

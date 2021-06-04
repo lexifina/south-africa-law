@@ -1,0 +1,6 @@
+# s. 36
+Monitoring
+36. (1) The Department may monitor the implementation of this Act and any regulations made in terms of this Act, and may submit reports in this regard and make recommendations on such implementation to the Minister, the Premiers and the NIOC or any PICC.
+(2) The Minister may, after having received a report or recommendations contem-plated in subsection (1) and after consultation with any relevant Premier, the NIOC or any relevant PICC, take the necessary steps to ensure that the provisions of this Act are implemented.
+(3) (a) The Department responsible for initiation within a province may, together with any other department designated by the Premier, monitor the implementation of this Act and any regulations made in terms of this Act within such province, and may submit reports in this regard and make recommendations on such implementation to the Premier, any relevant MEC and the relevant PICC.
+(b) Upon receipt of a report contemplated in paragraph (a), the Premier of a province may, after consultation with the Minister, take the necessary steps to ensure that the provisions of this Act and any regulations made in terms of this Act are implemented within the province.
