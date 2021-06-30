@@ -1,0 +1,3 @@
+# 35. Mandatory protection of certain records of South African Revenue Service
+(1) Subject to subsection (2), the information officer of the South African Revenue Service, referred to in section 2 (3), must refuse a request for access to a record of that Service if it contains information which was obtained or is held by that Service for the purposes of enforcing legislation concerning the collection of revenue as defined in section 1 of the South African Revenue Service Act, 1997 (Act 34 of 1997).
+(2) A record may not be refused in terms of subsection (1) insofar as it consists of information about the requester or the person on whose behalf the request is made.

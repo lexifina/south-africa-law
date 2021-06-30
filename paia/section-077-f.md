@@ -1,0 +1,2 @@
+# 77F. Settlement of complaints
+If it appears from a complaint, or any written response made in relation to a complaint under section 77E (b) (ii), that it may be possible to secure a settlement between the parties concerned, the Information Regulator may, without investigating the complaint or, as the case may be, investigating the complaint further, in the prescribed manner, use its best endeavours to secure such a settlement.

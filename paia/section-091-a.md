@@ -1,0 +1,9 @@
+# 91A. Designation and training of presiding officers
+(1) (a) The head of an administrative region defined in section 1 of the Magistrates’ Courts Act, 1944 (Act 32 of 1944), or the magistrate at the head of a regional division established for the purposes of adjudicating civil disputes in terms of section 2 of the Magistrates’ Courts Act, 1944, must designate in writing any magistrate, additional magistrate or magistrate of a regional division established for the purposes of adjudicating civil disputes, as the case may be, as a presiding officer of a Magistrate’s Court designated by the Minister in terms of section 1 of this Act.
+(b) A presiding officer must perform all the functions and duties and exercise the powers assigned to or conferred on him or her under this Act or any other law.
+(2) ......
+(3) The heads of administrative regions or magistrates at the head of regional divisions established for the purposes of adjudicating civil disputes must take all reasonable steps within available resources to designate at least one presiding officer for each magistrate’s court within his or her area of jurisdiction which has been designated by the Minister in terms of section 1.
+(4) ......
+(5) The South African Judicial Education Institute established in terms of section 3 of the South African Judicial Education Institute Act, 2008 (Act 14 of 2008), must develop and implement training courses for presiding officers with the view to building a dedicated and experienced pool of trained and specialised presiding officers for purposes of presiding in court proceedings as contemplated in this Act.
+(6) and (7) .......
+(8) The provisions of section 12 (6) and (8) of the Magistrates’ Courts Act, 1944 (Act 32 of 1944), are applicable with the necessary changes required by the context.
