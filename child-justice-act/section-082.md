@@ -1,0 +1,3 @@
+# 82. Child to be provided with legal representation at State expense in certain instances
+(1) Where a child appears before a child justice court in terms of Chapter 9 and is not represented by a legal representative of his or her own choice, at his or her own expense the presiding officer must refer the child to Legal Aid South Africa for the matter to be evaluated by the Board as provided for in section 22 (1) (b) of the Legal Aid South Africa Act, 2014.
+(2) No plea may be taken until a child referred to in subsection (1) has been granted a reasonable opportunity to obtain a legal representative or a legal representative has been appointed.

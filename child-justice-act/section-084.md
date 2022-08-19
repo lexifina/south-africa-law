@@ -1,0 +1,5 @@
+# 84. Appeals
+(1) An appeal by a child against a conviction, sentence or order as provided for in this Act must be noted and dealt with in terms of the provisions of Chapters 30 and 31 of the Criminal Procedure Act: Provided that if that child was, at the time of the commission of the alleged offence—
+(a) under the age of 16 years; or
+(b) 16 years or older but under the age of 18 years and has been sentenced to any form of imprisonment that was not wholly suspended, he or she may note the appeal without having to apply for leave in terms of section 309B of that Act in the case of an appeal from a lower court and in terms of section 316 of that Act in the case of an appeal from a High Court: Provided further that the provisions of section 302 (1) (b) of that Act apply in respect of a child who duly notes an appeal against a conviction, sentence or order as provided for in section 302 (1) (a) of that Act.
+(2) A child referred to in subsection (1) must be informed by the presiding officer of his or her rights in respect of appeal and legal representation and of the correct procedures to give effect to these rights.

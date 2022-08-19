@@ -1,0 +1,2 @@
+# 8. Review of minimum age of criminal capacity
+In order to determine whether or not the minimum age of criminal capacity as set out in section 7 (1) should be raised, the Cabinet member responsible for the administration of justice must, not later than five years after the commencement of section 5 of the Child Justice Amendment Act, 2019, submit a report to Parliament, as provided for in section 96 (4) and (5).

@@ -1,0 +1,3 @@
+# 31. Error regarding placement
+Where a child is placed in a child and youth care centre, police cell or lock-up or a prison and it comes to the attention of the person admitting the child that an error has been made regarding placement, that person must act in accordance with the order of the court, committing the child to the child and youth care centre, police cell, lock-up or prison and receive the child but must, as soon as practicable, not later than the next court day, in the prescribed manner, refer the child back to the presiding officer in question for the error to be corrected.
+Factors to be taken into account by presiding officer regarding further detention and placement and conditions of detention at preliminary inquiry or child justice court (ss 32-33)

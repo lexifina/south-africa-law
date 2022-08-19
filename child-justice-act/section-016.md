@@ -1,0 +1,7 @@
+# 16. Error regarding age of child or adult who is alleged to have committed offence
+(1) If, at any stage during proceedings in terms of this Act, a presiding officer is satisfied on the basis of evidence placed before him or her that the age of a child or adult who is alleged to have committed an offence (hereafter in this section referred to as person) is incorrect, the age must be altered on the record of the proceedings in accordance with section 14 and the proceedings must be finalised in accordance with the provisions of—
+(a) this Act, if the person is found to be a child; or
+(b) the Criminal Procedure Act, if the person is found to be an adult, unless the provisions of section 4 (2) are applicable.
+(2) If a presiding officer is of the opinion that an error regarding age may have caused any prejudice to a person during the proceedings in question, the presiding officer must transmit the record of the proceedings to the registrar of the High Court having jurisdiction, in the same manner as provided for in section 303 of the Criminal Procedure Act, in which event the proceedings must be dealt with in terms of the procedure on review as provided for in section 304 of the Criminal Procedure Act.
+(3) Subject to subsection (1), if a presiding officer is of the opinion that an error regarding age has not caused any prejudice to the person, the presiding officer must continue with the proceedings in terms of the provisions of this Act, in accordance with his or her age, as altered.
+WRITTEN NOTICE, SUMMONS AND ARREST (ss 17-20)

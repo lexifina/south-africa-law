@@ -1,0 +1,5 @@
+# 22. Release of child on written notice into care of parent, appropriate person or guardian before first appearance at
+preliminary inquiry (1) A police official must release a child on written notice in terms of section 18 into the care of a parent, an appropriate person or guardian if the child is in detention in police custody in respect of an offence referred to in Schedule 1, as soon as possible and before the child appears at the preliminary inquiry, unless—
+(a) the child’s parent or an appropriate person or guardian cannot be located or is not available and all reasonable efforts have been made to locate the parent or appropriate person or guardian; or
+(b) there is a substantial risk that the child may be a danger to any other person or to himself or herself.
+(2) Where a child has not been released in terms of subsection (1), the investigating police official must provide the inquiry magistrate with a written report in the prescribed manner, giving reasons why the child could not be released, with particular reference to the factors referred to in subsection (1) (a) or (b).

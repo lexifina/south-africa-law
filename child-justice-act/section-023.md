@@ -1,0 +1,2 @@
+# 23. Duty of police official when releasing child into care of parent, appropriate person or guardian
+A police official who releases a child from detention in terms of section 22 and places the child in the care of a parent or an appropriate person or guardian, must, at the time of the release of the child, hand to the child and to the person into whose care the child is released, a written notice in accordance with section 18.

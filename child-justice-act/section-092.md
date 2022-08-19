@@ -1,0 +1,2 @@
+# 92. Persons using children to commit crime
+If it comes to the attention of any court official or probation officer that a child has been used by another person to commit a crime referred to in Schedule 1 or 2 of the Criminal Procedure Act, that person must be reported to the South African Police Service for the consideration of a prosecution as provided for in section 141 (1) (d), read with section 305 (1) (c), of the Children’s Act, and the fact of the person’s involvement must be taken into account when determining the treatment of the child in the child justice system.
