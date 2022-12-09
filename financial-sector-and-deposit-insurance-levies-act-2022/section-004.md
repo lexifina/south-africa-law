@@ -1,0 +1,13 @@
+# s. 4
+Amount and payment of financial sector levy
+4. (1) (a) The financial sector levy payable by a supervised entity to the Financial Sector ConductAuthority, as contemplated in section 237(3A)(a) of the Financial Sector Regulation Act, read with section 246(2)(a) of that Act, in respect of a levy year or levy period, is an amount equal to the sum of the amounts specified in or calculated in accordance with Schedules 2 to 5, in relation to that supervised entity.
+(b) The financial sector levy payable by a supervised entity to the PrudentialAuthority and collected by the Reserve Bank, as contemplated in section 237(3A)(b) of the Financial Sector Regulation Act, read with section 246(2)(b) of that Act in respect of a levy year or levy period, is an amount equal to the sum of the amounts specified in or calculated in accordance with Schedule 1, in relation to that supervised entity.
+(2) The amount specified in each Schedule is determined by matching a supervised entity with a type of supervised entity listed in the column ''Type of supervised entity'' in the Table in each Schedule and applying the formula in the corresponding line of the column ''Formula'' in the Table.
+(3) The amount determined in terms of subsection (2) must not exceed the amount stipulated in the corresponding line of the column ''Maximum''for the levy year or levy period, as may be applicable in the Table, in that Schedule.
+(4) (a) A supervised entity must, in respect of a levy year, pay the amount specified in each Schedule in the number of payments indicated in the corresponding line of the column ''Number of payments during a levy year'' in the Table in that Schedule.
+(b) Where, in a Schedule, the ''number of payments during a levy year'' is indicated as ''one'', a supervised entity must make a single payment in respect of the levy year.
+(c) Where, in a Schedule, the ''number of payments during a levy year'' is indicated as ''four'', a supervised entity must make a payment in respect of each levy period.
+(5) The amount indicated as ''maximum'' applies in respect of the—
+(a) levy year, where the ''number of payments during a levy year'' is indicated as ''one'';
+(b) levy period, where the ''number of payments during a levy year'' is indicated as ''four''.
+(6) In the case of a part of a levy year or a levy period referred to in section 7, the amount of the levy payable for that part of a levy year or a levy period must be determined by applying, to the amount that would be payable for a full levy year or a levy period, as the case may be, the ratio of the number of days in that part of a levy year or a levy period to the number of days in a full levy year or a levy period, described in sections 5 and 6, respectively.
