@@ -1,0 +1,17 @@
+# s. 4
+4. The following section is hereby substituted for section 237:
+''Fees, [and] levies and deposit insurance premiums
+237. (1) (a) Fees may be charged by a financial sector body in accordance with this Part to fund the performance of [specific] any functions under this Act [and], the relevant financial sector laws and the Financial Sector and Deposit Insurance Levies Act, includ-ing in relation to the performance of functions in terms of a finan-cial sector law which does not explicitly authorise the charging of fees.
+(b) Levies may be imposed [by a financial sector body] in ac-cordance with this Part, read with [legislation that empowers the imposition of levies] the Financial Sector and Deposit Insurance Levies Act, to fund the operations of the financial sector [body] bodies and, in the case of the deposit insurance levy, to fund the operations of the Corporation and the administration of the Fund in terms of section 166BC.
+(2) A financial sector body must publish fees that have been determined [and levies that have been imposed] in the Register and on its website.
+(3) Fees [and levies] are payable to the financial sector body at the time specified by the financial sector body, or at a time agreed to by the financial sector body.
+(3A) (a) The levies referred to in sections 2 to 8 and 12 of the Financial Sector and Deposit Insurance Levies Act, 2022, read with Schedules 2 to 5 to that Act, which provide for the funding of the Financial Sector Conduct Authority, the Tribunal, the Ombud Council, the Office of the Pension Funds Adjudicator, and the Of-fice of the Ombud for Financial Services Providers, are payable to the Financial Sector Conduct Authority on the dates and in the manner specified by the Financial Sector Conduct Authority in terms of section 242, or on the date agreed to by the Financial Sector Conduct Authority.
+(b) Levies referred to in sections 2 to 8 and 12 of the Financial Sector and Deposit Insurance Levies Act, 2022, read with Sched-ule 1 to that Act, which provide for the funding of the Prudential Authority, are payable to the Prudential Authority, through the Reserve Bank, on the dates and in the manner specified by the Prudential Authority in terms of section 242, or on the date agreed to by the Prudential Authority.
+Act No. and year of law Short Title Extent of amendment or repeal
+(c) The deposit insurance levy referred to in sections 9 and 12 of the Financial Sector and Deposit Insurance Levies Act, read with
+Schedule 6 to that Act, and section 166BC is payable to the Cor-poration, through the Reserve Bank, on the dates and in the man-ner specified by the Corporation, or on the date agreed to by the Corporation.
+(3B) (a) The deposit insurance premium referred to in section 166BG and Schedule 5 is payable to the Corporation, through the Reserve Bank, on the dates and in the manner specified by the Corporation, or on the date agreed to by the Corporation.
+(b) The Corporation must publish the deposit insurance premi-ums that have been collected in the Register and on its website.
+(4) Different fees may be determined [and different levies may be imposed] for different types or categories of persons or super-vised entities.
+(5) Different levies may be imposed for different types or cat-egories of supervised entities or members in accordance with the Financial Sector and Deposit Insurance Levies Act, 2022.
+(6) Different deposit insurance premiums may be determined for different types or categories of members.''.

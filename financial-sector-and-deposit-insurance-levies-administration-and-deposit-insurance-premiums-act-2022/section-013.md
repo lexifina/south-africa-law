@@ -1,0 +1,11 @@
+# s. 13
+13. Section 246 is hereby amended—
+(a) by the substitution for the heading of the following heading:
+''Management of fees, [and] levies, deposit insurance pre-miums and deposit insurance levies''; and
+(b) by the substitution for subsections (2) and (3) of the following subsections, respectively:
+''(2) (a) Levies imposed in accordance with [section 237(1)(b),] the Financial Sector and Deposit Insurance Levies Act, which are referred to in section 237(3A)(a), and interest accrued on those levies in terms of section 244(4)(a), must be collected by the Financial Sector Conduct Authority and paid into a bank account designated for that purpose, which is in the name and control of the Financial Sector Conduct Author-ity.
+(b) Levies imposed in accordance with the Financial Sector and Deposit Insurance Levies Act, which are referred to in section 237(3A)(b), and interest accrued on those levies in terms of section 244(4)(b), must be collected by the Reserve Bank and paid into a bank account designated for that pur-pose, which is in the name and control of the Prudential Au-thority.
+(c) Deposit insurance levies imposed in accordance with the Financial Sector and Deposit Insurance Levies Act, which are referred to in section 237(3A)(c), and interest accrued on those levies in terms of section 244(4)(c), must be collected by the Reserve Bank and paid into a bank account designated for that purpose, which is in the name and control of the Cor-poration.
+(d) Deposit insurance premiums imposed in accordance with section 166BG, which are referred to in section 237(3B)(a), and interest accrued on those premiums in terms of section 244(5), must be collected by the Reserve Bank and paid into the bank account of the Fund referred to in section 166BD(3).
+Act No. and year of law Short Title Extent of amendment or repeal
+(3) Each financial sector body's allocation of the levies [collected] in terms of section 12 of the Financial Sector and Deposit Insurance Levies Act and interest contemplated in subsection (2)(a), must be transferred by the Financial Sector Conduct Authority to the financial sector body's designated account in accordance with a payment schedule agreed be-tween the financial sector body and the Financial Sector Con-duct Authority.''.
