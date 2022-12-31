@@ -3,6 +3,7 @@ In this Act, unless the context indicates otherwise—
 “accounting records” means information in written or electronic form concerning the financial affairs of a company as required in terms of this Act, including but not limited to, purchase and sales records, general and subsidiary ledgers and other documents and books used in the preparation of financial statements;
 “acquiring party”, when used in respect of a transaction or proposed transaction, means a person who, as a result of the transaction, would directly or indirectly acquire or establish direct or indirect control or increased control over all or the greater part of a company, or all or the greater part of the assets or undertaking of a company;
 “advertisement” means any direct or indirect communication transmitted by any medium, or any representation or reference written, inscribed, recorded, encoded upon or embedded within any medium, by means of which a person seeks to bring any information to the attention of all or part of the public;
+“affected company” means a regulated company as set out in section 117(1)(i) and a private company that is controlled by or a subsidiary of a regulated company as a result of any circumstances contemplated in section 2(2)(a) or 3 (1)(a); and
 “agreement” includes a contract, or an arrangement or understanding between or among two or more parties that purports to create rights and obligations between or among those parties;
 “all or the greater part of the assets or undertaking”, when used in respect of a company, means—
 (a) in the case of the company’s assets, more than 50% of its gross assets fairly valued, irrespective of its liabilities; or
@@ -25,6 +26,17 @@ In this Act, unless the context indicates otherwise—
 (a) receive or participate in any distribution in respect of the company’s securities;
 (b) exercise or cause to be exercised, in the ordinary course, any or all of the rights attaching to the company’s securities; or
 (c) dispose or direct the disposition of the company’s securities, or any part of a distribution in respect of the securities, but does not include any interest held by a person in a unit trust or collective investment scheme in terms of the Collective Investment Schemes Act, 2002 (Act 45 of 2002);
+“beneficial owner”, in respect of a company, means an individual who, directly or indirectly, ultimately owns that company or exercises effective control of that company, including through—
+(a) the holding of beneficial interests in the securities of that company;
+(b) the exercise of, or control of the exercise of the voting rights associated with securities of that company;
+(c) the exercise of, or control of the exercise of the right to appoint or remove members of the board of directors of that company;
+(d) the holding of beneficial interests in the securities, or the ability to exercise control, including through a chain of ownership or control, of a holding company of that company;
+(e) the ability to exercise control, including through a chain of ownership or control, of—
+(i) a juristic person other than a holding company of that company;
+(ii) a body of persons corporate or unincorporate;
+(iii) a person acting on behalf of a partnership;
+(iv) a person acting in pursuance of the provisions of a trust agreement; or
+(f) the ability to otherwise materially influence the management of that company;
 “board” means the board of directors of a company;
 “business days” has the meaning determined in accordance with section 5(3);
 “Cabinet” means the body of the national executive described in section 91 of the Constitution;
