@@ -1,0 +1,7 @@
+# 31. Cancellation and suspension of enrolment
+(1) (a) The Council must cancel or suspend the enrolment of a legal practitioner if the High Court orders that his or her name be struck off the Roll or that he or she be suspended from practice.
+(b) The Council may cancel or suspend the enrolment of a legal practitioner if he or she has erroneously been enrolled, or has been enrolled on information that is subsequently proved to be false.
+(2) The Council must, before cancellation or suspension of enrolment of a legal practitioner in the case of subsection (1) (b), notify such legal practitioner and give him or her an opportunity to be heard.
+(3) The Council must, as determined in the rules, notify the person referred to in subsection (1) of the cancellation or suspension of enrolment.
+(4) The Council must, at the written request of any enrolled legal practitioner, cancel his or her enrolment and remove his or her name from the Roll or from the Roll of practising legal practitioners, as indicated by the legal practitioner in question, but where an investigation into any alleged improper conduct by that person is in progress or is to be held, the enrolment may not be cancelled until the investigation has been concluded.
+(5) Despite the cancellation or suspension of the enrolment of a person in terms of this section, that person remains liable for any fee, arrears or penalty imposed by the Council for the period that he or she was enrolled.

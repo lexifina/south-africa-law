@@ -1,0 +1,4 @@
+# 50. Acting Ombud and filling of vacancies
+(1) If the office of Ombud becomes vacant, the President must, subject to this Chapter, appoint a judge discharged from active service in terms of the Judges’ Remuneration and Conditions of Employment Act, 2001 (Act 47 of 2001), to that office.
+(2) Whenever the Ombud is for any reason unable to exercise or perform his or her powers or functions, or when the appointment of a judge referred to in subsection (1) to the office of Ombud is pending, the President may, subject to this Chapter, appoint a person as acting Ombud to exercise the powers and perform the powers and functions of the Ombud.
+(3) The President must determine the remuneration, allowances and other terms and conditions of service and service benefits of the acting Legal Services Ombud, after consultation with the Minister and the Minister of Finance.

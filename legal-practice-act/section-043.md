@@ -1,0 +1,2 @@
+# 43. Urgent legal proceedings
+Despite the provisions of this Chapter, if upon considering a complaint, a disciplinary body is satisfied that a legal practitioner has misappropriated trust monies or is guilty of other serious misconduct, it must inform the Council thereof with the view to the Council instituting urgent legal proceedings in the High Court to suspend the legal practitioner from practice and to obtain alternative interim relief.

@@ -1,0 +1,6 @@
+# 112. Transitional provisions in relation to qualifications
+(1) Notwithstanding anything to the contrary in this Act—
+(a) (i) the training course presented at a Practical Legal Training School of the Law Society of South Africa, for purposes of the Attorneys Act; or
+(ii) any other training course approved by any existing society or the General Council of the Bar, before the date referred to in section 120 (4) for the purpose of training persons to qualify as legal practitioners, must be regarded as having been presented or approved pursuant to the regulations pertaining to practical vocational training in terms of this Act; and
+(b) any period of practical vocational training undergone with an attorney or advocate before the date referred to in section 120 (4) must be regarded as having been a period of practical vocational training under supervision of a legal practitioner.
+(2) Any person upon whom the degree baccalaureus procurationis was conferred by a university of the Republic, is regarded as being qualified to be admitted by the court and enrolled as an attorney by the Council as if he or she held the degree baccalaureus legum, if all the other requirements in the Attorneys Act are complied with: Provided that such person has not later than 1 January 1999 registered for the first-mentioned degree.

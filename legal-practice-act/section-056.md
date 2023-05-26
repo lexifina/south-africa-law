@@ -1,0 +1,25 @@
+# 56. Limitation of liability of Fund
+(1) The Fund is not liable in respect of any loss suffered—
+(a) by a family member or a member of the household of any attorney or an advocate referred to in section 34 (2) (b) who committed the theft;
+(b) by any partner or co-director in the trust account practice in which the theft occurs;
+(c) as a result of theft committed by an attorney or advocate whose fidelity has been otherwise guaranteed by a person, either in general or in respect of a particular transaction, to the extent to which it is covered by the guarantee;
+(d) by any person as a result of any theft committed after the victim of the theft received notice in writing from the Council or the Board warning against the use or continued use of the legal services of the trust account practice concerned or the giving of any money or property in trust to that trust account practice and the person in question has failed to take reasonable steps after being so warned; or
+(e) by any person as a result of theft of money which any attorney or an advocate referred to in section 34 (2) (b) has been instructed to invest on behalf of such person.
+(2) A claim for reimbursement as provided for in section 55 is limited—
+(a) in the case of money given in trust to a trust account practice, to the amount actually handed over, without interest, unless interest has been earned and given in trust to the practice, or unless the Board, in its discretion, decides to pay interest; and
+(b) in the case of securities or other property, to an amount equal to the average market value of such securities or property at the date when written demand is first made for their delivery, or if there is no average market value, the fair market value of such securities or other property as at that date, without interest.
+(3) Only the balance of any loss suffered by any person after deduction from the loss of the amount or value of all money or other benefits received or receivable by that person from any source other than the Fund, may be recovered from the Fund.
+(4) Subsection (1) (e) does not apply to money which an attorney is authorised to invest where the attorney acts in his or her capacity as executor, trustee or curator, or in any similar capacity, excluding a curator to a financial institution in terms of the Banks Act, 1990 (Act 94 of 1990), or liquidator of a mutual bank in terms of the Mutual Banks Act, 1993 (Act 124 of 1993).
+(5) Subject to subsection (6), an attorney or advocate must be regarded as having been instructed to invest money for the purposes of subsection (1) (e), where a person—
+(a) who entrusts money to the attorney or advocate; or
+(b) for whom the attorney or advocate holds money, instructs the attorney or advocate to invest all or some of that money in a specified investment or in an investment of the attorney’s or advocate’s choice.
+(6) For the purposes of subsection (1) (e) an attorney or advocate is regarded as not having been instructed to invest money if he or she is instructed by a person—
+(a) to pay the money into a trust account, if that payment is for the purpose of investing the money in that account on a temporary or interim basis only, pending the conclusion or implementation of any particular matter or transaction which is already in existence or about to come into existence at the time that the investment is made and in respect of which investment the attorney or advocate exercises exclusive control as trustee, agent or stakeholder, or in any fiduciary capacity;
+(b) to lend money on behalf of that person to give effect to a loan agreement where that person, being the lender—
+(i) specifies the borrower to whom the money is to be lent;
+(ii) has not been introduced to the borrower by the attorney for the purpose of making that loan; and
+(iii) is advised by the attorney in respect of the terms and conditions of the loan agreement; or
+(c) to utilise money to give effect to any term of a transaction to which that person is a party, other than a transaction which is a loan or which gives effect to a loan agreement that does not fall within the scope of paragraph (b).
+(7) An attorney or advocate who has been instructed to invest money as provided for in subsection (5) must, as soon as practicable after he or she has received that instruction, but prior to the receipt of the money to be invested, notify the person giving the instruction of the provisions of subsection (1) (e) in the form and manner determined by the Board in terms of subsection (8).
+(8) For the purposes of subsection (7), the Board must issue directives determining the form and manner in which a notice referred to in that subsection must be given, and it may from time to time review and, if necessary, revise such directives.
+(9) For purposes of subsection (1) (a), “family member”, in relation to any person, means his or her parent, parent-in-law, sibling, child, including an adopted child or a step-child, or spouse (whether by statutory, customary or religious law), and including a life partner who is a person living with that person as if they were married to each other.

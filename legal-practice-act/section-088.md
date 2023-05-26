@@ -1,0 +1,5 @@
+# 88. Trust money and trust property of trust account practice
+(1) (a) Subject to paragraph (b), an amount standing to the credit of any trust account of any trust account practice—
+(i) does not form part of the assets of the trust account practice or of any attorney, partner or member thereof or of any advocate referred to in section 34 (2) (b); and
+(ii) may not be attached by the creditor of any such trust account practice, attorney, partner or member or advocate. (b) Any excess remaining after all claims of persons whose money has, or should have been deposited or invested in a trust account referred to in paragraph (a), and all claims in respect of interest on money so invested, are deemed to form part of the assets of the trust account practice concerned.
+(2) Trust property which is registered in the name of a trust account practice, or jointly in the name of an attorney or trust account practice and any other person in a capacity as administrator, trustee, curator or agent, does not form part of the assets of that attorney or trust account practice or other person.

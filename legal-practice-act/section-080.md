@@ -1,0 +1,2 @@
+# 80. Subrogation
+On payment out of the Fund of money in settlement in whole or in part of any claim under this Chapter, the Fund is subrogated, to the extent of the payment, to all rights and legal remedies of the claimant against any legal practitioner referred to in section 84 (1) or person in relation to whom the claim arose, or in the event of his or her death or insolvency or other legal disability, against any person having authority to administer his or her estate.

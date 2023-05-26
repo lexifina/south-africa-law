@@ -1,0 +1,4 @@
+# 72. Certificate in respect of liabilities of Fund and investment of money in Fund
+(1) The Board must appoint an actuary to make recommendations to it on or before 31 March in any year regarding the amount which, in that actuary’s opinion, will be required during the next ensuing year ending on 31 December, for the purposes of meeting the obligations of the Fund in terms of section 55, and the actuary must furnish the Board on or before the first- mentioned date with a certificate setting out the amount so recommended.
+(2) The Board must, within 30 days after receipt of the certificate referred to in subsection (1), determine the amount required in the ensuing year for the purposes referred to in subsection (1).
+(3) Any amount determined in terms of subsection (2) that is not immediately required for the purposes referred to in subsection (1) in any financial year must be invested in government and other securities as may be prescribed by regulation.

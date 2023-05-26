@@ -1,0 +1,2 @@
+# 89. Court may prohibit operation of trust account
+The High Court may, on application made by the Council or the Board, and on good cause shown, prohibit any legal practitioner referred to in section 84 (1) from operating in any way on his or her trust account, and may appoint a curator bonis to control and administer that trust account, with any rights, powers and functions in relation thereto as the court may deem fit.

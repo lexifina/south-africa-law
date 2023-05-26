@@ -1,0 +1,8 @@
+# 9. Chairperson and deputy chairperson of Council
+(1) At the first meeting of the Council, the members of the Council must elect and appoint a chairperson and deputy chairperson from among themselves.
+(2) The chairperson and the deputy chairperson hold office for a period of three years from the date of their election and may be re-elected and re-appointed for one further term, unless such chairperson or deputy chairperson resigns or ceases to be a member of the Council.
+(3) The deputy chairperson must, if the chairperson is absent or is for any reason unable to act as chairperson, perform all the functions and exercise all the powers of the chairperson.
+(4) If both the chairperson and deputy chairperson are absent from any meeting, the members present must elect a person from among themselves to preside at that meeting and the person so presiding must, during that meeting and until the chairperson or deputy chairperson resumes duty, perform all the functions and exercise all the powers of the chairperson.
+(5) If both the chairperson and deputy chairperson have been given leave of absence, the members of the Council must elect a person from among themselves to act as chairperson until the chairperson or deputy chairperson resumes duty or is removed from office in terms of section 12.
+(6) If the office of chairperson or deputy chairperson becomes vacant, the members of the Council must, at the first meeting thereafter or as soon as possible thereafter, elect from among themselves a new chairperson or deputy chairperson, as the case may be.
+(7) A chairperson and deputy chairperson may vacate office as such, without relinquishing his or her membership of the Council, unless his or her membership has been terminated in accordance with section 11.
