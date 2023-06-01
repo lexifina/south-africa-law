@@ -1,5 +1,6 @@
 # 113. Proposals for amalgamation or merger
 (1) Two or more profit companies, including holding and subsidiary companies, may amalgamate or merge if, upon implementation of the amalgamation or merger, each amalgamated or merged company will satisfy the solvency and liquidity test.
+(1A) This section does not apply to an amalgamation or merger to which section 166S of the Financial Sector Regulation Act, 2017 (Act 9 of 2017), applies.
 (2) Two or more companies proposing to amalgamate or merge must enter into a written agreement setting out the terms and means of effecting the amalgamation or merger and, in particular, setting out—
 (a) the proposed Memorandum of Incorporation of any new company to be formed by the amalgamation or merger;
 (b) the name and identity number of each proposed director of any proposed amalgamated or merged company;

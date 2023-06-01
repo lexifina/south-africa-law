@@ -15,10 +15,11 @@
 (iii) it is otherwise just and equitable for the company to be wound up;
 (e) a shareholder has applied, with leave of the court, for an order to wind up the company on the grounds that—
 (i) the directors, prescribed officers or other persons in control of the company are acting in a manner that is fraudulent or otherwise illegal; or
-(ii) the company’s assets are being misapplied or wasted; or
+(ii) the company’s assets are being misapplied or wasted;
 (f) the Commission or Panel has applied to the court for an order to wind up the company on the grounds that—
 (i) the company, its directors or prescribed officers or other persons in control of the company are acting or have acted in a manner that is fraudulent or otherwise illegal, the Commission or Panel, as the case may be, has issued a compliance notice in respect of that conduct, and the company has failed to comply with that compliance notice; and
-(ii) within the previous five years, enforcement procedures in terms of this Act or the Close Corporations Act, 1984 (Act No. 69 or 1984), were taken against the company, its directors or prescribed officers, or other persons in control of the company for substantially the same conduct, resulting in an administrative fine, or conviction for an offence.
+(ii) within the previous five years, enforcement procedures in terms of this Act or the Close Corporations Act, 1984 (Act 69 or 1984), were taken against the company, its directors or prescribed officers, or other persons in control of the company for substantially the same conduct, resulting in an administrative fine, or conviction for an offence; or
+(g) in the case of a designated institution as defined in the Financial Sector Regulation Act, 2017 (Act 9 of 2017), the Reserve Bank has applied to the court for an order to wind up the company on the grounds that the company has been placed in resolution in terms of that Act and there are no reasonable prospects that the company will cease to be in resolution.
 (2) A shareholder may not apply to a court as contemplated in subsection (1)(d) or (e) unless the shareholder—
 (a) has been a shareholder continuously for at least six months immediately before the date of the application; or
 (b) became a shareholder as a result of—
