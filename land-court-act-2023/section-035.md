@@ -1,0 +1,17 @@
+# s. 35
+Transitional arrangements
+35. (1) (a) Any proceedings arising out of the application of this Act or any other law conferring jurisdiction on the Court, pending in any court other than the Land Claims Court established by section 22 of the Restitution of Land Rights Act, at the commencement of this Act must be continued and concluded in every respect as if this Act had not been passed.
+(b) Any proceedings arising out of the application of this Act or any other law conferring jurisdiction on the Court, pending in the Land Claims Court, at the commencement of this Act must be continued and concluded in terms of this Act in the Court and, for that purpose—
+(i) those proceedings are deemed to have been instituted in terms of this Act in the Court; and
+(ii) anything done under any provision of any law amended by this Act is deemed to have been done under the corresponding provision of this Act, unless the Court is of the view that this would not be in the interests of justice, in which event the Court must conclude the proceedings in the Court as if this Act had not been passed.
+(c) Proceedings for purposes of paragraphs (a) and (b), are deemed to be pending if, at the commencement of this Act—
+(i) a civil summons had been issued or an application has been lodged, but judgment or an order has not been given; or
+(ii) an accused person had pleaded but judgment or sentence has not been passed.
+(d) Any proceedings arising out of the application of any law pending in any tribunal or forum at the commencement of this Act must be continued and concluded in every respect as if this Act had not been passed.
+(2) (a) Any period of time served by a person as a judge or an acting judge of the Land Claims Court established in terms of section 22 of the Restitution of Land Rights Act, is deemed to have been served by that person, as a judge appointed in terms of section 8 of this Act.
+(b) A judge of the High Court who, on the date of commencement of this Act, was seconded or appointed as a judge of the Land Claims Court becomes a judge of the Court except where such judge indicates in writing to the Secretary of the Judicial Service Commission, that such judge does not wish to hold a concurrent appointment as a judge of the Court.
+(c) Officers and staff of the Land Claims Court who were appointed in terms of section 28I of the Restitution of Land Rights Act before the date of commencement of this Act, become officers and staff of the Court on the same terms and conditions of their appointment in terms of that section: Provided that the terms and conditions applicable to officers and staff who have been appointed on contract basis remain the same at the commencement of this Act.
+(3) Any money available from the budget allocation for purposes of section 29(4) of the Restitution of Land Rights Act, before its amendment by this Act, forms part of the budget allocation of Legal Aid South Africa for purposes of giving effect to section 16(4) of this Act.
+The Land Court Act, 2023
+(4) Until the rules contemplated in section 29(3) and the regulations contemplated in section 37(1)(d) have been made, mediators and assessors must be appointed in the manner provided for in the Restitution of Land Rights Act.
+(5) The rules published under Government Notice No. R. 300 of 21 February 1997 continue to apply to the Court, with necessary changes required by the context, until the rules contemplated in section 14(1) have been made.
