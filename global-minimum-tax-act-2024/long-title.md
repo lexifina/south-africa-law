@@ -1,0 +1,4 @@
+ACT To provide for the introduction of the Global Anti-Base Erosion (GloBE) Rules in South Africa; to provide for the imposition of Top-up Tax; and to provide for matters connected therewith.
+PREAMBLE WHEREAS the Organisation for Economic Cooperation and Development (OECD)/ G20 Inclusive Framework to counter Base Erosion and Profit Shifting (BEPS) has developed the GloBE Rules, with the Republic being an active member of the OECD/G20 Inclusive Framework on BEPS;
+AND WHEREAS the GloBE Rules introduce a global minimum tax, designed to ensure large multinational enterprises pay a minimum level of tax on the income arising in each jurisdiction where they operate, as part of the solution for addressing the tax challenges of the digital economy;
+AND WHEREAS the Republic wishes to adopt the GloBE Rules, with the necessary changes for its context, B E IT THEREFORE ENACTED by the Parliament of the Republic of South Africa, as follows:—
