@@ -1,0 +1,3 @@
+# 10. Prohibition of hate speech
+(1) Subject to the proviso in section 12, no person may publish, propagate, advocate or communicate words based on one or more of the prohibited grounds, against any person, that could reasonably be construed to demonstrate a clear intention to be harmful or to incite harm and to promote or propagate hatred.
+(2) Without prejudice to any remedies of a civil nature under this Act, the court may, in accordance with section 21 (2) (n) and where appropriate, refer any case dealing with the publication, advocacy, propagation or communication of hate speech as contemplated in subsection (1), to the Director of Public Prosecutions having jurisdiction for the institution of criminal proceedings in terms of the common law or relevant legislation.

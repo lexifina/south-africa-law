@@ -1,0 +1,3 @@
+# 27. Social commitment by all persons to promote equality
+(1) Pursuant to section 26, all persons, non-governmental organisations, community-based organisations and traditional institutions must promote equality in their relationships with other bodies and in their public activities.
+(2) The Minister must develop regulations in relation to this Act and other Ministers may develop regulations in relation to other Acts which require companies, closed corporations, partnerships, clubs, sports organisations, corporate entities and associations, where appropriate, in a manner proportional to their size, resources and influence, to prepare equality plans or abide by prescribed codes of practice or report to a body or institution on measures to promote equality.
