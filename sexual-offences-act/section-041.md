@@ -1,0 +1,6 @@
+# 41. Prohibition on certain types of employment by certain persons who have committed sexual offences
+A person who has been convicted of the commission of a sexual offence or is alleged to have committed a sexual offence and has been dealt with in terms of section 77 (6) or 78 (6) of the Criminal Procedure Act, 1977 (Act 51 of 1977), whether committed before or after the commencement of this Chapter, whether committed in or outside the Republic, and whose particulars have been included in the Register, may not—
+(a) be employed to work with a person who is vulnerable in any circumstances;
+(b) hold any position, related to his or her employment, or for any commercial benefit which in any manner places him or her in any position of authority, supervision or care of a person who is vulnerable, or which, in any other manner, places him or her in a position of authority, supervision or care of a person who is vulnerable;
+(c) be granted a licence or be given approval to manage or operate any entity, business concern or trade in relation to the supervision over or care of a person who is vulnerable; or
+(d) become the foster parent, kinship care-giver, temporary safe care-giver or adoptive parent of a child or the curator of a person with a mental disability.

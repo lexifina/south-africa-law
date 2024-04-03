@@ -1,0 +1,2 @@
+# 25. Exposure or display of or causing exposure or display of child pornography or pornography to persons with
+mental disabilities A person (“A”) who unlawfully and intentionally exposes or displays or causes the exposure or display of any image, publication, depiction, description or sequence of child pornography or pornography to a complainant with a mental disability (“B”), is guilty of the offence of exposing or displaying or causing the exposure or display of child pornography or pornography to a person with a mental disability.

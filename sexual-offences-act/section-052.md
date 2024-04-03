@@ -1,0 +1,9 @@
+# 52. Confidentiality and disclosure of information
+(1) The Registrar and any other person who assists the Registrar in the exercise and performance of his or her powers, duties and functions may not disclose any information which he or she has acquired in the exercise of the powers, performance of the functions or carrying out of the duties conferred upon, assigned to or imposed upon him or her under this Chapter, except—
+(a) for the purpose of giving effect to the provisions of this Chapter; or
+(b) when required to do so by any competent court.
+(2) Except in so far as it may be necessary for the purposes of this Chapter, the Registrar and any other person who assists the Registrar in the exercise and performance of his or her powers, duties and functions, who wilfully discloses any information to any other person, is guilty of an offence and is liable on conviction to a fine or to imprisonment for a period not exceeding three years or to both a fine and such imprisonment.
+(3) Any person who discloses any information which he or she has acquired in the exercise of the powers, performance of the functions or carrying out of the duties conferred upon, assigned to or imposed upon him or her under this Chapter, except—
+(a) for the purpose of giving effect to the provisions of this Chapter; or
+(b) when required to do so by any competent court, is guilty of an offence and is liable on conviction to a fine or to imprisonment for a period not exceeding three years or to both a fine and such imprisonment.
+(4) Except in so far as it may be necessary for the purposes of this Chapter, any person who wilfully discloses or publishes any information to any other person which he or she has acquired as a result of an application contemplated in section 44 or in any other manner, is guilty of an offence and is liable on conviction to a fine or to imprisonment for a period not exceeding three years or to both a fine and such imprisonment.

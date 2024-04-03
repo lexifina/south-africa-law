@@ -1,0 +1,6 @@
+# 21. Compelling or causing children to witness sexual offences, sexual acts or self-masturbation
+(1) A person (“A”) who unlawfully and intentionally, whether for the sexual gratification of A or of a third person (“C”) or not, compels or causes a child complainant (“B”), without the consent of B, to be in the presence of or watch A or C while he, she or they commit a sexual offence, is guilty of the offence of compelling or causing a child to witness a sexual offence.
+(2) A person (“A”) who unlawfully and intentionally, whether for the sexual gratification of A or of a third person (“C”) or not, compels or causes a child complainant (“B”), without the consent of B, to be in the presence of or watch—
+(a) A while he or she engages in a sexual act with C or another person (“D”); or
+(b) C while he or she engages in a sexual act with D, is guilty of the offence of compelling or causing a child to witness a sexual act.
+(3) A person (“A”) who unlawfully and intentionally, whether for the sexual gratification of A or of a third person (“C”) or not, compels or causes a child complainant (“B”), without the consent of B, to be in the presence of or watch A or C while he or she engages in an act of self-masturbation, is guilty of the offence of compelling or causing a child to witness self-masturbation.

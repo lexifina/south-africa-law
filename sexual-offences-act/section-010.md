@@ -1,0 +1,2 @@
+# 10. Exposure or display of or causing exposure or display of child pornography to persons 18 years or older
+A person (“A”) who unlawfully and intentionally, whether for the sexual gratification of A or of a third person (“C”) or not, exposes or displays or causes the exposure or display of child pornography to a complainant 18 years or older (“B”), with or without the consent of B, is guilty of the offence of exposing or displaying or causing the exposure or display of child pornography to a person 18 years or older.

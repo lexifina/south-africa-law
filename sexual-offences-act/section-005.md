@@ -1,0 +1,3 @@
+# 5. Sexual assault
+(1) A person (“A”) who unlawfully and intentionally sexually violates a complainant (“B”), without the consent of B, is guilty of the offence of sexual assault.
+(2) ......

@@ -1,0 +1,4 @@
+# 69. Transitional provisions
+(1) All criminal proceedings relating to the common law crimes referred to in section 68 (1) (b) which were instituted prior to the commencement of this Act and which are not concluded before the commencement of this Act must be continued and concluded in all respects as if this Act had not been passed.
+(2) An investigation or prosecution or other legal proceedings in respect of conduct which would have constituted one of the common law crimes referred to in section 68 (1) (b) which was initiated before the commencement of this Act may be concluded, instituted and continued as if this Act had not been passed.
+(3) Despite the repeal or amendment of any provision of any law by this Act, such provision, for purposes of the disposal of any investigation, prosecution or any criminal or legal proceedings contemplated in subsection (1) or (2), remains in force as if such provision had not been repealed or amended.
