@@ -1,0 +1,4 @@
+# 45. Jurisdiction by consent of parties
+(1) Subject to the provisions of section 46, the parties may consent in writing to the jurisdiction of either the court for the district or the court for the regional division to determine any action or proceedings otherwise beyond its jurisdiction in terms of section 29 (1).
+(2) Any provision in a contract existing at the commencement of the Act or thereafter entered into, whereby a person undertakes that, when proceedings have been or are about to be instituted, he will give such consent to jurisdiction as is contemplated in the proviso to subsection (1), shall be null and void.
+(3) Any consent given in proceedings instituted in terms of section 57, 58, 65 or 65J by a defendant or a judgment debtor to the jurisdiction of a court which does not have jurisdiction over that defendant or judgment debtor in terms of section 28, is of no force and effect.

@@ -1,0 +1,6 @@
+# 74. Granting of administration orders
+(1) Where a debtor—
+(a) is unable forthwith to pay the amount of any judgment obtained against him in court, or to meet his financial obligations, and has not sufficient assets capable of attachment to satisfy such judgment or obligations; and
+(b) states that the total amount of all his debts due does not exceed the amount determined by the Minister from time to time by notice in the Gazette,
+such court or the court of the district in which the debtor resides or carries on business or is employed may, upon application by the debtor or under section 65I, subject to such conditions as the court may deem fit with regard to security, preservation or disposal of assets, realization of movables subject to hypothec (except movables referred to in section 34 of the Land Bank Act, 1944 (Act 13 of 1944)), or otherwise, make an order (in this Act called an administration order) providing for the administration of his estate and for the payment of his debts in instalments or otherwise.
+(2) An administration order shall not be invalid merely because at some time or other the total amount of the debtor’s debts are found to exceed the amount determined by the Minister from time to time by notice in the Gazette, but in such a case the court may, if it deems fit, rescind the order.

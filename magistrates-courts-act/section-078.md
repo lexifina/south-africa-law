@@ -1,0 +1,2 @@
+# 78. Execution or suspension in case of appeal, etc
+Where an appeal has been noted or an application to rescind, correct or vary a judgment has been made, the court may direct either that the judgment shall be carried into execution or that execution thereof shall be suspended pending the decision upon the appeal or application. The direction shall be made upon such terms, if any, as the court may determine as to security for the due performance of any judgment which may be given upon the appeal or application.

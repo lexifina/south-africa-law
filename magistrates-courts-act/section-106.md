@@ -1,0 +1,2 @@
+# 106. Penalty for disobedience of judgment or order of court
+Any person wilfully disobeying, or refusing or failing to comply with any judgment or order of a court or with a notice lawfully endorsed on a summons for rent prohibiting the removal of any furniture or effects shall be guilty of contempt of court and shall, upon conviction, be liable to a fine, or to imprisonment for a period not exceeding six months or to such imprisonment without the option of a fine.

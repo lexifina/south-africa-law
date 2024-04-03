@@ -1,0 +1,4 @@
+# 30. Arrests and interdicts
+(1) Subject to the limits of jurisdiction prescribed by this Act, the court may grant against persons and things orders for attachments, interdicts and mandamenten van spolie.
+(2) Confirmation by the court of any such attachment or interdict in the judgment in the action shall operate as an extension of the attachment or interdict until execution or further order of the court.
+(3) ...... 30bis Attachment to found or confirm jurisdiction The court may order attachment of property to found or confirm jurisdiction against any person who does not reside in the Republic, in respect of an action within its jurisdiction, where the claim or the value of the matter in dispute amounts to at least R2 500, exclusive of any costs in respect of the recovery thereof, and may grant an order allowing service of any process in such action to be effected in such manner as may be stated in such order.

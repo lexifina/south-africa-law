@@ -1,0 +1,4 @@
+# 35. Transfer from one court to another
+(1) An action or proceeding may, with the consent of all the parties thereto, or upon the application of any party thereto, and upon its being made to appear that the trial of such action or proceeding in the court wherein summons has been issued may result in undue expense or inconvenience to such party, be transferred by the court to any other court.
+(2) An interpleader summons, if issued in the court of the district in which the property was attached, may, at the discretion of the court, be remitted for trial to the court in which the judgment was given.
+(3) An action commenced in a periodical court may, at the discretion of the court, be transferred to the court of the district, or (subject to the provisions of paragraph (b) of section twenty-seven) vice versa.

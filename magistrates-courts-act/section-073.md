@@ -1,0 +1,4 @@
+# 73. Suspension of execution of debt
+(1) The court may, on the application of any judgment debtor or under section 65E (1) (a) (ii) or 65E (1) (c) and if it appears to the court that the judgment debtor is unable to satisfy the judgment debt in full at once, but is able to pay reasonable periodical instalments towards satisfaction thereof or if the judgment debtor consents to a garnishee order being made against him or her, suspend execution against that debtor either wholly or in part on such conditions as to security or otherwise as the court may determine.
+(2) Nothing in this section contained shall be construed as authorizing the court to suspend the execution of a judgment upon any property subject to a hypothec for the judgment debt existing irrespective of attachment in execution.
+(3) An order under paragraph (e) of section forty-eight or under this section may at any time and for good cause be varied or rescinded by the court.

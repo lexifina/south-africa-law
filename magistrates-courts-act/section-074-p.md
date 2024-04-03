@@ -1,0 +1,3 @@
+# 74P. Remedies restricted by administration order
+(1) As long as any administration order is of force and effect in respect of the estate of any debtor, no creditor shall have any remedy against the debtor or his property for collecting money owing, except in regard to any mortgage bond or any debt referred to in section 74B (3) or by leave of the court and on such conditions as the court may impose.
+(2) Any court in which proceedings have been instituted against a debtor in respect of any debt except a debt due under a mortgage bond or a debt referred to in section 74B (3) shall, upon receiving notice of the administration order, suspend such proceedings but may grant costs already incurred by the creditor, and such costs may be added to the judgment debt.

@@ -1,0 +1,4 @@
+# 60. Prohibition of recovery of fees or remuneration by certain persons in connection with the collection of debts
+(1) Unless expressly otherwise provided in this Act or the rules and the National Credit Act, 2005 (Act 34 of 2005), and subject to the provisions of section 19 of the Debt Collectors Act, 1998, no person other than an attorney, an agent referred to in section 22 or a person authorised by or under the provisions of the National Credit Act, 2005 (Act 34 of 2005), to do so shall be entitled to recover from the debtor any fees or remuneration in connection with the collection of any debt.
+(2) Any person who contravenes any provision of subsection (1), shall be guilty of an offence and on conviction be liable to a fine not exceeding R4 000, or, in default of payment, to imprisonment for a period not exceeding 12 months, or to both such fine and such imprisonment.
+EXECUTION (ss 61-79)

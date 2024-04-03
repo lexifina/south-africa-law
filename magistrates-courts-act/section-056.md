@@ -1,0 +1,2 @@
+# 56. Recovery of costs of letter of demand
+If any person (in this section called the debtor) pays any debt due by him to any other person (in this section called the creditor) after the creditor has caused a registered letter of demand to be sent to the debtor through an attorney demanding payment of the debt, the creditor shall be entitled to recover from the debtor the fees and costs prescribed in the rules for a registered letter of demand: Provided that the amount of such fees and costs was stated in the letter of demand.

@@ -1,0 +1,3 @@
+# 29A. Jurisdiction in respect of appeals against decisions of Black chiefs, headmen and chiefs’ deputies
+(1) If a party appeals to a magistrate’s court in terms of the provisions of section 12 (4) of the Black Administration Act, 1927 (Act 38 of 1927), the said court may confirm, alter or set aside the judgment after hearing such evidence as may be tendered by the parties to the dispute, or as may be deemed desirable by the court.
+(2) A confirmation, alteration or setting aside in terms of subsection (1), shall be deemed to be a decision of a magistrate’s court for the purposes of the provisions of Chapter XI.

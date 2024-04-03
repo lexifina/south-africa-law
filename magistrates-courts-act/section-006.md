@@ -1,0 +1,3 @@
+# 6. Medium to be employed in proceedings
+(1) Either of the official languages may be used at any stage of the proceedings in any court and the evidence shall be recorded in the language so used.
+(2) If, in a criminal case, evidence is given in a language with which the accused is not in the opinion of the court sufficiently conversant, a competent interpreter shall be called by the court in order to translate such evidence into a language with which the accused professes or appears to the court to be sufficiently conversant, irrespective of whether the language in which the evidence is given, is one of the official languages or of whether the representative of the accused is conversant with the language used in the evidence or not.

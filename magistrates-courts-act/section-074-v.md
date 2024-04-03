@@ -1,0 +1,3 @@
+# 74V. Interruption of prescription
+(1) In the case of any debt mentioned in the statement referred to in section 74A (1), prescription shall be interrupted on the date on which such statement is lodged and, in the case of any debt not mentioned in such statement, prescription shall be interrupted on the date on which any claim against the debtor is lodged with the court or the administrator.
+(2) If the relevant prescriptive period of a debt referred to in subsection (1), had it not been for the provisions of subsection (1), would be completed on or before or within one year of, the day on which the restriction referred to in subsection 74P (1) has ceased to exist, the prescriptive period shall not be completed until a year after the said day has elapsed.

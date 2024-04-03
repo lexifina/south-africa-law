@@ -1,0 +1,4 @@
+# 53. Commissions de bene esse
+(1) The court may in any case which is pending before it, where it may be expedient and consistent with the ends of justice to do so, appoint a person to be a commissioner to take evidence of any witness, whether within the Republic or elsewhere, upon the request of one of the parties to such case and after due notice to the other party.
+(2) The person so appointed shall put to such witness such questions as have been transmitted to him on agreement between the parties, or otherwise shall allow the parties to examine such witness, and may himself examine such witness as if the witness were being examined in court, and shall record the evidence or cause it to be recorded, whereupon the evidence recorded shall be read over to the witness and shall be signed by him.
+(3) The said record shall (subject to all lawful objections) be received as evidence in the case.

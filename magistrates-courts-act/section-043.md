@@ -1,0 +1,3 @@
+# 43. Jurisdiction cumulative
+(1) If two or more claims, each based upon a different cause of action, are combined in one summons, the court shall have the same jurisdiction to decide each such claim as it would have had if each claim had formed the sole subject of a separate action.
+(2) If a claim for the confirmation of an interdict or arrest granted pendente lite be joined in the same summons with a claim for relief of any other character, the court shall have the same jurisdiction to decide each such claim as it would have had if each claim had formed the sole subject of a separate action, even though all the claims arise from the same cause of action.

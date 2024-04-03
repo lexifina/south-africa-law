@@ -1,0 +1,2 @@
+# 106A. Offence by garnishee
+Any garnishee who, by reason of an emoluments attachment order having been served on him in respect of the emoluments of a judgment debtor not occupying a position of trust in which he handles or has at his disposal moneys, securities or other articles of value, dismisses or otherwise terminates the service of such judgment debtor, shall be guilty of an offence and on conviction liable to a fine not exceeding R300 or, in default of payment, to imprisonment for a period not exceeding three months.

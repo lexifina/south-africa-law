@@ -1,0 +1,2 @@
+# 63. Execution to be issued within three years
+Execution against property may not be issued upon a judgment after three years from the day on which it was pronounced or on which the last payment in respect thereof was made, except upon an order of the court in which judgment was pronounced or of any court having jurisdiction, in respect of the judgment debtor, on the application and at the expense of the judgment creditor, after due notice to the judgment debtor to show cause why execution should not be issued.

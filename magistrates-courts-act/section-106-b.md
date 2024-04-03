@@ -1,0 +1,2 @@
+# 106B. Offence by employer
+Any employer who, having been requested by an employee to furnish a written statement containing full particulars of such employee’s emoluments, fails or neglects to do so within a reasonable time, or who wilfully or negligently furnishes incorrect relevant particulars, shall be guilty of an offence and on conviction liable to a fine not exceeding R300 or, in default of payment, to imprisonment for a period not exceeding three months.

@@ -1,0 +1,3 @@
+# 115A. Application of Act to the territory of South-West Africa
+(1) This Act and any amendment thereof shall apply also in the territory, including the Eastern Caprivi Zipfel.
+(2) and (3) ......

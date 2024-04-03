@@ -1,0 +1,17 @@
+# 29. Jurisdiction in respect of causes of action
+(1) Subject to the provisions of this Act and the National Credit Act, 2005 (Act 34 of 2005), a court in respect of causes of action, shall have jurisdiction in—
+(a) actions in which is claimed the delivery or transfer of any property, movable or immovable, not exceeding in value the amount determined by the Minister from time to time by notice in the Gazette;
+(b) actions of ejectment against the occupier of any premises or land within the district or regional division: Provided that, where the right of occupation of any such premises or land is in dispute between the parties, such right does not exceed the amount determined by the Minister from time to time by notice in the Gazette in clear value to the occupier;
+(c) actions for the determination of a right of way, notwithstanding the provisions of section 46;
+(d) actions on or arising out of a liquid document or a mortgage bond, where the claim does not exceed the amount determined by the Minister from time to time by notice in the Gazette;
+(e) actions on or arising out of any credit agreement as defined in section 1 of the National Credit Act, 2005 (Act 34 of 2005);
+(f) actions in terms of section 16 (1) of the Matrimonial Property Act, 1984 (Act 88 of 1984), where the claim or the value of the property in dispute does not exceed the amount determined by the Minister from time to time by notice in the Gazette;
+(fA) actions, including an application for liquidation, in terms of the Close Corporations Act, 1984 (Act 69 of 1984);
+(g) actions other than those already mentioned in this section, where the claim or the value of the matter in dispute does not exceed the amount determined by the Minister from time to time by notice in the Gazette.
+(1A) The Minister may determine different amounts contemplated in subsection (1) (a), (b), (d), (f) and (g) in respect of courts for districts and courts for regional divisions.
+(1B)(a) A court for a regional division, in respect of causes of action, shall, subject to section 28 (1A), have jurisdiction to hear and determine suits relating to the nullity of a marriage or a civil union and relating to divorce between persons and to decide upon any question arising therefrom, and to hear any matter and grant any order provided for in terms of the Recognition of Customary Marriages Act, 1998 (Act 120 of 1998).
+(b) A court for a regional division hearing a matter referred to in paragraph (a) shall have the same jurisdiction as any High Court in relation to such a matter.
+(c) The presiding officer of a court for a regional division hearing a matter referred to in paragraph (a) may, in his or her discretion, summon to his or her assistance two persons to sit and act as assessors in an advisory capacity on questions of fact.
+(d) Any person who has been appointed as a Family Advocate or Family Counsellor under the Mediation in Certain Divorce Matters Act, 1987 (Act 24 of 1987), shall be deemed to have also been appointed in respect of any court for a regional division having jurisdiction in the area for which he or she has been so appointed.
+(1C) Jurisdiction conferred on a court for a regional division in terms of this section shall be subject to a notice having been issued under section 2 (1) (iA) in respect of the place for the holding, and the extent of the civil adjudication, of such court.
+(2) In subsection (1) “action” includes a claim in reconvention.

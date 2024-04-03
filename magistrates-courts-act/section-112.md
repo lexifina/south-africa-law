@@ -1,0 +1,2 @@
+# 112. Administration of oath or affirmation
+The oath to be taken by any witness in any civil proceedings in any court shall be administered by the officer presiding at such proceedings or by the clerk of the court (or any person acting in his stead) in the presence of the said officer, or if the witness is to give his evidence through an interpreter, by the said officer through the interpreter or by the interpreter in the said officer’s presence.
