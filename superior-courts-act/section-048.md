@@ -1,0 +1,2 @@
+# 48. Acting judges of Superior Courts
+Any person who has been appointed as an acting judge of a Superior Court must be regarded as having been appointed also for any period during which he or she is necessarily engaged in the disposal of any proceedings in which he or she has participated as such a judge, including an application for leave to appeal that has not yet been disposed of at the expiry of his or her period of appointment.

@@ -1,0 +1,11 @@
+# 13. Manner of arriving at decisions by Supreme Court of Appeal
+(1) Proceedings of the Supreme Court of Appeal must ordinarily be presided over by five judges, but the President of the Supreme Court of Appeal may—
+(a) direct that an appeal in a criminal or civil matter be heard before a court consisting of three judges; or
+(b) whenever it appears to him or her that any matter should in view of its importance be heard before a court consisting of a larger number of judges, direct that the matter be heard before a court consisting of so many judges as he or she may determine.
+(2) (a) The judgment of the majority of the judges presiding at proceedings before the Supreme Court of Appeal shall be the judgment of the court.
+(b) Where there is no judgment to which a majority of such judges agree, the hearing must be adjourned and commenced de novo before a new court constituted in such manner as the President of the Supreme Court of Appeal may determine.
+(3) If, at any stage after the hearing of an appeal has commenced, a judge of the Supreme Court of Appeal is absent or unable to perform his or her functions, or if a vacancy among the members of the court arises—
+(a) the hearing must, where the remaining judges constitute a majority of the judges before whom the hearing was commenced, proceed before the remaining judges, and the decision of a majority of the remaining judges who are in agreement shall, if that majority is also a majority of the judges before whom the hearing was commenced, be the decision of the court; or
+(b) in any other case, the appeal must be heard de novo, unless all the parties to the proceedings agree unconditionally in writing to accept the decision of the majority of the remaining judges or, if only one judge remains, the decision of that judge as the decision of the court.
+(4) Two or more judges of the Supreme Court of Appeal, designated by the President of the Supreme Court of Appeal, have jurisdiction to hear and determine applications for interlocutory relief, including applications for condonation and for leave to proceed in forma pauperis, in chambers.
+(5) No judge may sit at the hearing of an appeal against a judgment or order given in a case which was heard before him or her.

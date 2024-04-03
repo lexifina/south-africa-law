@@ -1,0 +1,3 @@
+# 54. Financial accountability
+(1) The Minister must consider and address requests for funds needed for the administration and functioning of the Superior Courts, as determined by the Chief Justice after consultation with the other heads of Court, in the manner prescribed for the budgetary processes of departments of state.
+(2) The Secretary-General, as accounting officer of the Office of the Chief Justice in terms of the Public Finance Management Act, 1999 (Act 1 of 1999), is charged with the responsibility of accounting for money received or paid out for or on account of the administration and functioning of the Superior Courts, and must cause the necessary accounting and other related records to be kept, in terms of that Act.

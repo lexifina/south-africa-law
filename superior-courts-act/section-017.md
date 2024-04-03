@@ -1,0 +1,24 @@
+# 17. Leave to appeal
+(1) Leave to appeal may only be given where the judge or judges concerned are of the opinion that—
+(a) (i) the appeal would have a reasonable prospect of success; or
+(ii) there is some other compelling reason why the appeal should be heard, including conflicting judgments on the matter under consideration;
+(b) the decision sought on appeal does not fall within the ambit of section 16 (2) (a); and
+(c) where the decision sought to be appealed does not dispose of all the issues in the case, the appeal would lead to a just and prompt resolution of the real issues between the parties.
+(2)(a) Leave to appeal may be granted by the judge or judges against whose decision an appeal is to be made or, if not readily available, by any other judge or judges of the same court or Division.
+(b) If leave to appeal in terms of paragraph (a) is refused, it may be granted by the Supreme Court of Appeal on application filed with the registrar of that court within one month after such refusal, or such longer period as may on good cause be allowed, and the Supreme Court of Appeal may vary any order as to costs made by the judge or judges concerned in refusing leave.
+(c) An application referred to in paragraph (b) must be considered by two judges of the Supreme Court of Appeal designated by the President of the Supreme Court of Appeal and, in the case of a difference of opinion, also by the President of the Supreme Court of Appeal or any other judge of the Supreme Court of Appeal likewise designated.
+(d) The judges considering an application referred to in paragraph (b) may dispose of the application without the hearing of oral argument, but may, if they are of the opinion that the circumstances so require, order that it be argued before them at a time and place appointed, and may, whether or not they have so ordered, grant or refuse the application or refer it to the court for consideration.
+(e) Where an application has been referred to the court in terms of paragraph (d), the court may thereupon grant or refuse it.
+(f) The decision of the majority of the judges considering an application referred to in paragraph (b), or the decision of the court, as the case may be, to grant or refuse the application shall be final: Provided that the President of the Supreme Court of Appeal may, in circumstances where a grave failure of justice would otherwise result or the administration of justice may be brought into disrepute, whether of his or her own accord or on application filed within one month of the decision, refer the decision to the court for reconsideration and, if necessary, variation.
+(3) An application for special leave to appeal under section 16 (1) (b) may be granted by the Supreme Court of Appeal on application filed with the registrar of that court within one month after the decision sought to be appealed against, or such longer period as may on good cause be allowed, and the provisions of subsection (2) (c) to (f) shall apply with the changes required by the context.
+(4) The power to grant leave to appeal—
+(a) is not limited by reason only of the fact that the matter in dispute is incapable of being valued in money; and
+(b) is subject to the provisions of any other law which specifically limits it or specifically grants or limits any right of appeal.
+(5) Any leave to appeal may be granted subject to such conditions as the court concerned may determine, including a condition—
+(a) limiting the issues on appeal; or
+(b) that the appellant pay the costs of the appeal.
+(6) (a) If leave is granted under subsection (2) (a) or (b) to appeal against a decision of a Division as a court of first instance consisting of a single judge, the judge or judges granting leave must direct that the appeal be heard by a full court of that Division, unless they consider—
+(i) that the decision to be appealed involves a question of law of importance, whether because of its general application or otherwise, or in respect of which a decision of the Supreme Court of Appeal is required to resolve differences of opinion; or
+(ii) that the administration of justice, either generally or in the particular case, requires consideration by the Supreme Court of Appeal of the decision, in which case they must direct that the appeal be heard by the Supreme Court of Appeal.
+(b) Any direction by the court of a Division in terms of paragraph (a), may be set aside by the Supreme Court of Appeal of its own accord, or on application by any interested party filed with the registrar within one month after the direction was given, or such longer period as may on good cause be allowed, and may be replaced by another direction in terms of paragraph (a).
+(7) Subsection (2) (c) to (f) apply with the changes required by the context to any application to the Supreme Court of Appeal relating to an issue connected with an appeal.

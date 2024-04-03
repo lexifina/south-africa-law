@@ -1,0 +1,3 @@
+# 26. Disposal of records and execution of judgments of Circuit Courts
+(1) Within one month after the termination of the sittings of any Circuit Court, the registrar thereof must, subject to any directions of the presiding judge or judges, transmit all records in connection with the proceedings in that court to the registrar of the Supreme Court of Appeal or the Division concerned, as the case may be, to be filed as records of that Court or Division.
+(2) Any judgment, order or sentence of a Circuit Court may, subject to any applicable rules for the time being in force, be carried into execution by means of process of the Supreme Court of Appeal or the Division concerned, as the case may be.

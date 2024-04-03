@@ -1,0 +1,9 @@
+# 44. Electronic transmission of summonses, writs and other process
+(1) (a) In any civil proceedings, any summons, writ, warrant, rule, order, notice, document or other process of a Superior Court, or any other communication which by any law, rule or agreement of parties is required or directed to be served or executed upon any person, or left at the house or place of abode or business of any person, in order that such person may be affected thereby, may be transmitted by facsimile, or by means of any other electronic medium, to the person who must serve or execute such process or communication.
+(b) The document received or printed as a result of the transmission contemplated in paragraph (a) is of the same force and effect as the original thereof.
+(2) A notice transmitted by facsimile, or any other electronic medium as contemplated in subsection (1)—
+(a) from any judicial or police officer, registrar, assistant registrar, sheriff, deputy sheriff or clerk of the court; and
+(b) stating that a warrant or writ has been issued for the arrest or apprehension of any person required to appear in or to answer any civil suit, action or proceeding, is sufficient authority to any officer authorised by law to execute any such warrant or writ for the arrest and detention of such person.
+(3) (a) A person arrested as contemplated in subsection (2) may be detained for the shortest period reasonably necessary, but not exceeding 48 hours, in order to bring the person before a judge of a Superior Court.
+(b) The judge referred to in paragraph (a) must make an order regarding the attendance by the person in question of any further court proceedings and warn the person that any failure to abide by the order is an offence punishable by a fine or by imprisonment not exceeding one year.
+(c) Any person who fails to abide by an order referred to in paragraph (b), is guilty of an offence and liable on conviction to a fine or to imprisonment not exceeding one year.

@@ -1,0 +1,2 @@
+# 34. Certified copies of court records admissible as evidence
+Whenever a judgment, order or other record of any Superior Court is required to be proved or inspected or referred to in any manner, a copy of such judgment, order or other record duly certified as such by the registrar of that court under its seal shall be prima facie evidence thereof without proof of the authenticity of such registrar’s signature.

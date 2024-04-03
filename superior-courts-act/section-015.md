@@ -1,0 +1,4 @@
+# 15. Referral of order of constitutional invalidity to Constitutional Court
+(1) (a) Whenever the Supreme Court of Appeal, a Division of the High Court or any competent court declares an Act of Parliament, a provincial Act or conduct of the President invalid as contemplated in section 172 (2) (a) of the Constitution, that court must, in accordance with the rules, refer the order of constitutional invalidity to the Constitutional Court for confirmation.
+(b) Whenever any person or organ of state with a sufficient interest appeals or applies directly to the Constitutional Court to confirm or vary an order of constitutional invalidity by a court, as contemplated in section 172 (2) (d) of the Constitution, the Court must deal with the matter in accordance with the rules.
+(2) If requested by the Chief Justice to do so, the Minister must appoint counsel to present argument to the Constitutional Court in respect of any matter referred to in subsection (1).
