@@ -1,0 +1,10 @@
+# 34. Disposal of article after commencement of criminal proceedings
+(1) The judge or judicial officer presiding at criminal proceedings shall at the conclusion of such proceedings, but subject to the provisions of this Act or any other law under which any matter shall or may be forfeited, make an order that any article referred to in section 33—
+(a) be returned to the person from whom it was seized, if such person may lawfully possess such article; or
+(b) if such person is not entitled to the article or cannot lawfully possess the article, be returned to any other person entitled thereto, if such person may lawfully possess the article; or
+(c) if no person is entitled to the article or if no person may lawfully possess the article or, if the person who is entitled thereto cannot be traced or is unknown, be forfeited to the State.
+(2) The court may, for the purpose of any order under subsection (1), hear such additional evidence, whether by affidavit or orally, as it may deem fit.
+(3) If the judge or judicial officer concerned does not, at the conclusion of the relevant proceedings, make an order under subsection (1), such judge or judicial officer or, if he is not available, any other judge or judicial officer of the court in question, may at any time after the conclusion of the proceedings make any such order, and for that purpose hear such additional evidence, whether by affidavit or orally, as he may deem fit.
+(4) Any order made under subsection (1) or (3) may be suspended pending any appeal or review.
+(5) Where the court makes an order under paragraph (a) or (b) of subsection (1), the provisions of section 31 (2) shall mutatis mutandis apply with reference to the person in favour of whom such order is made.
+(6) If the circumstances so require or if the criminal proceedings in question cannot for any reason be disposed of, the judge or judicial officer concerned may make any order referred to in paragraph (a), (b) or (c) of subsection (1) at any stage of the proceedings.

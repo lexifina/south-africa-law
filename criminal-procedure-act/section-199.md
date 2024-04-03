@@ -1,0 +1,2 @@
+# 199. No witness compelled to answer question which the witness’s husband or wife may decline
+No person shall at criminal proceedings be compelled to answer any question or to give any evidence, if the question or evidence is such that under the circumstances the husband or wife of such person, if under examination as a witness, may lawfully refuse and cannot be compelled to answer or to give it.

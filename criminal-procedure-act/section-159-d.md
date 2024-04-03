@@ -1,0 +1,2 @@
+# 159D. Protection of communication between accused person and legal representative
+Without limiting any other protection applying to it, a communication by audio link or audiovisual link, or a document transmitted between an accused person and his or her legal representative as provided for in section 159B (3), is confidential and inadmissible in any proceedings as if the communication took place or the document was produced while they were in the presence of each other.

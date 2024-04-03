@@ -1,0 +1,9 @@
+# 335B. Medical examination of minors towards or in connection with whom certain offences have been committed
+(1) If a police official charged with the investigation of a case is of the opinion that it is necessary that a minor or a person who is mentally disabled in respect of whom it is alleged that a sexual offence as contemplated in section 1 of the Criminal Law (Sexual Offences and Related Matters) Amendment Act, 2007, or an offence of a violent nature has been committed be examined by a district surgeon or, if he is not available, by a registered medical practitioner, but that the parent or guardian or curator or custodian of such minor or mentally disabled person—
+(a) cannot be traced within a reasonable time;
+(b) cannot grant consent in time;
+(c) is a suspect in respect of the offence in consequence of which the examination must be conducted;
+(d) unreasonably refuses to consent that the examination be conducted;
+(e) is incompetent on account of mental disorder to consent that the examination be conducted; or
+(f) is deceased, a magistrate may, on the written application of that police official and if he is satisfied that the medical examination is necessary, grant the necessary consent that such examination be conducted.
+(2) If a magistrate is not available to grant consent as referred to in subsection (1), a commissioned officer as defined in section 1 of the Police Act, 1958 (Act 7 of 1958), or the police official in charge of the local police station may in writing grant such consent if the police official charged with the investigation of the case declares under oath that the consent of a magistrate cannot be obtained within a reasonable period of time and the district surgeon or registered medical practitioner declares under oath that the purpose of the medical examination will be defeated if the examination is not conducted forthwith.

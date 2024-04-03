@@ -1,0 +1,5 @@
+# 234. Proof of official documents
+(1) It shall, at criminal proceedings, be sufficient to prove an original official document which is in the custody or under the control of any State official by virtue of his office, if a copy thereof or an extract therefrom, certified as a true copy or extract by the head of the department concerned or by any State official authorized thereto by such head, is produced in evidence at such proceedings.
+(2) (a) An original official document referred to in subsection (1), other than the record of judicial proceedings, may be produced at criminal proceedings only upon the order of the attorney-general.
+(b) It shall not be necessary for the head of the department concerned to appear in person to produce an original document under paragraph (a), but such document may be produced by any person authorized thereto by such head.
+(3) Any official who, under subsection (1), certifies any copy or extract as true knowing that such copy or extract is false, shall be guilty of an offence and liable on conviction to imprisonment for a period not exceeding two years.

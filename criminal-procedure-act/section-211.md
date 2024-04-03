@@ -1,0 +1,2 @@
+# 211. Evidence during criminal proceedings of previous convictions
+Except where otherwise expressly provided by this Act or the Child Justice Act, 2008, or except where the fact of a previous conviction is an element of any offence with which an accused is charged, evidence shall not be admissible at criminal proceedings in respect of any offence to prove that an accused at such proceedings had previously been convicted of any offence, whether in the Republic or elsewhere, and no accused, if called as a witness, shall be asked whether he or she has been so convicted.

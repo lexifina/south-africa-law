@@ -1,0 +1,7 @@
+# 151. Accused may address court and adduce evidence
+(1) (a) If an accused is not under section 174 discharged at the close of the case for the prosecution, the court shall ask him whether he intends adducing any evidence on behalf of the defence, and if he answers in the affirmative, he may address the court for the purpose of indicating to the court, without comment, what evidence he intends adducing on behalf of the defence.
+(b) The court shall also ask the accused whether he himself intends giving evidence on behalf of the defence, and—
+(i) if the accused answers in the affirmative, he shall, except where the court on good cause shown allows otherwise, be called as a witness before any other witness for the defence; or
+(ii) if the accused answers in the negative but decides, after other evidence has been given on behalf of the defence, to give evidence himself, the court may draw such inference from the accused’s conduct as may be reasonable in the circumstances.
+(2) (a) The accused may then examine any other witness for the defence and adduce such other evidence on behalf of the defence as may be admissible.
+(b) Where any document may be received in evidence before any court upon its mere production and the accused wishes to place such evidence before the court, he shall read out the relevant document in court unless the prosecutor is in possession of a copy of such document or dispenses with the reading out thereof.

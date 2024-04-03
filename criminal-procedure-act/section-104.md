@@ -1,0 +1,3 @@
+# 104. Reference in charge to objectionable matter not necessary
+A charge of printing, publishing, manufacturing, making or producing blasphemous, seditious, obscene or defamatory matter, or of distributing, displaying, exhibiting, selling or offering or keeping for sale any obscene book, pamphlet, newspaper or other printed or written matter, shall not be open to objection or be deemed insufficient on the ground that it does not set out the words thereof: Provided that the court may order that particulars shall be furnished by the prosecution stating what passages in such book, pamphlet, newspaper, printing or writing are relied upon in support of the charge.
+THE PLEA (ss 105-109)

@@ -1,0 +1,2 @@
+# 299. Warrant for the execution of sentence
+A warrant for the execution of any sentence may be issued by the judge or judicial officer who passed the sentence or by any other judge or judicial officer of the court in question, or, in the case of a regional court, by any magistrate, and such warrant shall commit the person concerned to the prison for the magisterial district in which such person is sentenced.

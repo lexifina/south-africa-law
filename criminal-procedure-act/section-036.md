@@ -1,0 +1,6 @@
+# 36. Disposal of article concerned in an offence committed outside Republic
+(1) Where an article is seized in connection with which—
+(a) an offence was committed or is on reasonable grounds suspected to have been committed in a country outside the Republic;
+(b) there are reasonable grounds for believing that it will afford evidence as to the commission in a country outside the Republic of any offence or that it was used for the purpose of or in connection with such commission of any offence, the magistrate within whose area of jurisdiction the article was seized may, on application and if satisfied that such offence is punishable in such country by death or by imprisonment for a period of twelve months or more or by a fine of five hundred rand or more, order such article to be delivered to a member of a police force established in such country who may thereupon remove it from the Republic.
+(2) Whenever the article so removed from the Republic is returned to the magistrate, or whenever the magistrate refuses to order that the article be delivered as aforesaid, the article shall be returned to the person from whose possession it was taken, unless the magistrate is authorized or required by law to dispose of it otherwise.
+ASCERTAINMENT OF BODILY FEATURES OF PERSONS (ss 36A-37)

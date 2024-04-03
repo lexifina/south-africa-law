@@ -1,0 +1,2 @@
+# 136. Procedure with regard to exhibits at preparatory examination
+The magistrate or regional magistrate, as the case may be, shall cause every document and every article produced or identified as an exhibit by any witness at a preparatory examination to be inventoried and labelled or otherwise marked, and shall cause such documents and articles to be kept in safe custody pending any trial following upon such preparatory examination.

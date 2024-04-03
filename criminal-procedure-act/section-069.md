@@ -1,0 +1,4 @@
+# 69. Payment of bail money by third person
+(1) No provision of section 59 or 60 shall prevent the payment by any person, other that the accused, of bail money for the benefit of the accused.
+(2) Bail money, whether deposited by an accused or any other person for the benefit of the accused, shall, notwithstanding that such bail money or any part thereof may have been ceded to any person, be refunded only to the accused or the depositor, as the case may be.
+(3) No person shall be allowed to deposit for the benefit of an accused any bail money in terms of this section if the official concerned has reason to believe that such person, at any time before or after depositing such bail money, has been indemnified or will be indemnified by any person in any manner against loss of such bail money or that he has received or will receive any financial benefit in connection with the deposit of such bail money.

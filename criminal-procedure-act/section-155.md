@@ -1,0 +1,3 @@
+# 155. Persons implicated in same offence may be tried together
+(1) Any number of participants in the same offence may be tried together and any number of accessories after the same fact may be tried together or any number of participants in the same offence and any number of accessories after that fact may be tried together, and each such participant and each such accessory may be charged at such trial with the relevant substantive offence alleged against him.
+(2) A receiver of property obtained by means of an offence shall for purposes of this section be deemed to be a participant in the offence in question.

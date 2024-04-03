@@ -1,0 +1,3 @@
+# 46. Non-liability for wrongful arrest
+(1) Any person who is authorized to arrest another under a warrant of arrest or a communication under section 45 and who in the reasonable belief that he is arresting such person arrests another, shall be exempt from liability in respect of such wrongful arrest.
+(2) Any person who is called upon to assist in making an arrest as contemplated in subsection (1) or who is required to detain a person so arrested, and who reasonable believes that the said person is the person whose arrest has been authorized by the warrant of arrest or the communication, shall likewise be exempt from liability in respect of such assistance or detention.

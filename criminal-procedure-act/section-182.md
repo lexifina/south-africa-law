@@ -1,0 +1,2 @@
+# 182. Witness from prison
+A prisoner who is in a prison shall be subpoenaed as a witness on behalf of the defence or a private prosecutor only if the court before which the prisoner is to appear as a witness authorizes that the prisoner be subpoenaed as a witness, and the court shall give such authority only if it is satisfied that the evidence in question is necessary and material for the defence or the private prosecutor, as the case may be, and that the public safety or order will not be endangered by the calling of the witness.

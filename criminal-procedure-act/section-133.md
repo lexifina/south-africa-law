@@ -1,0 +1,2 @@
+# 133. Accused may testify at preparatory examination
+An accused may, after the provisions of section 132 have been complied with but subject to the provisions of section 151 (1) (b) which shall mutatis mutandis apply, give evidence or make an unsworn statement in relation to a charge put to him under section 130, and the record of such evidence or statement shall be received in evidence before any court in criminal proceedings against the accused upon its mere production without further proof.

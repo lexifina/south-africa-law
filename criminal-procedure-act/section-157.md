@@ -1,0 +1,3 @@
+# 157. Joinder of accused and separation of trials
+(1) An accused may be joined with any other accused in the same criminal proceedings at any time before any evidence has been led in respect of the charge in question.
+(2) Where two or more persons are charged jointly, whether with the same offence or with the different offences, the court may at any time during the trial, upon the application of the prosecutor or of any of the accused, direct that the trial of any one or more of the accused shall be held separately from the trial of the other accused, and the court may abstain from giving judgment in respect of any of such accused.

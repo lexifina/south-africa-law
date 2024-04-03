@@ -1,0 +1,2 @@
+# 83. Charge where it is doubtful what offence committed
+If by reason of any uncertainty as to the facts which can be proved or if for any other reason it is doubtful which of several offences is constituted by the facts which can be proved, the accused may be charged with the commission of all or any of such offences, and any number of such charges may be tried at once, or the accused may be charged in the alternative with the commission of any number of such offences.

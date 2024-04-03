@@ -1,0 +1,14 @@
+# 36C. Fingerprints and body-prints for investigation purposes
+(1) Any police official may without warrant take fingerprints or body-prints of a person or a group of persons, if there are reasonable grounds to—
+(a) suspect that the person or that one or more of the persons in that group has committed an offence referred to in Schedule 1; and
+(b) believe that the prints or the results of an examination thereof, will be of value in the investigation by excluding or including one or more of those persons as possible perpetrators of the offence.
+(2) Prints taken in terms of this section may—
+(a) be examined for the purposes of the investigation of the relevant offence or caused to be so examined; and
+(b) be subjected to a comparative search.
+(3) (a) Subject to paragraph (c), any fingerprints or body-prints, taken under any power conferred by this section—
+(i) must upon the conviction of an adult person be retained on a database referred to in Chapter 5A of the South African Police Service Act;
+(ii) must, upon conviction of a child be retained on a database referred to in Chapter 5A of the South African Police Service Act, subject to the provisions relating to the expungement of a conviction and sentence of a child, as provided for in section 87 of the Child Justice Act; and
+(iii) in a case where a decision was made not to prosecute a person, if the person is found not guilty at his or her trial, or if his or her conviction is set aside by a superior court or if he or she is discharged at a preparatory examination or if no criminal proceeding with reference to such fingerprints or body-prints were instituted against the person concerned in any court or if the prosecution declines to prosecute, must be destroyed within 30 days after the officer commanding the Division responsible for criminal records referred to in Chapter 5A of the South African Police Service Act has been notified of such event as referred to in this paragraph. (b) Fingerprints or body-prints which may be retained in terms of this section, may only be used for purposes related to the detection of crime, the investigation of an offence, the identification of missing persons, the identification of unidentified human remains or the conducting of a prosecution.
+(c) Subparagraphs (a) (i) and (ii), does not prohibit the use of any fingerprints or body-prints taken under any powers conferred by this section, for the purposes of establishing if a person has been convicted of an offence.
+(d) The fingerprints or body-prints referred to in paragraph (a) must be stored on the database maintained by the National Commissioner, as provided for in Chapter 5A of the South African Police Service Act.
+(e) The National Commissioner must destroy the fingerprints of a child upon receipt of a Certificate of Expungement in terms of section 87 (4) of the Child Justice Act.

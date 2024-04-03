@@ -1,0 +1,9 @@
+# 250. Presumption of lack of authority
+(1) If a person would commit an offence if he—
+(a) carried on any occupation or business;
+(b) performed any act;
+(c) owned or had in his possession or custody or used any article; or
+(d) was present at or entered any place, without being the holder of a licence, permit, permission or other authority or qualification (in this section referred to as the “necessary authority”), an accused shall, at criminal proceedings upon a charge that he committed such an offence, be deemed not to have been the holder of the necessary authority, unless the contrary is proved.
+(2) (a) Any peace officer and, where any fee payable for the necessary authority would accrue to the National Revenue Fund or the Railway and Harbour Fund or a provincial revenue fund, any person authorized thereto in writing by the head of the relevant department or sub-department or by the officer in charge of the relevant office, may demand the production from a person referred to in subsection (1) of the necessary authority which is appropriate.
+(b) Any peace officer, other than a police official in uniform, and any person authorized under paragraph (a) shall, when demanding the necessary authority from any person, produce at the request of that person, his authority to make the demand.
+(3) Any person who is the holder of the necessary authority and who fails without reasonable cause to produce forthwith such authority to the person making the demand under subsection (2) for the production thereof, or who fails without reasonable cause to submit such authority to a person and at a place and within such reasonable time as the person making the demand may specify, shall be guilty of an offence and liable on conviction to a fine not exceeding R300 or to imprisonment for a period not exceeding three months.

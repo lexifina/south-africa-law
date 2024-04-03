@@ -1,0 +1,4 @@
+# 319. Reservation of question of law
+(1) If any question of law arises on the trial in a superior court of any person for any offence, that court may of its own motion or at the request either of the prosecutor or the accused reserve that question for the consideration of the Appellate Division, and thereupon the first-mentioned court shall state the question reserved and shall direct that it be specially entered in the record and that a copy thereof be transmitted to the registrar of the Appellate Division.
+(2) The grounds upon which any objection to an indictment is taken shall, for the purposes of this section, be deemed to be questions of law.
+(3) The provisions of sections 317 (2), (4) and (5) and 318 (2) shall apply mutatis mutandis with reference to all proceedings under this section.

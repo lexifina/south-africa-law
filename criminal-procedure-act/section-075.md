@@ -1,0 +1,8 @@
+# 75. Summary trial and court of trial
+(1) When an accused is to be tried in a court in respect of an offence, he shall, subject to the provisions of sections 119, 122A and 123, be tried at a summary trial in—
+(a) a court which has jurisdiction and in which he appeared for the first time in respect of such offence in accordance with any method referred to in section 38;
+(b) a court which has jurisdiction and to which he was referred to under subsection (2); or
+(c) any other court which has jurisdiction and which has been designated by the attorney-general or any person authorized thereto by the attorney-general, whether in general or in any particular case, for the purposes of such summary trial.
+(2) (a) If an accused appears in a court which does not have jurisdiction to try the case, the accused shall at the request of the prosecutor be referred to a court having jurisdiction.
+(b) If an accused appears in a magistrate’s court and the prosecutor informs the court that he or she is of the opinion that the alleged offence is of such a nature or magnitude that it merits punishment in excess of the jurisdiction of a magistrate’s court but not of the jurisdiction of a regional court, the court shall if so requested by the prosecutor refer the accused to the regional court for summary trial without the accused having to plead to the relevant charge.
+(3) The court before whom an accused appears for the purposes of a bail application shall, at the conclusion of the bail proceedings or at any stage thereafter, but before the accused has pleaded, refer such accused to a court designated by the prosecutor for purposes of trial.

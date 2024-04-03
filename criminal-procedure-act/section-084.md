@@ -1,0 +1,4 @@
+# 84. Essentials of charge
+(1) Subject to the provisions of this Act and of any other law relating to any particular offence, a charge shall set forth the relevant offence in such manner and with such particulars as to the time and place at which the offence is alleged to have been committed and the person, if any, against whom and the property, if any, in respect of which the offence is alleged to have been committed, as may be reasonably sufficient to inform the accused of the nature of the charge.
+(2) Where any of the particulars referred to in subsection (1) are unknown to the prosecutor it shall be sufficient to state that fact in the charge.
+(3) In criminal proceedings the description of any statutory offence in the words of the law creating the offence, or in similar words, shall be sufficient.

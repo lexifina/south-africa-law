@@ -1,0 +1,4 @@
+# 132. Procedure after plea
+(1) (a) Where an accused who has been required under section 131 to plead to a charge to which he has not pleaded before, pleads guilty to the offence charged, the presiding judicial officer shall question him in accordance with the provisions of paragraph (b) of section 112 (1).
+(b) If the presiding judicial officer is not satisfied that the accused admits all the allegations in the charge, he shall record in what respect he is not so satisfied and enter a plea of not guilty: Provided that an allegation with reference to which the said judicial officer is so satisfied and which has been recorded as an admission, shall stand at the trial of the accused as proof of such allegation.
+(2) Where an accused who has been required under section 131 to plead to a charge to which he has not pleaded before, pleads not guilty to the offence charged, the presiding judicial officer shall act in accordance with the provisions of section 115.

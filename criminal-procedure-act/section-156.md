@@ -1,0 +1,2 @@
+# 156. Persons committing separate offences at same time and place may be tried together
+Any number of persons charged in respect of separate offences committed at the same place and at the same time or at about the same time, may be charged and tried together in respect of such offences if the prosecutor informs the court that evidence admissible at the trial of one of such persons will, in his opinion, also be admissible as evidence at the trial of any other such person or such persons.

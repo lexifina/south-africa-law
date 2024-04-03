@@ -1,0 +1,12 @@
+# 212A. Proof of certain facts by affidavit from person in foreign country
+(1) Whenever in criminal proceedings the question arises whether any particular act, transaction or occurrence did or did not take place—
+(a) in any particular department or sub-department of a state or territory outside the Republic;
+(b) in any particular department or sub-department of an administration in such state or territory which is similar to a provincial administration in the Republic;
+(c) in any branch or office of a department or sub-department contemplated in paragraph (a) or (b);
+(d) in any particular court of law in such state or territory; or
+(e) in any particular institution in such state or territory which is similar to a bank in the Republic, or whenever the question arises in such proceedings whether any particular functionary in any such department, sub- department, branch, office, court or institution did or did not perform any particular act or did or did not take part in any particular transaction, the provisions of subsections (1), (2) and (3) of section 212 shall mutatis mutandis apply: Provided that for the purposes of this section a document purporting to be an affidavit shall have no effect unless—
+(a) it is obtained in terms of an order of a competent court or on the authority of a competent government institution of the state or territory concerned, as the case may be;
+(b) it is authenticated in the manner prescribed in the rules of court for the authentication of documents executed outside the Republic; or
+(c) it is authenticated by a person, and in the manner, contemplated in section 8 of the Justices of the Peace and Commissioners of Oaths Act, 1963 (Act 16 of 1963).
+(2) The admissibility and evidentiary value of an affidavit contemplated in subsection (1) shall not be affected by the fact that the form of the oath, confirmation or attestation thereof differs from the form of the oath, confirmation or attestation prescribed in the Republic.
+(3) A court before which an affidavit contemplated in subsection (1) is placed, may, in order to clarify obscurities in the said affidavit, at the request of a party to the proceedings order that a supplementary affidavit be submitted or that oral evidence be heard: Provided that oral evidence shall only be heard if the court is of the opinion that it is in the interests of the administration of justice and that a party to the proceedings would be materially prejudiced should oral evidence not be heard.

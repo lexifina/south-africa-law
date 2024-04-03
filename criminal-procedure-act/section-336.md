@@ -1,0 +1,2 @@
+# 336. Act or omission constituting offence under two or more laws
+Where an act or omission constitutes an offence under two or more statutory provisions or is an offence against a statutory provision and the common law, the person guilty of such act or omission shall, unless the contrary intention appears, be liable to be prosecuted and punished under either statutory provision or, as the case may be, under the statutory provision or the common law, but shall not be liable to more than one punishment for the act or omission constituting the offence.

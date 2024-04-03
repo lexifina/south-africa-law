@@ -1,0 +1,16 @@
+# 315. Court of appeal in respect of superior court judgments
+(1) (a) In respect of appeals and questions of law reserved in connection with criminal cases heard by a High Court, the court of appeal shall be the Supreme Court of Appeal, except in so far as subsections (2) and (3) otherwise provides [sic].
+(b) and (c) ......
+(2)(a) If an application for leave to appeal in a criminal case heard by a single judge of a High Court (irrespective of whether he or she sat with or without assessors) is granted under section 316, the court or judge or judges granting the application shall, if it, he or she or, in the case of the judges referred to in subsections (12) and (13) of that section, they or the majority of them, is or are satisfied that the questions of law and of fact and the other considerations involved in the appeal are of such a nature that the appeal does not require the attention of the Supreme Court of Appeal, direct that the appeal be heard by a full court.
+(b) Any such direction by the court or a judge of a High Court may be set aside by the Supreme Court of Appeal on application made to it by the accused or the Director of Public Prosecutions or other prosecutor within 21 days, or such longer period as may on application to the Supreme Court of Appeal on good cause shown, be allowed, after the direction was given.
+(c) Any application to the Supreme Court of Appeal under paragraph (b) shall be submitted by petition addressed to the President of the Supreme Court of Appeal, and the provisions of section 316 (8), (9), (10), (11), (12), (13), (14) and (15) shall apply mutatis mutandis in respect thereof.
+(3) An appeal which is to be heard by a full court in terms of a direction under paragraph (a) of subsection (2) which has not been set aside under paragraph (b) of that subsection, shall be heard—
+(a) in the case of an appeal in a criminal case heard by a single judge of a provincial division, by the full court of the provincial division concerned;
+(b) in the case of an appeal in a criminal case heard by a single judge of a local division other than the Witwatersrand Local Division, by the full court of the provincial division which exercises concurrent jurisdiction in the area of jurisdiction of the local division concerned;
+(c) in the case of an appeal in a criminal case heard by a single judge of the Witwatersrand Local Division—
+(i) by the full court of the Transvaal Provincial Division, unless a direction by the judge president of that provincial division under subparagraph (ii) applies to it; or
+(ii) by the full court of the said local division if the said judge president has so directed in the particular instance.
+(4) An appeal in terms of this Chapter shall lie only as provided in sections 316 to 319 inclusive, and not as of right.
+(5) In this Chapter—
+(a) “court of appeal” means, in relation to an appeal which in terms of subsection (3) is heard or is to be heard by a full court, the full court concerned and, in relation to any other appeal, the Supreme Court of Appeal;
+(b) “full court” means the court of a provincial division, or the Witwatersrand Local Division, sitting as a court of appeal and constituted before three judges.

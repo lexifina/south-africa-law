@@ -1,0 +1,4 @@
+# 314. Obtaining presence of convicted person in lower court after setting aside of sentence or order
+(1) Where a sentence or order imposed or made by a lower court is set aside on appeal or review and the person convicted is not in custody and the court setting aside the sentence or order remits the matter to the lower court in order that a fresh sentence or order may be imposed or made, the presence before that court of the person convicted may be obtained by means of a written notice addressed to that person calling upon him to appear at a stated place and time on a stated date in order that such sentence or order may be imposed or made.
+(2) The provisions of section 54 (2) and 55 (1) and (2) shall mutatis mutandis apply with reference to a written notice issued under subsection (1).
+APPEALS IN CASES OF CRIMINAL PROCEEDINGS IN SUPERIOR COURTS (ss 315-324)

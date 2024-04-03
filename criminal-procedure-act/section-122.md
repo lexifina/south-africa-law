@@ -1,0 +1,10 @@
+# 122. Plea of not guilty
+(1) Where an accused under section 119 pleads not guilty to the offence charged, the court shall act in terms of section 115 and when that section has been complied with, the magistrate shall stop the proceedings and adjourn the case pending the decision of the attorney-general.
+(2) Where the proceedings have been adjourned under subsection (1), the attorney-general may—
+(i) arraign the accused on any charge at a summary trial before a superior court or any other court having jurisdiction, including the magistrate’s court in which the proceedings were adjourned under subsection (1); or
+(ii) institute a preparatory examination against the accused, and the attorney-general shall advise the magistrate’s court concerned of his decision.
+(3) The magistrate, who need not be the magistrate before whom the proceedings under section 119 or 122 (1) were conducted, shall advise the accused of the decision of the attorney-general, and if the decision is that the accused be arraigned—
+(a) in the magistrate’s court concerned, require the accused to plead to that charge, and, if the plea to that charge is one of guilty or the plea in respect of an offence of which the accused may on such charge be convicted is one of guilty and the prosecutor accepts such plea, deal with the matter in accordance with the provisions of section 112, in which event the provisions of section 114 (1) shall not apply, or, if the plea is one of not guilty, deal with the matter in accordance with the provisions of section 115 and proceed with the trial;
+(b) in a regional court or a superior court, commit the accused for a summary trial before the court concerned.
+(4) The record of the proceedings in the magistrate’s court shall, upon proof thereof in the court in which the accused is arraigned for a summary trial, be received as part of the record of that court against the accused, and any admission by the accused shall stand at the trial of the accused as proof of such an admission.
+PLEA IN MAGISTRATE’S COURT ON CHARGE TO BE ADJUDICATED IN REGIONAL COURT (ss 122A-122D)

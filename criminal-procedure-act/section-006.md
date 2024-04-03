@@ -1,0 +1,4 @@
+# 6. Power to withdraw charge or stop prosecution
+An attorney-general or any person conducting a prosecution at the instance of the State or any body or person conducting a prosecution under section 8, may—
+(a) before an accused pleads to a charge, withdraw that charge, in which event the accused shall not be entitled to a verdict of acquittal in respect of that charge;
+(b) at any time after an accused has pleaded, but before conviction, stop the prosecution in respect of that charge, in which event the court trying the accused shall acquit the accused in respect of that charge: Provided that where a prosecution is conducted by a person other than an attorney-general or a body or person referred to in section 8, the prosecution shall not be stopped unless the attorney-general or any person authorized thereto by the attorney-general, whether in general or in any particular case, has consented thereto.

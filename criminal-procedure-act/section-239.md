@@ -1,0 +1,3 @@
+# 239. Evidence on charge of infanticide or concealment of birth
+(1) At criminal proceedings at which an accused is charged with the killing of a newly-born child, such child shall be deemed to have been born alive if the child is proved to have breathed, whether or not the child had an independent circulation, and it shall not be necessary to prove that such child was, at the time of its death, entirely separated from the body of its mother.
+(2) At criminal proceedings at which an accused is charged with the concealment of the birth of a child, it shall not be necessary to prove whether the child died before or at or after birth.

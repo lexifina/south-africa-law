@@ -1,0 +1,2 @@
+# 13. Attorney-general may intervene in private prosecution
+An attorney-general or a local public prosecutor acting on the instructions of the attorney-general, may in respect of any private prosecution apply by motion to the court before which the private prosecution is pending to stop all further proceedings in the case in order that a prosecution for the offence in question may be instituted or, as the case may be, continued at the instance of the State, and the court shall make such an order.

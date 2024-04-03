@@ -1,0 +1,4 @@
+# 150. Prosecutor may address court and adduce evidence
+(1) The prosecutor may at any trial, before any evidence is adduced, address the court for the purpose of explaining the charge and indicating, without comment, to the court what evidence he intends adducing in support of the charge.
+(2) (a) The prosecutor may then examine the witnesses for the prosecution and adduce such evidence as may be admissible to prove that the accused committed the offence referred to in the charge or that he committed an offence of which he may be convicted on the charge.
+(b) Where any document may be received in evidence before any court upon its mere production, the prosecutor shall read out such document in court unless the accused is in possession of a copy of such document or dispenses with the reading out thereof.

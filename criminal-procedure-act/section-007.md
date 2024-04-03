@@ -1,0 +1,10 @@
+# 7. Private prosecution on certificate nolle prosequi
+(1) In any case in which a Director of Public Prosecutions declines to prosecute for an alleged offence—
+(a) any private person who proves some substantial and peculiar interest in the issue of the trial arising out of some injury which he individually suffered in consequence of the commission of the said offence;
+(b) a husband, if the said offence was committed in respect of his wife;
+(c) the wife or child or, if there is no wife or child, any of the next of kin of any deceased person, if the death of such person is alleged to have been caused by the said offence; or
+(d) the legal guardian or curator of a minor or lunatic, if the said offence was committed against his ward, may, subject to the provisions of section 9 and section 59 (2) of the Child Justice Act, 2008, either in person or by a legal representative, institute and conduct a prosecution in respect of such offence in any court competent to try that offence.
+(2) (a) No private prosecutor under this section shall obtain the process of any court for summoning any person to answer any charge unless such private prosecutor produces to the officer authorized by law to issue such process a certificate signed by the attorney-general that he has seen the statements or affidavits on which the charge is based and that he declines to prosecute at the instance of the State.
+(b) The attorney-general shall, in any case in which he declines to prosecute, at the request of the person intending to prosecute, grant the certificate referred to in paragraph (a).
+(c) A certificate issued under this subsection shall lapse unless proceedings in respect of the offence in question are instituted by the issue of the process referred to in paragraph (a) within three months of the date of the certificate.
+(d) The provisions of paragraph (c) shall apply also with reference to a certificate granted before the commencement of this Act under the provisions of any law repealed by this Act, and the date of such certificate shall, for the purposes of this paragraph, be deemed to be the date of commencement of this Act.

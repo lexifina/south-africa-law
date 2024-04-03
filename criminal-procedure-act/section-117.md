@@ -1,0 +1,2 @@
+# 117. Committal to superior court in special case
+Where an accused in a lower court pleads not guilty to the offence charged against him and a ground of his defence is the alleged invalidity of a provincial ordinance or a proclamation of the State President on which the charge against him is founded and upon the validity of which a magistrate’s court is in terms of section 110 of the Magistrates’ Courts Act, 1944 (Act 32 of 1944), not competent to pronounce, the accused shall be committed for a summary trial before a superior court having jurisdiction.

@@ -1,0 +1,2 @@
+# 100. Charge alleging theft may allege general deficiency
+On a charge alleging the theft of money or property by a person entrusted with the control thereof, the charge may allege a general deficiency in a stated amount, notwithstanding that such general deficiency is made up of specific sums of money or articles or of a sum of money representing the value of specific articles, the theft of which extended over a period.

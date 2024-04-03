@@ -1,0 +1,2 @@
+# 48. Breaking open premises for purpose of arrest
+Any person who may lawfully arrest another in respect of any offence and who knows or reasonably suspects such other person to be on any premises, may, if he first audibly demands entry into such premises and notifies the purpose for which he seeks entry and fails to gain entry, break open, enter and search such premises for the purpose of effecting the arrest.

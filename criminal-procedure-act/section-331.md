@@ -1,0 +1,2 @@
+# 331. Irregular warrant or process
+Any person who acts under a warrant or process which is bad in law on account of a defect in the substance or form thereof shall, if he has no knowledge that such warrant or process is bad in law and whether or not such defect is apparent on the face of the warrant or process, be exempt from liability in respect of such act as if the warrant or process were good in law.

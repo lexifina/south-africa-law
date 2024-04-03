@@ -1,0 +1,3 @@
+# 164. When unsworn or unaffirmed evidence admissible
+(1) Any person, who is found not to understand the nature and import of the oath or the affirmation, may be admitted to give evidence in criminal proceedings without taking the oath or making the affirmation: Provided that such person shall, in lieu of the oath or affirmation, be admonished by the presiding judge or judicial officer to speak the truth.
+(2) If such person wilfully and falsely states anything which, if sworn, would have amounted to the offence of perjury or any statutory offence punishable as perjury, he shall be deemed to have committed that offence, and shall, upon conviction, be liable to such punishment as is by law provided as a punishment for that offence.

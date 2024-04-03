@@ -1,0 +1,2 @@
+# 335. Person who makes statement entitled to copy thereof
+Whenever a person has in relation to any matter made to a peace officer a statement in writing or a statement which was reduced to writing, and criminal proceedings are thereafter instituted against such person in connection with that matter, the person in possession of such statement shall furnish the person who made the statement, at his request, with a copy of such statement.

@@ -1,0 +1,3 @@
+# 129. Recording of evidence at preparatory examination and proof of record
+(1) The evidence given at a preparatory examination shall be recorded, and if such evidence is recorded in shorthand or by mechanical means, a document purporting to be a transcription of the original record of such evidence and purporting to be certified as correct under the hand of the person who transcribed such evidence, shall have the same legal force and effect as such original record.
+(2) The record of a preparatory examination may be proved in a court by the mere production thereof or of a copy thereof in terms of section 235.

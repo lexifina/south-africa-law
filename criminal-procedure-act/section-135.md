@@ -1,0 +1,2 @@
+# 135. Discharge of accused at conclusion of preparatory examination
+As soon as a preparatory examination is concluded and the magistrate or regional magistrate, as the case may be, is upon the whole of the evidence of the opinion that no sufficient case has been made out to put the accused on trial upon any charge put to the accused under section 130 or upon any charge in respect of an offence of which the accused may on such charge be convicted, he may discharge the accused in respect of such charge.

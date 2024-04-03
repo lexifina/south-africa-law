@@ -1,0 +1,4 @@
+# 123. Attorney-general may instruct that preparatory examination be held
+If an attorney-general is of the opinion that it is necessary for the more effective administration of justice—
+(a) that a trial in a superior court be preceded by a preparatory examination in a magistrate’s court into the allegations against the accused, he may, where he does not follow the procedure under section 119, or, where he does follow it and the proceedings are adjourned under section 121 (3) or 122 (1) pending the decision of the attorney- general, instruct that a preparatory examination be instituted against the accused;
+(b) that a trial in a magistrate’s court or a regional court be converted into a preparatory examination, he may at any stage of the proceedings, but before sentence is passed, instruct that the trial be converted into a preparatory examination.

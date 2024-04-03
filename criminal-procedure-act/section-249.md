@@ -1,0 +1,2 @@
+# 249. Presumption of failure to pay tax or to furnish information relating to tax
+When an accused is at criminal proceedings charged with any offence of which the failure to pay any tax or impost to the State, or of which the failure to furnish to any officer of the State any information relating to any tax or impost which is or may be due to the State is an element, the accused shall be deemed to have failed to pay such tax or impost or to furnish such information, unless the contrary is proved.

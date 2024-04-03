@@ -1,0 +1,3 @@
+# 301. Compensation to innocent purchaser of property unlawfully obtained
+Where a person is convicted of theft or of any other offence whereby he has unlawfully obtained any property, and it appears to the court on the evidence that such person sold such property or part thereof to another person who had no knowledge that the property was stolen or unlawfully obtained, the court may, on the application of such purchaser and on restitution of such property to the owner thereof, order that, out of any money of such convicted person taken from him on his arrest, a sum not exceeding the amount paid by the purchaser be returned to him.
+REVIEWS AND APPEALS IN CASES OF CRIMINAL PROCEEDINGS IN LOWER COURTS (ss 302-314)

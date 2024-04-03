@@ -1,0 +1,2 @@
+# 90. Charge need not specify or negative exception, exemption, proviso, excuse or qualification
+In criminal proceedings any exception, exemption, proviso, excuse or qualification, whether it does or does not accompany in the same section the description of the offence in the law creating the offence, may be proved by the accused but need not be specified or negatived in the charge and, if so specified or negatived, need not be proved by the prosecution.

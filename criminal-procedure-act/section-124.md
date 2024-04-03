@@ -1,0 +1,4 @@
+# 124. Proceedings preceding holding of preparatory examination to form part of preparatory examination record
+Where an attorney-general acts under paragraph (a) or (b) of section 123—
+(a) the record of any proceedings under section 121 (1) or 122 (1) or of any proceedings in the magistrate’s court or regional court before the trial was converted into a preparatory examination, shall form part of the preparatory examination record;
+(b) and the accused has pleaded to a charge, the preparatory examination shall continue on the charge to which the accused has pleaded: Provided that where evidence is led at such preparatory examination which relates to an offence, other than the offence contained in the charge to which the accused has pleaded, allegedly committed by the accused, such evidence shall not be excluded on the ground only that the evidence does not relate to the offence to which the accused has pleaded.

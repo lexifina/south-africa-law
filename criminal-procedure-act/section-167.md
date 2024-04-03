@@ -1,0 +1,2 @@
+# 167. Court may examine witness or person in attendance
+The court may at any stage of criminal proceedings examine any person, other than an accused, who has been subpoenaed to attend such proceedings or who is in attendance at such proceedings, and may recall and re-examine any person, including an accused, already examined at the proceedings, and the court shall examine, or recall and re-examine, the person concerned if his evidence appears to the court essential to the just decision of the case.

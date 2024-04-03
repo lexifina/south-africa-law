@@ -1,0 +1,3 @@
+# 183. Witness to keep police informed of whereabouts
+(1) Any person who is advised in writing by any police official that he will be required as a witness in criminal proceedings, shall, until such criminal proceedings have been finally disposed of or until he is officially advised that he will no longer be required as a witness, keep such police official informed at all times of his full residential address or any other address where he may conveniently be found.
+(2) Any person who fails to comply with the provisions of subsection (1), shall be guilty of an offence and liable on conviction to a fine not exceeding R300 or to imprisonment for a period not exceeding three months.

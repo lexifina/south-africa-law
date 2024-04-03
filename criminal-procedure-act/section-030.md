@@ -1,0 +1,5 @@
+# 30. Disposal by police official of article after seizure
+A police official who seizes any article referred to in section 20 or to whom any such article is under the provisions of this Chapter delivered—
+(a) may, if the article is perishable, with due regard to the interests of the persons concerned, dispose of the article in such manner as the circumstances may require; or
+(b) may, if the article is stolen property or property suspected to be stolen, with the consent of the person from whom it was seized, deliver the article to the person from whom, in the opinion of such police official, such article was stolen, and shall warn such person to hold such article available for production at any resultant criminal proceedings, if required to do so; or
+(c) shall, if the article is not disposed of or delivered under the provisions of paragraph (a) or (b), give it a distinctive identification mark and retain it in police custody or make such other arrangements with regard to the custody thereof as the circumstances may require.

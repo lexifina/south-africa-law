@@ -1,0 +1,2 @@
+# 137. Magistrate to transmit record of preparatory examination to attorney-general
+The magistrate or regional magistrate, as the case may be, shall, at the conclusion of a preparatory examination and whether or not the accused is under section 135 discharged in respect of any charge, send a copy of the record of the preparatory examination to the attorney-general and, where the accused is not discharged in respect of all the charges put to him under section 130, adjourn the proceedings pending the decision of the attorney-general.

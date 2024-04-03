@@ -1,0 +1,6 @@
+# 297A. Liability for patrimonial loss arising from performance of community service
+(1) If patrimonial loss may be recovered from an accused on the ground of a delict committed by him in the performance of community service in terms of section 297, that loss may, subject to subsection (3), be recovered from the State.
+(2) Subsection (1) shall not be construed as precluding the State from obtaining indemnification against its liability in terms of subsection (1) by means of insurance or otherwise.
+(3) The patrimonial loss which may be recovered from the State in terms of subsection (1) shall be reduced by the amount from any other source to which the injured person is entitled by reason of the patrimonial loss suffered by him.
+(4) In so far as the State has made a payment by virtue of a right of recovery in terms of subsection (1), all the relevant right and legal remedies of the injured person against the accused shall pass to the State.
+(5) If any person as a result of the performance of community service in terms of section 297 has suffered patrimonial loss which cannot be recovered from the State in terms of subsection (1), the Director-General: Justice may, with the concurrence of the Treasury, as an act of grace pay such amount as he may deem reasonable to that person.

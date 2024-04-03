@@ -1,0 +1,9 @@
+# 334. Minister may declare certain persons peace officers for specific purposes
+(1) (a) The Minister may by notice in the Gazette declare that any person who, by virtue of his office, falls within any category defined in the notice, shall, within an area specified in the notice, be a peace officer for the purpose of exercising, with reference to any provision of this Act or any offence or any class of offences likewise specified, the powers defined in the notice.
+(b) The powers referred to in paragraph (a) may include any power which is not conferred upon a peace officer by this Act.
+(2) (a) No person who is a peace officer by virtue of a notice issued under subsection (1) shall exercise any power conferred upon him under that subsection unless he is at the time of exercising such power in possession of a certificate of appointment issued by his employer, which certificate shall be produced on demand.
+(b) A power exercised contrary to the provisions of paragraph (a) shall have no legal force or effect.
+(3) The Minister may by notice in the Gazette prescribe—
+(a) the conditions which shall be complied with before a certificate of appointment may validly be issued under subsection (2) (a);
+(b) any matter which shall appear in or on such certificate of appointment in addition to any matter which the employer may include in such certificate.
+(4) Where the employer of any person who becomes a peace officer under the provisions of this section would be liable for damages arising out of any act or omission by such person in the discharge of any power conferred upon him under this section, the State shall not be liable for such damages unless the State is the employer of that person, in which event the department of State, including a provincial administration, in whose service such person is, shall be so liable.

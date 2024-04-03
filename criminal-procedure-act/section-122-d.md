@@ -1,0 +1,5 @@
+# 122D. Plea of not guilty
+(1) Where an accused under section 122A pleads not guilty to the offence charged, the court shall act in terms of section 115 and when that section has been complied with, the magistrate shall commit the accused for a summary trial in the regional court concerned on the charge to which he has pleaded not guilty or on the charge in respect of which a plea of not guilty has been entered under section 122C (2) (b).
+(2) The regional court may try the accused on the charge in respect of which he has been committed for a summary trial under subsection (1) or on any other or further charge which the prosecutor may prefer against the accused and which the court is competent to try.
+(3) The record of proceedings in the magistrate’s court shall, upon proof thereof in the regional court in which the accused is arraigned for a summary trial, be received as part of the record of that court against the accused, and any admission by the accused shall stand at the trial of the accused as proof of such an admission.
+PREPARATORY EXAMINATION (ss 123-143)

@@ -1,0 +1,3 @@
+# 229. Evidence of times of sunrise and sunset
+(1) The Minister may from time to time by notice in the Gazette approve of tables prepared at any official observatory in the Republic of the times of sunrise and sunset on particular days at particular places in the Republic or any portion thereof, and appearing in any publication specified in the notice, and thereupon such tables shall, until the notice is withdrawn, on the mere production thereof in criminal proceedings be admissible as proof of such times.
+(2) Tables in force immediately prior to the commencement of this Act by virtue of the provisions of section 26 of the General Law Amendment Act, 1952 (Act 32 of 1952), shall be deemed to be tables approved under subsection (1) of this section.

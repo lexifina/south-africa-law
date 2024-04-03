@@ -1,0 +1,2 @@
+# 267. Common assault
+If the evidence on a charge of common assault proves the offence of sexual assault, compelled sexual assault or compelled self-sexual assault as contemplated in sections 5, 6 or 7 of the Criminal Law (Sexual Offences and Related Matters) Amendment Act, 2007, respectively, the accused may be found guilty of any such offence, or, if the evidence on such a charge does not prove the offence of common assault but the offence of pointing a fire-arm, air-gun or air-pistol in contravention of any law, the accused may be found guilty of that offence.

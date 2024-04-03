@@ -1,0 +1,9 @@
+# 179. Process for securing attendance of witness
+(1) (a) The prosecutor or an accused may compel the attendance of any person to give evidence or to produce any book, paper or document in criminal proceedings by taking out of the office prescribed by the rules of court the process of court for that purpose.
+(b) If any police official has reasonable grounds for believing that the attendance of any person is or will be necessary to give evidence or to produce any book, paper or document in criminal proceedings in a lower court, and hands to such person a written notice calling upon him to attend such criminal proceedings on the date and at the time and place specified in the notice, to give evidence or to produce any book, paper or document, likewise specified, such person shall, for the purposes of this Act, be deemed to have been duly subpoenaed so to attend such criminal proceedings.
+(2) Where an accused desires to have any witness subpoenaed, a sum of money sufficient to cover the costs of serving the subpoena shall be deposited with the prescribed officer of the court.
+(3) (a) Where an accused desires to have any witness subpoenaed and he satisfies the prescribed officer of the court—
+(i) that he is unable to pay the necessary costs and fees; and
+(ii) that such witness is necessary and material for his defence, such officer shall subpoena such witness.
+(b) In any case where the prescribed officer of the court is not so satisfied, he shall, upon the request of the accused, refer the relevant application to the judge or judicial officer presiding over the court, who may grant or refuse the application or defer his decision until he has heard other evidence in the case.
+(4) For the purposes of this section “prescribed officer of the court” means the registrar, assistant registrar, clerk of the court or any officer prescribed by the rules of court.

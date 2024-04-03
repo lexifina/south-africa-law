@@ -1,0 +1,2 @@
+# 126. Procedure to be followed by magistrate at preparatory examination
+Where an attorney-general instructs that a preparatory examination be held against an accused, the magistrate or regional magistrate shall, after advice of the decision of the attorney-general, advise the accused of the decision of the attorney- general and proceed in the manner hereinafter described to enquire into the charge against the accused.

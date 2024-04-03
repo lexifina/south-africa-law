@@ -1,0 +1,2 @@
+# 26. Entering of premises for purposes of obtaining evidence
+Where a police official in the investigation of an offence or alleged offence reasonably suspects that a person who may furnish information with reference to any such offence is on any premises, such police official may without warrant enter such premises for the purpose of interrogating such person and obtaining a statement from him: Provided that such police official shall not enter any private dwelling without the consent of the occupier thereof.

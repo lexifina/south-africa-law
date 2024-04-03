@@ -1,0 +1,2 @@
+# 142. Procedure where attorney-general declines to prosecute
+Where an attorney-general under section 139 (c) declines to prosecute an accused, he shall advise the magistrate of the district in which the preparatory examination was held of his decision, and such magistrate shall forthwith have the accused released from custody or, if the accused is not in custody, advise the accused in writing of the decision of the attorney- general, whereupon no criminal proceedings shall again be instituted against the accused in respect of the charge in question.

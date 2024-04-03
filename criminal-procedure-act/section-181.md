@@ -1,0 +1,2 @@
+# 181. Pre-payment of witness expenses
+Where a subpoena is served on a witness at a place outside the magisterial district from which the subpoena is issued, or, in the case of a superior court, at a place outside the magisterial district in which the proceedings at which the witness is to appear are to take place, and the witness is required to travel from such place to the court in question, the necessary expenses to travel to and from such court and of sojourn at the court in question, shall on demand be paid to such witness at the time of service of the subpoena.

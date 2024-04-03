@@ -1,0 +1,5 @@
+# 238. Evidence of relationship on charge of incest
+(1) At criminal proceedings at which an accused is charged with incest as contemplated in section 12 of the Criminal Law (Sexual Offences and Related Matters) Amendment Act, 2007—
+(a) it shall be sufficient to prove that the person against whom or by whom the offence is alleged to have been committed, is reputed to be the lineal ascendant or descendant or the sister, brother, stepmother, stepfather, stepdaughter or stepson of the other party to the incest;
+(b) the accused shall be presumed, unless the contrary is proved, to have had knowledge, at the time of the alleged offence, of the relationship existing between him or her and the other party to the incest.
+(2) Whenever the fact that any lawful and binding marriage was contracted is relevant to the issue at criminal proceedings at which an accused is charged with incest as contemplated in section 12 of the Criminal Law (Sexual Offences and Related Matters) Amendment Act, 2007, such fact may be proved prima facie in the manner provided in section 237 for the proof of the existence of a lawful and binding marriage of a person charged with bigamy.

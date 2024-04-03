@@ -1,0 +1,3 @@
+# 12. Mode of conducting private prosecution
+(1) A private prosecution shall, subject to the provisions of this Act, be proceeded with in the same manner as if it were a prosecution at the instance of the State: Provided that the person in respect of whom the private prosecution is instituted shall be brought before the court only by way of summons in the case of a lower court, or an indictment in the case of a superior court, except where he is under arrest in respect of an offence with regard to which a right of private prosecution is vested in any body or person under section 8.
+(2) Where the prosecution is instituted under section 7 (1) and the accused pleads guilty to the charge, the prosecution shall be continued at the instance of the State.

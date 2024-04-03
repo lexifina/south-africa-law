@@ -1,0 +1,12 @@
+# 73. Accused entitled to assistance after arrest and at criminal proceedings
+(1) An accused who is arrested, whether with or without warrant, shall, subject to any law relating to the management of prisons, be entitled to the assistance of his legal adviser as from the time of his arrest.
+(2) An accused shall be entitled to be represented by his legal adviser at criminal proceedings, if such legal adviser is not in terms of any law prohibited from appearing at the proceedings in question.
+(2A) Every accused shall—
+(a) at the time of his or her arrest;
+(b) when he or she is served with a summons in terms of section 54;
+(c) when a written notice is handed to him or her in terms of section 56;
+(d) when an indictment is served on him or her in terms of section 144 (4) (a);
+(e) at his or her first appearance in court, be informed of his or her right to be represented at his or her own expense by a legal adviser of his or her own choice and if he or she cannot afford legal representation, that he or she may apply for legal aid and of the institutions which he or she may approach for legal assistance.
+(2B) Every accused shall be given a reasonable opportunity to obtain legal assistance.
+(2C) If an accused refuses or fails to appoint a legal adviser of his or her own choice within a reasonable time and his or her failure to do so is due to his or her own fault, the court may, in addition to any order which it may make in terms of section 342A, order that the trial proceed without legal representation unless the court is of the opinion that that would result in substantial injustice, in which event the court may, subject to the Legal Aid South Africa Act, 2014, order that a legal adviser be assigned to the accused at the expense of the State: Provided that the court may order that the costs of such representation be recovered from the accused: Provided further that the accused shall not be compelled to appoint a legal adviser if he or she prefers to conduct his or her own defence.
+(3) In addition to the provisions of sections 3 (g), 38 (2), 44 (1) (b) and 65 of the Child Justice Act, 2008 (Act 75 of 2008), relating to the assistance of an accused who is under the age of eighteen years by his or her parent, an appropriate person or a guardian at criminal proceedings, any accused who, in the opinion of the court, requires the assistance of another person at criminal proceedings, may, with the permission of the court, be so assisted at such proceedings.

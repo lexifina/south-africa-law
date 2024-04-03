@@ -1,0 +1,21 @@
+# 309B. Application for leave to appeal
+(1) (a) Subject to section 84 of the Child Justice Act, 2008 (Act 75 of 2008), any accused, other than a person referred to in the first proviso to section 309 (1) (a), who wishes to note an appeal against any conviction or against any resultant sentence or order of a lower court, must apply to that court for leave to appeal against that conviction, sentence or order.
+(b) An application referred to in paragraph (a) must be made—
+(i) within 14 days after the passing of the sentence or order following on the conviction; or
+(ii) within such extended period as the court may on application and for good cause shown, allow.
+(2) (a) Any application in terms of subsection (1) must be heard by the magistrate whose conviction, sentence or order is the subject of the prospective appeal (hereinafter referred to as the trial magistrate) or, if the trial magistrate is not available, by any other magistrate of the court concerned, to whom it is assigned for hearing.
+(b) If the application is to be heard by a magistrate, other than the trial magistrate, the clerk of the court must submit a copy of the record of the proceedings before the trial magistrate to the magistrate hearing the application: Provided that where the accused was legally represented at a trial in a regional court the clerk of the court must, subject to paragraph (c), only submit a copy of the judgment of the trial magistrate, including the reasons for the conviction, sentence or order in respect of which the appeal is sought to be noted to the magistrate hearing the application.
+(c) The magistrate referred to in the proviso to paragraph (b) may, if he or she deems it necessary in order to decide the application, request the full record of the proceedings before the trial magistrate.
+(d) Notice of the date fixed for the hearing of the application must be given to the Director of Public Prosecutions concerned, or to a person designated thereto by him or her, and the accused.
+(3) (a) Every application for leave to appeal must set forth clearly and specifically the grounds upon which the accused desires to appeal.
+(b) If the accused applies orally for such leave immediately after the passing of the sentence or order, he or she must state such grounds, which must be recorded and form part of the record.
+(4) (a) If an application for leave to appeal under subsection (1) is granted, the clerk of the court must, in accordance with the rules of the court, transmit copies of the record and of all relevant documents to the registrar of the High Court concerned: Provided that instead of the whole record, with the consent of the accused and the Director of Public Prosecutions, copies (one of which must be certified) may be transmitted of such parts of the record as may be agreed upon by the Director of Public Prosecutions and the accused to be sufficient, in which event the High Court concerned may nevertheless call for the production of the whole record.
+(b) If any application referred to in this section is refused, the magistrate must immediately record his or her reasons for such refusal.
+(5) (a) An application for leave to appeal may be accompanied by an application to adduce further evidence (hereafter referred to as an application for further evidence) relating to the conviction, sentence or order in respect of which the appeal is sought to be noted.
+(b) An application for further evidence must be supported by an affidavit stating that—
+(i) further evidence which would presumably be accepted as true, is available;
+(ii) if accepted the evidence could reasonably lead to a different decision or order; and
+(iii) there is a reasonably acceptable explanation for the failure to produce the evidence before the close of the trial. (c) The court granting an application for further evidence must—
+(i) receive that evidence and further evidence rendered necessary thereby, including evidence in rebuttal called by the prosecutor and evidence called by the court; and
+(ii) record its findings or views with regard to that evidence, including the cogency and the sufficiency of the evidence, and the demeanour and credibility of any witness.
+(6) Any evidence received under subsection (5) shall for the purposes of an appeal be deemed to be evidence taken or admitted at the trial in question.
