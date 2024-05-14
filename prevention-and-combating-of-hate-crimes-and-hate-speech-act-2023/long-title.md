@@ -1,0 +1,21 @@
+GENERAL EXPLANATORY NOTE:
+[ ] Words in bold type in square brackets indicate omissions from existing enactments.
+Words underlined with a solid line indicate insertions in existing enactments.
+ACT To give effect to the Republic's obligations in terms of the Constitution and international human rights instruments concerning racism, racial discrimination, xenophobia and related intolerance, in accordance with international law obligations; to provide for offences as hate crimes and the offence of hate speech and the prosecution of persons who commit those offences; to provide for appropriate sentences that may be imposed on persons who commit hate crime and hate speech offences; to provide for the prevention of hate crimes and hate speech;
+to provide for the reporting on the implementation, application and administration of this Act; to effect consequential amendments to certain Acts of Parliament; and to provide for matters connected therewith.
+PREAMBLE SINCE the Constitution of the Republic of SouthAfrica, 1996, commits the Republic of South Africa and its people to establish a society that is based on democratic values of social justice, human dignity, equality and the advancement of human rights and freedoms, non-racialism and non-sexism;
+AND MINDFUL THAT—
+●section 9(1) of the Constitution provides that everyone is equal before the law and has the right to equal protection and benefit of the law;
+●section 9(3) and (4) of the Constitution provides that neither the State nor any person may, directly or indirectly, discriminate unfairly against anyone on one or more grounds, including race, gender, sex, pregnancy, marital status, ethnic or social origin, colour, sexual orientation, age, disability, religion, conscience, belief, culture, language and birth, and that national legislation must be enacted to prevent or prohibit unfair discrimination;
+●section 10 of the Constitution provides that everyone has inherent dignity and the right to have their dignity respected and protected;
+●the Promotion of Equality and Prevention of Unfair Discrimination Act, 2000 (Act No. 4 of 2000), prohibits unfair discrimination, hate speech and harassment and requires the State to promote the constitutional imperatives enshrined in section 9 of the Constitution; and (English text signed by the President) (Assented to on 06 May 2024) ●section 16 of the Constitution gives everybody the right to freedom of expression, including—
+– freedom of the press and other media;
+– freedom to receive or impart information or ideas;
+– freedom of artistic creativity; and – academic freedom and freedom of scientific research, but that the right to freedom of expression does not extend to—
+– propaganda for war;
+– incitement of imminent violence; or – advocacy of hatred that is based on race, ethnicity, gender or religion, and that constitutes incitement to cause harm;
+AND BEARING IN MIND THAT—
+●section 7(2) of the Constitution provides that the State must respect, protect, promote and fulfil all the rights enshrined in the Bill of Rights, which is the cornerstone of democracy in South Africa;
+●section 8(2) of the Constitution provides that a provision of the Bill of Rights binds a natural or a juristic person if, and to the extent that, it is applicable, taking into account the nature of the right and the nature of any duty imposed by the right;
+●the severity of the emotional and psychological impact of hate crimes and hate speech extends beyond the victim, to the group to which the victim belongs or is perceived to belong; and ●South Africa has committed itself to uphold the Declaration adopted at the United Nations World Conference against Racism, Racial Discrimination, Xenophobia and Related Intolerance held in Durban;
+AND SINCE the International Convention on the Elimination of All Forms of Racial Discrimination, to which the Republic is a signatory, requires States Parties to declare, among others, an offence punishable by law all dissemination of ideas based on racial superiority or hatred, incitement to racial discrimination, as well as acts of violence or incitement to such acts against any race or group of persons of another colour or ethnic origin, P ARLIAMENT of the Republic of South Africa therefore enacts as follows:—
