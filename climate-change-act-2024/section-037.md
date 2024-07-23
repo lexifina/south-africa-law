@@ -1,0 +1,4 @@
+# s. 37
+Savings, transitional provisions and amendment of laws
+37. (1) The notice relating to the Declaration of Greenhouse Gases as Priority Air Pollutants, 2017, published under Government Notice No. 710 of 21 July 2017, the National Pollution Prevention Plans Regulations, 2017, published under Government Notice No. 712 of 21 July 2017, and the National Greenhouse Gas Emissions Reporting Regulations, 2016, published under General Notice No. 275 of 3 April 2017, made in terms of the National Environmental Management: Air Quality Act, 2004 (Act No. 39 of 2004), will serve as regulations and notices published in terms of thisAct, as soon as this Act comes into operation and will remain in force and effect until they are amended, replaced or repealed in terms of this Act.
+(2) The National Environmental Management Act is hereby amended to the extent reflected in Schedule 3.
