@@ -1,0 +1,18 @@
+# s. 91
+Compensation payable under certain circumstances
+91. (1) The holder of a reconnaissance permit, exploration, production or petroleum right must notify the Petroleum Agency if that holder is prevented from commencing or conducting any reconnaissance, exploration or production operations because the owner or the lawful occupier of the land in question—
+(a) refuses to allow such holder to enter the land;
+(b) places unreasonable demands in return for access to the land; or
+(c) cannot be found in order to apply for access.
+(2) The Petroleum Agency must, within 14 days from the date of the notice referred to in subsection (1)—
+(a) call upon the owner or lawful occupier of the land to make representations regarding the issues raised by the holder of a reconnaissance permit, exploration, production or petroleum right;
+(b) inform that owner or occupier of the rights of the holder of a right or permit in terms of this Act;
+(c) set out the provisions of this Act which such owner or occupier is contravening; and
+(d) inform that owner or occupier of the steps which may be taken, should he or she persist in contravening the provisions.
+(3) If the Petroleum Agency, after having considered the issues raised by the holder under subsection (1) and any written representations by the owner or the lawful occupier of the land, concludes that the owner or occupier has suffered or is likely to suffer loss or damage as a result of the reconnaissance, exploration or production operations, the Petroleum Agency must request the parties concerned to endeavour to reach an agreement for the payment of compensation for such loss or damage.
+(4) If the parties fail to reach an agreement, compensation must be determined by arbitration as provided for in the terms and conditions of the right or by a competent court.
+(5) If the Petroleum Agency, having considered the issues raised by the holder under subsection (1), any representations by the owner or occupier of land and any written recommendation by the Petroleum Development and Environmental Committee, concludes that any further negotiation may detrimentally affect the objects of this Act referred to in section 2, the Petroleum Agency may recommend to the Minister that such land be expropriated in terms of section 92.
+(6) If the Petroleum Agency determines that the failure of the parties to reach an agreement or to resolve the dispute is due to the fault of the holder of the reconnaissance permit, exploration right, production or petroleum right, the Petroleum Agency may in writing prohibit such holder from commencing or continuing with reconnaissance, Upstream Petroleum Resources Development Act, Act 2024 exploration or production operations on the land or block in question until such time as the dispute has been resolved through arbitration or by a competent court.
+(7) The owner or lawful occupier of land on which reconnaissance, exploration or production operations will be conducted, must notify the Petroleum Agency if that owner or occupier has suffered or is likely to suffer any loss or damage as a result of the exploration or production operation, in which case this section applies with the changes required by the context.
+(8) Where the owner or lawful occupier of land referred to in subsection (7) has suffered or is likely to suffer any loss or damage and such loss or damage may result in the relocation or resettlement of the owner or lawful occupier of land, such relocation or resettlement must be carried out in the prescribed manner.
+Minister's power to expropriate property for purpose of exploration or production
