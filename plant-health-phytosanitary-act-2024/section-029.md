@@ -1,0 +1,10 @@
+# s. 29
+Liability of employer
+29. (1) When a manager, representative, agent, employee or member of the family of a person (in this section referred to as the principal) does or omits to do any act, and it would be an offence in terms of this Act for the principal to perform or omit to do such act himself or herself, that principal shall be deemed himself or herself to have done or omitted to have done the act, unless he or she satisfies the court that—
+(a) he or she neither connived at nor permitted the act or omission by the manager, representative, agent, employee or member concerned;
+(b) he or she took all reasonable steps to prevent the act or omission; and
+(c) an act or omission, whether lawful or unlawful, of the nature charged, on no condition or under no circumstance came within the scope of the authority or employment of the manager, representative, agent, employee or member concerned.
+(2) In the application of subsection (1)(b), the fact that such principal issued instructions whereby an act or omission of that nature is prohibited, does not in itself mean that he or she took all reasonable steps to prevent the act or omission.
+(3) When a principal is by virtue of subsection (1) liable for an act or omission by a manager, representative, agent, employee or member of his or her family, that manager, representative, agent, employee or member shall also be liable thereof as if he or she is the principal concerned.
+(4) Subsection (2) shall not release a manager, representative, agent, employee or member contemplated in that subsection from any other liability which he or she may have incurred apart from the liability which he or she shares with the principal concerned.
+(5) In the application of this section in criminal proceedings, evidence that any article was at the time of the act or omission charged, in the possession or under the custody, supervision, control or care of any manager, representative, agent, employee or member of the family of the principal, shall be prima facie proof that the principal concerned is the owner of the article concerned.

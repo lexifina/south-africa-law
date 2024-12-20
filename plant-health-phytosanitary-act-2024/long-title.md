@@ -1,0 +1,2 @@
+ACT To provide for phytosanitary measures to prevent the introduction, establishment and spread of regulated pests in the Republic; to provide for the control of regulated pests; to provide for regulation of the movement of plants, plant products and other regulated articles into, within and out of the Republic; and to provide for matters connected therewith.
+B E IT ENACTED by the Parliament of the Republic of South Africa, as follows:—
