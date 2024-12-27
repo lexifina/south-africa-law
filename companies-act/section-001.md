@@ -183,7 +183,7 @@ but does not include any such action taken upon the final liquidation of the com
 “related”, when used in respect of two persons, means persons who are connected to one another in any manner contemplated in section 2(1)(a) to (c);
 “relationship” includes the connection subsisting between any two or more persons who are related or inter-related, as determined in accordance with section 2;
 “rules” and “rules of a company” means any rules made by a company as contemplated in section 15(3) to (5);
-“securities” means any shares, debentures or other instruments, irrespective of their form or title, issued or authorised to be issued by a profit company;
+“securities”, for the purposes of this Act, means any shares or debentures, irrespective of their form or title, issued or authorised to be issued by a profit company;
 “securities register” means the register required to be established by a profit company in terms of section 50(1);
 “series of integrated transactions” has the meaning set out in section 41(4)(b);
 “share” means one of the units into which the proprietary interest in a profit company is divided;

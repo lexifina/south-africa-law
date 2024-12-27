@@ -9,13 +9,26 @@
 (a) those shares are fully paid; and
 (b) the company must issue those shares and cause the name of the holder to be entered on the company’s securities register in accordance with Part E of this Chapter.
 (5) If the consideration for any shares that are issued or to be issued is in the form of an instrument such that the value of the consideration cannot be realised by the company until a date after the time the shares are to be issued, or is in the form of an agreement for future services, future benefits or future payment by the subscribing party—
-(a) the consideration for those shares is regarded as having been received by the company at any time only to the extent—(i)that the value of the consideration for any of those shares has been realised by the company; or(ii)that the subscribing party to the agreement has fulfilled its obligations in terms of the agreement; and
-(b) upon receiving the instrument or entering into the agreement, the company must—(i)issue the shares immediately; and(ii)cause the issued shares to be transferred to a third party, to be held in trust and later transferred to the subscribing party in accordance with a trust agreement.
-(6) Except to the extent that a trust agreement contemplated in subsection (5)(b) provides otherwise—
+(a) the consideration for those shares is regarded as having been received by the company at any time only to the extent—
+(i) that the value of the consideration for any of those shares has been realised by the company; or
+(ii) that the subscribing party to the agreement has fulfilled its obligations in terms of the agreement; and
+(b) upon receiving the instrument or entering into the agreement, the company must—
+(i) issue the shares immediately; and
+(ii) cause the issued shares to be transferred to a stakeholder, to be held in terms of a stakeholder agreement, and later transferred to the subscribing party in accordance with the stakeholder agreement.
+(6) Except to the extent that a stakeholder agreement contemplated in subsection (5)(b) provides otherwise—
 (a) voting rights, and appraisal rights set out in section 164, associated with shares that have been issued but are held in trust may not be exercised;
 (b) any pre-emptive rights associated with shares that have been issued but are held in trust may be exercised only to the extent that the instrument has become negotiable by the company or the subscribing party has fulfilled its obligations under the agreement;
-(c) any distribution with respect to shares that have been issued but are held in trust—(i)must be paid or credited by the company to the subscribing party to the extent that the instrument has become negotiable by the company or the subscribing party has fulfilled its obligations under the agreement; and(ii)may be credited against the remaining value at that time of any services still to be performed by the subscribing party, any future payment remaining due, or the benefits still to be received by the company; and
-(d) shares that have been issued but are held in trust—(i)may not be transferred by or at the direction of the subscribing party unless the company has expressly consented to the transfer in advance;(ii)may be transferred to the subscribing party on a quarterly basis, to the extent that the instrument has become negotiable by the company or the subscribing party has fulfilled its obligations under the agreement;(iii)must be transferred to the subscribing party when the instrument has become negotiable by the company, or upon satisfaction of all of the subscribing party’s obligations in terms of the agreement; and(iv)to the extent that the instrument is dishonoured after becoming negotiable, or that the subscribing party has failed to fulfil its obligations under the agreement, must be returned to the company and cancelled, on demand by the company.
+(c) any distribution with respect to shares that have been issued but are held in trust—
+(i) must be paid or credited by the company to the subscribing party to the extent that the instrument has become negotiable by the company or the subscribing party has fulfilled its obligations under the agreement; and
+(ii) may be credited against the remaining value at that time of any services still to be performed by the subscribing party, any future payment remaining due, or the benefits still to be received by the company; and
+(d) shares that have been issued but are held in trust—
+(i) may not be transferred by or at the direction of the subscribing party unless the company has expressly consented to the transfer in advance;
+(ii) may be transferred to the subscribing party on a quarterly basis, to the extent that the instrument has become negotiable by the company or the subscribing party has fulfilled its obligations under the agreement;
+(iii) must be transferred to the subscribing party when the instrument has become negotiable by the company, or upon satisfaction of all of the subscribing party’s obligations in terms of the agreement; and
+(iv) to the extent that the instrument is dishonoured after becoming negotiable, or that the subscribing party has failed to fulfil its obligations under the agreement, must be returned to the company and cancelled, on demand by the company.
+(6A) For the purposes of subsections (5) and (6)—
+(a) “stakeholder” means an independent third party, who has no interest in the company or the subscribing party, who may be in the form of an attorney, notary public or escrow agent; and
+(b) “stakeholder agreement” means a written contract between the stakeholder and the company.
 (7) A company may not make a demand contemplated in subsection (6)(d)(iv) unless—
 (a) a negotiable instrument is dishonoured after becoming negotiable by the company; or
 (b) in the case of an agreement, the subscribing party has failed to fulfil any obligation in terms of the agreement for a period of at least 40 business days after the date on which the obligation was due to be fulfilled.

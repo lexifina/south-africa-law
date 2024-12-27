@@ -1,11 +1,21 @@
-# 45. Loans or other financial assistance to directors
+# 45. Financial assistance
 (1) In this section, “financial assistance”—
 (a) includes lending money, guaranteeing a loan or other obligation, and securing any debt or obligation; but
-(b) does not include—(i)lending money in the ordinary course of business by a company whose primary business is the lending of money;(ii)an accountable advance to meet—(aa)legal expenses in relation to a matter concerning the company; or(bb)anticipated expenses to be incurred by the person on behalf of the company; or(iii)an amount to defray the person’s expenses for removal at the company’s request.
+(b) does not include—
+(i) lending money in the ordinary course of business by a company whose primary business is the lending of money;
+(ii) an accountable advance to meet—
+(aa) legal expenses in relation to a matter concerning the company; or
+(bb) anticipated expenses to be incurred by the person on behalf of the company; or
+(iii) an amount to defray the person’s expenses for removal at the company’s request.
 (2) Except to the extent that the Memorandum of Incorporation of a company provides otherwise, the board may authorise the company to provide direct or indirect financial assistance to a director or prescribed officer of the company or of a related or inter-related company, or to a related or inter-related company or corporation, or to a member of a related or inter-related corporation, or to a person related to any such company, corporation, director, prescribed officer or member, subject to subsections (3) and (4).
+(2A) The provisions of this section do not apply to the giving by a company of financial assistance to or for the benefit of its subsidiaries.
 (3) Despite any provision of a company’s Memorandum of Incorporation to the contrary, the board may not authorise any financial assistance contemplated in subsection (2), unless—
-(a) the particular provision of financial assistance is—(i)pursuant to an employee share scheme that satisfies the requirements of section 97; or(ii)pursuant to a special resolution of the shareholders, adopted within the previous two years, which approved such assistance either for the specific recipient, or generally for a category of potential recipients, and the specific recipient falls within that category; and
-(b) the board is satisfied that—(i)immediately after providing the financial assistance, the company would satisfy the solvency and liquidity test; and(ii)the terms under which the financial assistance is proposed to be given are fair and reasonable to the company.
+(a) the particular provision of financial assistance is—
+(i) pursuant to an employee share scheme that satisfies the requirements of section 97; or
+(ii) pursuant to a special resolution of the shareholders, adopted within the previous two years, which approved such assistance either for the specific recipient, or generally for a category of potential recipients, and the specific recipient falls within that category; and
+(b) the board is satisfied that—
+(i) immediately after providing the financial assistance, the company would satisfy the solvency and liquidity test; and
+(ii) the terms under which the financial assistance is proposed to be given are fair and reasonable to the company.
 (4) In addition to satisfying the requirements of subsection (3), the board must ensure that any conditions or restrictions respecting the granting of financial assistance set out in the company’s Memorandum of Incorporation have been satisfied.
 (5) If the board of a company adopts a resolution to do anything contemplated in subsection (2), the company must provide written notice of that resolution to all shareholders, unless every shareholder is also a director of the company, and to any trade union representing its employees—
 (a) within 10 business days after the board adopts the resolution, if the total value of all loans, debts, obligations or assistance contemplated in that resolution, together with any previous such resolution during the financial year, exceeds one-tenth of 1% of the company’s net worth at the time of the resolution; or
@@ -13,6 +23,6 @@
 (6) A resolution by the board of a company to provide financial assistance contemplated in subsection (2), or an agreement with respect to the provision of any such assistance, is void to the extent that the provision of that assistance would be inconsistent with—
 (a) this section; or
 (b) a prohibition, condition or requirement contemplated in subsection (4).
-(7) If a resolution or an agreement is void in terms of subsection (6) a director of a company is liable to the extent set out in section 77(3)(e)(v) if the director—
+(7) If a resolution or agreement is void in terms of subsection (6) a director of the company is liable to the extent set out in section 77(3)(e)(v) if the director—
 (a) was present at the meeting when the board approved the resolution or agreement, or participated in the making of such a decision in terms of section 74; and
 (b) failed to vote against the resolution or agreement, despite knowing that the provision of financial assistance was inconsistent with this section or a prohibition, condition or requirement contemplated in subsection (4).

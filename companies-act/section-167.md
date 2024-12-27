@@ -1,5 +1,5 @@
 # 167. Dispute resolution may result in consent order
-(1) If the Companies Tribunal, or an entity accredited in terms of section 166, has resolved, or assisted parties in resolving, a dispute in terms of this Part the Tribunal or accredited entity may—
+(1) If the Companies Tribunal has resolved, or assisted parties in resolving, a dispute in terms of this Part, the Tribunal may—
 (a) record the resolution of that dispute in the form of an order; and
 (b) if the parties to the dispute consent to that order, submit it to a court to be confirmed as a consent order, in terms of its rules.
 (2) After hearing an application for a consent order, the court may—
