@@ -1,0 +1,4 @@
+# s. 30
+Transitional arrangements and savings
+30. (1) This Act does not apply to any expropriation initiated through delivery of a notice of expropriation prior to the date of commencement of this Act or to any consequences of any expropriation initiated prior to the date of commencement of this Act.
+(2) Any proceedings for the determination of compensation in consequence of an expropriation contemplated in subsection (1) must be instituted, or if already instituted must be concluded, as if this Act had not been passed: Provided that the parties concerned may agree to the application of this Act to such expropriation or proceedings in which case the relevant provisions of thisAct apply to the extent agreed upon between the parties as if it were an expropriation or proceedings for the determination of compensation in terms of this Act.
