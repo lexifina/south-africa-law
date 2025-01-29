@@ -1,0 +1,17 @@
+# s. 93
+Transitional provisions
+93. (1) Any reference in any document, including a contract, or legislation to the National Homebuilders Registration Council established in terms of section 2 of the Housing Consumers Protection Measures Act, is deemed to be a reference to the National Home Building Regulatory Council referred to in section 4 of this Act.
+(2) The home warranty fund established in terms of section 15(4) of the Housing Consumers Protection Measures Act, continues to exist.
+(3) Any claim that has been initiated in terms of the Housing Consumers Protection Measures Act must be finalised in terms of that Act.
+(4) Any person employed by or appointed in terms of a contract to provide a service to the National Homebuilders Registration Council continues to be employed or appointed by the National Home Building Regulatory Council.
+(5) Any provision of this Act that imposes a duty, which did not exist before the commencement of this Act, on a person, applies only in relation to a home that is enrolled in terms of Chapter IV of this Act after the date of commencement of this Act.
+(6) Part 1 of Chapter VI of this Act applies only to invitations for tenders or requests for expression of interest, published or communicated by employers after the commencement date of this Act.
+(7) Any expression of interest, tender offer or quotation submitted in relation to an invitation for an expression of interest or tender offer that was issued before the commencement date of this Act, may be evaluated in accordance with the conditions under which that invitation for an expression of interest or tender offer was requested.
+(8) Parts 2 and 3 of Chapter VI of this Act apply only to a home building contract entered into after the commencement of this Act, and any payment or dispute resolution in terms of those contracts entered into before that date of commencement of this Act, must be made or settled in terms of the contracts.
+(9) A homebuilder that undertakes repairs, alterations and additions to a home where the construction thereof commences after the commencement date of this Act, must be registered as a homebuilder.
+(10)Any transgression of thisAct that is committed before the date of commencement of this Act must be investigated and the disputes arising therefrom must be resolved in terms of the Housing Consumers Protection Measures Act, and for that purpose, the Disciplinary Committee established in terms of that Act continues to exist.
+(11) Anything done or any permission granted or restriction imposed in terms of the Housing Consumers Protection Measures Act, is deemed to have been done, granted or restricted in terms of this Act.
+(12) The members of the Council established in terms of section 2 of the Housing Consumers Protection Measurers Act, continue to act as such after the commencement of this Act, until the date on which the Minister has appointed the members to the Board in terms of section 6 of this Act.
+(13) The Minister must appoint the first Board in terms of this Act within six months after the commencement of this Act.
+(14) The Council may lift the suspension of a homebuilder whose registration was suspended before the commencement of this Act in terms of the Housing Consumers Protection Measures Act, if the lifting of the suspension does not affect the housing consumer concerned adversely.
+(15) The Council is not liable for any loss or damage suffered by a homebuilder or a developer as a result of the suspension contemplated in subsection 14.

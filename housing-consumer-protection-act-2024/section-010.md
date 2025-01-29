@@ -1,0 +1,4 @@
+# s. 10
+Remuneration of members of Board and Compliance and Enforcement Committee
+10. (1) A member of the Board or the Compliance and Enforcement Committee who is not in the full-time employment of the State, may be paid from the Council's funds the remuneration and allowances as determined by the Minister, in consultation with the Minister of Finance.
+(2) A member of the Board or the Compliance and Enforcement Committee who is in the full-time employment of the State may not, in respect of the duties performed by him or her as member in terms of this Act, be paid any remuneration in addition to his or her remuneration as an employee of the State, nor may he or she be paid any allowance in respect of subsistence and transport at a rate exceeding the rate applicable to him or her as such an employee.

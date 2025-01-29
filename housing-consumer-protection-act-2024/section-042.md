@@ -1,0 +1,9 @@
+# s. 42
+Claims and recourse
+42. (1) Subject to subsection (3), the Council pays out of the home warranty fund an amount for rectification of an enrolled home, where a major structural defect or a roof leak has manifested itself within the relevant period contemplated in section 40 in respect of that home.
+(2) Any payment from the home warranty fund for a major structural defect or roof leak during the construction of a home must be deducted from the amount prescribed by the Minister in terms of section 43, and the balance constitutes the amount of warranty cover for the enrolled home concerned for the remainder of the warranty period.
+(3) Where a homebuilder or developer in relation to an enrolled home is unable or fails to rectify the structural defect as contemplated in section 41, or such homebuilder or developer no longer exists, the Council may pay out of the home warranty fund the amount determined in terms of section 43 for the rectification of the home by another homebuilder, on the conditions contemplated in section 43.
+(4) Notwithstanding subsection (3), in the case where there are reasonable grounds to believe that the cause underlying the dispute or claim can be attributed to any action or omission by the developer or organ of state concerned, or the certification body or competent person, the Council may hold that developer or organ of state or the certification body or competent person accountable for the rectification, or the cost of rectification, of that home.
+(5) The Council may—
+(a) subject to section 43, reduce any amount that may be expended in terms of subsection (1) or (3); or
+(b) in exceptional circumstances prescribed by the Council, instead of having a structural defect rectified, make payment to the housing consumer in full and final settlement of any claim.
