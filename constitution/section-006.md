@@ -2,7 +2,7 @@
 
 Languages
 
-6. (1) The official languages of the Republic are Sepedi, Sesotho, Setswana, siSwati, Tshivenda, Xitsonga, Afrikaans, English, isiNdebele, isiXhosa and isiZulu.
+6. (1) The official languages of the Republic are Sepedi, Sesotho, Setswana, siSwati, Tshivenda, Xitsonga, Afrikaans, South African Sign Language, English, isiNdebele, isiXhosa and isiZulu.
 
 (2) Recognising the historically diminished use and status of the indigenous languages of our people, the state must take practical and positive measures to elevate the status and advance the use of these languages.
 
@@ -16,11 +16,9 @@ Languages
 
 (a) promote, and create conditions for, the development and use of—
 
-(i) all official languages;
+(i) all official languages; and
 
 (ii) the Khoi, Nama and San languages; and
-
-(iii) sign language; and
 
 (b) promote and ensure respect for—
 
