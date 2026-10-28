@@ -32,6 +32,9 @@ class Line:
 def _norm(s: str) -> str:
     s = (s.replace(' ', ' ').replace('ﬁ', 'fi').replace('ﬂ', 'fl').replace('ﬀ', 'ff')
          .replace('ﬃ', 'ffi').replace('ﬄ', 'ffl'))
+    # typesetting glyphs: a dotless i in "offıcio" (ligature residue), and the line-break hyphens
+    s = s.replace('ı', 'i').replace('‐', '-').replace('‑', '-')
+    s = re.sub('­\\s*$', '-', s)
     return s
 
 
