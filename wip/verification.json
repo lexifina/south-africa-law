@@ -1,34 +1,24 @@
 {
- "check": {
-  "acts": 2,
-  "backwards": 0,
-  "future_dated": 0,
-  "merges": 0,
-  "mismatches": 0,
-  "missing_in_force": 0,
-  "trailer_errors": 0,
-  "versions": 28
- },
  "constitution": {
-  "differ": [],
+  "units": 253,
   "identical": 253,
-  "units": 253
+  "differ": []
  },
  "popia": {
+  "units": 115,
+  "identical": 114,
   "differ": [
    {
+    "unit": "section-112",
+    "ratio": 0.9987,
     "diffs": [
      [
       "insert",
       "",
       ";"
      ]
-    ],
-    "ratio": 0.9987,
-    "unit": "section-112"
+    ]
    }
-  ],
-  "identical": 114,
-  "units": 115
+  ]
  }
 }

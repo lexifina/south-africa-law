@@ -247,20 +247,35 @@ def relabel(u: dict) -> dict:
     """The GCIS pages often close a lettered list and open a new <ol> without a start number, so the browser (and the
     markup) restarts at (a). A list only restarts after an introduction ("—" or ":"); otherwise continue the letters."""
     lines = list(u['lines'])
-    last = None
+    last, roman = None, False
     for i, l in enumerate(lines):
-        m = re.match(r'^\(([a-z])\) ', l)
         prev = lines[i - 1] if i else ''
-        intro = prev.rstrip().endswith(('—', ':', '-')) or re.match(r'^\((?:\d+[A-Z]?)\)', prev) is not None
-        if m:
-            if m.group(1) == 'a' and not intro and last and last != 'h':
-                nxt = chr(ord(last) + 1)
-                lines[i] = f'({nxt}) ' + l[4:]
-                last = nxt
-            else:
-                last = m.group(1)
-        elif re.match(r'^\((\d+[A-Z]?)\) ', l):
-            last = None
+        intro = prev.rstrip().endswith(('—', ':', '-')) or re.fullmatch(r'\(\d+[A-Z]?\)', prev.strip()) is not None
+        if re.match(r'^\(\d+[A-Z]?\) ', l):
+            last, roman = None, False
+            continue
+        if re.match(r'^\((?:ii|iii|iv|vi|vii|viii|ix|xi|xii)\) ', l):
+            roman = True
+            continue
+        m = re.match(r'^\(([a-z])\) ', l)
+        if not m:
+            continue
+        lab = m.group(1)
+        expected = chr(ord(last) + 1) if last else 'a'
+        if intro and lab == 'i' and last is not None and expected != 'i':
+            roman = True                      # a sub-list of roman numerals
+            continue
+        if roman and lab != expected:
+            if lab in ('i', 'v', 'x'):
+                continue
+        roman = False
+        if intro and lab == 'a':
+            last = 'a'
+            continue
+        if lab != expected and last is not None:
+            lines[i] = f'({expected}) ' + l[4:]
+            lab = expected
+        last = lab
     return {**u, 'lines': lines}
 
 
