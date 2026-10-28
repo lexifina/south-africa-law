@@ -659,7 +659,8 @@ def observations(key: str, snaps: list, final: dict) -> list[tuple[str, set, dic
 LL = 'https://lawlibrary.org.za/akn/za/act/1996/constitution/eng@'
 LL_CAPTURES = {   # expression date -> pinned capture timestamp
     '1997-02-04': '20231130142540', '1998-10-07': '20231130145427', '1999-03-19': '20231130134237',
-    '2001-11-21': '20231128161214', '2002-06-20': '20231130133910',
+    '2001-11-21': '20231128161214', '2002-06-20': '20231130133910', '1998-10-30': '20231130132356',
+    '2005-12-23': '20241007173431', '2006-03-01': '20231128162310', '2007-12-14': '20231128165721',
 }
 
 
@@ -796,9 +797,10 @@ def history():
     for k in keys:
         evs = unit_events(k, orig, snaps, final)
         if k == 'schedule-06a':
-            evs.add('a18-2002')            # the 8th Amendment's Schedule 6A, renumbered 6B by the 10th
+            evs.update({'a18-2002', 'c14-2008'})   # 8th Amendment's 6A (renumbered 6B by the 10th); repealed by the 14th
         if k == 'schedule-06b':
-            evs.discard('a18-2002')        # ... so 6B as such starts on 20 March 2003
+            evs.discard('a18-2002')        # ... so 6B as such starts on 20 March 2003; repealed by the 15th
+            evs.add('c15-2008')
         match_evs = evs - {'a18-2002'} if k == 'schedule-06a' else evs
         ref = final.get(k)
         base = orig.get(k)
