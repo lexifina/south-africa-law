@@ -268,6 +268,12 @@ def history():
             elif k == 'section-011' and d == '2011-05-01' and nxt == '2014-05-01':
                 cand = drop_lines(fin_t, ['(ii) ', '(iii) '], within='(a) ')
                 how = 'Department of Justice consolidation without s. 11(1)(a)(ii) and (iii), which commence 1 May 2014'
+            elif k == 'section-001':
+                cand, missing = s1_state(d, fin_t, ll, tidy, s1_events)
+                how = ('Department of Justice consolidation, each definition changed later set back to its LawLibrary '
+                       'wording on this day' + (f'; not given: {", ".join(missing)}' if missing else ''))
+                if missing:
+                    gaps.append(f'section-001 from {d} to {nxt}: definitions {", ".join(missing)}')
             else:
                 o = next((od for od in obs_days if d <= od < nxt), None)
                 if o is not None and k in ll[o]:
@@ -413,3 +419,81 @@ def juta_typography(s: str) -> str:
                       r'|\(\w{1,4}\))'
                       r' (?=\(\w{1,4}\))', r'\1', rest)
     return head + rest
+
+
+# ------------------------------------------------------------------ s. 1, definition by definition
+
+TERM = re.compile(r'^[“"‘]+([^”"’]+)[”"’]+')
+
+
+def s1_definition_events() -> dict[str, list[tuple[str, str, str]]]:
+    """{term: [(action, law key, day)]} from the DoJ notes, each note read under the definition it follows."""
+    t = doj_text()
+    i = t.index('\n1  Definitions\n')
+    j = t.index('\n2  Interpretation', i)
+    out: dict[str, list] = collections.defaultdict(list)
+    cur = None
+    buf = ''
+    for line in t[i:j].split('\n'):
+        s = line.strip()
+        m = re.match(r"^'([^']+)'", s)
+        if m and not buf:
+            cur = m.group(1)
+        if s.startswith('[') or buf:
+            buf += ' ' + s
+            if s.endswith(']') or s.endswith('].'):
+                note = re.sub(r'\s+', ' ', buf).strip()
+                buf = ''
+                if note.startswith('[NB'):
+                    continue
+                mt = re.match(r"\[Definition of '([^']+)'", note)
+                term = mt.group(1) if mt else cur
+                for m2 in re.finditer(r'(inserted|substituted|amended|deleted|added)[^\[\]]*?by s\. [^()]*(?:\([^)]*\)\s*)*'
+                                      r'of Act (\d+) of (\d{4}) \(wef ([^)]+)\)', note):
+                    key = f'{m2.group(2)}/{m2.group(3)}'
+                    if key in AMENDING:
+                        for d in re.findall(r'\d{1,2} (?:' + '|'.join(MONTHS) + r') \d{4}', m2.group(4)):
+                            out[term].append((m2.group(1), AMENDING[key][0], iso(d)))
+    return out
+
+
+def definition_blocks(lines: list[str]) -> tuple[list[str], list[tuple[str, list[str]]]]:
+    head, blocks = [], []
+    for l in lines:
+        m = TERM.match(l)
+        if m:
+            blocks.append((m.group(1).strip().lower(), [l]))
+        elif blocks:
+            blocks[-1][1].append(l)
+        else:
+            head.append(l)
+    return head, blocks
+
+
+def s1_state(day: str, fin_t: dict, ll: dict, tidy, events: dict) -> tuple[dict, list[str]]:
+    """Section 1 as in force on `day`: today's definitions, with each definition changed after `day` set back to
+    its wording in the LawLibrary expression in force on `day`, left out if inserted later, or shown as not given."""
+    head, blocks = definition_blocks(fin_t['lines'])
+    ev = {t.lower(): v for t, v in events.items()}
+    obs = sorted(d for d in LL_CAPTURES if '2011-05-01' < d < '2024-12-27')
+    lines, missing = list(head), []
+    for term, blk in blocks:
+        later = [e for e in ev.get(term, []) if e[2] > day]
+        if not later:
+            lines += blk
+            continue
+        if any(a in ('inserted', 'added') for a, _, d in later) and not any(d <= day for _, _, d in ev.get(term, [])
+                                                                              if _ in ('inserted', 'added')):
+            continue                                   # inserted after `day`
+        first_later = min(d for _, _, d in later)
+        o = next((od for od in obs if day <= od < first_later), None)
+        got = None
+        if o is not None and 'section-001' in ll[o]:
+            _, lb = definition_blocks(tidy(ll[o]['section-001'])['lines'])
+            got = next((b for t2, b in lb if t2 == term), None)
+        if got is None:
+            lines.append(f'“{blk[0][1:].split("”")[0]}” {PLACEHOLDER}')
+            missing.append(term)
+        else:
+            lines += got
+    return {**fin_t, 'lines': lines}, missing
