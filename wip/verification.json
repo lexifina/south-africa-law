@@ -23,79 +23,8 @@
  },
  "companies-act": {
   "units": 230,
-  "identical": 212,
+  "identical": 228,
   "differ": [
-   {
-    "unit": "section-006",
-    "ratio": 0.9994,
-    "diffs": [
-     [
-      "insert",
-      "",
-      "("
-     ],
-     [
-      "insert",
-      "",
-      ")"
-     ]
-    ]
-   },
-   {
-    "unit": "section-049",
-    "ratio": 0.9987,
-    "diffs": [
-     [
-      "delete",
-      ",",
-      ""
-     ]
-    ]
-   },
-   {
-    "unit": "section-058",
-    "ratio": 0.9989,
-    "diffs": [
-     [
-      "replace",
-      ",",
-      "."
-     ]
-    ]
-   },
-   {
-    "unit": "section-064",
-    "ratio": 0.9996,
-    "diffs": [
-     [
-      "delete",
-      ",",
-      ""
-     ]
-    ]
-   },
-   {
-    "unit": "section-065",
-    "ratio": 0.9995,
-    "diffs": [
-     [
-      "insert",
-      "",
-      ","
-     ]
-    ]
-   },
-   {
-    "unit": "section-066",
-    "ratio": 0.9988,
-    "diffs": [
-     [
-      "replace",
-      ".",
-      ","
-     ]
-    ]
-   },
    {
     "unit": "section-096",
     "ratio": 0.9994,
@@ -108,76 +37,6 @@
     ]
    },
    {
-    "unit": "section-100",
-    "ratio": 0.9989,
-    "diffs": [
-     [
-      "insert",
-      "",
-      ","
-     ],
-     [
-      "delete",
-      ",",
-      ""
-     ]
-    ]
-   },
-   {
-    "unit": "section-102",
-    "ratio": 0.9963,
-    "diffs": [
-     [
-      "insert",
-      "",
-      ","
-     ],
-     [
-      "delete",
-      ",",
-      ""
-     ]
-    ]
-   },
-   {
-    "unit": "section-104",
-    "ratio": 0.9995,
-    "diffs": [
-     [
-      "delete",
-      ",",
-      ""
-     ]
-    ]
-   },
-   {
-    "unit": "section-109",
-    "ratio": 0.9975,
-    "diffs": [
-     [
-      "insert",
-      "",
-      ","
-     ]
-    ]
-   },
-   {
-    "unit": "section-115",
-    "ratio": 0.9992,
-    "diffs": [
-     [
-      "insert",
-      "",
-      ","
-     ],
-     [
-      "insert",
-      "",
-      ","
-     ]
-    ]
-   },
-   {
     "unit": "section-117",
     "ratio": 0.9978,
     "diffs": [
@@ -185,71 +44,6 @@
       "insert",
       "",
       "[ n ]"
-     ]
-    ]
-   },
-   {
-    "unit": "section-124",
-    "ratio": 0.9991,
-    "diffs": [
-     [
-      "replace",
-      ",",
-      ";"
-     ]
-    ]
-   },
-   {
-    "unit": "section-136",
-    "ratio": 0.9991,
-    "diffs": [
-     [
-      "insert",
-      "",
-      ","
-     ]
-    ]
-   },
-   {
-    "unit": "section-187",
-    "ratio": 0.9994,
-    "diffs": [
-     [
-      "delete",
-      ",",
-      ""
-     ]
-    ]
-   },
-   {
-    "unit": "section-203",
-    "ratio": 0.9959,
-    "diffs": [
-     [
-      "insert",
-      "",
-      ","
-     ],
-     [
-      "insert",
-      "",
-      ","
-     ],
-     [
-      "insert",
-      "",
-      ","
-     ]
-    ]
-   },
-   {
-    "unit": "section-215",
-    "ratio": 0.9984,
-    "diffs": [
-     [
-      "delete",
-      ")",
-      ""
      ]
     ]
    }
