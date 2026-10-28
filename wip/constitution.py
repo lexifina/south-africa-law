@@ -845,7 +845,15 @@ def history():
             else:
                 only_hrc = group == ['a65-1998'] and not any('a65-1998' in note_events(n) for _, _, us in snaps
                                                              if k in us for n in us[k]['notes'])
-                if (k, d) in PARTIAL:
+                if k == 'schedule-06' and d == '1997-02-04' and prev is not None:
+                    cand = splice_item(prev, '22', ll_schedule6('1997-02-04')['22'])
+                    how = 'item 22 from LawLibrary expression @1997-02-04; other items unchanged'
+                elif k == 'schedule-06' and d == '1998-10-07' and prev is not None:
+                    cand = splice_item(hrc(prev), '26', None)
+                    how = 'Act 65 of 1998 s. 4 applied; item 26 (s. 5 of that Act): no text source, placeholder'
+                    gaps.append('schedule-06 item 26 from 1998-10-07 (Second Amendment (1998)): no official text layer '
+                                'and no consolidation gives this wording; placeholder')
+                elif (k, d) in PARTIAL:
                     cand, how = ll[d][k], f'LawLibrary expression @{d} (Wayback {LL_CAPTURES[d]})'
                 elif only_hrc and prev is not None:
                     cand, how = hrc(prev), 'Act 65 of 1998 s. 4 applied: "South African Human Rights Commission"'
@@ -875,3 +883,67 @@ def history():
             prev = cand
         hist[k] = h
     return hist, gaps, raw
+
+
+def ll_schedule6(day: str) -> dict[str, list[str]]:
+    """Schedule 6 items wholly inside a (cut) LawLibrary capture: {item number: lines, heading first}."""
+    ts = LL_CAPTURES[day]
+    raw = fetch.wayback(ts, LL + day, offline=True)
+    root = htmlblocks.parse(raw.decode('utf-8', 'replace'))
+    stack, att = [root], None
+    while stack:
+        n = stack.pop()
+        if isinstance(n, str):
+            continue
+        if n.tag == 'div' and n.attrs.get('id') == 'att_6':
+            att = n
+            break
+        stack.extend(reversed(n.children))
+    if att is None:
+        return {}
+    items: dict[str, list[str]] = {}
+    stack = [att]
+    secs = []
+    while stack:
+        n = stack.pop()
+        if isinstance(n, str):
+            continue
+        if n.tag == 'section' and re.fullmatch(r'att_6__sec_\d+[A-Z]?', n.attrs.get('id', '')):
+            secs.append(n)
+            continue
+        stack.extend(reversed(n.children))
+    for n in secs[:-1]:                     # the last item may be cut
+        lines: list[str] = []
+        _akn_lines(n, lines, [])
+        m = re.match(r'^(\d+[A-Z]?)\.\s+(.*)$', lines[0]) if lines else None
+        if m:
+            items[m.group(1)] = [m.group(2)] + [re.sub(r'^(\([^)\s]{1,6}\))(?=[^\s(])', r'\1 ', l) for l in lines[1:]]
+    return items
+
+
+def schedule_items(lines: list[str]) -> dict[str, tuple[int, int]]:
+    """Where each item of a schedule's text starts and ends (its heading line included)."""
+    starts = []
+    for i, l in enumerate(lines):
+        m = re.match(r'^(\d+[A-Z]?)\.\s', l)
+        if m:
+            s = i - 1 if i and not re.match(r'^(\(|\d+[A-Z]?\.|“|•)', lines[i - 1]) else i
+            starts.append((m.group(1), s, i))
+    out = {}
+    for j, (num, s, _) in enumerate(starts):
+        e = starts[j + 1][1] if j + 1 < len(starts) else len(lines)
+        out[num] = (s, e)
+    return out
+
+
+def splice_item(u: dict, num: str, new: list[str] | None) -> dict:
+    """Replace one item of a schedule; new = [heading, 'N. first line', ...] or None for the placeholder."""
+    lines = list(u['lines'])
+    pos = schedule_items(lines)
+    s, e = pos[num]
+    if new is None:
+        head = lines[s] if s < pos[num][0] + 1 and not lines[s].startswith(f'{num}.') else None
+        new_lines = ([head] if head else []) + [f'{num}. {PLACEHOLDER}']
+    else:
+        new_lines = [new[0], f'{num}. {new[1]}' if len(new) > 1 else f'{num}.'] + new[2:]
+    return {**u, 'lines': lines[:s] + new_lines + lines[e:]}
