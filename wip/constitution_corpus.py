@@ -116,6 +116,9 @@ def build():
         'Constitution, gaps (placeholder "' + PLACEHOLDER + '"): ' + ' | '.join(gaps),
         'Constitution: typography follows the Department of Justice consolidation wherever a historical line has the '
         'same words, so diffs show changes of words.',
+        'Constitution: the 1999 and 2004-2012 GCIS web pages sometimes number lists differently from the DoJ '
+        'consolidation; restarted lettered lists are renumbered by code, but a few label differences remain and show as '
+        'changes inside amendment commits (s. 61(2)(b), s. 100, s. 168(3), s. 196).',
         'Constitution: the Citation of Constitutional Laws Act 5 of 2005 renamed the amendment Acts; it changed no '
         'words of the Constitution\'s provisions and has no commit.',
         'Constitution, provenance of every amended version: ' + ' | '.join(provenance),
