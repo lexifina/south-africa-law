@@ -213,6 +213,7 @@ def history():
     ll = {d: ll_units(d) for d in LL_CAPTURES}
     doj = doj_sections()
     final = doj_units()
+    s1_events = s1_definition_events()
     keys = sorted(set(gaz) | set(final))
     hist: dict[str, list] = {}
     gaps: list[str] = []
