@@ -103,7 +103,7 @@ def main() -> None:
                 ours = words(text)
                 res.append(compare(k, ours, ref.get(n, [])))
         elif act['slug'] == 'constitution':
-            import constitution
+            import constitution_corpus as constitution
             res = constitution.verify(units, words, compare)
         else:
             continue

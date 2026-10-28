@@ -228,7 +228,7 @@ def build_popia() -> tuple[dict, dict, list[str], list[dict]]:
 def main() -> None:
     acts, laws, decisions, sources = [], {}, [], []
     try:
-        import constitution
+        import constitution_corpus as constitution
         a, l, d, s = constitution.build()
         acts.append(a); laws.update(l); decisions += d; sources += s
     except ImportError:
