@@ -287,6 +287,7 @@ def _join_wrapped(parts: list[str], hyphenated: set[str]) -> str:
         if not s:
             s = p
             continue
+        s = re.sub(r'­\s*$', '-', s)          # a soft hyphen at the end of a line is a line-break hyphen
         m = re.search(r'(\w+)-$', s)
         if m and re.match(r'[a-z]', p):
             nxt = re.match(r'[\w’\']+', p).group()
@@ -357,7 +358,16 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
             units[key] = cur
             in_schedule = key
             continue
-        if font.startswith('Impact') or (font == 'MyriadPro-Bold' and size == 8.3):
+        if t.startswith('Please note: the figures after the entries') or t.startswith('INDEX'):
+            close_para()
+            break                         # the index after Schedule 7 is not part of the Constitution
+        if t.startswith('[General Note'):
+            close_para()
+            note = [t]
+            if t.rstrip().endswith(']'):
+                close_note()
+            continue
+        if font.startswith('Impact') or (font == 'MyriadPro-Bold' and size in (8.3, 8.0)):
             close_para()
             if t.startswith('CHAPTER'):
                 cur = None
