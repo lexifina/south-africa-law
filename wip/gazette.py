@@ -138,7 +138,7 @@ def paragraphs(ls: list[Line], right: float = 440) -> list[tuple[str, Line]]:
             new = True
         elif cur is not None and cur.cont is not None and l.x0 < cur.cont - 10 and l.page == prev.page:
             new = True   # back out to an outer level after a hanging-indent item
-        elif l.bold and (SECTION.match(t) or not prev.bold):
+        elif l.bold and (SECTION.match(t) or not prev.bold) and not (t[:1].islower() and not prev.text.rstrip().endswith((".", ":", ";"))):
             new = True
         elif l.bold and prev.bold and (prev.x1 < right - 40 or abs(l.x0 - prev.x0) > 15):
             new = True
