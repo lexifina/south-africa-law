@@ -470,6 +470,7 @@ def original() -> dict[str, dict]:
         r = min(rows, key=lambda r: r[0])
         doc = decode(fetch.wayback(r[0], r[1], offline=True))
         for k, u in units_of_page(doc, part, False).items():
+            u = relabel(u)
             u['source'] = f'https://web.archive.org/web/{r[0]}/{r[1]}'
             u['captured'] = r[0]
             out[k] = u
@@ -489,7 +490,8 @@ def snapshots() -> list[tuple[str, str, dict[str, dict]]]:
                 doc = decode(fetch.wayback(r[0], r[1], offline=True))
             except FileNotFoundError:
                 continue
-            out.append((r[0], f'https://web.archive.org/web/{r[0]}/{r[1]}', units_of_page(doc, part, False)))
+            out.append((r[0], f'https://web.archive.org/web/{r[0]}/{r[1]}',
+                        {k: relabel(u) for k, u in units_of_page(doc, part, False).items()}))
     return out
 
 
