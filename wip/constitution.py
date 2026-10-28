@@ -305,6 +305,10 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
     raw = fetch.fetch(JUSTICE_PDF, offline=True)
     ls = _pdf_lines(raw)
     start = next(i for i, l in enumerate(ls) if l['text'].startswith('We, the people of South Africa') and l['page'] > 3)
+    right: dict[int, float] = {}       # the right edge of the text block on each page (margins alternate)
+    for l in ls:
+        if l['size'] == 7.5 and 'Cond' in l['font']:
+            right[l['page']] = max(right.get(l['page'], 0), l['x1'])
     units: dict[str, dict] = {}
     cur = None
     pending = None
@@ -370,7 +374,7 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
             pending = norm(t)
             continue
         if cur is not None and cur['label'] == 'Preamble' and font.startswith('MyriadPro-CondIt'):
-            if para and prev[0] is not None and prev[0] >= 228:
+            if para and prev[0] is not None and prev[0] >= right.get(prev[1], 270) - 22:
                 para.append(t)
             else:
                 close_para()
@@ -386,6 +390,7 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
             units[key] = cur
             pending = None
             rest = t[m.end():].strip()
+            prev[0], prev[1], prev[2] = l["x1"], l["page"], False
             if rest:
                 para = [rest]
             continue
@@ -395,7 +400,7 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
             pending = None
         if cur is None:
             continue
-        short = prev[0] is not None and prev[0] < 228
+        short = prev[0] is not None and prev[0] < right.get(prev[1], 270) - 22
         bold = 'Bold' in font
         if PDF_LABEL.match(t) or (in_schedule and re.match(r'^\d+[A-Z]?\.\s', t)) or t.startswith(('–', '•', '“', '"')) \
                 or (short and not t[:1].islower()) or (bold and not prev[2]) or para is None:
@@ -577,3 +582,56 @@ def eighteenth(units: dict) -> dict:
             continue
         new.append(line)
     return {**u, 'lines': new}
+
+
+COMMENCE_1998 = ['213', '214', '215', '216', '218', '226', '227', '228', '229', '230']   # s. 243(5)
+SEVENTH_LATE = {'section-163', 'section-229'}       # ss. 4 and 7 of Act 61 of 2001: in force 1 December 2003
+
+
+def skey(num: str) -> str:
+    return 'section-' + f'{int(re.match(r"\d+", num).group()):03d}' + (f'-{num[-1].lower()}' if num[-1].isalpha() else '')
+
+
+def event_date(ev: str, unit: str) -> str:
+    if ev == 'a61-2001' and unit in SEVENTH_LATE:
+        return '2003-12-01'
+    return AMENDMENTS[ev][5]
+
+
+def gather():
+    orig = original()
+    snaps = snapshots()
+    vocab = hyphen_vocab(orig, *[u for _, _, u in snaps])
+    final, raw = justice_units(vocab)
+    final = {k: u for k, u in final.items() if u['lines']}
+    return orig, snaps, final, raw
+
+
+def unit_events(key: str, orig: dict, snaps: list, final: dict) -> set[str]:
+    evs = set()
+    for _, _, units in snaps:
+        if key in units:
+            for n in units[key]['notes']:
+                evs.update(note_events(n))
+    if key in final:
+        for n in final[key]['notes']:
+            evs.update(note_events(n))
+    if key in orig and any(re.search(r'(?<!South African )Human Rights Commission', l) for l in orig[key]['lines'] + [orig[key]['heading']]):
+        evs.add('a65-1998')            # s. 4 of Act 65 of 1998: "South African Human Rights Commission" wherever it occurs
+    if key == 'section-006':
+        evs.add('a3-2023')
+    return evs
+
+
+def observations(key: str, snaps: list, final: dict) -> list[tuple[str, set, dict, str]]:
+    """(day, events named in its notes, unit, source url) for every capture of the unit, oldest first."""
+    out = []
+    for ts, url, units in snaps:
+        if key in units and units[key]['lines']:
+            u = units[key]
+            evs = set()
+            for n in u['notes']:
+                evs.update(note_events(n))
+            out.append((f'{ts[:4]}-{ts[4:6]}-{ts[6:8]}', evs, u, url))
+    out.sort(key=lambda x: x[0])
+    return out
