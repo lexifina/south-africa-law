@@ -81,4 +81,8 @@ The legal texts themselves: Copyright Act 98 of 1978, s. 12(8)(a): "No copyright
 
 ## Licence
 
-See `LICENSE`.
+- **The law itself.** Copyright Act 98 of 1978, s. 12(8)(a): "No copyright shall subsist in official texts of a legislative, administrative or legal nature". The words of the Acts in this repository are free of copyright.
+- **justice.gov.za** (Department of Justice and Constitutional Development) terms: users "may view, copy, download to a local drive, print and distribute the content of this website, or any part thereof only for non-commercial informational or reference purposes"; commercial use needs written permission (webmaster@justice.gov.za); notice "©Department of Justice and Constitutional Development: ALL RIGHTS RESERVED".
+- **gov.za** (GCIS) terms: the same wording; permission from electronic@gcis.gov.za; notice "© GCIS2018: ALL RIGHTS RESERVED". This covers gov.za and info.gov.za pages read through the Internet Archive.
+- **LawLibrary** (lawlibrary.org.za, Laws.Africa and AfricanLII): CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/). Attribution: LawLibrary (lawlibrary.org.za). Used only through pinned Internet Archive captures, only where no government source gives a wording; every use is listed in `REPRODUCE.md`.
+- Lexifina's own contributions (the arrangement of the history, commit messages, tables and tools) are dedicated to the public domain under CC0 1.0. Full text in `LICENSE`.
