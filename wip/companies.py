@@ -449,12 +449,16 @@ def s1_definition_events() -> dict[str, list[tuple[str, str, str]]]:
                     continue
                 mt = re.match(r"\[Definition of '([^']+)'", note)
                 term = mt.group(1) if mt else cur
-                for m2 in re.finditer(r'(inserted|substituted|amended|deleted|added)[^\[\]]*?by s\. [^()]*(?:\([^)]*\)\s*)*'
-                                      r'of Act (\d+) of (\d{4}) \(wef ([^)]+)\)', note):
+                action = 'amended'
+                for m2 in re.finditer(r'(inserted|substituted|amended|deleted|added)|Act (\d+) of (\d{4}) \(wef ([^)]+)\)',
+                                      note):
+                    if m2.group(1):
+                        action = m2.group(1)
+                        continue
                     key = f'{m2.group(2)}/{m2.group(3)}'
                     if key in AMENDING:
                         for d in re.findall(r'\d{1,2} (?:' + '|'.join(MONTHS) + r') \d{4}', m2.group(4)):
-                            out[term].append((m2.group(1), AMENDING[key][0], iso(d)))
+                            out[term].append((action, AMENDING[key][0], iso(d)))
     return out
 
 
