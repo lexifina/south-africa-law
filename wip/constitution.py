@@ -311,6 +311,7 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
     para: list[str] | None = None
     note: list[str] | None = None
     in_schedule = None
+    prev = [None, None, False]     # x1 and page of the last body line, and whether it was bold
 
     def close_para():
         nonlocal para
@@ -342,14 +343,8 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
                 close_note()
             continue
         close_note()
-        if font.startswith('Impact') or (font == 'MyriadPro-Bold' and size == 8.3):
-            close_para()
-            cur = None if cur is None or cur['label'] != 'Preamble' or t.startswith('CHAPTER') else cur
-            if t.startswith('CHAPTER'):
-                cur = None
-            continue
         m = re.match(r'^SCHEDULE (\d+[A-Z]?)\b', t)
-        if m and 'Bold' in font:
+        if m and ('Bold' in font or font.startswith('Impact')):
             close_para()
             key = 'schedule-' + (m.group(1).zfill(2) if m.group(1).isdigit() else m.group(1)[:-1].zfill(2) + m.group(1)[-1].lower())
             part = 'sch' + m.group(1).lower()
@@ -358,6 +353,12 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
             units[key] = cur
             in_schedule = key
             continue
+        if font.startswith('Impact') or (font == 'MyriadPro-Bold' and size == 8.3):
+            close_para()
+            if t.startswith('CHAPTER'):
+                cur = None
+                in_schedule = None
+            continue                      # chapter numbers and titles; schedule titles
         if in_schedule and font == 'MyriadPro-BoldCond' and size == 7.0 and not cur['lines']:
             continue                      # the schedule's title under "SCHEDULE N"
         if 'Semibold' in font or ('BoldCond' in font and size >= 7.9):
@@ -369,8 +370,11 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
             pending = norm(t)
             continue
         if cur is not None and cur['label'] == 'Preamble' and font.startswith('MyriadPro-CondIt'):
-            close_para()
-            para = [t]
+            if para and not re.search(r'[.;,—:]$', para[-1]):
+                para.append(t)
+            else:
+                close_para()
+                para = [t]
             continue
         m = PDF_SEC.match(t)
         if m and pending is not None and not in_schedule:
@@ -390,13 +394,15 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
             pending = None
         if cur is None:
             continue
-        if PDF_LABEL.match(t) or (in_schedule and re.match(r'^\d+[A-Z]?\.\s', t)) or t.startswith('–'):
+        short = prev[0] is not None and prev[0] < 228 and prev[1] == l['page']
+        bold = 'Bold' in font
+        if PDF_LABEL.match(t) or (in_schedule and re.match(r'^\d+[A-Z]?\.\s', t)) or t.startswith('–') \
+                or (short and not t[:1].islower()) or (bold and not prev[2]) or para is None:
             close_para()
-            para = [t]
-        elif para is None:
             para = [t]
         else:
             para.append(t)
+        prev[0], prev[1], prev[2] = l['x1'], l['page'], bold
     close_para()
     close_note()
     return units, raw
