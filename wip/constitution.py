@@ -347,6 +347,11 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
             if t.rstrip().endswith(']') or t.rstrip().endswith('].'):
                 close_note()
             continue
+        if note and note[0].startswith('[General Note'):
+            note.append(t)
+            if ']' in t:
+                close_note()
+            continue
         close_note()
         m = re.match(r'^SCHEDULE (\d+[A-Z]?)\b', t)
         if m and ('Bold' in font or font.startswith('Impact')):
@@ -358,7 +363,7 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
             units[key] = cur
             in_schedule = key
             continue
-        if t.startswith('Please note: the figures after the entries') or t.startswith('INDEX'):
+        if re.match(r'^Please note\W+the figures after the entries', t) or t.startswith('INDEX'):
             close_para()
             break                         # the index after Schedule 7 is not part of the Constitution
         if t.startswith('[General Note'):
@@ -412,7 +417,7 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
             continue
         short = prev[0] is not None and prev[0] < right.get(prev[1], 270) - 22
         bold = 'Bold' in font
-        if PDF_LABEL.match(t) or (in_schedule and re.match(r'^\d+[A-Z]?\.\s', t)) or t.startswith(('–', '•', '“', '"')) \
+        if PDF_LABEL.match(t) or (in_schedule and re.match(r'^\d+[A-Z]?\.\s', t)) or t.startswith(('–', '•', '“', '"', 'Act No. ')) \
                 or (short and not t[:1].islower()) or (bold and not prev[2]) or para is None:
             close_para()
             para = [t]
