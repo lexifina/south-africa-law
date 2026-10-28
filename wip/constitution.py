@@ -600,7 +600,7 @@ def eighteenth(units: dict) -> dict:
 
 
 COMMENCE_1998 = ['213', '214', '215', '216', '218', '226', '227', '228', '229', '230']   # s. 243(5)
-SEVENTH_LATE = {'section-163', 'section-229'}       # ss. 4 and 7 of Act 61 of 2001: in force 1 December 2003
+SEVENTH_LATE = {'section-163', 'section-221'}       # ss. 4 and 7 of Act 61 of 2001 (notes): in force 1 December 2003
 
 
 def skey(num: str) -> str:
@@ -782,3 +782,91 @@ def hrc(u: dict) -> dict:
 
 def placeholder(u: dict) -> dict:
     return {**u, 'lines': [PLACEHOLDER], 'notes': []}
+
+
+def history():
+    """{key: [(day, unit or None, [event keys], how)]} and a list of gap notes."""
+    orig, snaps, final, raw = gather()
+    final = {k: _fix_label_space(u) for k, u in final.items()}
+    ll = {d: {k: _fix_label_space(u) for k, u in lawlibrary(d).items()} for d in LL_CAPTURES}
+    final18 = eighteenth(final)
+    keys = sorted(set(orig) | set(final) | {k for _, _, us in snaps for k in us})
+    hist: dict[str, list] = {}
+    gaps: list[str] = []
+    for k in keys:
+        evs = unit_events(k, orig, snaps, final)
+        if k == 'schedule-06a':
+            evs.add('a18-2002')            # the 8th Amendment's Schedule 6A, renumbered 6B by the 10th
+        if k == 'schedule-06b':
+            evs.discard('a18-2002')        # ... so 6B as such starts on 20 March 2003
+        match_evs = evs - {'a18-2002'} if k == 'schedule-06a' else evs
+        ref = final.get(k)
+        base = orig.get(k)
+        start = '1997-02-04'
+        num = k.split('-')[1] if k.startswith('section-') else None
+        if num and str(int(num)) in COMMENCE_1998 and len(k.split('-')) == 2:
+            start = '1998-01-01'
+        h = []
+        if base is not None:
+            b = harmonise(_fix_label_space(base), ref) if not evs else harmonise(_fix_label_space(base), ref)
+            if not evs and ref is not None:
+                b = ref                     # never amended: the official consolidation's typography throughout
+            if k == 'section-160':
+                lines = list(b['lines'])
+                i = next(j for j, l in enumerate(lines) if l.startswith('(b) must elect its chairperson'))
+                h.append((start, {**b, 'lines': lines[:i] + lines[i + 1:]}, [], 'original, without s. 160(1)(b)'))
+                h.append(('1997-06-30', b, ['proc-r6-1997'], 's. 160(1)(b) commences'))
+            else:
+                h.append((start, b, [], 'original'))
+        if not evs:
+            if base is None and ref is not None:
+                gaps.append(f'{k}: in the consolidation but not in the 1996 text, and no amendment note names a law')
+                h.append(('1997-02-04', ref, [], 'consolidation'))
+            hist[k] = h
+            continue
+        dates = sorted({event_date(e, k) for e in evs})
+        prev = h[-1][1] if h else None
+        for idx, d in enumerate(dates):
+            group = sorted(e for e in evs if event_date(e, k) == d)
+            S = {e for e in match_evs if event_date(e, k) <= d}
+            nxt = dates[idx + 1] if idx + 1 < len(dates) else None
+            how = ''
+            cand = None
+            if nxt is None:
+                if k == 'section-006' and d == '2026-06-26':
+                    cand, how = final18, 'Eighteenth Amendment Act text applied to the consolidation'
+                elif ref is not None:
+                    cand, how = ref, 'Department of Justice consolidation'
+                else:
+                    cand, how = None, 'repealed'
+            else:
+                only_hrc = group == ['a65-1998'] and not any('a65-1998' in note_events(n) for _, _, us in snaps
+                                                             if k in us for n in us[k]['notes'])
+                if only_hrc and prev is not None:
+                    cand, how = hrc(prev), 'Act 65 of 1998 s. 4 applied: "South African Human Rights Commission"'
+                else:
+                    for day, oevs, u, url in observations(k, snaps, final):
+                        if (oevs & match_evs) == S and (nxt is None or day < nxt):
+                            cand, how = u, f'GCIS consolidation captured {day}'
+                            break
+                    if cand is None and d in ll and k in ll[d]:
+                        cand, how = ll[d][k], f'LawLibrary expression @{d} (Wayback {LL_CAPTURES[d]})'
+                    if cand is None:
+                        for day, oevs, u, url in observations(k, snaps, final):
+                            if d <= day < (nxt or '9999') and not (oevs & match_evs - S) and not oevs:
+                                cand, how = u, f'GCIS consolidation captured {day} (no note)'
+                                break
+                if cand is None:
+                    template = prev or ref or {'label': k, 'num': k, 'heading': k, 'lines': [], 'notes': []}
+                    if k == 'schedule-06a':
+                        template = {'label': 'Schedule 6A', 'num': 'Schedule 6A', 'heading': 'Schedule 6A',
+                                    'lines': [], 'notes': []}
+                    cand, how = placeholder(template), 'no text source'
+                    gaps.append(f'{k} from {d} ({", ".join(AMENDMENTS[e][0] for e in group)}): no official text '
+                                f'layer and no consolidation gives this wording; placeholder')
+                else:
+                    cand = harmonise(cand, ref)
+            h.append((d, cand, group, how))
+            prev = cand
+        hist[k] = h
+    return hist, gaps, raw
