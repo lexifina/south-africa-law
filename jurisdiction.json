@@ -1,0 +1,10 @@
+{
+  "path": "za",
+  "code": "ZA",
+  "name": "South Africa",
+  "level": "country",
+  "repo": "https://github.com/lexifina/south-africa-law",
+  "build": "preview: Constitution 1996 (21 versions), POPIA (7 versions); awaiting PUBLISH (see ISSUES.md)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
