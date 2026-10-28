@@ -258,3 +258,75 @@ def drop_lines(u: dict, prefixes: list[str], within: str) -> dict:
             continue
         out.append(l)
     return {**u, 'lines': out}
+
+
+# ------------------------------------------------------------------ the DoJ consolidation as text (today's words)
+
+DOJ_LABEL = re.compile(r'^\s+\((\d+[A-Z]*|[a-zA-Z]{1,4}|[ivxl]+)\)\s+')
+
+
+def doj_units() -> dict[str, dict]:
+    t = doj_text()
+    t = re.sub(r'\n +\d+ +[^\n]*\n(?:[^\n]*\(Proc[^\n]*\)\n)?', '\n', t)       # Juta footnotes
+    body = t[t.index('CHAPTER 1\nINTERPRETATION, PURPOSE AND APPLICATION (ss'):]
+    units: dict[str, dict] = {}
+    cur = None
+    para: list[str] | None = None
+    in_note = False
+    last = 0
+    pending_sched = None
+
+    def close():
+        nonlocal para
+        if para and cur is not None:
+            cur['lines'].append(K.norm(' '.join(p.strip() for p in para)))
+        para = None
+
+    for raw_line in body.split('\n'):
+        line = raw_line.rstrip()
+        s = line.strip()
+        if not s or re.fullmatch(r'\d+', s):
+            continue
+        if in_note or s.startswith('['):
+            close()
+            in_note = not s.endswith(']') and not s.endswith('].')
+            if cur is not None and s.startswith('['):
+                cur['notes'].append(s)
+            continue
+        m = re.match(r'^(\d+[A-Z]*)  (\S.*)$', line)
+        if m and int(re.match(r'\d+', m.group(1)).group()) in (last, last + 1, last + 2, last + 3) and pending_sched is None:
+            close()
+            last = int(re.match(r'\d+', m.group(1)).group())
+            cur = {'label': f's. {m.group(1)}', 'num': m.group(1), 'heading': K.norm(m.group(2)), 'lines': [], 'notes': []}
+            units[skey(m.group(1))] = cur
+            continue
+        m = re.match(r'^Schedule (\d+)$', s)
+        if m:
+            close()
+            pending_sched = m.group(1)
+            cur = {'label': f'Schedule {m.group(1)}', 'num': f'Schedule {m.group(1)}', 'heading': f'Schedule {m.group(1)}',
+                   'lines': [], 'notes': []}
+            units['schedule-' + m.group(1).zfill(2)] = cur
+            continue
+        if pending_sched is not None and cur is not None and cur['heading'] == f'Schedule {pending_sched}' and not cur['lines'] and para is None:
+            cur['heading'] = f'Schedule {pending_sched}: {K.norm(s).capitalize()}'
+            continue
+        if re.match(r'^(CHAPTER \d+|Part [A-Z]+)\s*$', s) or re.search(r'\((?:ss|items?) [\d\w]+-[\d\w]+\)\s*$', s):
+            close()
+            continue
+        if cur is None:
+            continue
+        prev_end = para[-1].rstrip() if para else ''
+        new = (para is None or DOJ_LABEL.match(line)
+               or (re.match(r'^\((\d+[A-Z]*|[a-z]{1,3})\)\s', s) and re.search(r'([.;:\-—]|\bor|\band)$', prev_end))
+               or (s.startswith("'") and re.search(r'([.;:\-—]|\bor|\band)$', prev_end))
+               or (re.match(r'^\d+[A-Z]*\s{2,}\S', line) and pending_sched is not None))
+        if new:
+            close()
+            para = [s]
+        else:
+            para.append(s)
+    close()
+    for u in units.values():
+        u['lines'] = [re.sub(r"(^|[\s(])'([^']+)'", r'\1“\2”', l) if l.startswith("'") else l for l in u['lines']]
+    return units
