@@ -10,6 +10,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | --- | --- | ---: | --- |
 | `constitution/` | Constitution of the Republic of South Africa, 1996 | 21 | From its commencement (4 February 1997) through all 18 amendment Acts to the Eighteenth Amendment (South African Sign Language, in force 26 June 2026) |
 | `popia/` | Protection of Personal Information Act 4 of 2013 | 7 | Each staged commencement: 11 April 2014, 1 July 2020, 30 June 2021, and the deferred application of s. 58(2) from 1 February 2022 |
+| `companies-act/` | Companies Act 71 of 2008 | 9 | From its commencement (1 May 2011) through Act 3 of 2011, the Financial Markets Act 19 of 2012, Act 22 of 2022, Act 23 of 2021 and Acts 16 and 17 of 2024 (27 December 2024) |
 
 ## A lawyer's questions as git commands
 
@@ -24,6 +25,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | Everything one amendment changed | `git show law/c17-2012` (tags `law/<key>` mark each law's commit) |
 | The whole Constitution on a date | `python tools/on.py 2004-01-01 constitution` |
 | Which POPIA sections were in force on 1 January 2018? | `python tools/on.py 2018-01-01 popia` |
+| What did s. 1 of the Companies Act define on 1 January 2020? | `python tools/on.py 2020-01-01 companies-act section-001` |
 | Laws passed but not yet in force | `git log main..future` |
 
 After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
@@ -42,7 +44,7 @@ After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch kee
 
 - Every version of every act is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`. Results are in `REPRODUCE.md`.
 - Health checks: no merge commits on `main`, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse.
-- **Today's text against the official consolidation** (`tools/verify.py`, 28 October 2026): all 253 provisions of the Constitution match, word for word, the Department of Justice consolidation (up to the 17th Amendment) with the 18th Amendment applied from its gazette text. 114 of POPIA's 115 sections match the Department of Justice consolidation word for word; in s. 112(2)(f) the gazette text has no semicolon after "section 69(2)" and the consolidation adds one. We keep the gazette.
+- **Today's text against the official consolidation** (`tools/verify.py`, 28 October 2026): all 253 provisions of the Constitution match, word for word, the Department of Justice consolidation (up to the 17th Amendment) with the 18th Amendment applied from its gazette text. 114 of POPIA's 115 sections match the Department of Justice consolidation word for word; in s. 112(2)(f) the gazette text has no semicolon after "section 69(2)" and the consolidation adds one. We keep the gazette. 228 of the Companies Act's 230 sections and schedules match the Department of Justice consolidation word for word; in the two others the consolidation corrects the gazette without any amendment (s. 96(1)(c)(ii) drops an "or"; s. 117(1)(j)(ii) reads "a[n]"), and we keep the gazette.
 - The repository is rebuilt from the same data a second time and must give identical hashes.
 
 ## What "author" means
@@ -58,7 +60,9 @@ The author of a commit is the law that made the change, with an e-mail address t
 - **Wording no clean source gives.** The amendment Acts of 1997 to 2008 survive only as scanned gazettes, and this record uses no OCR. Where neither a government consolidation nor a LawLibrary point-in-time text (read from the Internet Archive) gives the wording in force for a period, the provision reads "[The source does not give the text in force on this date.]" for that period: Schedule 6 item 26 from 7 October 1998 to 21 November 2001, and the Eighth Amendment's Schedule 6A from 20 June 2002 to 20 March 2003. The commits still name the amending law and its date.
 - **Typography of old versions.** Historical versions come from GCIS web pages and LawLibrary; wherever a line has the same words as today's official consolidation, its typography is used, so diffs show changes of words, but older lines that no longer exist keep their source's punctuation.
 - **Section and Chapter headings, parts and Chapter titles** are not separate files. Each Schedule is one file.
-- **Other acts.** The Companies Act 71 of 2008 is the next act planned.
+- **Companies Act gaps.** No source gives the wording between 1 May 2011 and 3 June 2013 of ss. 5, 69 and 116 or of six definitions in s. 1 that the Financial Markets Act replaced (LawLibrary has no complete capture for that period); they read "[The source does not give the text in force on this date.]" for that period. Provisions of Act 16 of 2024 that are not yet in operation are not shown.
+- **Companies Act sources.** The Act as enacted is the gazette; today's words are the Department of Justice consolidation; wordings between amendments are LawLibrary's point-in-time texts (Internet Archive), whose text of this Act was made by OCR, so a line that differs from the official text only by a known misreading takes the official line.
+- **Other acts.** The Criminal Procedure Act 51 of 1977 is the next act planned.
 - **Court orders.** Declarations of invalidity by the Constitutional Court are not commits unless an amendment Act changed the words.
 
 ## How it is built
