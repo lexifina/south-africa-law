@@ -227,14 +227,15 @@ def build_popia() -> tuple[dict, dict, list[str], list[dict]]:
 
 def main() -> None:
     acts, laws, decisions, sources = [], {}, [], []
-    try:
-        import constitution_corpus as constitution
-        a, l, d, s = constitution.build()
+    import companies_corpus
+    import constitution_corpus
+    only = sys.argv[sys.argv.index('--acts') + 1].split(',') if '--acts' in sys.argv else None
+    for slug, builder in [('constitution', constitution_corpus.build), ('popia', build_popia),
+                          ('companies-act', companies_corpus.build)]:
+        if only and slug not in only:
+            continue
+        a, l, d, s = builder()
         acts.append(a); laws.update(l); decisions += d; sources += s
-    except ImportError:
-        pass
-    a, l, d, s = build_popia()
-    acts.append(a); laws.update(l); decisions += d; sources += s
     corpus = {
         'country': {
             'code': 'ZA', 'name': 'South Africa', 'slug': 'south-africa', 'lang': 'en', 'tz': 'Africa/Johannesburg',

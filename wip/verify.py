@@ -105,6 +105,9 @@ def main() -> None:
         elif act['slug'] == 'constitution':
             import constitution_corpus as constitution
             res = constitution.verify(units, words, compare)
+        elif act['slug'] == 'companies-act':
+            import companies_corpus
+            res = companies_corpus.verify(units, words, compare)
         else:
             continue
         bad = [r for r in res if r['diffs']]
