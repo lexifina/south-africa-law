@@ -113,7 +113,7 @@ def join(parts: list[str]) -> str:
             s = p
         elif s.endswith('-') and not s.endswith(' -') and re.match(r'[a-z]', p) and not s.endswith('—'):
             # a hyphen at the end of a line: the typesetter's break, unless the word is a real compound
-            s = s[:-1] + p if not re.search(r'(non|co|self|well|re|de|sub|pre|cross|e|semi|anti)-$', s) else s + p
+            s = s[:-1] + p if not re.search(r"b(non|co|self|well|re|de|sub|pre|cross|e|semi|anti)-$", s) else s + p
         else:
             s = s + ' ' + p
     return re.sub(r'\s+', ' ', s).strip()
