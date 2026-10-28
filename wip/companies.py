@@ -381,5 +381,21 @@ def doj_units() -> dict[str, dict]:
             para.append(s)
     close()
     for u in units.values():
-        u['lines'] = [re.sub(r"(^|[\s(])'([^']+)'", r'\1“\2”', l) if l.startswith("'") else l for l in u['lines']]
+        u['lines'] = [juta_typography(l) for l in u['lines']
+                      if not re.search(r'\((?:ss?|items?) \d+[A-Z]*(?:-\d+[A-Z]*)?\)$', l)]   # Part titles
+        u['heading'] = juta_typography(u['heading'])
     return units
+
+
+def juta_typography(s: str) -> str:
+    """The consolidation's house style, set to the gazette's: quotes, closing dashes, "section 118(3)"."""
+    s = re.sub(r"(^|[\s(])'([A-Za-z0-9][^']{0,120}?)'(?=[\s,;:.)\-]|$)", r'\1“\2”', s)
+    s = s.replace("'", '’')
+    s = re.sub(r'\s*-$', '—', s)
+    m = re.match(r'^(?:\(\w{1,4}\) )+', s)            # the labels that open the line keep their spaces
+    head, rest = (s[:m.end()], s[m.end():]) if m else ('', s)
+    for _ in range(3):
+        rest = re.sub(r'(\b(?:section|sections|subsection|subsections|item|items|regulation|paragraph)\s+\d+[A-Z]*'
+                      r'|\(\w{1,4}\))'
+                      r' (?=\(\w{1,4}\))', r'\1', rest)
+    return head + rest
