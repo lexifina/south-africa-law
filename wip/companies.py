@@ -184,6 +184,19 @@ def doj_sections() -> dict[str, dict]:
 
 # ------------------------------------------------------------------ history
 
+def tkey(line: str) -> str:
+    """Two lines are the same if they differ only in quotes, dashes, spaces and "Act No." house style."""
+    s = line.replace('Act No. ', 'Act ')
+    s = re.sub(r'[“”"‘’\']', '"', s)
+    s = re.sub(r'[—–-]', '-', s)
+    return re.sub(r'\s+', '', s).lower()
+
+
+def ll_typography(s: str) -> str:
+    s = re.sub(r'"([^"]+)"', r'“\1”', s)
+    return s.replace("'", '’')
+
+
 OCR_PAIRS = {('live', 'five'), ('line', 'fine'), ('held', 'field'), ('fillfil', 'fulfil'), ('notice', 'notices')}
 
 
@@ -212,19 +225,19 @@ def history():
         refs = {}
         for src in ([base] if base else []) + ([fin] if fin else []):
             for l in src['lines']:
-                refs.setdefault(K.wkey(l), l)
+                refs.setdefault(tkey(l), l)
 
         def tidy(u):
             if u is None:
                 return None
             lines = []
             for l in u['lines']:
-                w = K.wkey(l)
-                if w in refs:
-                    lines.append(refs[w])
+                if tkey(l) in refs:
+                    lines.append(refs[tkey(l)])
                     continue
-                near = next((r for rw, r in refs.items() if _near(w, rw)), None)
-                lines.append(near or l)
+                w = K.wkey(l)
+                near = next((r for r in refs.values() if _near(w, K.wkey(r))), None)
+                lines.append(near or ll_typography(l))
             head = u['heading']
             for src in (base, fin):
                 if src is not None and K.wkey(src['heading']) == K.wkey(head):
@@ -234,8 +247,8 @@ def history():
         fin_t = None
         if fin is not None:
             # today's words (DoJ), with the gazette's typography for lines whose words did not change
-            gl = {K.wkey(l): l for l in (base['lines'] if base else [])}
-            fin_t = {**fin, 'lines': [gl.get(K.wkey(l), l) for l in fin['lines']],
+            gl = {tkey(l): l for l in (base['lines'] if base else [])}
+            fin_t = {**fin, 'lines': [gl.get(tkey(l), l) for l in fin['lines']],
                      'heading': base['heading'] if base and K.wkey(base['heading']) == K.wkey(fin['heading']) else fin['heading']}
         h = []
         if base is not None:
@@ -301,11 +314,12 @@ def history():
 
 
 def drop_lines(u: dict, prefixes: list[str], within: str) -> dict:
-    out, inside = [], False
+    """Leave out the sub-paragraphs `prefixes` of the first paragraph starting with `within` (not yet in force)."""
+    out, inside, done = [], False, False
     for l in u['lines']:
-        if l.startswith(within):
-            inside = True
-        elif re.match(r'^\([a-z]\) ', l) or re.match(r'^\(\d+\) ', l):
+        if l.startswith(within) and not done:
+            inside, done = True, True
+        elif re.match(r'^\((?!i\)|ii\)|iii\)|iv\)|v\))[a-z]{1,2}\) ', l) or re.match(r'^\(\d+\) ', l):
             inside = False
         if inside and any(l.startswith(p) for p in prefixes):
             continue
