@@ -118,6 +118,21 @@ def _clean(s: str) -> str:
     return re.sub(r'\s+', ' ', s).strip()
 
 
+def _layout(tr) -> bool:
+    """A table row used for page layout (it holds paragraphs, lists or headings), not a data row."""
+    stack = list(tr.children)
+    while stack:
+        n = stack.pop()
+        if isinstance(n, str):
+            continue
+        if n.tag in ('ol', 'ul', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'table', 'blockquote', 'hr'):
+            return True
+        if n.tag == 'p' and len([c for c in n.parent.children if not isinstance(c, str) and c.tag == 'p']) > 2:
+            return True
+        stack.extend(n.children)
+    return False
+
+
 class Walker:
     def __init__(self):
         self.blocks: list[dict] = []
