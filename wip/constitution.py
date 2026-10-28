@@ -650,3 +650,107 @@ def observations(key: str, snaps: list, final: dict) -> list[tuple[str, set, dic
             out.append((f'{ts[:4]}-{ts[4:6]}-{ts[6:8]}', evs, u, url))
     out.sort(key=lambda x: x[0])
     return out
+
+
+# ------------------------------------------------------------------ LawLibrary point-in-time expressions (gap fill)
+# Wayback captures only (the user allows them for gaps; the site itself is never fetched). Each capture is cut at
+# 1 MiB by the archive, so only the units wholly inside the capture are used.
+
+LL = 'https://lawlibrary.org.za/akn/za/act/1996/constitution/eng@'
+LL_CAPTURES = {   # expression date -> pinned capture timestamp
+    '1997-02-04': '20231130142540', '1998-10-07': '20231130145427', '1999-03-19': '20231130134237',
+    '2001-11-21': '20231128161214', '2002-06-20': '20231130133910',
+}
+
+
+def _akn_text(node) -> str:
+    out = []
+    for ch in node.children:
+        if isinstance(ch, str):
+            out.append(ch)
+        elif 'akn-remark' in ch.attrs.get('class', '') or ch.tag in ('img', 'script', 'style'):
+            continue
+        else:
+            out.append(_akn_text(ch))
+    return ''.join(out)
+
+
+def _akn_lines(node, lines: list, pending: list):
+    for ch in node.children:
+        if isinstance(ch, str):
+            continue
+        cls = ch.attrs.get('class', '')
+        if 'akn-remark' in cls:
+            continue
+        if 'akn-num' in cls:
+            pending.append(norm(_akn_text(ch)))
+            continue
+        if ch.tag == 'h3' or ch.tag == 'h2':
+            lines.append(norm(_akn_text(ch)))
+            continue
+        if 'akn-p' in cls:
+            t = norm(_akn_text(ch))
+            if not t:
+                continue
+            if pending:
+                t = norm(' '.join(pending) + ' ' + t)
+                pending.clear()
+            lines.append(t)
+            continue
+        _akn_lines(ch, lines, pending)
+
+
+def lawlibrary(day: str) -> dict[str, dict]:
+    ts = LL_CAPTURES[day]
+    raw = fetch.wayback(ts, LL + day, offline=True)
+    doc = raw.decode('utf-8', 'replace')
+    root = htmlblocks.parse(doc)
+    out = {}
+    complete = len(raw) < 1048576
+    stack = [root]
+    found = []
+    while stack:
+        n = stack.pop()
+        if isinstance(n, str):
+            continue
+        i = n.attrs.get('id', '')
+        if n.tag == 'section' and re.fullmatch(r'(chp_\d+__)?(subpart_[\w]+__)?(part_[\w]+__)?sec_\d+[A-Z]?', i):
+            found.append(('sec', i, n))
+            continue
+        if n.tag == 'div' and re.fullmatch(r'att_\d+', i):
+            found.append(('att', i, n))
+            continue
+        stack.extend(reversed(n.children))
+    atts = [f for f in found if f[0] == 'att']
+    for kind, i, n in found:
+        if kind == 'sec':
+            num = i.rsplit('sec_', 1)[1]
+            lines: list[str] = []
+            _akn_lines(n, lines, [])
+            if not lines:
+                continue
+            head = lines[0]
+            m = re.match(r'^(\d+[A-Z]?)\.\s+(.*)$', head)
+            out[skey(num)] = {'label': f's. {num}', 'num': num, 'heading': m.group(2) if m else head,
+                              'lines': lines[1:], 'notes': [], 'source': f'https://web.archive.org/web/{ts}/{LL}{day}'}
+        else:
+            if not complete and (kind, i, n) == atts[-1]:
+                continue          # the last schedule in a cut capture is incomplete
+            lines = []
+            _akn_lines(n, lines, [])
+            title = lines[0] if lines else ''
+            m = re.match(r'^Schedule (\d+[A-Z]?)$', title)
+            if not m:
+                continue
+            part = 'sch' + m.group(1).lower()
+            key = 'schedule-' + (m.group(1).zfill(2) if m.group(1).isdigit() else m.group(1)[:-1].zfill(2) + m.group(1)[-1].lower())
+            body = lines[2:] if len(lines) > 1 else []
+            out[key] = {'label': f'Schedule {m.group(1)}', 'num': f'Schedule {m.group(1)}',
+                        'heading': SCHEDULE_HEADINGS.get(part, title), 'lines': body, 'notes': [],
+                        'source': f'https://web.archive.org/web/{ts}/{LL}{day}'}
+    # the last section before the cut may be incomplete too
+    if not complete:
+        secs = [k for k in out if k.startswith('section-')]
+        if not any(k.startswith('schedule-') for k in out) and secs:
+            out.pop(max(secs))
+    return out
