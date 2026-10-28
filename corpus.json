@@ -1,0 +1,41 @@
+{
+  "corpus": "za/national/acts",
+  "name": "South Africa: Constitution of the Republic of South Africa, 1996",
+  "label": "South Africa",
+  "language": "en",
+  "acts": [
+    "Constitution of the Republic of South Africa, 1996"
+  ],
+  "history_from": "2009-04-02",
+  "record_to": "2026-10-28",
+  "record_note": "baseline 2009-04-02 derived from the Department of Justice consolidation (text as at 7 May 2026) by undoing the 16th, 17th and 18th Amendment Acts; amendments in force up to 2026-10-28 checked against the acts, their commencement proclamations and that consolidation on the retrieval day",
+  "built": "2026-10-28",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Assented",
+      "Published",
+      "Commencement",
+      "Consolidated"
+    ],
+    "time": "12:00 Africa/Johannesburg (SAST, UTC+2, no summer time)"
+  },
+  "scope": {
+    "trailer": null,
+    "when_absent": "no scope note is recorded in this history; not a statement that a change reaches every case",
+    "default_reach": {
+      "rule": "presumption against retrospectivity",
+      "meaning": "a statute is presumed not to operate retrospectively unless it says so expressly or by necessary implication; no one may be convicted for an act or omission that was not an offence when it was committed",
+      "authority": "common-law presumption against retrospectivity; Constitution of the Republic of South Africa, 1996, s. 35(3)(l)",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/zalaw.py",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "Consolidated",
+  "has_future_branch": false,
+  "citation": {
+    "file": "(constitution)/section-0*([0-9]+[a-z]?)\\.md",
+    "cites": "(section|sections|s\\.|ss\\.) ?{n}([^0-9a-z]|$)"
+  }
+}

@@ -1,0 +1,409 @@
+{
+ "baseline": "2009-04-02",
+ "consolidation_as_at": {
+  "preamble.html": "Wednesday, 6 May, 2026",
+  "chp01.html": "Thursday, 7 May, 2026",
+  "chp02.html": "Thursday, 7 May, 2026",
+  "chp03.html": "Thursday, 7 May, 2026",
+  "chp04.html": "Thursday, 7 May, 2026",
+  "chp05.html": "Thursday, 7 May, 2026",
+  "chp06.html": "Thursday, 7 May, 2026",
+  "chp07.html": "Thursday, 7 May, 2026",
+  "chp08.html": "Thursday, 7 May, 2026",
+  "chp09.html": "Thursday, 7 May, 2026",
+  "chp10.html": "Thursday, 7 May, 2026",
+  "chp11.html": "Thursday, 7 May, 2026",
+  "chp12.html": "Thursday, 7 May, 2026",
+  "chp13.html": "Thursday, 7 May, 2026",
+  "chp14.html": "Thursday, 7 May, 2026"
+ },
+ "acts": [
+  {
+   "key": "16th",
+   "title": "Constitution Sixteenth Amendment Act of 2009",
+   "assented": "2009-03-25",
+   "published": "2009-03-26",
+   "gazette": "Government Gazette 32065, Notice 367 of 2009",
+   "in_force": "2009-04-03",
+   "commencement": "Proclamation R. 20 of 2009, Government Gazette 32091 of 2 April 2009: \"I hereby fix 3 April 2009 as the date on which the said Act shall come into operation.\"",
+   "commencement_url": "https://www.gov.za/sites/default/files/gcis_document/201409/3209120rg9065.pdf",
+   "pdf": "https://www.justice.gov.za/legislation/acts/const16th_2009gg.pdf",
+   "operations": [
+    {
+     "file": "constitution/schedule-1a.md",
+     "provision": "s. 1(a)",
+     "kind": "reference",
+     "under": "The Province of Gauteng",
+     "old": "Map No. 4 of Schedule 1 to Notice 1998 of 2005",
+     "new": "Map No. 4 in Notice 1490 of 2008"
+    },
+    {
+     "file": "constitution/schedule-1a.md",
+     "provision": "s. 1(b)",
+     "kind": "reference",
+     "under": "The Province of North West",
+     "old": "Map No. 5 of Schedule 1 to Notice 1998 of 2005",
+     "new": "Map No. 5 in Notice 1490 of 2008"
+    }
+   ]
+  },
+  {
+   "key": "17th",
+   "title": "Constitution Seventeenth Amendment Act of 2012",
+   "assented": "2013-02-01",
+   "published": "2013-02-01",
+   "gazette": "Government Gazette 36128, Notice 72 of 2013",
+   "in_force": "2013-08-23",
+   "commencement": "Proclamation R. 35 of 2013, Government Gazette 36774 of 22 August 2013: \"I hereby fix 23 August 2013 as the date on which the said Act shall come into operation.\"",
+   "commencement_url": "https://www.justice.gov.za/legislation/notices/2013/20130822-gg36774-nor35-const17th-commence.pdf",
+   "pdf": "https://www.justice.gov.za/legislation/acts/const17th_2013gg36128no72.pdf",
+   "operations": [
+    {
+     "file": "constitution/section-165.md",
+     "provision": "s. 1",
+     "kind": "add",
+     "markup": "_(6)_ _The_ _Chief_ _Justice_ _is_ _the_ _head_ _of_ _the_ _judiciary_ _and_ _exercises_ _responsibility_\n_over_ _the_ _establishment_ _and_ _monitoring_ _of_ _norms_ _and_ _standards_ _for_ _the_ _exercise_ _of_\n_the_ _judicial_ _functions_ _of_ _all_ _courts._",
+     "old": [],
+     "new": [
+      "(6) The Chief Justice is the head of the judiciary and exercises responsibility over the establishment and monitoring of norms and standards for the exercise of the judicial functions of all courts."
+     ]
+    },
+    {
+     "file": "constitution/section-166.md",
+     "provision": "s. 2(a)",
+     "kind": "paragraphs",
+     "markup": "(c) the [High] [Courts,] [including] _High_ _Court_ _of_ _SouthAfrica,_ _and_ any\nhigh court of appeal that may be established by an Act of\nParliament to hear appeals from [High] [Courts] _any_ _court_ _of_ _a_\n_status_ _similar_ _to_ _the_ _High_ _Court_ _of_ _South_ _Africa;_",
+     "old": [
+      "(c) the High Courts, including any high court of appeal that may be established by an Act of Parliament to hear appeals from High Courts"
+     ],
+     "new": [
+      "(c) the High Court of South Africa, and any high court of appeal that may be established by an Act of Parliament to hear appeals from any court of a status similar to the High Court of South Africa;"
+     ],
+     "ocr": [
+      [
+       "establishedbydthemagistratescourts;andeanyothercourtestablishedorrecognisedintermsofanactofparliament,includinganycourtofastatussimilartoeitherthehighcourtsorthemagistratescourts.anactofparliamenttohearappealsfromhighcourts;",
+       "establishedbyanactofparliamenttohearappealsfromhighcourts;dthemagistratescourts;andeanyothercourtestablishedorrecognisedintermsofanactofparliament,includinganycourtofastatussimilartoeitherthehighcourtsorthemagistratescourts."
+      ]
+     ]
+    },
+    {
+     "file": "constitution/section-166.md",
+     "provision": "s. 2(b)",
+     "kind": "paragraphs",
+     "markup": "(e) any other court established or recognised in terms of an Act of\nParliament, including any court of a status similar to either the\n[High] [Courts] _High_ _Court_ _of_ _South_ _Africa_ or the Magistrates’\nCourts.",
+     "old": [
+      "(e) any other court established or recognised in terms of an Act of Parliament, including any court of a status similar to either the High Courts or the Magistrates’ Courts."
+     ],
+     "new": [
+      "(e) any other court established or recognised in terms of an Act of Parliament, including any court of a status similar to either the High Court of South Africa or the Magistrates’ Courts."
+     ]
+    },
+    {
+     "file": "constitution/section-167.md",
+     "provision": "s. 3(a)",
+     "kind": "paragraphs",
+     "markup": "(3) The Constitutional Court—\n(a) is the highest court [in] [all] [constitutional] [matters] _of_ _the_ _Republic;_\n_and_\n(b) may decide [only] _—_\n_(i)_ constitutional matters [,] [and] [issues] [connected] [with] [decisions]\n[on] [constitutional] [matters] ; and\n_(ii)_ _any_ _other_ _matter,_ _if_ _the_ _Constitutional_ _Court_ _grants_ _leave_ _to_\n_appeal_ _on_ _the_ _grounds_ _that_ _the_ _matter_ _raises_ _an_ _arguable_ _point_\n_of_ _law_ _of_ _general_ _public_ _importance_ _which_ _ought_ _to_ _be_\n_considered_ _by_ _that_ _Court;_ _and_\n(c) makes the final decision whether a matter is [a] [constitutional]\n[matter] [or] [whether] [an] [issue] [is] [connected] [with] [a] [decision] [on] [a]\n[constitutional] [matter] _within_ _its_ _jurisdiction._",
+     "old": [
+      "(3) The Constitutional Court—",
+      "(a) is the highest court in all constitutional matters;",
+      "(b) may decide only constitutional matters, and issues connected with decisions on constitutional matters; and",
+      "(c) makes the final decision whether a matter is a constitutional matter or whether an issue is connected with a decision on a constitutional matter"
+     ],
+     "new": [
+      "(3) The Constitutional Court—",
+      "(a) is the highest court of the Republic; and",
+      "(b) may decide—",
+      "(i) constitutional matters; and",
+      "(ii) any other matter, if the Constitutional Court grants leave to appeal on the grounds that the matter raises an arguable point of law of general public importance which ought to be considered by that Court; and",
+      "(c) makes the final decision whether a matter is within its jurisdiction."
+     ],
+     "fix": [
+      [
+       "(a) is the highest court in all constitutional matters\n",
+       "(a) is the highest court in all constitutional matters;\n"
+      ]
+     ],
+     "why": "the Printer underlines \"Republic;\" whole, so the markup drops the semicolon the old text had",
+     "ocr": [
+      [
+       "decisionsonl.makesthefinaldecisionwhetheramatterisaconstitutionalmatterorwhetherconstitutionalmatters;andanissue",
+       "decisionsonconstitutionalmatters;andcmakesthefinaldecisionwhetheramatterisaconstitutionalmatterorwhetheranissue"
+      ]
+     ]
+    },
+    {
+     "file": "constitution/section-167.md",
+     "provision": "s. 3(b)",
+     "kind": "paragraphs",
+     "markup": "(5) The Constitutional Court makes the final decision whether an Act\nof Parliament, a provincial Act or conduct of the President is\nconstitutional, and must confirm any order of invalidity made by the\nSupreme Court of Appeal, [a] _the_ High Court _of_ _South_ _Africa,_ or a court\nof similar status, before that order has any force.",
+     "old": [
+      "(5) The Constitutional Court makes the final decision whether an Act of Parliament, a provincial Act or conduct of the President is constitutional, and must confirm any order of invalidity made by the Supreme Court of Appeal, a High Court, or a court of similar status, before that order has any force."
+     ],
+     "new": [
+      "(5) The Constitutional Court makes the final decision whether an Act of Parliament, a provincial Act or conduct of the President is constitutional, and must confirm any order of invalidity made by the Supreme Court of Appeal, the High Court of South Africa, or a court of similar status, before that order has any force."
+     ],
+     "fix": [
+      [
+       "a High Court or a court",
+       "a High Court, or a court"
+      ]
+     ],
+     "why": "the Printer underlines \"Africa,\" whole, so the markup drops the comma the old text had",
+     "ocr": [
+      [
+       ",9highcourt,",
+       ",ahighcourt,"
+      ]
+     ]
+    },
+    {
+     "file": "constitution/section-168.md",
+     "provision": "s. 4",
+     "kind": "paragraphs",
+     "markup": "_(3)_ _(a)_ _The_ _Supreme_ _Court_ _of_ _Appeal_ _may_ _decide_ _appeals_ _in_ _any_ _matter_ _arising_\nfrom the High Court of South Africa or a court of a status similar to the High Court\nof South Africa, except in respect of labour or competition matters to such extent\nas may be determined by an Act of Parliament.\n(b) The Supreme Court of Appeal may decide only—\n(i) appeals;\n(ii) issues connected with appeals; and\n(iii) any other matter that may be referred to it in circumstances defined by an\n_Act_ _of_ _Parliament._",
+     "old": [
+      "(3) The Supreme Court of Appeal may decide appeals in any matter. It is the highest court of appeal except in constitutional matters, and may decide only—",
+      "(a) appeals;",
+      "(b) issues connected with appeals; and",
+      "(c) any other matter that may be referred to it in circumstances defined by an Act of Parliament."
+     ],
+     "new": [
+      "(3) (a) The Supreme Court of Appeal may decide appeals in any matter arising from the High Court of South Africa or a court of a status similar to the High Court of South Africa, except in respect of labour or competition matters to such extent as may be determined by an Act of Parliament.",
+      "(b) The Supreme Court of Appeal may decide only—",
+      "(i) appeals;",
+      "(ii) issues connected with appeals; and",
+      "(iii) any other matter that may be referred to it in circumstances defined by an Act of Parliament."
+     ],
+     "why": "the act prints the new subsection (3) without marking the words it removes (\"It is the highest court of appeal except in constitutional matters\") or the renumbering of (a)-(c); the old subsection is read from the 2003 consolidation",
+     "old_from": "2003 consolidation scan (act gives no old text)"
+    },
+    {
+     "file": "constitution/section-169.md",
+     "provision": "s. 5",
+     "kind": "section",
+     "markup": "High [Courts] _Court_ _of_ _South_ _Africa_\n169. _(1)_ [A] _The_ High Court _of_ _South_ _Africa_ may decide—\n(a) any constitutional matter except a matter that—\n(i) [only] the Constitutional Court [may] [decide] _has_ _agreed_ _to_\n_hear_ _directly_ _in_ _terms_ _of_ _section_ _167(6)(a);_ or\n(ii) is assigned by an Act of Parliament to another court of a status\nsimilar to [a] _the_ High Court _of_ _South_ _Africa;_ and\n(b) any other matter not assigned to another court by anAct of Parliament.\n_(2)_ _The_ _High_ _Court_ _of_ _South_ _Africa_ _consists_ _of_ _the_ _Divisions_ _determined_\nby an Act of Parliament, which Act must provide for—\n(a) the establishing of Divisions, with one or more seats in a Division; and\n(b) the assigning of jurisdiction to a Division or a seat within a Division.\n(3) Each Division of the High Court of South Africa—\n(a) has a Judge President;\n(b) may have one or more Deputy Judges President; and\n(c) has the number of other judges determined in terms of national\n_legislation._",
+     "old": [
+      "High Courts",
+      "169. A High Court may decide—",
+      "(a) any constitutional matter except a matter that—",
+      "(i) only the Constitutional Court may decide; or",
+      "(ii) is assigned by an Act of Parliament to another court of a status similar to a High Court; and",
+      "(b) any other matter not assigned to another court by an Act of Parliament."
+     ],
+     "new": [
+      "High Court of South Africa",
+      "169. (1) The High Court of South Africa may decide—",
+      "(a) any constitutional matter except a matter that—",
+      "(i) the Constitutional Court has agreed to hear directly in terms of section 167(6)(a); or",
+      "(ii) is assigned by an Act of Parliament to another court of a status similar to the High Court of South Africa; and",
+      "(b) any other matter not assigned to another court by an Act of Parliament.",
+      "(2) The High Court of South Africa consists of the Divisions determined by an Act of Parliament, which Act must provide for—",
+      "(a) the establishing of Divisions, with one or more seats in a Division; and",
+      "(b) the assigning of jurisdiction to a Division or a seat within a Division.",
+      "(3) Each Division of the High Court of South Africa—",
+      "(a) has a Judge President;",
+      "(b) may have one or more Deputy Judges President; and",
+      "(c) has the number of other judges determined in terms of national legislation."
+     ],
+     "fix": [
+      [
+       "may decide or\n",
+       "may decide; or\n"
+      ],
+      [
+       "a High Court and\n",
+       "a High Court; and\n"
+      ],
+      [
+       "by an Act of Parliament. by an Act of Parliament, which Act must provide for—\n",
+       "by an Act of Parliament.\n"
+      ]
+     ],
+     "why": "the act underlines only the first line of the new subsection (2) and none of (3), and underlines \"167(6)(a);\" and \"Africa;\" whole; the old section ends at paragraph (b)",
+     "keep": 6
+    },
+    {
+     "file": "constitution/section-170.md",
+     "provision": "s. 6",
+     "kind": "section",
+     "markup": "[Magistrates’] [Courts] [and] [other] _Other_ courts\n170. [Magistrates’] [Courts] [and] [all] [other] [courts] _All_ _courts_ _other_ _than_\n_those_ _referred_ _to_ _in_ _sections_ _167,_ _168_ _and_ _169_ may decide any matter\ndetermined by an Act of Parliament, but a court of a status lower than [a]\n_the_ High Court _of_ _South_ _Africa_ may not enquire into or rule on the\nconstitutionality of any legislation or any conduct of the President.",
+     "old": [
+      "Magistrates’ Courts and other courts",
+      "170. Magistrates’ Courts and all other courts may decide any matter determined by an Act of Parliament, but a court of a status lower than a High Court may not enquire into or rule on the constitutionality of any legislation or any conduct of the President."
+     ],
+     "new": [
+      "Other courts",
+      "170. All courts other than those referred to in sections 167, 168 and 169 may decide any matter determined by an Act of Parliament, but a court of a status lower than the High Court of South Africa may not enquire into or rule on the constitutionality of any legislation or any conduct of the President."
+     ]
+    },
+    {
+     "file": "constitution/section-172.md",
+     "provision": "s. 7",
+     "kind": "paragraphs",
+     "markup": "(a) The Supreme Court of Appeal, [a] _the_ High Court _of_ _South_ _Africa_ or a court\nof similar status may make an order concerning the constitutional validity of anAct\nof Parliament, a provincial Act or any conduct of the President, but an order of\nconstitutional invalidity has no force unless it is confirmed by the Constitutional\nCourt.",
+     "old": [
+      "(a) The Supreme Court of Appeal, a High Court or a court of similar status may make an order concerning the constitutional validity of an Act of Parliament, a provincial Act or any conduct of the President, but an order of constitutional invalidity has no force unless it is confirmed by the Constitutional Court."
+     ],
+     "new": [
+      "(a) The Supreme Court of Appeal, the High Court of South Africa or a court of similar status may make an order concerning the constitutional validity of an Act of Parliament, a provincial Act or any conduct of the President, but an order of constitutional invalidity has no force unless it is confirmed by the Constitutional Court."
+     ],
+     "ocr": [
+      [
+       "confirmedl:the",
+       "confirmedbythe"
+      ]
+     ]
+    },
+    {
+     "file": "constitution/section-173.md",
+     "provision": "s. 8",
+     "kind": "section",
+     "markup": "Inherent power\n173. The Constitutional Court, _the_ Supreme Court of Appeal and _the_\nHigh [Courts] [have] _Court_ _of_ _South_ _Africa_ _each_ _has_ the inherent power to\nprotect and regulate their own process, and to develop the common law,\ntaking into account the interests of justice.",
+     "old": [
+      "Inherent power",
+      "173. The Constitutional Court, Supreme Court of Appeal and High Courts have the inherent power to protect and regulate their own process, and to develop the common law, taking into account the interests of justice."
+     ],
+     "new": [
+      "Inherent power",
+      "173. The Constitutional Court, the Supreme Court of Appeal and the High Court of South Africa each has the inherent power to protect and regulate their own process, and to develop the common law, taking into account the interests of justice."
+     ]
+    },
+    {
+     "file": "constitution/section-175.md",
+     "provision": "s. 9",
+     "kind": "section",
+     "markup": "[Acting] _Appointment_ _of_ _acting_ judges\n175. (1) The President may appoint a woman or man to [be] _serve_ _as_ an\nacting _Deputy_ _Chief_ _Justice_ _or_ judge of the Constitutional Court if there is\na vacancy _in_ _any_ _of_ _those_ _offices,_ or if [a] [judge] _the_ _person_ _holding_ _such_ _an_\n_office_ is absent. The appointment must be made on the recommendation of\nthe Cabinet member responsible for the administration of justice acting\nwith the concurrence of the Chief Justice, _and_ _an_ _appointment_ _as_ _acting_\n_Deputy_ _Chief_ _Justice_ _must_ _be_ _made_ _from_ _the_ _ranks_ _of_ _the_ _judges_ _who_ _had_\n_been_ _appointed_ _to_ _the_ _Constitutional_ _Court_ _in_ _terms_ _of_ _section_ _174(4)._\n(2) The Cabinet member responsible for the administration of justice\nmust appoint acting judges to other courts after consulting the senior judge\nof the court on which the acting judge will serve.",
+     "old": [
+      "Acting judges",
+      "175. (1) The President may appoint a woman or a man to be an acting judge of the Constitutional Court if there is a vacancy or if a judge is absent. The appointment must be made on the recommendation of the Cabinet member responsible for the administration of justice acting with the concurrence of the Chief Justice.",
+      "(2) The Cabinet member responsible for the administration of justice must appoint acting judges to other courts after consulting the senior judge of the court on which the acting judge will serve."
+     ],
+     "new": [
+      "Appointment of acting judges",
+      "175. (1) The President may appoint a woman or man to serve as an acting Deputy Chief Justice or judge of the Constitutional Court if there is a vacancy in any of those offices, or if the person holding such an office is absent. The appointment must be made on the recommendation of the Cabinet member responsible for the administration of justice acting with the concurrence of the Chief Justice, and an appointment as acting Deputy Chief Justice must be made from the ranks of the judges who had been appointed to the Constitutional Court in terms of section 174(4).",
+      "(2) The Cabinet member responsible for the administration of justice must appoint acting judges to other courts after consulting the senior judge of the court on which the acting judge will serve."
+     ],
+     "fix": [
+      [
+       "a woman or man to be",
+       "a woman or a man to be"
+      ],
+      [
+       "concurrence of the Chief Justice,\n",
+       "concurrence of the Chief Justice.\n"
+      ]
+     ],
+     "why": "the act does not bracket the \"a\" it removes before \"man\", and keeps the comma that the inserted words need where the old text had a full stop",
+     "ocr": [
+      [
+       "ofjustirrmust",
+       "ofjusticemust"
+      ],
+      [
+       "court011which",
+       "courtonwhich"
+      ]
+     ]
+    },
+    {
+     "file": "constitution/section-178.md",
+     "provision": "s. 10",
+     "kind": "paragraphs",
+     "markup": "(k) when considering matters relating to a specific _Division_ _of_ _the_ High Court _of_\n_South_ _Africa,_ the Judge President of that [Court] _Division_ and the Premier of\nthe province concerned, or an alternate designated by each of them.",
+     "old": [
+      "(k) when considering matters relating to a specific High Court, the Judge President of that Court and the Premier of the province concerned, or an alternate designated by each of them."
+     ],
+     "new": [
+      "(k) when considering matters relating to a specific Division of the High Court of South Africa, the Judge President of that Division and the Premier of the province concerned, or an alternate designated by each of them."
+     ],
+     "fix": [
+      [
+       "specific High Court the Judge",
+       "specific High Court, the Judge"
+      ]
+     ],
+     "why": "the Printer underlines \"Africa,\" whole, so the markup drops the comma the old text had"
+    }
+   ]
+  },
+  {
+   "key": "18th",
+   "title": "Constitution Eighteenth Amendment Act, 2023 (Act 3 of 2023)",
+   "assented": "2023-07-19",
+   "published": "2023-07-27",
+   "gazette": "Government Gazette 49041, Notice 3730 of 2023",
+   "in_force": "2026-06-26",
+   "commencement": "Proclamation Notice 321 of 2026, Government Gazette 54901 of 26 June 2026: \"I hereby determine the commencement of the Act with immediate effect.\" Erratum: Proclamation Notice 324 of 2026, Government Gazette 54933 of 2 July 2026 (signed at Pretoria on 26 March 2026; the first publication left out the place and date of signature).",
+   "commencement_url": "https://www.gov.za/sites/default/files/gcis_document/202607/54901gon321.pdf",
+   "pdf": "https://www.justice.gov.za/constitution/docs/2023-003-Constitution18thAmendment-gg49041-GoN3730-27Jul2023.pdf",
+   "operations": [
+    {
+     "file": "constitution/section-006.md",
+     "provision": "s. 1(a)",
+     "kind": "paragraphs",
+     "markup": "(1) The official languages of the Republic are Sepedi, Sesotho,\nSetswana, siSwati, Tshivenda, Xitsonga, Afrikaans, _South_ _African_ _Sign_\n_Language,_ English, isiNdebele, isiXhosa and isiZulu.",
+     "old": [
+      "(1) The official languages of the Republic are Sepedi, Sesotho, Setswana, siSwati, Tshivenda, Xitsonga, Afrikaans, English, isiNdebele, isiXhosa and isiZulu."
+     ],
+     "new": [
+      "(1) The official languages of the Republic are Sepedi, Sesotho, Setswana, siSwati, Tshivenda, Xitsonga, Afrikaans, South African Sign Language, English, isiNdebele, isiXhosa and isiZulu."
+     ]
+    },
+    {
+     "file": "constitution/section-006.md",
+     "provision": "s. 1(b)",
+     "kind": "paragraphs",
+     "markup": "(a) promote, and create conditions for, the development and use of—\n(i) all official languages; _and_\n(ii) the Khoi, Nama and San languages; and\n[(iii)] [sign] [language;] [and]",
+     "old": [
+      "(a) promote, and create conditions for, the development and use of—",
+      "(i) all official languages;",
+      "(ii) the Khoi, Nama and San languages; and",
+      "(iii) sign language; and"
+     ],
+     "new": [
+      "(a) promote, and create conditions for, the development and use of—",
+      "(i) all official languages; and",
+      "(ii) the Khoi, Nama and San languages; and"
+     ]
+    }
+   ]
+  }
+ ],
+ "consolidation_differs_from_act": [
+  {
+   "file": "constitution/section-167.md",
+   "act": "Constitution Seventeenth Amendment Act of 2012",
+   "provision": "s. 3(a)",
+   "consolidation": "(ii) any other matter, if the Constitutional Court grants leave to appeal on the grounds that the matter raises an arguable point of law of general public importance which ought to be considered by that Court, and",
+   "act_text": "(ii) any other matter, if the Constitutional Court grants leave to appeal on the grounds that the matter raises an arguable point of law of general public importance which ought to be considered by that Court; and"
+  },
+  {
+   "file": "constitution/section-168.md",
+   "act": "Constitution Seventeenth Amendment Act of 2012",
+   "provision": "s. 4",
+   "consolidation": "(3) (a) The Supreme Court of Appeal may decide appeals in any matter arising from the High Court of South Africa or a court of a status similar to the High Court of South Africa, except in respect of labour or competition matters to such an extent as may be determined by an Act of Parliament.",
+   "act_text": "(3) (a) The Supreme Court of Appeal may decide appeals in any matter arising from the High Court of South Africa or a court of a status similar to the High Court of South Africa, except in respect of labour or competition matters to such extent as may be determined by an Act of Parliament."
+  },
+  {
+   "file": "constitution/section-169.md",
+   "act": "Constitution Seventeenth Amendment Act of 2012",
+   "provision": "s. 5",
+   "consolidation": "(a) the establishing of Divisions, with one or two more seats in a Division; and",
+   "act_text": "(a) the establishing of Divisions, with one or more seats in a Division; and"
+  },
+  {
+   "file": "constitution/section-169.md",
+   "act": "Constitution Seventeenth Amendment Act of 2012",
+   "provision": "s. 5",
+   "consolidation": "(b) the assigning of jurisdiction to a Division or a seat with a Division.",
+   "act_text": "(b) the assigning of jurisdiction to a Division or a seat within a Division."
+  },
+  {
+   "file": "constitution/section-175.md",
+   "act": "Constitution Seventeenth Amendment Act of 2012",
+   "provision": "s. 9",
+   "consolidation": "175. (1) The President may appoint a woman or a man to serve as an acting Deputy Chief Justice or judge of the Constitutional Court if there is a vacancy in any of those offices , or if the person holding such an office is absent. The appointment must be made on the recommendation of the Cabinet member responsible for the administration of justice acting with the concurrence of the Chief Justice, and an appointment as acting Deputy Chief Justice must be made from the ranks of the judges who had been appointed to the Constitutional Court in terms of section 174(4).",
+   "act_text": "175. (1) The President may appoint a woman or man to serve as an acting Deputy Chief Justice or judge of the Constitutional Court if there is a vacancy in any of those offices, or if the person holding such an office is absent. The appointment must be made on the recommendation of the Cabinet member responsible for the administration of justice acting with the concurrence of the Chief Justice, and an appointment as acting Deputy Chief Justice must be made from the ranks of the judges who had been appointed to the Constitutional Court in terms of section 174(4)."
+  }
+ ]
+}

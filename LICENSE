@@ -1,0 +1,39 @@
+Licence and terms of reuse
+==========================
+
+The law
+-------
+The text in this repository is the Constitution of the Republic of South Africa, 1996, and the amending acts that
+changed it. South African copyright law gives no copyright in it:
+
+> No copyright shall subsist in official texts of a legislative, administrative or legal nature, or in official translations of such texts, or in speeches of a political nature or in speeches delivered in the course of legal proceedings, or in news of the day that are mere items of press information.
+>
+> Copyright Act 98 of 1978, s. 12(8)(a)
+
+The sources
+-----------
+The text was retrieved from websites of the Government of the Republic of South Africa:
+
+- www.justice.gov.za (Department of Justice and Constitutional Development): the consolidated Constitution, the
+  amending acts and the commencement proclamations. Its terms (https://www.justice.gov.za/about_web/terms_conditions.htm) say:
+
+  > Users may view, copy, download to a local drive, print and distribute the content of this website, or any part thereof only for non-commercial informational or reference purposes.
+  >
+  > Users who wish to use content from this site for commercial purposes may only do so with the prior written permission obtained from the web manager [...]. Any reproduction and/or copy of the content or portion thereof for commercial purposes
+  > must include this copyright notice in its entirety: ©Department of Justice and Constitutional Development:ALL
+  > RIGHTS RESERVED.
+
+- www.gov.za (Government Communication and Information System): the commencement proclamations of the Sixteenth and
+  Eighteenth Amendments and the 2003 consolidation scan used to check the derived text. Its terms (https://www.gov.za/terms-and-conditions-use-0)
+  use the same words: "Users may view, copy, download to a local drive, print and distribute the content of this website, or any part thereof only for non-commercial informational or reference purposes." Commercial use needs prior written permission and must carry the notice
+  "© GCIS2018: ALL RIGHTS RESERVED."
+
+Neither site's terms forbid automated retrieval or building a database, and neither site's robots.txt has rules for
+AI crawlers (checked 2026-10-28). Whether s. 12(8)(a) leaves anything for the sites' terms to govern in the bare text of
+the law is not decided here. Until it is, this repository is private and is offered for non-commercial informational
+and reference use only.
+
+The arrangement
+---------------
+The arrangement into files and commits, the commit messages, the tools and the documentation are by Lexifina and are
+released under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/).
