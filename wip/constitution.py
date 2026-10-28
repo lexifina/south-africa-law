@@ -370,11 +370,12 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
             pending = norm(t)
             continue
         if cur is not None and cur['label'] == 'Preamble' and font.startswith('MyriadPro-CondIt'):
-            if para and not re.search(r'[.;,—:]$', para[-1]):
+            if para and prev[0] is not None and prev[0] >= 228:
                 para.append(t)
             else:
                 close_para()
                 para = [t]
+            prev[0] = l['x1']
             continue
         m = PDF_SEC.match(t)
         if m and pending is not None and not in_schedule:
@@ -394,9 +395,9 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
             pending = None
         if cur is None:
             continue
-        short = prev[0] is not None and prev[0] < 228 and prev[1] == l['page']
+        short = prev[0] is not None and prev[0] < 228
         bold = 'Bold' in font
-        if PDF_LABEL.match(t) or (in_schedule and re.match(r'^\d+[A-Z]?\.\s', t)) or t.startswith('–') \
+        if PDF_LABEL.match(t) or (in_schedule and re.match(r'^\d+[A-Z]?\.\s', t)) or t.startswith(('–', '•', '“', '"')) \
                 or (short and not t[:1].islower()) or (bold and not prev[2]) or para is None:
             close_para()
             para = [t]
