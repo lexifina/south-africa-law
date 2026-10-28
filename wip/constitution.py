@@ -535,8 +535,14 @@ ORDINALS = {'first': 'a35-1997', 'second': 'a65-1998', 'third': 'a87-1998', 'fou
 BY_NUMBER = {(int(v[2].split()[1]), int(v[2].split()[3])): k for k, v in AMENDMENTS.items() if v[2]}
 
 
-def note_events(note: str) -> list[str]:
+def note_events(note: str, key: str | None = None) -> list[str]:
     n = re.sub(r'Amend\s*ment', 'Amendment', note)
+    m = re.match(r'^\[\s*Schedule (\d+[A-Z]?)\b', n)
+    if m and key is not None:
+        num = m.group(1)
+        own = 'schedule-' + (num.zfill(2) if num.isdigit() else num[:-1].zfill(2) + num[-1].lower())
+        if own != key and not (key == 'schedule-06a' and own == 'schedule-06b'):
+            return []                 # a note about another schedule printed on this page
     out = []
     for m in re.finditer(r'Act (?:No\.? ?)?(\d+) of (\d{4})|Constitution ([A-Z][a-z]+) Amendment', n):
         if m.group(1):
@@ -634,10 +640,10 @@ def unit_events(key: str, orig: dict, snaps: list, final: dict) -> set[str]:
     for _, _, units in snaps:
         if key in units:
             for n in units[key]['notes']:
-                evs.update(note_events(n))
+                evs.update(note_events(n, key))
     if key in final:
         for n in final[key]['notes']:
-            evs.update(note_events(n))
+            evs.update(note_events(n, key))
     if key in orig and any(re.search(r'(?<!South African )Human Rights Commission', l) for l in orig[key]['lines'] + [orig[key]['heading']]):
         evs.add('a65-1998')            # s. 4 of Act 65 of 1998: "South African Human Rights Commission" wherever it occurs
     if key == 'section-006':
@@ -653,7 +659,7 @@ def observations(key: str, snaps: list, final: dict) -> list[tuple[str, set, dic
             u = units[key]
             evs = set()
             for n in u['notes']:
-                evs.update(note_events(n))
+                evs.update(note_events(n, key))
             out.append((f'{ts[:4]}-{ts[4:6]}-{ts[6:8]}', evs, u, url))
     out.sort(key=lambda x: x[0])
     return out
@@ -849,7 +855,7 @@ def history():
                 else:
                     cand, how = None, 'repealed'
             else:
-                only_hrc = group == ['a65-1998'] and not any('a65-1998' in note_events(n) for _, _, us in snaps
+                only_hrc = group == ['a65-1998'] and not any('a65-1998' in note_events(n, k) for _, _, us in snaps
                                                              if k in us for n in us[k]['notes'])
                 if k == 'schedule-06' and d == '1997-02-04' and prev is not None:
                     cand = splice_item(prev, '22', ll_schedule6('1997-02-04')['22'])
