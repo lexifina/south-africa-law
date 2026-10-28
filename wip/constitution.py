@@ -754,3 +754,31 @@ def lawlibrary(day: str) -> dict[str, dict]:
         if not any(k.startswith('schedule-') for k in out) and secs:
             out.pop(max(secs))
     return out
+
+
+def _fix_label_space(u: dict) -> dict:
+    return {**u, 'lines': [re.sub(r'^(\([^)\s]{1,6}\))(?=[^\s(])', r'\1 ', l) for l in u['lines']]}
+
+
+def harmonise(u: dict, ref: dict | None) -> dict:
+    """Use the final text's typography for any line (or the whole unit) whose words are the same."""
+    if ref is None:
+        return u
+    stream = lambda x: [w for l in x['lines'] for w in wkey(l)]
+    if stream(u) == stream(ref) and wkey(u['heading']) == wkey(ref['heading']):
+        return ref
+    by_words = {}
+    for l in ref['lines']:
+        by_words.setdefault(wkey(l), l)
+    lines = [by_words.get(wkey(l), l) for l in u['lines']]
+    heading = ref['heading'] if wkey(u['heading']) == wkey(ref['heading']) else u['heading']
+    return {**u, 'lines': lines, 'heading': heading}
+
+
+def hrc(u: dict) -> dict:
+    sub = lambda s: re.sub(r'(?<!South African )Human Rights Commission', 'South African Human Rights Commission', s)
+    return {**u, 'heading': sub(u['heading']), 'lines': [sub(l) for l in u['lines']]}
+
+
+def placeholder(u: dict) -> dict:
+    return {**u, 'lines': [PLACEHOLDER], 'notes': []}
