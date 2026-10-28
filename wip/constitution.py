@@ -306,10 +306,12 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
     raw = fetch.fetch(JUSTICE_PDF, offline=True)
     ls = _pdf_lines(raw)
     start = next(i for i, l in enumerate(ls) if l['text'].startswith('We, the people of South Africa') and l['page'] > 3)
-    right: dict[int, float] = {}       # the right edge of the text block on each page (margins alternate)
+    xs: dict[int, list] = {0: [], 1: []}   # the right edge of the text block on odd and even pages (margins alternate)
     for l in ls:
-        if l['size'] == 7.5 and 'Cond' in l['font']:
-            right[l['page']] = max(right.get(l['page'], 0), l['x1'])
+        if l['size'] == 7.5 and 'Cond' in l['font'] and l['page'] > 3:
+            xs[l['page'] % 2].append(l['x1'])
+    parity = {p: sorted(v)[int(len(v) * 0.9)] for p, v in xs.items() if v}
+    right = {p: parity.get(p % 2, 270) for p in {l['page'] for l in ls}}
     units: dict[str, dict] = {}
     cur = None
     pending = None
