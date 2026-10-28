@@ -63,6 +63,15 @@ SCHEDULE_TITLES = {
     'sch5': 'Schedule 5', 'sch6': 'Schedule 6', 'sch6a': 'Schedule 6A', 'sch6b': 'Schedule 6B', 'sch7': 'Schedule 7',
 }
 
+SCHEDULE_HEADINGS = {
+    'sch1': 'Schedule 1: National Flag', 'sch1a': 'Schedule 1A: Geographical areas of provinces',
+    'sch2': 'Schedule 2: Oaths and Solemn Affirmations', 'sch3': 'Schedule 3: Election Procedures',
+    'sch4': 'Schedule 4: Functional Areas of Concurrent National and Provincial Legislative Competence',
+    'sch5': 'Schedule 5: Functional Areas of Exclusive Provincial Legislative Competence',
+    'sch6': 'Schedule 6: Transitional Arrangements', 'sch6a': 'Schedule 6A', 'sch6b': 'Schedule 6B',
+    'sch7': 'Schedule 7: Laws Repealed',
+}
+
 NOTE = re.compile(r'^\[[^\[\]]*\b(amended|substituted|inserted|added|deleted|omitted|repealed|renumbered|commencement)\b'
                   r'[^\[\]]*\]?\.?$', re.I)
 END = ('Table of contents', 'Share this page', 'Disclaimer', 'Copyright ©', '| Home |', 'Back to top',
@@ -93,14 +102,15 @@ def norm(s: str) -> str:
 
 
 LIT_LABEL = re.compile(r'^(\d{1,2}[A-Z]?|[a-z]{1,2}|[ivx]{1,5})\.\s*(?=\S)')
+LIT_LETTER = re.compile(r'^([a-z]{1,2}|[ivx]{1,5})\.\s*(?=\S)')
 NUM_LABEL = re.compile(r'^\((\d{1,2}[A-Z]?|[a-z]{1,2}|[ivx]{1,5}|[A-Z])\)\s*')
 
 
-def para_line(b: dict, literal_labels: bool) -> str:
+def para_line(b: dict, literal_labels) -> str:
     text = norm(b['text'])
     label = b.get('label')
     if label is None and literal_labels:
-        m = LIT_LABEL.match(text)
+        m = (LIT_LABEL if literal_labels is True else LIT_LETTER).match(text)
         if m and not re.match(r'^(e\.g|i\.e)\.', text):
             label = f'({m.group(1)})'
             text = text[m.end():]
@@ -108,7 +118,7 @@ def para_line(b: dict, literal_labels: bool) -> str:
 
 
 SEC_HEAD = re.compile(r'^(\d{1,3}[A-Z]?)\.?\s+(.+)$')
-SEC_PARA = re.compile(r'^(\d{1,3}[A-Z]?)\.\s+(.*)$')
+SEC_PARA = re.compile(r'^(\d{1,3}[A-Z]?)\.(?:\s+(.*))?$')
 
 
 def units_of_page(doc: str, part: str, literal_labels: bool) -> dict[str, dict]:
@@ -116,7 +126,7 @@ def units_of_page(doc: str, part: str, literal_labels: bool) -> dict[str, dict]:
     bl = htmlblocks.blocks(doc)
     out: dict[str, dict] = {}
     if part.startswith('sch'):
-        return schedule_of_page(bl, part, literal_labels)
+        return schedule_of_page(bl, part, 'letters' if literal_labels else False)
     if part == 'preamble':
         return preamble_of_page(bl, literal_labels)
     cur = None
@@ -176,13 +186,20 @@ def schedule_of_page(bl: list[dict], part: str, literal_labels: bool) -> dict[st
     start = None
     for i, b in enumerate(bl):
         t = norm(b['text'])
-        if re.match(rf'^{re.escape(title)}\b(?![A-Z0-9])', t, re.I) and (b['heading'] or len(t) < 120):
+        if t.startswith('The text below includes all amendments'):
             start = i
             break
     if start is None:
+        for i, b in enumerate(bl):
+            t = norm(b['text'])
+            if re.match(rf'^{re.escape(title)}\b(?![A-Z0-9])', t, re.I) and (b['heading'] or len(t) < 120):
+                start = i
+    if start is None:
         return {}
-    head = norm(bl[start]['text'])
+    head = SCHEDULE_HEADINGS.get(part, title)
     lines, notes = [], []
+    in_toc = False
+    seen_content = False
     for b in bl[start + 1:]:
         t = norm(b['text'])
         if any(t.startswith(e) for e in END) and len(t) < 200:
@@ -190,6 +207,16 @@ def schedule_of_page(bl: list[dict], part: str, literal_labels: bool) -> dict[st
         if NOTE.match(t):
             notes.append(t)
             continue
+        if not seen_content:
+            if b['heading'] and t in ('Sections', 'Items', 'Contents'):
+                in_toc = True
+                continue
+            if in_toc and not b['heading']:
+                continue
+            in_toc = False
+            if len(re.findall(r'(?:^|\s)\d+[A-Z]?\.\s+[A-Z]', t)) >= 2 and not b['heading']:
+                continue          # the page's list of items
+        seen_content = True
         line = para_line(b, literal_labels)
         if line:
             lines.append(line)
@@ -198,10 +225,11 @@ def schedule_of_page(bl: list[dict], part: str, literal_labels: bool) -> dict[st
 
 
 def preamble_of_page(bl: list[dict], literal_labels: bool) -> dict[str, dict]:
-    start = next((i for i, b in enumerate(bl) if norm(b['text']).lower() in ('preamble',) or
-                  (b.get('anchor') or '').upper() == 'PREAMBLE'), None)
-    if start is None:
+    hits = [i for i, b in enumerate(bl) if norm(b['text']).lower() in ('preamble',) or
+            (b.get('anchor') or '').upper() == 'PREAMBLE' or norm(b['text']).startswith('The text below includes all')]
+    if not hits:
         return {}
+    start = hits[-1]
     lines = []
     for b in bl[start + 1:]:
         t = norm(b['text'])
