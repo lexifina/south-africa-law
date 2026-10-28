@@ -600,6 +600,7 @@ def eighteenth(units: dict) -> dict:
 
 
 COMMENCE_1998 = ['213', '214', '215', '216', '218', '226', '227', '228', '229', '230']   # s. 243(5)
+PARTIAL = {('section-103', '2005-12-23'): ['c12-2005']}   # Act s. 5(2): s. 103(3) in force on publication
 SEVENTH_LATE = {'section-163', 'section-221'}       # ss. 4 and 7 of Act 61 of 2001 (notes): in force 1 December 2003
 
 
@@ -826,10 +827,10 @@ def history():
                 h.append(('1997-02-04', ref, [], 'consolidation'))
             hist[k] = h
             continue
-        dates = sorted({event_date(e, k) for e in evs})
+        dates = sorted({event_date(e, k) for e in evs} | {d for (kk, d) in PARTIAL if kk == k})
         prev = h[-1][1] if h else None
         for idx, d in enumerate(dates):
-            group = sorted(e for e in evs if event_date(e, k) == d)
+            group = sorted(e for e in evs if event_date(e, k) == d) or PARTIAL.get((k, d), [])
             S = {e for e in match_evs if event_date(e, k) <= d}
             nxt = dates[idx + 1] if idx + 1 < len(dates) else None
             how = ''
@@ -844,7 +845,9 @@ def history():
             else:
                 only_hrc = group == ['a65-1998'] and not any('a65-1998' in note_events(n) for _, _, us in snaps
                                                              if k in us for n in us[k]['notes'])
-                if only_hrc and prev is not None:
+                if (k, d) in PARTIAL:
+                    cand, how = ll[d][k], f'LawLibrary expression @{d} (Wayback {LL_CAPTURES[d]})'
+                elif only_hrc and prev is not None:
                     cand, how = hrc(prev), 'Act 65 of 1998 s. 4 applied: "South African Human Rights Commission"'
                 else:
                     for day, oevs, u, url in observations(k, snaps, final):
