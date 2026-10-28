@@ -431,7 +431,7 @@ def s1_definition_events() -> dict[str, list[tuple[str, str, str]]]:
     """{term: [(action, law key, day)]} from the DoJ notes, each note read under the definition it follows."""
     t = doj_text()
     i = t.index('\n1  Definitions\n')
-    j = t.index('\n2  Interpretation', i)
+    j = t.index('\n2  Related and inter-related persons', i)
     out: dict[str, list] = collections.defaultdict(list)
     cur = None
     buf = ''
