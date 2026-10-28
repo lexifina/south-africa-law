@@ -184,7 +184,120 @@ def doj_sections() -> dict[str, dict]:
 
 # ------------------------------------------------------------------ history
 
-#HISTORY#
+OCR_PAIRS = {('live', 'five'), ('line', 'fine'), ('held', 'field'), ('fillfil', 'fulfil'), ('notice', 'notices')}
+
+
+def _near(a: tuple, b: tuple) -> bool:
+    """LawLibrary's text of the Act was made by OCR from the gazette scan: the same line with one known misreading."""
+    if len(a) != len(b):
+        return ''.join(a) == ''.join(b)          # only spaces differ ("holdersof", "91within")
+    diff = [(x, y) for x, y in zip(a, b) if x != y]
+    return len(diff) == 1 and (diff[0] in OCR_PAIRS or diff[0][::-1] in OCR_PAIRS)
+
+
+def history():
+    gaz, raw = gazette_units()
+    ll = {d: ll_units(d) for d in LL_CAPTURES}
+    doj = doj_sections()
+    final = doj_units()
+    keys = sorted(set(gaz) | set(final))
+    hist: dict[str, list] = {}
+    gaps: list[str] = []
+    obs_days = sorted(d for d in LL_CAPTURES if '2011-05-01' < d < '2024-12-27')
+    for k in keys:
+        evs = sorted(doj.get(k, {}).get('events', set()), key=lambda x: x[1])
+        dates = sorted({d for _, d in evs})
+        base = gaz.get(k)
+        fin = final.get(k)
+        refs = {}
+        for src in ([base] if base else []) + ([fin] if fin else []):
+            for l in src['lines']:
+                refs.setdefault(K.wkey(l), l)
+
+        def tidy(u):
+            if u is None:
+                return None
+            lines = []
+            for l in u['lines']:
+                w = K.wkey(l)
+                if w in refs:
+                    lines.append(refs[w])
+                    continue
+                near = next((r for rw, r in refs.items() if _near(w, rw)), None)
+                lines.append(near or l)
+            head = u['heading']
+            for src in (base, fin):
+                if src is not None and K.wkey(src['heading']) == K.wkey(head):
+                    head = src['heading']
+            return {**u, 'lines': lines, 'heading': head}
+
+        fin_t = None
+        if fin is not None:
+            # today's words (DoJ), with the gazette's typography for lines whose words did not change
+            gl = {K.wkey(l): l for l in (base['lines'] if base else [])}
+            fin_t = {**fin, 'lines': [gl.get(K.wkey(l), l) for l in fin['lines']],
+                     'heading': base['heading'] if base and K.wkey(base['heading']) == K.wkey(fin['heading']) else fin['heading']}
+        h = []
+        if base is not None:
+            if not dates and fin_t is not None:
+                b = fin_t if [w for l in base['lines'] for w in K.wkey(l)] == [w for l in fin['lines'] for w in K.wkey(l)] else base
+            else:
+                b = base
+            if k == 'section-011':
+                b = drop_lines(b, ['(ii) ', '(iii) '], within='(a) ')
+            h.append(('2011-05-01', b, [], 'Government Gazette 32121 (as enacted)'))
+        prev = h[-1][1] if h else None
+        for i, d in enumerate(dates):
+            group = sorted({a for a, dd in evs if dd == d})
+            nxt = dates[i + 1] if i + 1 < len(dates) else None
+            if nxt is None:
+                cand, how = fin_t, 'Department of Justice consolidation (today)'
+            elif k == 'section-011' and d == '2011-05-01' and nxt == '2014-05-01':
+                cand = drop_lines(fin_t, ['(ii) ', '(iii) '], within='(a) ')
+                how = 'Department of Justice consolidation without s. 11(1)(a)(ii) and (iii), which commence 1 May 2014'
+            else:
+                o = next((od for od in obs_days if d <= od < nxt), None)
+                if o is not None and k in ll[o]:
+                    cand, how = tidy(ll[o][k]), f'LawLibrary @{o} (Wayback {LL_CAPTURES[o]})'
+                else:
+                    o2 = next((od for od in obs_days if od >= nxt), None)
+                    later = {a for a, dd in evs if nxt <= dd <= (o2 or '9999')}
+                    notes = [n for n in doj[k]['notes'] if any(AMENDING[x][1].split()[1] + ' of ' + AMENDING[x][1].split()[3]
+                                                               in n for x in AMENDING if AMENDING[x][0] in later)]
+                    defs = [re.match(r"\[Definition of '([^']+)' substituted", n) for n in notes]
+                    if o2 and k in ll[o2] and notes and all(defs) and all(
+                            not re.search(rf"by s\. [^\]]*of Act (\d+) of (\d{{4}}) \(wef ([^)]+)\)", n) or True for n in notes):
+                        terms = {m.group(1) for m in defs}
+                        src = tidy(ll[o2][k])
+                        lines = []
+                        skip = False
+                        for l in src['lines']:
+                            mt = re.match(r'^[“"‘]+([^”"’]+)[”"’]+', l)
+                            if mt:
+                                skip = mt.group(1) in terms
+                                if skip:
+                                    lines.append(f'“{mt.group(1)}” {PLACEHOLDER}')
+                                    continue
+                            if skip and re.match(r'^\(', l):
+                                continue
+                            skip = False if mt else skip
+                            lines.append(l)
+                        cand = {**src, 'lines': lines}
+                        how = (f'LawLibrary @{o2} with the definitions changed later ({", ".join(sorted(terms))}) '
+                               'shown as not given')
+                        gaps.append(f'{k} from {d} to {nxt}: definitions {", ".join(sorted(terms))}')
+                    else:
+                        tmpl = prev or fin_t
+                        cand = {**tmpl, 'lines': [PLACEHOLDER]}
+                        how = 'no text source'
+                        gaps.append(f'{k} from {d} to {nxt}')
+            h.append((d, cand, group, how))
+            prev = cand
+        if not dates and base is None and fin_t is not None:
+            gaps.append(f'{k}: in today\'s text but not in the gazette, and no note names a law')
+            h.append(('2011-05-01', fin_t, [], 'Department of Justice consolidation'))
+        hist[k] = h
+    return hist, gaps, raw, doj, gaz, final
 
 
 def drop_lines(u: dict, prefixes: list[str], within: str) -> dict:
