@@ -455,3 +455,125 @@ def today() -> dict[str, dict]:
             u['source'] = url
             out[k] = u
     return out
+
+
+# ------------------------------------------------------------------ the amendments
+
+GOVDOC = 'https://www.gov.za/sites/default/files/gcis_document/'
+JACTS = 'https://www.justice.gov.za/legislation/acts/'
+# key: (label, title, act no., enacted (assent), published, in force, url)
+AMENDMENTS = {
+    'a35-1997': ('First Amendment (1997)', 'Constitution First Amendment Act of 1997', 'Act 35 of 1997',
+                 '1997-08-28', '1997-08-29', '1997-02-04', JACTS + '1997-035.pdf'),
+    'a65-1998': ('Second Amendment (1998)', 'Constitution Second Amendment Act of 1998', 'Act 65 of 1998',
+                 '1998-09-28', '1998-10-07', '1998-10-07', JACTS + '1998-065.pdf'),
+    'a87-1998': ('Third Amendment (1998)', 'Constitution Third Amendment Act of 1998', 'Act 87 of 1998',
+                 None, '1998-10-30', '1998-10-30', JACTS + '1998-087.pdf'),
+    'a3-1999': ('Fourth Amendment (1999)', 'Constitution Fourth Amendment Act of 1999', 'Act 3 of 1999',
+                '1999-03-17', '1999-03-19', '1999-03-19', JACTS + 'const4th-1999.pdf'),
+    'a2-1999': ('Fifth Amendment (1999)', 'Constitution Fifth Amendment Act of 1999', 'Act 2 of 1999',
+                '1999-03-17', '1999-03-19', '1999-03-19', JACTS + 'const5th-1999.pdf'),
+    'a34-2001': ('Sixth Amendment (2001)', 'Constitution Sixth Amendment Act of 2001', 'Act 34 of 2001',
+                 '2001-11-20', '2001-11-21', '2001-11-21', JACTS + 'const6th-2001gg.pdf'),
+    'a61-2001': ('Seventh Amendment (2001)', 'Constitution Seventh Amendment Act of 2001', 'Act 61 of 2001',
+                 '2001-12-07', '2001-12-14', '2002-04-26', JACTS + 'const7th-2001gg.pdf'),
+    'a18-2002': ('Eighth Amendment (2002)', 'Constitution Eighth Amendment Act of 2002', 'Act 18 of 2002',
+                 '2002-06-19', '2002-06-20', '2002-06-20', JACTS + 'const8th-2002gg.pdf'),
+    'a21-2002': ('Ninth Amendment (2002)', 'Constitution Ninth Amendment Act of 2002', 'Act 21 of 2002',
+                 '2002-06-19', '2002-06-20', '2002-06-20', JACTS + 'const9th-2002gg.pdf'),
+    'a2-2003': ('Tenth Amendment (2003)', 'Constitution Tenth Amendment Act of 2003', 'Act 2 of 2003',
+                '2003-03-19', '2003-03-19', '2003-03-20', JACTS + 'const10th-2003gg.pdf'),
+    'a3-2003': ('Eleventh Amendment (2003)', 'Constitution Eleventh Amendment Act of 2003', 'Act 3 of 2003',
+                '2003-04-09', '2003-04-11', '2003-07-11', JACTS + 'const11th-2003gg.pdf'),
+    'c12-2005': ('Twelfth Amendment (2005)', 'Constitution Twelfth Amendment Act of 2005', None,
+                 '2005-12-22', '2005-12-23', '2006-03-01', JACTS + 'const12th-2005gg.pdf'),
+    'a23-2007': ('Thirteenth Amendment (2007)', 'Constitution Thirteenth Amendment Act of 2007', 'Act 23 of 2007',
+                 '2007-12-13', '2007-12-14', '2007-12-14', JACTS + 'const13th-2007gg.pdf'),
+    'c14-2008': ('Fourteenth Amendment (2008)', 'Constitution Fourteenth Amendment Act of 2008', None,
+                 '2009-01-06', '2009-01-09', '2009-04-17', JACTS + 'const14th_2008gg.pdf'),
+    'c15-2008': ('Fifteenth Amendment (2008)', 'Constitution Fifteenth Amendment Act of 2008', None,
+                 '2009-01-06', '2009-01-09', '2009-04-17', JACTS + 'const15th_2008gg.pdf'),
+    'c16-2009': ('Sixteenth Amendment (2009)', 'Constitution Sixteenth Amendment Act of 2009', None,
+                 '2009-03-25', '2009-03-26', '2009-04-03', JACTS + 'const16th_2009gg.pdf'),
+    'c17-2012': ('Seventeenth Amendment (2012)', 'Constitution Seventeenth Amendment Act of 2012', None,
+                 '2013-02-01', '2013-02-01', '2013-08-23', JACTS + 'const17th_2013gg36128no72.pdf'),
+    'a3-2023': ('Eighteenth Amendment (2023)', 'Constitution Eighteenth Amendment Act, 2023', 'Act 3 of 2023',
+                '2023-07-19', '2023-07-27', '2026-06-26',
+                'https://www.justice.gov.za/constitution/docs/2023-003-Constitution18thAmendment-gg49041-GoN3730-27Jul2023.pdf'),
+}
+ORDINALS = {'first': 'a35-1997', 'second': 'a65-1998', 'third': 'a87-1998', 'fourth': 'a3-1999', 'fifth': 'a2-1999',
+            'sixth': 'a34-2001', 'seventh': 'a61-2001', 'eighth': 'a18-2002', 'ninth': 'a21-2002',
+            'tenth': 'a2-2003', 'eleventh': 'a3-2003', 'twelfth': 'c12-2005', 'thirteenth': 'a23-2007',
+            'fourteenth': 'c14-2008', 'fifteenth': 'c15-2008', 'sixteenth': 'c16-2009', 'seventeenth': 'c17-2012',
+            'eighteenth': 'a3-2023'}
+BY_NUMBER = {(int(v[2].split()[1]), int(v[2].split()[3])): k for k, v in AMENDMENTS.items() if v[2]}
+
+
+def note_events(note: str) -> list[str]:
+    n = re.sub(r'Amend\s*ment', 'Amendment', note)
+    out = []
+    for m in re.finditer(r'Act (?:No\.? ?)?(\d+) of (\d{4})|Constitution ([A-Z][a-z]+) Amendment', n):
+        if m.group(1):
+            k = BY_NUMBER.get((int(m.group(1)), int(m.group(2))))
+        else:
+            k = ORDINALS.get(m.group(3).lower())
+        if k and k not in out:
+            out.append(k)
+    return out
+
+
+# ------------------------------------------------------------------ assembling the history
+
+PLACEHOLDER = '[The source does not give the text in force on this date.]'
+WORDS_RE = re.compile(r'[\w]+')
+
+
+def wkey(line: str) -> tuple:
+    s = line.replace('\u00ad', '').replace('ﬁ', 'fi').replace('ﬂ', 'fl')
+    s = re.sub(r'^\((\w{1,5})\)\s+\(\1\)', r'(\1)', s)        # "(b) (b) ..." in the 1999 pages
+    return tuple(w.lower() for w in WORDS_RE.findall(s))
+
+
+def hyphen_vocab(*unit_sets) -> set[str]:
+    out = set()
+    for units in unit_sets:
+        for u in units.values():
+            for line in u['lines']:
+                out.update(w.lower() for w in re.findall(r'\b\w+-\w+\b', line))
+    return out
+
+
+def eighteenth(units: dict) -> dict:
+    """Section 6 as amended by the Eighteenth Amendment Act (born-digital gazette text)."""
+    import fitz
+    raw = fetch.fetch(AMENDMENTS['a3-2023'][6], offline=True)
+    doc = fitz.open(stream=raw, filetype='pdf')
+    t = '\n'.join(p.get_text() for p in doc)
+    t = t[t.index('Amendment of section 6 of Constitution'):t.index('Short title and commencement')]
+    quotes = re.findall(r'‘‘(.*?)’’', t, re.S)
+    sub1 = norm(re.sub(r'\s+', ' ', quotes[0]))
+    sub5a = re.sub(r'\[[^\]]*\]', '', quotes[1])          # words in bold square brackets are omitted
+    parts = [norm(p) for p in re.split(r'\n(?=\((?:i|ii|iii)\)\n)', sub5a)]
+    lines5a = []
+    for p in parts:
+        p = norm(re.sub(r'^\((i|ii|iii)\)\s*', r'(\1) ', p.replace('\n', ' ')))
+        if p:
+            lines5a.append(p)
+    u = units['section-006']
+    new = []
+    skip = False
+    for line in u['lines']:
+        if line.startswith('(1) '):
+            new.append(sub1)
+            continue
+        if line.startswith('(5) '):
+            new.append(line)
+            new.extend(lines5a)
+            skip = True
+            continue
+        if skip and line.startswith('(b) '):
+            skip = False
+        if skip:
+            continue
+        new.append(line)
+    return {**u, 'lines': new}
