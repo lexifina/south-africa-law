@@ -184,67 +184,7 @@ def doj_sections() -> dict[str, dict]:
 
 # ------------------------------------------------------------------ history
 
-def history():
-    gaz, raw = gazette_units()
-    ll = {d: ll_units(d) for d in LL_CAPTURES}
-    doj = doj_sections()
-    final = ll['2024-12-27']
-    keys = sorted(set(gaz) | set(final))
-    hist: dict[str, list] = {}
-    gaps: list[str] = []
-    obs_days = sorted(d for d in LL_CAPTURES if d > '2011-05-01')
-    for k in keys:
-        evs = sorted(doj.get(k, {}).get('events', set()), key=lambda x: x[1])
-        dates = sorted({d for _, d in evs})
-        base = gaz.get(k)
-        ref_lines = {}
-        if base is not None:
-            for l in base['lines']:
-                ref_lines.setdefault(K.wkey(l), l)
-
-        def tidy(u):
-            if u is None:
-                return None
-            lines = [ref_lines.get(K.wkey(l), l) for l in u['lines']]
-            head = base['heading'] if base is not None and K.wkey(base['heading']) == K.wkey(u['heading']) else u['heading']
-            return {**u, 'lines': lines, 'heading': head}
-
-        h = []
-        start = '2011-05-01'
-        if base is not None:
-            b = base
-            if k == 'section-011':
-                # s. 11(1)(a)(ii) and (iii) commence on 1 May 2014 (s. 225(2); DoJ commencement table)
-                b = drop_lines(b, ['(ii) ', '(iii) '], within='(a) ')
-            h.append((start, b, [], 'Government Gazette 32121 (as enacted)'))
-        prev = h[-1][1] if h else None
-        for i, d in enumerate(dates):
-            group = sorted({a for a, dd in evs if dd == d})
-            nxt = dates[i + 1] if i + 1 < len(dates) else None
-            if nxt is None:
-                cand, how = tidy(final.get(k)), f'LawLibrary @2024-12-27 (checked against the DoJ consolidation)'
-            else:
-                o = next((od for od in obs_days if d <= od < nxt), None)
-                if o is not None and k in ll[o]:
-                    cand, how = tidy(ll[o][k]), f'LawLibrary @{o} (Wayback {LL_CAPTURES[o]})'
-                else:
-                    tmpl = prev or final.get(k)
-                    cand = {**tmpl, 'lines': [PLACEHOLDER]}
-                    how = 'no text source'
-                    gaps.append(f'{k} from {d} to {nxt}')
-            h.append((d, cand, group, how))
-            prev = cand
-        if not dates and base is None and k in final:
-            gaps.append(f'{k}: in today\'s text but not in the gazette, and no note names a law')
-            h.append(('2011-05-01', tidy(final[k]), [], 'LawLibrary @2024-12-27'))
-        if not dates and base is not None and k in final:
-            # never amended: is today's text the gazette's?
-            a = [w for l in base['lines'] for w in K.wkey(l)]
-            b2 = [w for l in final[k]['lines'] for w in K.wkey(l)]
-            if a != b2:
-                gaps.append(f'{k}: today\'s text differs from the gazette but no note names a law')
-        hist[k] = h
-    return hist, gaps, raw, doj, gaz, final
+#HISTORY#
 
 
 def drop_lines(u: dict, prefixes: list[str], within: str) -> dict:
