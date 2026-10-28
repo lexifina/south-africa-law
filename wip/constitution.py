@@ -428,6 +428,9 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
         prev[0], prev[1], prev[2] = l['x1'], l['page'], bold
     close_para()
     close_note()
+    # the Preamble's list of aims: one aim per line, as in the 1996 text
+    pre = units['preamble']
+    pre['lines'] = [x for l in pre['lines'] for x in re.split(r'(?<=; and) (?=[A-Z])', l)]
     return units, raw
 
 

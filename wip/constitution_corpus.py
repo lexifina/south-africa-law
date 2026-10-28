@@ -38,6 +38,12 @@ def build():
         laws[k] = {'label': label, 'title': title + (f' ({actno})' if actno else ''), 'kind': 'law',
                    'enacted': enacted, 'published': published, 'url': url, 'temporary_until': None,
                    'restores': None, 'note': None}
+    # Department of Justice amendments poster: the 13th "amends the Constitution ... so as to correct invalid
+    # provisions relating to the re-determination of the provincial boundary between the Eastern Cape and KwaZulu-Natal"
+    laws['a23-2007']['note'] = ('It re-enacted the Eastern Cape and KwaZulu-Natal determinations in Schedule 1A "so as to '
+                                'correct invalid provisions relating to the re-determination of the provincial boundary '
+                                'between the Eastern Cape and KwaZulu-Natal" (Department of Justice). The words of '
+                                'Schedule 1A did not change.')
     starts: dict[str, dict] = {}
     events: dict[str, dict[str, tuple]] = {}
     for k, h in hist.items():
