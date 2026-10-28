@@ -243,6 +243,27 @@ def preamble_of_page(bl: list[dict], literal_labels: bool) -> dict[str, dict]:
     return {'preamble': {'label': 'Preamble', 'num': 'Preamble', 'heading': 'Preamble', 'lines': lines, 'notes': []}}
 
 
+def relabel(u: dict) -> dict:
+    """The GCIS pages often close a lettered list and open a new <ol> without a start number, so the browser (and the
+    markup) restarts at (a). A list only restarts after an introduction ("—" or ":"); otherwise continue the letters."""
+    lines = list(u['lines'])
+    last = None
+    for i, l in enumerate(lines):
+        m = re.match(r'^\(([a-z])\) ', l)
+        prev = lines[i - 1] if i else ''
+        intro = prev.rstrip().endswith(('—', ':', '-')) or re.match(r'^\((?:\d+[A-Z]?)\)', prev) is not None
+        if m:
+            if m.group(1) == 'a' and not intro and last and last != 'h':
+                nxt = chr(ord(last) + 1)
+                lines[i] = f'({nxt}) ' + l[4:]
+                last = nxt
+            else:
+                last = m.group(1)
+        elif re.match(r'^\((\d+[A-Z]?)\) ', l):
+            last = None
+    return {**u, 'lines': lines}
+
+
 def unit_text(u: dict) -> str:
     head = f'# {u["num"]}. {u["heading"]}' if u['label'].startswith('s. ') else f'# {u["heading"]}'
     return '\n'.join([head, *u['lines']]) + '\n'
