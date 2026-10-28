@@ -323,7 +323,8 @@ def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
     def close_para():
         nonlocal para
         if para and cur is not None:
-            cur['lines'].append(norm(_join_wrapped(para, hyphenated)))
+            t = norm(_join_wrapped(para, hyphenated))
+            (cur['notes'] if NOTE.match(t) else cur['lines']).append(t)
         para = None
 
     def close_note():
