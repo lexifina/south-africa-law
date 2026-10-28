@@ -248,6 +248,160 @@ def unit_text(u: dict) -> str:
     return '\n'.join([head, *u['lines']]) + '\n'
 
 
+# ------------------------------------------------------------------ the Department of Justice consolidation (PDF)
+
+JUSTICE_PDF = 'https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf'
+PDF_LABEL = re.compile(r'^\((\d{1,2}[A-Z]?|[a-z]{1,2}|[ivx]{1,5}|[A-Z])\)\s')
+PDF_SEC = re.compile(r'^(\d{1,3}[A-Z]?)\.\s')
+
+
+def _pdf_lines(raw: bytes) -> list[dict]:
+    import fitz
+    doc = fitz.open(stream=raw, filetype='pdf')
+    out = []
+    for pn, page in enumerate(doc):
+        rows: dict[int, list] = {}
+        for b in page.get_text('dict')['blocks']:
+            for l in b.get('lines', []):
+                for s in l['spans']:
+                    if not s['text'].strip():
+                        continue
+                    y = round(s['bbox'][1])
+                    key = next((k for k in rows if abs(k - y) <= 2), y)
+                    rows.setdefault(key, []).append(s)
+        for y in sorted(rows):
+            spans = sorted(rows[y], key=lambda s: s['bbox'][0])
+            f = spans[0]
+            text = ''
+            for s in spans:
+                t = s['text'].replace('\t', ' ')
+                text = (text + ' ' + t) if text and not text.endswith(' ') and not t.startswith(' ') else text + t
+            out.append({'page': pn, 'y': y, 'x': spans[0]['bbox'][0], 'x1': spans[-1]['bbox'][2], 'font': f['font'],
+                        'size': round(f['size'], 1), 'text': re.sub(r'\s+', ' ', text).strip()})
+    return out
+
+
+def _join_wrapped(parts: list[str], hyphenated: set[str]) -> str:
+    s = ''
+    for p in parts:
+        if not s:
+            s = p
+            continue
+        m = re.search(r'(\w+)-$', s)
+        if m and re.match(r'[a-z]', p):
+            nxt = re.match(r'[\w’\']+', p).group()
+            if f'{m.group(1)}-{nxt}'.lower() in hyphenated:
+                s = s + p
+            else:
+                s = s[:-1] + p
+        elif s.endswith('—') or s.endswith('/'):
+            s = s + p
+        else:
+            s = s + ' ' + p
+    return s
+
+
+def justice_units(hyphenated: set[str]) -> tuple[dict[str, dict], bytes]:
+    raw = fetch.fetch(JUSTICE_PDF, offline=True)
+    ls = _pdf_lines(raw)
+    start = next(i for i, l in enumerate(ls) if l['text'].startswith('We, the people of South Africa') and l['page'] > 3)
+    units: dict[str, dict] = {}
+    cur = None
+    pending = None
+    para: list[str] | None = None
+    note: list[str] | None = None
+    in_schedule = None
+
+    def close_para():
+        nonlocal para
+        if para and cur is not None:
+            cur['lines'].append(norm(_join_wrapped(para, hyphenated)))
+        para = None
+
+    def close_note():
+        nonlocal note
+        if note and cur is not None:
+            cur['notes'].append(norm(_join_wrapped(note, hyphenated)))
+        note = None
+
+    cur = {'label': 'Preamble', 'num': 'Preamble', 'heading': 'Preamble', 'lines': [], 'notes': []}
+    units['preamble'] = cur
+    for l in ls[start:]:
+        t, font, size = l['text'], l['font'], l['size']
+        if size == 6.5 and 'Regular' in font:
+            continue                      # running head
+        if l['y'] > 380 and re.fullmatch(r'\d+', t):
+            continue                      # page number
+        if size == 6.0:
+            close_para()
+            if note is None:
+                note = [t]
+            else:
+                note.append(t)
+            if t.rstrip().endswith(']') or t.rstrip().endswith('].'):
+                close_note()
+            continue
+        close_note()
+        if font.startswith('Impact') or (font == 'MyriadPro-Bold' and size == 8.3):
+            close_para()
+            cur = None if cur is None or cur['label'] != 'Preamble' or t.startswith('CHAPTER') else cur
+            if t.startswith('CHAPTER'):
+                cur = None
+            continue
+        m = re.match(r'^SCHEDULE (\d+[A-Z]?)\b', t)
+        if m and 'Bold' in font:
+            close_para()
+            key = 'schedule-' + (m.group(1).zfill(2) if m.group(1).isdigit() else m.group(1)[:-1].zfill(2) + m.group(1)[-1].lower())
+            part = 'sch' + m.group(1).lower()
+            cur = {'label': f'Schedule {m.group(1)}', 'num': f'Schedule {m.group(1)}',
+                   'heading': SCHEDULE_HEADINGS.get(part, f'Schedule {m.group(1)}'), 'lines': [], 'notes': []}
+            units[key] = cur
+            in_schedule = key
+            continue
+        if in_schedule and font == 'MyriadPro-BoldCond' and size == 7.0 and not cur['lines']:
+            continue                      # the schedule's title under "SCHEDULE N"
+        if 'Semibold' in font or ('BoldCond' in font and size >= 7.9):
+            close_para()
+            if in_schedule:
+                cur['lines'].append(norm(t))   # item headings stay in the schedule's text
+                continue
+            pending = norm(t) if pending is None or not para else pending
+            pending = norm(t)
+            continue
+        if cur is not None and cur['label'] == 'Preamble' and font.startswith('MyriadPro-CondIt'):
+            close_para()
+            para = [t]
+            continue
+        m = PDF_SEC.match(t)
+        if m and pending is not None and not in_schedule:
+            close_para()
+            num = m.group(1)
+            key = 'section-' + f'{int(re.match(r"\d+", num).group()):03d}' + (f'-{num[-1].lower()}' if num[-1].isalpha() else '')
+            cur = {'label': f's. {num}', 'num': num, 'heading': pending, 'lines': [], 'notes': []}
+            units[key] = cur
+            pending = None
+            rest = t[m.end():].strip()
+            if rest:
+                para = [rest]
+            continue
+        if pending is not None and in_schedule is None and cur is not None and cur['label'] != 'Preamble':
+            # a heading inside a section (e.g. "Table of Non-Derogable Rights")
+            cur['lines'].append(pending)
+            pending = None
+        if cur is None:
+            continue
+        if PDF_LABEL.match(t) or (in_schedule and re.match(r'^\d+[A-Z]?\.\s', t)) or t.startswith('–'):
+            close_para()
+            para = [t]
+        elif para is None:
+            para = [t]
+        else:
+            para.append(t)
+    close_para()
+    close_note()
+    return units, raw
+
+
 # ------------------------------------------------------------------ reading every source
 
 def original() -> dict[str, dict]:
