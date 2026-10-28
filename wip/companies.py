@@ -174,7 +174,7 @@ def doj_sections() -> dict[str, dict]:
             for m in re.finditer(r'Act (\d+) of (\d{4})(?: \(wef ([^)]+)\))?', n):
                 key = f'{m.group(1)}/{m.group(2)}'
                 if key in AMENDING and m.group(3):
-                    for d in re.findall(r'\d{1,2} \w+ \d{4}', m.group(3)):
+                    for d in re.findall(r'\d{1,2} (?:' + '|'.join(MONTHS) + r') \d{4}', m.group(3)):
                         evs.add((AMENDING[key][0], iso(d)))
         u['events'] = evs
         body_txt = re.sub(r'\[[^\[\]]*\]', ' ', txt)
