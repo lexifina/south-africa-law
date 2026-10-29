@@ -12,6 +12,8 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `popia/` | Protection of Personal Information Act 4 of 2013 | 7 | Each staged commencement: 11 April 2014, 1 July 2020, 30 June 2021, and the deferred application of s. 58(2) from 1 February 2022 |
 | `companies-act/` | Companies Act 71 of 2008 | 9 | From its commencement (1 May 2011) through Act 3 of 2011, the Financial Markets Act 19 of 2012, Act 22 of 2022, Act 23 of 2021 and Acts 16 and 17 of 2024 (27 December 2024) |
 
+**Principal Acts as enacted (added 2026-11-03).** Every principal Act listed on gov.za (www.gov.za/documents/acts) whose Government Gazette PDF has a text layer that two PDF readers agree on is also here, in its own folder named after its short title and year (`railway-safety-act-2024/`): its text as enacted, from the English pages, credited to the Act itself and dated the day the gazette published it. These are the oldest versions available, not current texts: later amendments, repeals and commencement by proclamation are not tracked for them yet. Amending, appropriation and revenue-division Acts are not separate folders. Scans (with or without an OCR layer) are left out.
+
 ## A lawyer's questions as git commands
 
 | Question | Command |
@@ -62,7 +64,7 @@ The author of a commit is the law that made the change, with an e-mail address t
 - **Section and Chapter headings, parts and Chapter titles** are not separate files. Each Schedule is one file.
 - **Companies Act gaps.** No source gives the wording between 1 May 2011 and 3 June 2013 of ss. 5, 69 and 116 or of six definitions in s. 1 that the Financial Markets Act replaced (LawLibrary has no complete capture for that period); they read "[The source does not give the text in force on this date.]" for that period. Provisions of Act 16 of 2024 that are not yet in operation are not shown.
 - **Companies Act sources.** The Act as enacted is the gazette; today's words are the Department of Justice consolidation; wordings between amendments are LawLibrary's point-in-time texts (Internet Archive), whose text of this Act was made by OCR, so a line that differs from the official text only by a known misreading takes the official line.
-- **Other acts.** The Criminal Procedure Act 51 of 1977 is the next act planned.
+- **Other acts.** Principal Acts other than those with a history above are their gazette text as enacted only; scanned gazettes are not included (this record uses no OCR).
 - **Court orders.** Declarations of invalidity by the Constitutional Court are not commits unless an amendment Act changed the words.
 
 ## How it is built
