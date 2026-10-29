@@ -1,0 +1,24 @@
+The legal texts are official texts of the Republic of South Africa. Under the Copyright Act 98 of 1978, s. 12(8)(a),
+"No copyright shall subsist in official texts of a legislative, administrative or legal nature".
+
+They were taken from:
+
+  Department of Justice and Constitutional Development, www.justice.gov.za (retrieved 28 October 2026);
+  Government Communication and Information System (GCIS), www.gov.za and info.gov.za (retrieved 28 October 2026,
+  older pages through the Internet Archive);
+  Information Regulator, inforegulator.org.za (retrieved 28 October 2026);
+  LawLibrary (lawlibrary.org.za, Laws.Africa and AfricanLII), CC BY-NC 4.0, read only through Internet Archive
+  captures and used only where no government source gives a wording (listed in REPRODUCE.md).
+
+The terms of justice.gov.za and gov.za allow their content to be copied and distributed for non-commercial
+informational or reference purposes. LawLibrary content is licensed CC BY-NC 4.0
+(https://creativecommons.org/licenses/by-nc/4.0/); attribution: LawLibrary (lawlibrary.org.za).
+
+Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per line;
+spacing, quotes and dashes were normalised; amendment notes were removed from the text and used only to credit the
+amending law; and the versions were arranged as git commits credited to the laws that made each change. The wording of
+the law was not changed. None of the sources endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

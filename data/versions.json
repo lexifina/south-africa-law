@@ -1,0 +1,391 @@
+{
+ "country": "ZA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution of the Republic of South Africa, 1996",
+   "url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+   "versions": [
+    {
+     "from": "1997-02-04",
+     "units": 241,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "1997-02-04",
+     "units": 241,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "1997-02-04",
+     "units": 241,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "1997-06-30",
+     "units": 241,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "1998-01-01",
+     "units": 251,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "1998-10-07",
+     "units": 251,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "1998-10-30",
+     "units": 251,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "1999-03-19",
+     "units": 251,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "2001-11-21",
+     "units": 252,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "2002-04-26",
+     "units": 252,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "2002-06-20",
+     "units": 253,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "2003-03-20",
+     "units": 254,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "2003-07-11",
+     "units": 254,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "2003-12-01",
+     "units": 254,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "2005-12-23",
+     "units": 254,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "2006-03-01",
+     "units": 255,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "2007-12-14",
+     "units": 255,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "2009-04-03",
+     "units": 255,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "2009-04-17",
+     "units": 253,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "2013-08-23",
+     "units": 253,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    },
+    {
+     "from": "2026-06-26",
+     "units": 253,
+     "source_url": "https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf",
+     "sha256": "11b3eccf1533f9e432b4140a0592158b5dc553bb6fd56c63f9899d5e2f3ebe1b"
+    }
+   ]
+  },
+  {
+   "slug": "popia",
+   "short": "POPIA",
+   "title": "Protection of Personal Information Act 4 of 2013",
+   "url": "https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013popi.pdf",
+   "versions": [
+    {
+     "from": "2014-04-11",
+     "units": 20,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013popi.pdf",
+     "sha256": "148e8d014a41926f2c4c596074a1dd5f7b75735fcd3e8b7ae5edfadbb7f5d212"
+    },
+    {
+     "from": "2014-04-11",
+     "units": 20,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013popi.pdf",
+     "sha256": "148e8d014a41926f2c4c596074a1dd5f7b75735fcd3e8b7ae5edfadbb7f5d212"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 114,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013popi.pdf",
+     "sha256": "148e8d014a41926f2c4c596074a1dd5f7b75735fcd3e8b7ae5edfadbb7f5d212"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 114,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013popi.pdf",
+     "sha256": "148e8d014a41926f2c4c596074a1dd5f7b75735fcd3e8b7ae5edfadbb7f5d212"
+    },
+    {
+     "from": "2021-06-30",
+     "units": 116,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013popi.pdf",
+     "sha256": "148e8d014a41926f2c4c596074a1dd5f7b75735fcd3e8b7ae5edfadbb7f5d212"
+    },
+    {
+     "from": "2021-06-30",
+     "units": 116,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013popi.pdf",
+     "sha256": "148e8d014a41926f2c4c596074a1dd5f7b75735fcd3e8b7ae5edfadbb7f5d212"
+    },
+    {
+     "from": "2022-02-01",
+     "units": 116,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2013-004.pdf",
+     "sha256": "148e8d014a41926f2c4c596074a1dd5f7b75735fcd3e8b7ae5edfadbb7f5d212"
+    }
+   ]
+  },
+  {
+   "slug": "companies-act",
+   "short": "Companies Act",
+   "title": "Companies Act 71 of 2008",
+   "url": "https://www.gov.za/sites/default/files/gcis_document/201409/321214210.pdf",
+   "versions": [
+    {
+     "from": "2011-05-01",
+     "units": 230,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/321214210.pdf",
+     "sha256": "6387b2fd4f52a2c71997efbb3b0114f7bcd393cee991255bd73a404d7c85dd40"
+    },
+    {
+     "from": "2011-05-01",
+     "units": 230,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/321214210.pdf",
+     "sha256": "6387b2fd4f52a2c71997efbb3b0114f7bcd393cee991255bd73a404d7c85dd40"
+    },
+    {
+     "from": "2011-05-01",
+     "units": 230,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2008-071.pdf",
+     "sha256": "6387b2fd4f52a2c71997efbb3b0114f7bcd393cee991255bd73a404d7c85dd40"
+    },
+    {
+     "from": "2013-06-03",
+     "units": 230,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2008-071.pdf",
+     "sha256": "6387b2fd4f52a2c71997efbb3b0114f7bcd393cee991255bd73a404d7c85dd40"
+    },
+    {
+     "from": "2014-05-01",
+     "units": 230,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2008-071.pdf",
+     "sha256": "6387b2fd4f52a2c71997efbb3b0114f7bcd393cee991255bd73a404d7c85dd40"
+    },
+    {
+     "from": "2022-12-31",
+     "units": 230,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2008-071.pdf",
+     "sha256": "6387b2fd4f52a2c71997efbb3b0114f7bcd393cee991255bd73a404d7c85dd40"
+    },
+    {
+     "from": "2023-04-01",
+     "units": 230,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2008-071.pdf",
+     "sha256": "6387b2fd4f52a2c71997efbb3b0114f7bcd393cee991255bd73a404d7c85dd40"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 230,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2008-071.pdf",
+     "sha256": "6387b2fd4f52a2c71997efbb3b0114f7bcd393cee991255bd73a404d7c85dd40"
+    },
+    {
+     "from": "2024-12-27",
+     "units": 230,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2008-071.pdf",
+     "sha256": "6387b2fd4f52a2c71997efbb3b0114f7bcd393cee991255bd73a404d7c85dd40"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-procedure-act",
+   "short": "CPA",
+   "title": "Criminal Procedure Act, 1977",
+   "url": "https://www.justice.gov.za/legislation/acts/1977-051.pdf",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 417,
+     "source_url": "https://www.justice.gov.za/legislation/acts/1977-051.pdf",
+     "sha256": "aeefd619ddece43258c3cdbaa361ce4c21570f8a3eaf0543fea14f3ef32e4b6c"
+    }
+   ]
+  },
+  {
+   "slug": "paia",
+   "short": "PAIA",
+   "title": "Promotion of Access to Information Act, 2000",
+   "url": "https://www.justice.gov.za/legislation/acts/2000-002.pdf",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 107,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2000-002.pdf",
+     "sha256": "e0a25ec5cf44ad8c42cf8f748a3a55d433a3ffc360e52dce8073254816373d11"
+    }
+   ]
+  },
+  {
+   "slug": "paja",
+   "short": "PAJA",
+   "title": "Promotion of Administrative Justice Act, 2000",
+   "url": "https://www.justice.gov.za/legislation/acts/2000-003.pdf",
+   "versions": [
+    {
+     "from": "2017-08-02",
+     "units": 14,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2000-003.pdf",
+     "sha256": "8d2a4982ce4b9282924bd38533763c1c888b1dcdc38fb2a542af04ed476fa197"
+    }
+   ]
+  },
+  {
+   "slug": "pepuda",
+   "short": "PEPUDA",
+   "title": "Promotion of Equality and Prevention of Unfair Discrimination Act, 2000",
+   "url": "https://www.justice.gov.za/legislation/acts/2000-004.pdf",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 37,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2000-004.pdf",
+     "sha256": "deb02572f434c724e5faa71c052ee2a9b5720d51716468af1168ff4a59633109"
+    }
+   ]
+  },
+  {
+   "slug": "superior-courts-act",
+   "short": "SCA",
+   "title": "Superior Courts Act, 2013",
+   "url": "https://www.justice.gov.za/legislation/acts/2013-010.pdf",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 63,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2013-010.pdf",
+     "sha256": "05006fe2b9b4c4c5d0ccd172da5b717235dbcfba7e5d009720f777448ee21dc7"
+    }
+   ]
+  },
+  {
+   "slug": "magistrates-courts-act",
+   "short": "MCA",
+   "title": "Magistrates' Courts Act, 1944",
+   "url": "https://www.justice.gov.za/legislation/acts/1944-032.pdf",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 170,
+     "source_url": "https://www.justice.gov.za/legislation/acts/1944-032.pdf",
+     "sha256": "8fc73a5e04ce5c5b178de84fbeaa49ddf6d149115f0f8544eadc99178a26082f"
+    }
+   ]
+  },
+  {
+   "slug": "prescription-act",
+   "short": "PA",
+   "title": "Prescription Act, 1969",
+   "url": "https://www.justice.gov.za/legislation/acts/1969-068.pdf",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 25,
+     "source_url": "https://www.justice.gov.za/legislation/acts/1969-068.pdf",
+     "sha256": "1d81c90de606fc46729c3746c7b79d32664eb19ed8c23cf6666aa8eef361dc89"
+    }
+   ]
+  },
+  {
+   "slug": "sexual-offences-act",
+   "short": "SORMA",
+   "title": "Criminal Law (Sexual Offences and Related Matters) Amendment Act, 2007",
+   "url": "https://www.justice.gov.za/legislation/acts/2007-032.pdf",
+   "versions": [
+    {
+     "from": "2024-04-03",
+     "units": 82,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2007-032.pdf",
+     "sha256": "9385f0cc820e0a694786965dd88fae8c785a96119735cf8813c8faf1c7fc13b6"
+    }
+   ]
+  },
+  {
+   "slug": "legal-practice-act",
+   "short": "LPA",
+   "title": "Legal Practice Act, 2014",
+   "url": "https://www.justice.gov.za/legislation/acts/2014-028.pdf",
+   "versions": [
+    {
+     "from": "2023-05-26",
+     "units": 122,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2014-028.pdf",
+     "sha256": "72317c40ca2f4730cf92436f3510275f614bb952d8723fa038afb9cb90387526"
+    }
+   ]
+  },
+  {
+   "slug": "child-justice-act",
+   "short": "CJA",
+   "title": "Child Justice Act, 2008",
+   "url": "https://www.justice.gov.za/legislation/acts/2008-075_childjustice.pdf",
+   "versions": [
+    {
+     "from": "2022-08-19",
+     "units": 106,
+     "source_url": "https://www.justice.gov.za/legislation/acts/2008-075_childjustice.pdf",
+     "sha256": "80e8cb7bd013548a243ceca8e5fde37f7342005ffe469672ad38b324d40a6fb7"
+    }
+   ]
+  }
+ ]
+}
