@@ -1,6 +1,6 @@
 # How this repository was made (South Africa)
 
-This file is written by the build on 2026-10-29, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
@@ -16,6 +16,7 @@ This file is written by the build on 2026-10-29, the day the source data was ret
 | Department of Justice consolidation of the Companies Act | <https://www.justice.gov.za/legislation/acts/2008-071.pdf> | 2026-10-28 | justice.gov.za terms: non-commercial informational or reference use. |
 | LawLibrary (Laws.Africa), Wayback captures only | <https://lawlibrary.org.za/akn/za/act/2008/71/eng@2014-05-01> | 2026-10-28 | CC BY-NC 4.0; attribution: LawLibrary (lawlibrary.org.za) |
 | Department of Justice and Constitutional Development: consolidated Acts | <https://www.justice.gov.za/legislation/acts/acts_full.html> | 2026-10-29 | justice.gov.za terms: non-commercial informational or reference use; Copyright Act 98 of 1978 s. 12(8)(a): no copyright in official legislative texts. |
+| South African Government (gov.za): Acts as published in the Government Gazette | <https://www.gov.za/documents/acts> | 2026-11-03 | gov.za terms: non-commercial informational or reference use; Copyright Act 98 of 1978 s. 12(8)(a): no copyright in official texts of a legislative nature. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -36,20 +37,201 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `sexual-offences-act` | Criminal Law (Sexual Offences and Related Matters) Amendment Act, 2007 | 1 | 2024-04-03 to 2024-04-03 |
 | `legal-practice-act` | Legal Practice Act, 2014 | 1 | 2023-05-26 to 2023-05-26 |
 | `child-justice-act` | Child Justice Act, 2008 | 1 | 2022-08-19 to 2022-08-19 |
+| `finance-act-1993` | Finance Act | 1 | 1993-07-02 to 1993-07-02 |
+| `nuclear-energy-act-1993` | Nuclear Energy Act | 1 | 1993-10-06 to 1993-10-06 |
+| `second-unauthorised-expenditure-act-1993` | Second Unauthorised Expenditure Act | 1 | 1993-12-15 to 1993-12-15 |
+| `labour-relations-act-1995` | Labour Relations Act | 1 | 1995-12-13 to 1995-12-13 |
+| `south-african-olympic-hostings-act-1997` | South African Olympic Hostings Act | 1 | 1997-09-03 to 1997-09-03 |
+| `abolition-of-corporal-punishment-act-1997` | Abolition of Corporal Punishment Act | 1 | 1997-09-05 to 1997-09-05 |
+| `south-african-revenue-service-act-1997` | South African Revenue Service Act | 1 | 1997-09-05 to 1997-09-05 |
+| `counterfeit-goods-act-1997` | Counterfeit Goods Act | 1 | 1997-10-01 to 1997-10-01 |
+| `extension-of-terms-of-office-of-members-of-certain-councils-act-1997` | Extension of Terms of Office of Members of Certain Councils Act | 1 | 1997-10-03 to 1997-10-03 |
+| `public-service-commission-act-1997` | Public Service Commission Act | 1 | 1997-10-03 to 1997-10-03 |
+| `abolition-of-public-administration-commissions-act-1997` | Abolition of Public Administration Commissions Act | 1 | 1997-10-03 to 1997-10-03 |
+| `marriage-act-extension-act-1997` | Marriage Act, Extension Act | 1 | 1997-11-12 to 1997-11-12 |
+| `environmental-laws-rationalisation-act-1997` | Environmental Laws Rationalisation Act | 1 | 1997-11-12 to 1997-11-12 |
+| `organised-local-government-act-1997` | Organised Local Government Act | 1 | 1997-11-12 to 1997-11-12 |
+| `national-arts-council-act-1997` | National Arts Council Act | 1 | 1997-11-14 to 1997-11-14 |
+| `lotteries-act-1997` | Lotteries Act | 1 | 1997-11-14 to 1997-11-14 |
+| `state-of-emergency-act-1997` | State of Emergency Act | 1 | 1997-11-21 to 1997-11-21 |
+| `contingency-fees-act-1997` | Contingency Fees Act | 1 | 1997-11-21 to 1997-11-21 |
+| `identification-act-1997` | Identification Act | 1 | 1997-12-03 to 1997-12-03 |
+| `nonprofit-organisations-act-1997` | Nonprofit Organisations Act | 1 | 1997-12-03 to 1997-12-03 |
+| `national-film-and-video-foundation-act-1997` | National Film and Video Foundation Act | 1 | 1997-12-03 to 1997-12-03 |
+| `intergovernmental-fiscal-relations-act-1997` | Intergovernmental Fiscal Relations Act | 1 | 1997-12-17 to 1997-12-17 |
+| `housing-act-1997` | Housing Act | 1 | 1997-12-19 to 1997-12-19 |
+| `financial-and-fiscal-commission-act-1997` | Financial and Fiscal Commission Act | 1 | 1997-12-19 to 1997-12-19 |
+| `department-of-communications-rationalisation-act-1998` | Department of Communications Rationalisation Act | 1 | 1998-03-31 to 1998-03-31 |
+| `cross-border-road-transport-act-1998` | Cross-Border Road Transport Act | 1 | 1998-03-31 to 1998-03-31 |
+| `south-african-maritime-safety-authority-levies-act-1998` | South African Maritime Safety Authority Levies Act | 1 | 1998-03-31 to 1998-03-31 |
+| `south-african-national-roads-agency-limited-and-national-roads-act-1998` | South African National Roads Agency Limited and National Roads Act | 1 | 1998-03-31 to 1998-03-31 |
+| `regulation-of-foreign-military-assistance-act-1998` | Regulation of Foreign Military Assistance Act | 1 | 1998-05-20 to 1998-05-20 |
+| `marine-living-resources-act-1998` | Marine Living Resources Act | 1 | 1998-05-27 to 1998-05-27 |
+| `prevention-of-illegal-eviction-from-and-unlawful-occupation-of-land-act-1998` | Prevention of Illegal Eviction from and Unlawful Occupation of Land Act | 1 | 1998-06-05 to 1998-06-05 |
+| `national-research-foundation-act-1998` | National Research Foundation Act | 1 | 1998-07-03 to 1998-07-03 |
+| `national-prosecuting-authority-act-1998` | National Prosecuting Authority Act | 1 | 1998-07-03 to 1998-07-03 |
+| `south-african-civil-aviation-authority-act-1998` | South African Civil Aviation Authority Act | 1 | 1998-09-04 to 1998-09-04 |
+| `south-african-civil-aviation-authority-levies-act-1998` | South African Civil Aviation Authority Levies Act | 1 | 1998-09-04 to 1998-09-04 |
+| `sterilisation-act-1998` | Sterilisation Act | 1 | 1998-09-04 to 1998-09-04 |
+| `national-land-transport-interim-arrangements-act-1998` | National Land Transport Interim Arrangements Act | 1 | 1998-09-11 to 1998-09-11 |
+| `administrative-adjudication-of-road-traffic-offences-act-1998` | Administrative Adjudication of Road Traffic Offences Act | 1 | 1998-09-11 to 1998-09-11 |
+| `road-traffic-laws-rationalisation-act-1998` | Road Traffic Laws Rationalisation Act | 1 | 1998-09-11 to 1998-09-11 |
+| `remuneration-of-public-office-bearers-act-1998` | Remuneration of Public Office Bearers Act | 1 | 1998-09-23 to 1998-09-23 |
+| `short-term-insurance-act-1998` | Short-term Insurance Act | 1 | 1998-09-23 to 1998-09-23 |
+| `inherited-debt-relief-act-1998` | Inherited Debt Relief Act | 1 | 1998-09-23 to 1998-09-23 |
+| `employment-of-educators-act-1998` | Employment of Educators Act | 1 | 1998-10-02 to 1998-10-02 |
+| `determination-of-delegates-national-council-of-provinces-act-1998` | Determination of Delegates (National Council of Provinces) Act | 1 | 1998-10-07 to 1998-10-07 |
+| `road-accident-fund-commission-act-1998` | Road Accident Fund Commission Act | 1 | 1998-10-07 to 1998-10-07 |
+| `agricultural-laws-rationalisation-act-1998` | Agricultural Laws Rationalisation Act | 1 | 1998-10-07 to 1998-10-07 |
+| `port-of-ngqura-establishment-act-1998` | Port of Ngqura Establishment Act | 1 | 1998-10-28 to 1998-10-28 |
+| `national-payment-system-act-1998` | National Payment System Act | 1 | 1998-10-28 to 1998-10-28 |
+| `reconstruction-and-development-programme-fund-act-1998` | Reconstruction and Development Programme Fund Act | 1 | 1998-10-28 to 1998-10-28 |
+| `inspection-of-financial-institutions-act-1998` | Inspection of Financial Institutions Act | 1 | 1998-10-28 to 1998-10-28 |
+| `executive-members-ethics-act-1998` | Executive Members' Ethics Act | 1 | 1998-10-28 to 1998-10-28 |
+| `the-south-african-library-for-the-blind-act-1998` | The South African Library for the Blind Act | 1 | 1998-11-02 to 1998-11-02 |
+| `the-national-library-of-south-africa-act-1998` | The National Library of South Africa Act | 1 | 1998-11-02 to 1998-11-02 |
+| `transformation-of-certain-rural-areas-act-1998` | Transformation of Certain Rural Areas Act | 1 | 1998-11-02 to 1998-11-02 |
+| `national-development-agency-act-1998` | National Development Agency Act | 1 | 1998-11-27 to 1998-11-27 |
+| `witness-protection-act-1998` | Witness Protection Act | 1 | 1998-11-27 to 1998-11-27 |
+| `debt-collectors-act-1998` | Debt Collectors Act | 1 | 1998-11-27 to 1998-11-27 |
+| `maintenance-act-1998` | Maintenance Act | 1 | 1998-11-27 to 1998-11-27 |
+| `domestic-violence-act-1998` | Domestic Violence Act | 1 | 1998-12-02 to 1998-12-02 |
+| `south-african-geographical-names-council-act-1998` | South African Geographical Names Council Act | 1 | 1998-12-02 to 1998-12-02 |
+| `medical-schemes-act-1998` | Medical Schemes Act | 1 | 1998-12-02 to 1998-12-02 |
+| `national-sport-and-recreation-act-1998` | National Sport and Recreation Act | 1 | 1998-12-04 to 1998-12-04 |
+| `cultural-institutions-act-1998` | Cultural Institutions Act | 1 | 1998-12-04 to 1998-12-04 |
+| `conversion-of-sasria-act-1998` | Conversion of SASRIA Act | 1 | 1998-12-04 to 1998-12-04 |
+| `military-discipline-supplementary-measures-act-1999` | Military Discipline Supplementary Measures Act | 1 | 1999-04-23 to 1999-04-23 |
+| `onderstepoort-biological-products-incorporation-act-1999` | Onderstepoort Biological Products Incorporation Act | 1 | 1999-04-23 to 1999-04-23 |
+| `road-traffic-management-corporation-act-1999` | Road Traffic Management Corporation Act | 1 | 1999-04-28 to 1999-04-28 |
+| `national-heritage-resources-act-1999` | National Heritage Resources Act | 1 | 1999-04-28 to 1999-04-28 |
+| `skills-development-levies-act-1999` | Skills Development Levies Act | 1 | 1999-04-30 to 1999-04-30 |
+| `abolition-of-certain-title-conditions-act-1999` | Abolition of Certain Title Conditions Act | 1 | 1999-11-24 to 1999-11-24 |
+| `disestablishment-of-the-local-government-affairs-council-act-1999` | Disestablishment of the Local Government Affairs Council Act | 1 | 1999-12-06 to 1999-12-06 |
+| `world-heritage-convention-act-1999` | World Heritage Convention Act | 1 | 1999-12-09 to 1999-12-09 |
+| `rental-housing-act-1999` | Rental Housing Act | 1 | 1999-12-15 to 1999-12-15 |
+| `preferential-procurement-policy-framework-act-2000` | Preferential Procurement Policy Framework Act | 1 | 2000-02-03 to 2000-02-03 |
+| `south-african-airways-unallocatable-debt-act-2000` | South African Airways Unallocatable Debt Act | 1 | 2000-03-17 to 2000-03-17 |
+| `independent-communications-authority-of-south-africa-act-2000` | Independent Communications Authority of South Africa Act | 1 | 2000-05-05 to 2000-05-05 |
+| `protected-disclosures-act-2000` | Protected Disclosures Act | 1 | 2000-08-07 to 2000-08-07 |
+| `african-renaissance-and-international-co-operation-fund-act-2000` | African Renaissance and International Co-operation Fund Act | 1 | 2000-11-24 to 2000-11-24 |
+| `council-for-the-built-environment-act-2000` | Council for the Built Environment Act | 1 | 2000-12-01 to 2000-12-01 |
+| `project-and-construction-management-professions-act-2000` | Project and Construction Management Professions Act | 1 | 2000-12-01 to 2000-12-01 |
+| `national-health-laboratory-service-act-2000` | National Health Laboratory Service Act | 1 | 2000-12-13 to 2000-12-13 |
+| `council-for-medical-schemes-levies-act-2000` | Council for Medical Schemes Levies Act | 1 | 2000-12-13 to 2000-12-13 |
+| `sea-transport-documents-act-2000` | Sea Transport Documents Act | 1 | 2000-12-13 to 2000-12-13 |
+| `abolition-of-lebowa-mineral-trust-act-2000` | Abolition of Lebowa Mineral Trust Act | 1 | 2000-12-13 to 2000-12-13 |
+| `south-african-rail-commuter-corporation-limited-financial-arrangements-act-2000` | South African Rail Commuter Corporation Limited Financial Arrangements Act | 1 | 2000-12-15 to 2000-12-15 |
+| `disestablishment-of-south-african-housing-trust-limited-act-2002` | Disestablishment of South African Housing Trust Limited Act | 1 | 2002-12-05 to 2002-12-05 |
+| `public-investment-corporation-act-2004` | Public Investment Corporation Act | 1 | 2004-12-14 to 2004-12-14 |
+| `public-audit-act-2004` | Public Audit Act | 1 | 2004-12-20 to 2004-12-20 |
+| `petroleum-pipelines-levies-act-2004` | Petroleum Pipelines Levies Act | 1 | 2004-12-20 to 2004-12-20 |
+| `traditional-health-practitioners-act-2004` | Traditional Health Practitioners Act | 1 | 2005-02-11 to 2005-02-11 |
+| `national-environment-management-air-quality-act-2004` | National Environment Management: Air Quality Act | 1 | 2005-02-24 to 2005-02-24 |
+| `national-energy-regulator-act-2004` | National Energy Regulator Act | 1 | 2005-04-06 to 2005-04-06 |
+| `citation-of-constitutional-laws-act-2005` | Citation of Constitutional Laws Act | 1 | 2005-06-27 to 2005-06-27 |
+| `intergovernmental-relations-framework-act-2005` | Intergovernmental Relations Framework Act | 1 | 2005-08-15 to 2005-08-15 |
+| `auditing-profession-act-2005` | Auditing Profession Act | 1 | 2006-01-16 to 2006-01-16 |
+| `national-credit-act-2005` | National Credit Act | 1 | 2006-03-15 to 2006-03-15 |
+| `electronic-communications-act-2005` | Electronic Communications Act | 1 | 2006-04-18 to 2006-04-18 |
+| `precious-metals-act-2005` | Precious Metals Act | 1 | 2006-04-21 to 2006-04-21 |
+| `nursing-act-2005` | Nursing Act | 1 | 2006-05-29 to 2006-05-29 |
+| `2010-fifa-world-cup-south-africa-special-measures-act-2006` | 2010 FIFA World Cup South Africa Special Measures Act | 1 | 2006-09-07 to 2006-09-07 |
+| `second-2010-fifa-world-cup-south-africa-special-measures-act-2006` | Second 2010 FIFA World Cup South Africa Special Measures Act | 1 | 2006-09-07 to 2006-09-07 |
+| `older-persons-act-2006` | Older Persons Act | 1 | 2006-11-02 to 2006-11-02 |
+| `civil-union-act-2006` | Civil Union Act | 1 | 2006-11-17 to 2006-11-17 |
+| `continuing-education-and-training-act-previously-known-as-further-education-and-training-colleges-act-2006` | Continuing Education and Training Act (previously known as Further Education and Training Colleges Act) | 1 | 2006-12-11 to 2006-12-11 |
+| `accreditation-for-conformity-assessment-calibration-and-good-laboratory-practice-act-2006` | Accreditation for Conformity Assessment, Calibration and Good Laboratory Practice Act | 1 | 2007-03-16 to 2007-03-16 |
+| `finance-act-2007` | Finance Act | 1 | 2007-03-31 to 2007-03-31 |
+| `astronomy-geographic-advantage-act-2007` | Astronomy Geographic Advantage Act | 1 | 2008-06-17 to 2008-06-17 |
+| `national-qualifications-framework-act-2008` | National Qualifications Framework Act | 1 | 2009-02-17 to 2009-02-17 |
+| `second-hand-goods-act-2009` | Second-Hand Goods Act | 1 | 2009-04-01 to 2009-04-01 |
+| `prevention-of-and-treatment-for-substance-abuse-act-2008` | Prevention of and Treatment for Substance Abuse Act | 1 | 2009-04-21 to 2009-04-21 |
+| `financial-management-of-parliament-act-2009` | Financial Management of Parliament Act | 1 | 2009-04-21 to 2009-04-21 |
+| `reform-of-customary-law-of-succession-and-regulation-of-related-matters-act-2009` | Reform of Customary Law of Succession and Regulation of Related Matters Act | 1 | 2009-04-21 to 2009-04-21 |
+| `western-cape-inherited-debt-relief-act-2009` | Western Cape Inherited Debt Relief Act | 1 | 2009-04-21 to 2009-04-21 |
+| `consumer-protection-act-2008` | Consumer Protection Act | 1 | 2009-04-29 to 2009-04-29 |
+| `community-schemes-ombud-service-act-2011` | Community Schemes Ombud Service Act | 1 | 2011-06-14 to 2011-06-14 |
+| `road-accident-fund-transitional-provisions-act-2012` | Road Accident Fund (Transitional Provisions) Act | 1 | 2012-12-10 to 2012-12-10 |
+| `credit-rating-services-act-2012` | Credit Rating Services Act | 1 | 2013-01-14 to 2013-01-14 |
+| `dangerous-weapons-act-2013` | Dangerous Weapons Act | 1 | 2013-07-24 to 2013-07-24 |
+| `prevention-of-combating-and-torture-of-persons-act-2013` | Prevention of Combating and Torture of Persons Act | 1 | 2013-07-29 to 2013-07-29 |
+| `prevention-and-combating-of-trafficking-in-persons-act-2013` | Prevention and Combating of Trafficking in Persons Act | 1 | 2013-07-30 to 2013-07-30 |
+| `spatial-planning-and-land-use-management-act-2013` | Spatial Planning and Land Use Management Act | 1 | 2013-08-05 to 2013-08-05 |
+| `geomatics-profession-act-2013` | Geomatics Profession Act | 1 | 2013-12-10 to 2013-12-10 |
+| `merchant-shipping-international-oil-pollution-compensation-fund-act-2013` | Merchant Shipping (International Oil Pollution Compensation Fund) Act | 1 | 2013-12-10 to 2013-12-10 |
+| `merchant-shipping-civil-liability-convention-act-2013` | Merchant Shipping (Civil Liability Convention) Act | 1 | 2013-12-10 to 2013-12-10 |
+| `employment-tax-incentive-act-2013` | Employment Tax Incentive Act | 1 | 2013-12-18 to 2013-12-18 |
+| `merchant-shipping-international-oil-pollution-compensation-fund-administration-act-2013` | Merchant Shipping (International Oil Pollution Compensation Fund) Administration Act | 1 | 2013-12-18 to 2013-12-18 |
+| `merchant-shipping-international-oil-pollution-compensation-fund-contributions-act-2013` | Merchant Shipping (International Oil Pollution Compensation Fund) Contributions Act | 1 | 2014-01-08 to 2014-01-08 |
+| `south-african-human-rights-commission-act-2013` | South African Human Rights Commission Act | 1 | 2014-01-22 to 2014-01-22 |
+| `tourism-act-2014` | Tourism Act | 1 | 2014-04-07 to 2014-04-07 |
+| `employment-services-act-2014` | Employment Services Act | 1 | 2014-04-07 to 2014-04-07 |
+| `special-economic-zones-act-2014` | Special Economic Zones Act | 1 | 2014-05-19 to 2014-05-19 |
+| `south-african-language-practitioners-council-act-2014` | South African Language Practitioners' Council Act | 1 | 2014-05-19 to 2014-05-19 |
+| `legal-metrology-act-2014` | Legal Metrology Act | 1 | 2014-05-19 to 2014-05-19 |
+| `infrastructure-development-act-2014` | Infrastructure Development Act | 1 | 2014-06-02 to 2014-06-02 |
+| `property-valuation-act-2014` | Property Valuation Act | 1 | 2014-07-01 to 2014-07-01 |
+| `customs-duty-act-2014` | Customs Duty Act | 1 | 2014-07-10 to 2014-07-10 |
+| `customs-control-act-2014` | Customs Control Act | 1 | 2014-07-23 to 2014-07-23 |
+| `legal-aid-south-africa-act-2014` | Legal Aid South Africa Act | 1 | 2014-12-09 to 2014-12-09 |
+| `public-administration-management-act-2014` | Public Administration Management Act | 1 | 2014-12-22 to 2014-12-22 |
+| `agrement-south-africa-act-2015` | Agrément South Africa Act | 1 | 2015-12-15 to 2015-12-15 |
+| `finance-act-2015` | Finance Act | 1 | 2015-12-15 to 2015-12-15 |
+| `protection-of-investment-act-2015` | Protection of Investment Act | 1 | 2015-12-15 to 2015-12-15 |
+| `finance-act-2016` | Finance Act | 1 | 2017-01-19 to 2017-01-19 |
+| `justice-administered-fund-act-2017` | Justice Administered Fund Act | 1 | 2017-04-06 to 2017-04-06 |
+| `international-arbitration-act-2017` | International Arbitration Act | 1 | 2017-12-20 to 2017-12-20 |
+| `insurance-act-2017` | Insurance Act | 1 | 2018-01-18 to 2018-01-18 |
+| `national-minimum-wage-act-2018` | National Minimum Wage Act | 1 | 2018-11-27 to 2018-11-27 |
+| `political-party-funding-act-2018` | Political Party Funding Act | 1 | 2019-01-23 to 2019-01-23 |
+| `plant-improvement-act-2018` | Plant Improvement Act | 1 | 2019-03-29 to 2019-03-29 |
+| `plant-breeders-rights-act-2018` | Plant Breeders' Rights Act | 1 | 2019-03-29 to 2019-03-29 |
+| `marine-spatial-planning-act-2018` | Marine Spatial Planning Act | 1 | 2019-05-06 to 2019-05-06 |
+| `carbon-tax-act-2019` | Carbon Tax Act | 1 | 2019-05-23 to 2019-05-23 |
+| `public-audit-excess-fee-act-2019` | Public Audit Excess Fee Act | 1 | 2019-05-23 to 2019-05-23 |
+| `protection-promotion-development-and-management-of-indigenous-knowledge-act-2019` | Protection, Promotion, Development and Management of Indigenous Knowledge Act | 1 | 2019-08-19 to 2019-08-19 |
+| `electronic-deeds-registration-systems-act-2019` | Electronic Deeds Registration Systems Act | 1 | 2019-10-03 to 2019-10-03 |
+| `property-practitioners-act-2019` | Property Practitioners Act | 1 | 2019-10-03 to 2019-10-03 |
+| `traditional-and-khoi-san-leadership-act-2019` | Traditional and Khoi-San Leadership Act | 1 | 2019-11-28 to 2019-11-28 |
+| `critical-infrastructure-protection-act-2019` | Critical Infrastructure Protection Act | 1 | 2019-11-28 to 2019-11-28 |
+| `hydrographic-act-2019` | Hydrographic Act | 1 | 2020-06-03 to 2020-06-03 |
+| `foreign-service-act-2019` | Foreign Service Act | 1 | 2020-06-04 to 2020-06-04 |
+| `disaster-management-tax-relief-act-2020` | Disaster Management Tax Relief Act | 1 | 2020-11-05 to 2020-11-05 |
+| `disaster-management-tax-relief-administration-act-2020` | Disaster Management Tax Relief Administration Act | 1 | 2020-11-05 to 2020-11-05 |
+| `cybercrimes-act-2020` | Cybercrimes Act | 1 | 2021-06-01 to 2021-06-01 |
+| `customary-initiation-act-2021` | Customary Initiation Act | 1 | 2021-06-04 to 2021-06-04 |
+| `financial-sector-and-deposit-insurance-levies-act-2022` | Financial Sector and Deposit Insurance Levies Act | 1 | 2022-12-09 to 2022-12-09 |
+| `financial-sector-and-deposit-insurance-levies-administration-and-deposit-insurance-premiums-act-2022` | Financial Sector and Deposit Insurance Levies (Administration) and Deposit Insurance Premiums Act | 1 | 2022-12-09 to 2022-12-09 |
+| `eskom-debt-relief-act-2023` | Eskom Debt Relief Act | 1 | 2023-07-07 to 2023-07-07 |
+| `traditional-courts-act-2022` | Traditional Courts Act | 1 | 2023-09-27 to 2023-09-27 |
+| `land-court-act-2023` | Land Court Act | 1 | 2023-09-27 to 2023-09-27 |
+| `prevention-and-combating-of-hate-crimes-and-hate-speech-act-2023` | Prevention and Combating of Hate Crimes and Hate Speech Act | 1 | 2024-05-14 to 2024-05-14 |
+| `national-council-on-gender-based-violence-and-femicide-act-2024` | National Council on Gender-Based Violence and Femicide Act | 1 | 2024-05-27 to 2024-05-27 |
+| `cannabis-for-private-purposes-act-2024` | Cannabis for Private Purposes Act | 1 | 2024-06-03 to 2024-06-03 |
+| `climate-change-act-2024` | Climate Change Act | 1 | 2024-07-23 to 2024-07-23 |
+| `public-procurement-act-2024` | Public Procurement Act | 1 | 2024-07-23 to 2024-07-23 |
+| `south-african-national-water-resources-infrastructure-agency-soc-limited-act-act-2024` | South African National Water Resources Infrastructure Agency Soc Limited Act Act | 1 | 2024-09-02 to 2024-09-02 |
+| `upstream-petroleum-resources-development-act-2024` | Upstream Petroleum Resources Development Act | 1 | 2024-10-29 to 2024-10-29 |
+| `railway-safety-act-2024` | Railway Safety Act | 1 | 2024-12-10 to 2024-12-10 |
+| `plant-health-phytosanitary-act-2024` | Plant Health (Phytosanitary) Act | 1 | 2024-12-20 to 2024-12-20 |
+| `global-minimum-tax-administration-act-2024` | Global Minimum Tax Administration Act | 1 | 2025-01-09 to 2025-01-09 |
+| `expropriation-act-2024` | Expropriation Act | 1 | 2025-01-24 to 2025-01-24 |
+| `housing-consumer-protection-act-2024` | Housing Consumer Protection Act | 1 | 2025-01-29 to 2025-01-29 |
 
-The build made 51 commits:
+The build made 232 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 13 | first version of an act |
+| 194 | first version of an act |
 | 38 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-10-29.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 196 laws in the record.
-- 72 tags.
+- 365 laws in the record.
+- 434 tags.
 
 ## Dates
 
@@ -61,13 +243,13 @@ When a law gives no date of its own, the default rule applies: Constitution s. 8
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `d0de22bef6cc4cae60a75b60503b5ab82105fae41a2f40d8ada098b6c858adbe` (4453092 bytes).
+- Corpus: sha256 `f2f2beab4ddba2070f5bc74ecd275f14bb9e53c2fcb2ba298c0b8dbfcce8b7b4` (16052881 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.14.4; git version 2.53.0.
+- Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-47 versions of 13 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -105,6 +287,10 @@ No second build of this corpus has been compared yet.
 - Justice Acts: each Act is one version, the Department of Justice consolidation on justice.gov.za (a Juta export of May 2025) as served on the retrieval day; it is credited to the Department as the oldest version available, with every amending Act its amendment table names in earlier_laws. Earlier wordings are not reconstructed: the consolidation gives only the current text.
 - Justice Acts: the version day is the latest "with effect from" day in the Act's own amendment table (the commencement day if the table lists no amendment). Amendments that the consolidation marks as not yet in force ([NB: ...] notes) are not in the text, as the consolidation prints.
 - Justice Acts: editorial notes in square brackets, Juta footnotes, page furniture and the arrangement of sections are left out; chapter and part headings are not units; straight quotes are set as curly quotes and a closing "-" before a list as "—". Words that close a list stay on the line of its last item; a table is printed one row per line, cells separated by " | ".
+- gov.za Acts: each principal Act listed on www.gov.za/documents/acts with a gazette PDF that has a text layer is one version, its text as enacted, credited to the Act itself; amending, appropriation, revenue-division, validation and repeal Acts, and Acts gov.za marks repealed, are not separate acts here.
+- gov.za Acts: an Act is in force from the day the gazette published it (Constitution s. 81; before 1994 the same default rule); commencement by later proclamation, later amendments and repeals are not tracked, so an Act here may since have been amended or repealed.
+- gov.za Acts: only the English pages are kept (a page is English when English function words are at least 9% of its words); running heads, page and margin line numbers and gazette notices are dropped; printed lines are joined into paragraphs, and a word broken at a line end keeps its hyphen.
+- gov.za Acts: an Act is published only if the letters and digits of its units equal, in order, those of the same pages read by a second PDF reader (poppler pdftotext); the others are listed as left out.
 
 ## What AI did and did not do
 
@@ -116,4 +302,5 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - None at data-build time: Lexifina's code is deterministic code, written with Claude Code (claude-opus-5-5); no model reads, writes or summarises legal text.
+- none
 - none

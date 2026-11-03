@@ -386,6 +386,2540 @@
      "sha256": "80e8cb7bd013548a243ceca8e5fde37f7342005ffe469672ad38b324d40a6fb7"
     }
    ]
+  },
+  {
+   "slug": "finance-act-1993",
+   "short": "Finance Act",
+   "title": "Finance Act",
+   "url": "https://www.gov.za/documents/acts/finance-act-house-assembly-79-1993-02-jul-1993",
+   "versions": [
+    {
+     "from": "1993-07-02",
+     "units": 4,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/14913.pdf",
+     "sha256": "8cb8722fc417594f4819cb149a0e6ca7cfab54edaa78509734f364bb2746fe3b"
+    }
+   ]
+  },
+  {
+   "slug": "nuclear-energy-act-1993",
+   "short": "Nuclear Energy Act",
+   "title": "Nuclear Energy Act",
+   "url": "https://www.gov.za/documents/nuclear-energy-act-0",
+   "versions": [
+    {
+     "from": "1993-10-06",
+     "units": 88,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/15159.pdf",
+     "sha256": "c8c7006234af7cce88cc840f3be97026512402488440056f99c6d5a983e65e9b"
+    }
+   ]
+  },
+  {
+   "slug": "second-unauthorised-expenditure-act-1993",
+   "short": "Second Unauthorised Expenditure Act",
+   "title": "Second Unauthorised Expenditure Act",
+   "url": "https://www.gov.za/documents/acts/second-unauthorised-expenditure-act-house-assembly-161-1993-15-dec-1993",
+   "versions": [
+    {
+     "from": "1993-12-15",
+     "units": 6,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/15339.pdf",
+     "sha256": "a0ad46c4e30ceb4fd22014be4645b15b9a934a13a28e1a1544fd9d493284e3bf"
+    }
+   ]
+  },
+  {
+   "slug": "labour-relations-act-1995",
+   "short": "Labour Relations Act",
+   "title": "Labour Relations Act",
+   "url": "https://www.gov.za/documents/labour-relations-act",
+   "versions": [
+    {
+     "from": "1995-12-13",
+     "units": 217,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/act66-1995labourrelations.pdf",
+     "sha256": "309a8fcb0e8001d9b34c04480ccd1003c1c194ec5bfa57b9c573cd0c4a7a72cd"
+    }
+   ]
+  },
+  {
+   "slug": "south-african-olympic-hostings-act-1997",
+   "short": "South African Olympic Hostings Act",
+   "title": "South African Olympic Hostings Act",
+   "url": "https://www.gov.za/documents/acts/south-african-olympic-hostings-act-36-1997-03-sep-1997",
+   "versions": [
+    {
+     "from": "1997-09-03",
+     "units": 4,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a36-97.pdf",
+     "sha256": "49e0c5fc93e4956af07ae5be09f777dc61ff8e0058e938c2a2b110c7b841db5b"
+    }
+   ]
+  },
+  {
+   "slug": "abolition-of-corporal-punishment-act-1997",
+   "short": "Abolition of Corporal Punishment Act",
+   "title": "Abolition of Corporal Punishment Act",
+   "url": "https://www.gov.za/documents/abolition-corporal-punishment-act",
+   "versions": [
+    {
+     "from": "1997-09-05",
+     "units": 5,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a33-97.pdf",
+     "sha256": "a4857b0594b0a421c6054fc0037f688617072d23c4a484414146e86c31bc4881"
+    }
+   ]
+  },
+  {
+   "slug": "south-african-revenue-service-act-1997",
+   "short": "South African Revenue Service Act",
+   "title": "South African Revenue Service Act",
+   "url": "https://www.gov.za/documents/south-african-revenue-service-act",
+   "versions": [
+    {
+     "from": "1997-09-05",
+     "units": 38,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a34-97.pdf",
+     "sha256": "a84405b16745e73eb31d8bcd9fc7f45b1f36910c1f147a7d669324220cd92354"
+    }
+   ]
+  },
+  {
+   "slug": "counterfeit-goods-act-1997",
+   "short": "Counterfeit Goods Act",
+   "title": "Counterfeit Goods Act",
+   "url": "https://www.gov.za/documents/counterfeit-goods-act",
+   "versions": [
+    {
+     "from": "1997-10-01",
+     "units": 27,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a37-97.pdf",
+     "sha256": "f2a82f8aa8e4cce10828b90709e4ef9fcaeed29d3c320689a62b34391192d01a"
+    }
+   ]
+  },
+  {
+   "slug": "extension-of-terms-of-office-of-members-of-certain-councils-act-1997",
+   "short": "Extension of Terms of Office of Members of Certain Councils Act",
+   "title": "Extension of Terms of Office of Members of Certain Councils Act",
+   "url": "https://www.gov.za/documents/extension-terms-office-members-certain-councils-act",
+   "versions": [
+    {
+     "from": "1997-10-03",
+     "units": 8,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a45-97.pdf",
+     "sha256": "1ad97ce73e96079275cfa96bb23a3a26891126d1b0353219e3faec0ffc8e582b"
+    }
+   ]
+  },
+  {
+   "slug": "public-service-commission-act-1997",
+   "short": "Public Service Commission Act",
+   "title": "Public Service Commission Act",
+   "url": "https://www.gov.za/documents/public-service-commission-act",
+   "versions": [
+    {
+     "from": "1997-10-03",
+     "units": 19,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a46-97.pdf",
+     "sha256": "2556b06dff6e9679f8abb76ac92590685bdb458ef82a6a2ecade77e91f0383f5"
+    }
+   ]
+  },
+  {
+   "slug": "abolition-of-public-administration-commissions-act-1997",
+   "short": "Abolition of Public Administration Commissions Act",
+   "title": "Abolition of Public Administration Commissions Act",
+   "url": "https://www.gov.za/documents/acts/abolition-public-administration-commissions-act-48-1997-03-oct-1997",
+   "versions": [
+    {
+     "from": "1997-10-03",
+     "units": 3,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a48-97.pdf",
+     "sha256": "07fc0762ad1bdd154113781b88cc8598c9edcbe4bff0d45d8e6fad90ac495512"
+    }
+   ]
+  },
+  {
+   "slug": "marriage-act-extension-act-1997",
+   "short": "Marriage Act, Extension Act",
+   "title": "Marriage Act, Extension Act",
+   "url": "https://www.gov.za/documents/acts/marriage-act-extension-act-50-1997-12-nov-1997",
+   "versions": [
+    {
+     "from": "1997-11-12",
+     "units": 3,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a50-97.pdf",
+     "sha256": "5c80a1400900613c5443243479515ea36c0bdc24d704c56ff4dd27381b8ed821"
+    }
+   ]
+  },
+  {
+   "slug": "environmental-laws-rationalisation-act-1997",
+   "short": "Environmental Laws Rationalisation Act",
+   "title": "Environmental Laws Rationalisation Act",
+   "url": "https://www.gov.za/documents/environmental-laws-rationalisation-act",
+   "versions": [
+    {
+     "from": "1997-11-12",
+     "units": 8,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a51-97.pdf",
+     "sha256": "87effdbc0cc2afe525454b62513d0409c9b3f0d4815e3086a84c3ac60813b4ac"
+    }
+   ]
+  },
+  {
+   "slug": "organised-local-government-act-1997",
+   "short": "Organised Local Government Act",
+   "title": "Organised Local Government Act",
+   "url": "https://www.gov.za/documents/organised-local-government-act",
+   "versions": [
+    {
+     "from": "1997-11-12",
+     "units": 9,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a52-970.pdf",
+     "sha256": "954d528fb76a08973041c269e7cad916f2321bc5e17c8b63dcbe5481ecb00d4a"
+    }
+   ]
+  },
+  {
+   "slug": "national-arts-council-act-1997",
+   "short": "National Arts Council Act",
+   "title": "National Arts Council Act",
+   "url": "https://www.gov.za/documents/national-arts-council-act",
+   "versions": [
+    {
+     "from": "1997-11-14",
+     "units": 24,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a56-97.pdf",
+     "sha256": "d8dd6d41184bfbe7c28ea3dcf0aa91b356e589fb3b6f0f450a1a059cdcf774ae"
+    }
+   ]
+  },
+  {
+   "slug": "lotteries-act-1997",
+   "short": "Lotteries Act",
+   "title": "Lotteries Act",
+   "url": "https://www.gov.za/documents/lotteries-act",
+   "versions": [
+    {
+     "from": "1997-11-14",
+     "units": 70,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a57-97.pdf",
+     "sha256": "4090eb6e9fc65574c1d70b737e642e25ae072bd27a7f1e5a3d6012383ed0b2aa"
+    }
+   ]
+  },
+  {
+   "slug": "state-of-emergency-act-1997",
+   "short": "State of Emergency Act",
+   "title": "State of Emergency Act",
+   "url": "https://www.gov.za/documents/acts/state-emergency-act-64-1997-21-nov-1997",
+   "versions": [
+    {
+     "from": "1997-11-21",
+     "units": 7,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a64-97.pdf",
+     "sha256": "dee63d52dab5cd8ac418b27b4a9d64dbd1a5dc49bdb1dd2cbfa234d7fc1a7ace"
+    }
+   ]
+  },
+  {
+   "slug": "contingency-fees-act-1997",
+   "short": "Contingency Fees Act",
+   "title": "Contingency Fees Act",
+   "url": "https://www.gov.za/documents/acts/contingency-fees-act-66-1997-21-nov-1997",
+   "versions": [
+    {
+     "from": "1997-11-21",
+     "units": 9,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a66-97.pdf",
+     "sha256": "a07514dc9736ffbbe51189347164e5a32e1cbf2ec43e78d4b823485cd67dde21"
+    }
+   ]
+  },
+  {
+   "slug": "identification-act-1997",
+   "short": "Identification Act",
+   "title": "Identification Act",
+   "url": "https://www.gov.za/documents/identification-act",
+   "versions": [
+    {
+     "from": "1997-12-03",
+     "units": 28,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a68-97.pdf",
+     "sha256": "ed861b67e32d9fad502dec9f8a4bbb777419df30141f6df79abe1acad8878b83"
+    }
+   ]
+  },
+  {
+   "slug": "nonprofit-organisations-act-1997",
+   "short": "Nonprofit Organisations Act",
+   "title": "Nonprofit Organisations Act",
+   "url": "https://www.gov.za/documents/nonprofit-organisations-act",
+   "versions": [
+    {
+     "from": "1997-12-03",
+     "units": 37,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a71-97.pdf",
+     "sha256": "5ccc9894ab52a4b039d23169a593d6778ea5297a0dc5077c4f7477a270c9004b"
+    }
+   ]
+  },
+  {
+   "slug": "national-film-and-video-foundation-act-1997",
+   "short": "National Film and Video Foundation Act",
+   "title": "National Film and Video Foundation Act",
+   "url": "https://www.gov.za/documents/national-film-and-video-foundation-act",
+   "versions": [
+    {
+     "from": "1997-12-03",
+     "units": 23,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a73-97.pdf",
+     "sha256": "4951c6ac659d7f042092e8bf8fee2f12a520640ea45af36448d70250444ef4fd"
+    }
+   ]
+  },
+  {
+   "slug": "intergovernmental-fiscal-relations-act-1997",
+   "short": "Intergovernmental Fiscal Relations Act",
+   "title": "Intergovernmental Fiscal Relations Act",
+   "url": "https://www.gov.za/documents/acts/intergovernmental-fiscal-relations-act-97-1997-17-dec-1997",
+   "versions": [
+    {
+     "from": "1997-12-17",
+     "units": 12,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a97-97.pdf",
+     "sha256": "e37f689b6bb6143dd1db612ebfcb731b71019ab284b2df71fbd015c9c1e832df"
+    }
+   ]
+  },
+  {
+   "slug": "housing-act-1997",
+   "short": "Housing Act",
+   "title": "Housing Act",
+   "url": "https://www.gov.za/documents/housing-act",
+   "versions": [
+    {
+     "from": "1997-12-19",
+     "units": 23,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a107-97.pdf",
+     "sha256": "d648f0eca7f2b2b21c99dbde0c419c7b1348c6427762e3d9b6cbbae06fba2e93"
+    }
+   ]
+  },
+  {
+   "slug": "financial-and-fiscal-commission-act-1997",
+   "short": "Financial and Fiscal Commission Act",
+   "title": "Financial and Fiscal Commission Act",
+   "url": "https://www.gov.za/documents/financial-and-fiscal-commission-act",
+   "versions": [
+    {
+     "from": "1997-12-19",
+     "units": 36,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a99-97.pdf",
+     "sha256": "8c77fa0a768d2e289c7dcd9fb3619134c990244b34844cefb3cbe77a41a8c54e"
+    }
+   ]
+  },
+  {
+   "slug": "department-of-communications-rationalisation-act-1998",
+   "short": "Department of Communications Rationalisation Act",
+   "title": "Department of Communications Rationalisation Act",
+   "url": "https://www.gov.za/documents/department-communications-rationalisation-act",
+   "versions": [
+    {
+     "from": "1998-03-31",
+     "units": 10,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a10-98.pdf",
+     "sha256": "dea8b6783795b97a2ee9999998e9590332952ddaf5cfa410ba4b9a7351f68556"
+    }
+   ]
+  },
+  {
+   "slug": "cross-border-road-transport-act-1998",
+   "short": "Cross-Border Road Transport Act",
+   "title": "Cross-Border Road Transport Act",
+   "url": "https://www.gov.za/documents/cross-border-road-transport-act",
+   "versions": [
+    {
+     "from": "1998-03-31",
+     "units": 56,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a4-98.pdf",
+     "sha256": "486aa6ca07b6289cead382136c5cf92854355969a0f045b29271386c6d881600"
+    }
+   ]
+  },
+  {
+   "slug": "south-african-maritime-safety-authority-levies-act-1998",
+   "short": "South African Maritime Safety Authority Levies Act",
+   "title": "South African Maritime Safety Authority Levies Act",
+   "url": "https://www.gov.za/documents/acts/south-african-maritime-safety-authority-levies-act-6-1998-31-mar-1998",
+   "versions": [
+    {
+     "from": "1998-03-31",
+     "units": 5,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a6-98.pdf",
+     "sha256": "ca71c679747ff0fac6b1d10c308b5e79a838e7ca53c60c20a41cce68fe257882"
+    }
+   ]
+  },
+  {
+   "slug": "south-african-national-roads-agency-limited-and-national-roads-act-1998",
+   "short": "South African National Roads Agency Limited and National Roads Act",
+   "title": "South African National Roads Agency Limited and National Roads Act",
+   "url": "https://www.gov.za/documents/south-african-national-roads-agency-limited-and-national-roads-act",
+   "versions": [
+    {
+     "from": "1998-03-31",
+     "units": 65,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a7-98.pdf",
+     "sha256": "ebe3cc4d10c801312c7bd89ccf798a2de02820876e96762d112fdcd8c6c13e79"
+    }
+   ]
+  },
+  {
+   "slug": "regulation-of-foreign-military-assistance-act-1998",
+   "short": "Regulation of Foreign Military Assistance Act",
+   "title": "Regulation of Foreign Military Assistance Act",
+   "url": "https://www.gov.za/documents/acts/regulation-foreign-military-assistance-act-15-1998-20-may-1998",
+   "versions": [
+    {
+     "from": "1998-05-20",
+     "units": 13,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a15-98.pdf",
+     "sha256": "249c53c13ca71ba046e5e28911b0ea39f4eaa230f3a795ecd8de34e0035d818f"
+    }
+   ]
+  },
+  {
+   "slug": "marine-living-resources-act-1998",
+   "short": "Marine Living Resources Act",
+   "title": "Marine Living Resources Act",
+   "url": "https://www.gov.za/documents/marine-living-resources-act-27-may-1998-0000",
+   "versions": [
+    {
+     "from": "1998-05-27",
+     "units": 89,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201610/a18-98.pdf",
+     "sha256": "8e5b1a68b59dacb761d9332c2a9c02d9b3cbed3f669560e3d5c96dfc843635d2"
+    }
+   ]
+  },
+  {
+   "slug": "prevention-of-illegal-eviction-from-and-unlawful-occupation-of-land-act-1998",
+   "short": "Prevention of Illegal Eviction from and Unlawful Occupation of Land Act",
+   "title": "Prevention of Illegal Eviction from and Unlawful Occupation of Land Act",
+   "url": "https://www.gov.za/documents/prevention-illegal-eviction-and-unlawful-occupation-land-act",
+   "versions": [
+    {
+     "from": "1998-06-05",
+     "units": 15,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a19-98.pdf",
+     "sha256": "e93575b4803d540ef9e6a41e73af4f9400fcfb7f354427f1621dfe97e3aa5410"
+    }
+   ]
+  },
+  {
+   "slug": "national-research-foundation-act-1998",
+   "short": "National Research Foundation Act",
+   "title": "National Research Foundation Act",
+   "url": "https://www.gov.za/documents/acts/national-research-foundation-act-23-1998-03-jul-1998",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 27,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a23-98.pdf",
+     "sha256": "60751e915940664db29d03242cb83a60ccb5047a68f605c237fcb7734270c6b7"
+    }
+   ]
+  },
+  {
+   "slug": "national-prosecuting-authority-act-1998",
+   "short": "National Prosecuting Authority Act",
+   "title": "National Prosecuting Authority Act",
+   "url": "https://www.gov.za/documents/national-prosecuting-authority-act",
+   "versions": [
+    {
+     "from": "1998-07-03",
+     "units": 48,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a32-98.pdf",
+     "sha256": "b2e035ec370bcfb808b4666366eefb0989a3183ef706a0da216719757b51472b"
+    }
+   ]
+  },
+  {
+   "slug": "south-african-civil-aviation-authority-act-1998",
+   "short": "South African Civil Aviation Authority Act",
+   "title": "South African Civil Aviation Authority Act",
+   "url": "https://www.gov.za/documents/south-african-civil-aviation-authority-act",
+   "versions": [
+    {
+     "from": "1998-09-04",
+     "units": 28,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a40-98.pdf",
+     "sha256": "3b28f1c5ba05ed75e349b5d6352f6c39347d83c071d1fa98ee6d5b2e3c0d939a"
+    }
+   ]
+  },
+  {
+   "slug": "south-african-civil-aviation-authority-levies-act-1998",
+   "short": "South African Civil Aviation Authority Levies Act",
+   "title": "South African Civil Aviation Authority Levies Act",
+   "url": "https://www.gov.za/documents/south-african-civil-aviation-authority-levies-act",
+   "versions": [
+    {
+     "from": "1998-09-04",
+     "units": 5,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a41-98.pdf",
+     "sha256": "30cfad5f44d9abbae5409b25e8981a92960b83ec7bdcc93409d53f285f0929dc"
+    }
+   ]
+  },
+  {
+   "slug": "sterilisation-act-1998",
+   "short": "Sterilisation Act",
+   "title": "Sterilisation Act",
+   "url": "https://www.gov.za/documents/sterilisation-act",
+   "versions": [
+    {
+     "from": "1998-09-04",
+     "units": 12,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a44-98.pdf",
+     "sha256": "8f686862871029009b89b980639c48fc65291359d20bafc37f402cb8480a4398"
+    }
+   ]
+  },
+  {
+   "slug": "national-land-transport-interim-arrangements-act-1998",
+   "short": "National Land Transport Interim Arrangements Act",
+   "title": "National Land Transport Interim Arrangements Act",
+   "url": "https://www.gov.za/documents/national-land-transport-interim-arrangements-act",
+   "versions": [
+    {
+     "from": "1998-09-11",
+     "units": 9,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a45-98.pdf",
+     "sha256": "85007ac7729742fae7b2282370c5557dcd6fffe952262ecf3950292e2f8a7f11"
+    }
+   ]
+  },
+  {
+   "slug": "administrative-adjudication-of-road-traffic-offences-act-1998",
+   "short": "Administrative Adjudication of Road Traffic Offences Act",
+   "title": "Administrative Adjudication of Road Traffic Offences Act",
+   "url": "https://www.gov.za/documents/administrative-adjudication-road-traffic-offences-act",
+   "versions": [
+    {
+     "from": "1998-09-11",
+     "units": 37,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a46-98.pdf",
+     "sha256": "23b0312145368e5390a8b22722d70ac4802a317958e2790876dfb0cad95c539e"
+    }
+   ]
+  },
+  {
+   "slug": "road-traffic-laws-rationalisation-act-1998",
+   "short": "Road Traffic Laws Rationalisation Act",
+   "title": "Road Traffic Laws Rationalisation Act",
+   "url": "https://www.gov.za/documents/acts/road-traffic-laws-rationalisation-act-47-1998-11-sep-1998",
+   "versions": [
+    {
+     "from": "1998-09-11",
+     "units": 6,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a47-98.pdf",
+     "sha256": "67f337eb8c91ea168ad988010e46b4733b298d90e600416f8e4884db21de2fb1"
+    }
+   ]
+  },
+  {
+   "slug": "remuneration-of-public-office-bearers-act-1998",
+   "short": "Remuneration of Public Office Bearers Act",
+   "title": "Remuneration of Public Office Bearers Act",
+   "url": "https://www.gov.za/documents/remuneration-public-office-bearers-act-0",
+   "versions": [
+    {
+     "from": "1998-09-23",
+     "units": 12,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a20-98.pdf",
+     "sha256": "518d4aa715b9f5f53fe2c79f1de34e670ec0312797b51bc83b28b78a2fe0b3a8"
+    }
+   ]
+  },
+  {
+   "slug": "short-term-insurance-act-1998",
+   "short": "Short-term Insurance Act",
+   "title": "Short-term Insurance Act",
+   "url": "https://www.gov.za/documents/short-term-insurance-act",
+   "versions": [
+    {
+     "from": "1998-09-23",
+     "units": 76,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a53-98.pdf",
+     "sha256": "ead37a45809a14e83945bd2b9c78cbe7f4cbf4b91de7df0e46a33f0be80a08f7"
+    }
+   ]
+  },
+  {
+   "slug": "inherited-debt-relief-act-1998",
+   "short": "Inherited Debt Relief Act",
+   "title": "Inherited Debt Relief Act",
+   "url": "https://www.gov.za/documents/acts/inherited-debt-relief-act-54-1998-23-sep-1998",
+   "versions": [
+    {
+     "from": "1998-09-23",
+     "units": 4,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a54-98.pdf",
+     "sha256": "c3bc8d97f960bcedbfa65841cffca081664a84b417f13bdea0d29472c555671b"
+    }
+   ]
+  },
+  {
+   "slug": "employment-of-educators-act-1998",
+   "short": "Employment of Educators Act",
+   "title": "Employment of Educators Act",
+   "url": "https://www.gov.za/documents/employment-educators-act",
+   "versions": [
+    {
+     "from": "1998-10-02",
+     "units": 40,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/19320.pdf",
+     "sha256": "045d916abda58cd6e734b71f6f6ad3a182acfff331c5965181b9f97bb934e1d2"
+    }
+   ]
+  },
+  {
+   "slug": "determination-of-delegates-national-council-of-provinces-act-1998",
+   "short": "Determination of Delegates (National Council of Provinces) Act",
+   "title": "Determination of Delegates (National Council of Provinces) Act",
+   "url": "https://www.gov.za/documents/determination-delegates-national-council-provinces-act",
+   "versions": [
+    {
+     "from": "1998-10-07",
+     "units": 4,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a69-98.pdf",
+     "sha256": "0e333dc28defe425858903bf2d01fcada82f7b74e284e29447f0f00e1369ed38"
+    }
+   ]
+  },
+  {
+   "slug": "road-accident-fund-commission-act-1998",
+   "short": "Road Accident Fund Commission Act",
+   "title": "Road Accident Fund Commission Act",
+   "url": "https://www.gov.za/documents/acts/road-accident-fund-commission-act-71-1998-07-oct-1998",
+   "versions": [
+    {
+     "from": "1998-10-07",
+     "units": 15,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a71-98.pdf",
+     "sha256": "1323e3e44ac7970ccbefb6790c16dc39c524498edc475e54c1515f1950525654"
+    }
+   ]
+  },
+  {
+   "slug": "agricultural-laws-rationalisation-act-1998",
+   "short": "Agricultural Laws Rationalisation Act",
+   "title": "Agricultural Laws Rationalisation Act",
+   "url": "https://www.gov.za/documents/agricultural-laws-rationalisation-act",
+   "versions": [
+    {
+     "from": "1998-10-07",
+     "units": 6,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a72-98.pdf",
+     "sha256": "a1a28f42999a8467b1f1ca63ef5914d9aefce4601847ccc2712dcdef6660c3d8"
+    }
+   ]
+  },
+  {
+   "slug": "port-of-ngqura-establishment-act-1998",
+   "short": "Port of Ngqura Establishment Act",
+   "title": "Port of Ngqura Establishment Act",
+   "url": "https://www.gov.za/documents/acts/port-ngqura-establishment-act-77-1998-28-oct-1998",
+   "versions": [
+    {
+     "from": "1998-10-28",
+     "units": 10,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a77-98.pdf",
+     "sha256": "2771789090309108728a1891eae5aefbc99431dfe38957022163dbbf8b13dbd8"
+    }
+   ]
+  },
+  {
+   "slug": "national-payment-system-act-1998",
+   "short": "National Payment System Act",
+   "title": "National Payment System Act",
+   "url": "https://www.gov.za/documents/national-payment-system-act",
+   "versions": [
+    {
+     "from": "1998-10-28",
+     "units": 17,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a78-98.pdf",
+     "sha256": "f9ed234c3c5bca1dd37f30c03b8cca9c4461bd345947825151f61fc7045eab74"
+    }
+   ]
+  },
+  {
+   "slug": "reconstruction-and-development-programme-fund-act-1998",
+   "short": "Reconstruction and Development Programme Fund Act",
+   "title": "Reconstruction and Development Programme Fund Act",
+   "url": "https://www.gov.za/documents/reconstruction-and-development-programme-fund-act",
+   "versions": [
+    {
+     "from": "1998-10-28",
+     "units": 11,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a79-98.pdf",
+     "sha256": "e6b04fc205a57749bfac8a055484bcba78e085bd05d7b80ab7ddc0b4719b514e"
+    }
+   ]
+  },
+  {
+   "slug": "inspection-of-financial-institutions-act-1998",
+   "short": "Inspection of Financial Institutions Act",
+   "title": "Inspection of Financial Institutions Act",
+   "url": "https://www.gov.za/documents/inspection-financial-institutions-act",
+   "versions": [
+    {
+     "from": "1998-10-28",
+     "units": 15,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a80-98.pdf",
+     "sha256": "0d2fe1ce2eb9660fd94e0865862bea6246ab5f10e1e792c9fd185c3bbf10ecf4"
+    }
+   ]
+  },
+  {
+   "slug": "executive-members-ethics-act-1998",
+   "short": "Executive Members' Ethics Act",
+   "title": "Executive Members' Ethics Act",
+   "url": "https://www.gov.za/documents/acts/executive-members-ethics-act-82-1998-28-oct-1998",
+   "versions": [
+    {
+     "from": "1998-10-28",
+     "units": 8,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a82-98.pdf",
+     "sha256": "6bd563ea6fc9ed6e7987ab3098ddbc0bfd257f9c9b5724b897bb2e77b151ce6e"
+    }
+   ]
+  },
+  {
+   "slug": "the-south-african-library-for-the-blind-act-1998",
+   "short": "The South African Library for the Blind Act",
+   "title": "The South African Library for the Blind Act",
+   "url": "https://www.gov.za/documents/acts/south-african-library-blind-act-91-1998-02-nov-1998",
+   "versions": [
+    {
+     "from": "1998-11-02",
+     "units": 19,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a91-98.pdf",
+     "sha256": "6ed6f80a7eb5e5b8e4b4aff2325fb816dbe79eda1aa93d6027e64536e15bbb6c"
+    }
+   ]
+  },
+  {
+   "slug": "the-national-library-of-south-africa-act-1998",
+   "short": "The National Library of South Africa Act",
+   "title": "The National Library of South Africa Act",
+   "url": "https://www.gov.za/documents/acts/national-library-south-africa-act-92-1998-02-nov-1998",
+   "versions": [
+    {
+     "from": "1998-11-02",
+     "units": 20,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a92-980.pdf",
+     "sha256": "7ae81336a767e54f4de913dbfa7665be418b1c3e961fcc87a849b4ae9794f856"
+    }
+   ]
+  },
+  {
+   "slug": "transformation-of-certain-rural-areas-act-1998",
+   "short": "Transformation of Certain Rural Areas Act",
+   "title": "Transformation of Certain Rural Areas Act",
+   "url": "https://www.gov.za/documents/transformation-certain-rural-areas-act",
+   "versions": [
+    {
+     "from": "1998-11-02",
+     "units": 13,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a94-98.pdf",
+     "sha256": "43545fe611b90b4e1095a27492030238e618678d8837d810d0095b1a8fa8ab1f"
+    }
+   ]
+  },
+  {
+   "slug": "national-development-agency-act-1998",
+   "short": "National Development Agency Act",
+   "title": "National Development Agency Act",
+   "url": "https://www.gov.za/documents/national-development-agency-act",
+   "versions": [
+    {
+     "from": "1998-11-27",
+     "units": 15,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a108-980.pdf",
+     "sha256": "ee9e32959d3d4ae1d4db522c26ddfeb5cec4ba67d10bbf840002a9705927fb9e"
+    }
+   ]
+  },
+  {
+   "slug": "witness-protection-act-1998",
+   "short": "Witness Protection Act",
+   "title": "Witness Protection Act",
+   "url": "https://www.gov.za/documents/witness-protection-act",
+   "versions": [
+    {
+     "from": "1998-11-27",
+     "units": 28,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a112-98.pdf",
+     "sha256": "f262a6c2117400764658e6d8472455f25616f699943e97978946f03d674967d9"
+    }
+   ]
+  },
+  {
+   "slug": "debt-collectors-act-1998",
+   "short": "Debt Collectors Act",
+   "title": "Debt Collectors Act",
+   "url": "https://www.gov.za/documents/debt-collectors-act",
+   "versions": [
+    {
+     "from": "1998-11-27",
+     "units": 29,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a114-98.pdf",
+     "sha256": "a88e1c394b0eee54f03d8749217f63596e81bf5846cada8e86d9c6badac7a0d8"
+    }
+   ]
+  },
+  {
+   "slug": "maintenance-act-1998",
+   "short": "Maintenance Act",
+   "title": "Maintenance Act",
+   "url": "https://www.gov.za/documents/maintenance-act",
+   "versions": [
+    {
+     "from": "1998-11-27",
+     "units": 6,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a99-98.pdf",
+     "sha256": "4f39f5a46b705e8c3194657ad436774f2d768abe9263a95f4b86e06c8d614a67"
+    }
+   ]
+  },
+  {
+   "slug": "domestic-violence-act-1998",
+   "short": "Domestic Violence Act",
+   "title": "Domestic Violence Act",
+   "url": "https://www.gov.za/documents/domestic-violence-act",
+   "versions": [
+    {
+     "from": "1998-12-02",
+     "units": 23,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a116-980.pdf",
+     "sha256": "79ae14f5615207b672704634b92c8bb4705bf8d2dfc7dacded32432d287500fa"
+    }
+   ]
+  },
+  {
+   "slug": "south-african-geographical-names-council-act-1998",
+   "short": "South African Geographical Names Council Act",
+   "title": "South African Geographical Names Council Act",
+   "url": "https://www.gov.za/documents/south-african-geographical-names-council-act",
+   "versions": [
+    {
+     "from": "1998-12-02",
+     "units": 14,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a118-98.pdf",
+     "sha256": "1846476d4dbf67e7d169a4a4774c82c8b91d76b6ca97d020e81f78a022ea42e7"
+    }
+   ]
+  },
+  {
+   "slug": "medical-schemes-act-1998",
+   "short": "Medical Schemes Act",
+   "title": "Medical Schemes Act",
+   "url": "https://www.gov.za/documents/medical-schemes-act",
+   "versions": [
+    {
+     "from": "1998-12-02",
+     "units": 71,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a131-98.pdf",
+     "sha256": "e9c80679062b3eff79d95fba0f02899d580221dfe065de5adf8d7f73b3839f33"
+    }
+   ]
+  },
+  {
+   "slug": "national-sport-and-recreation-act-1998",
+   "short": "National Sport and Recreation Act",
+   "title": "National Sport and Recreation Act",
+   "url": "https://www.gov.za/documents/national-sport-and-recreation-act",
+   "versions": [
+    {
+     "from": "1998-12-04",
+     "units": 17,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a110-98.pdf",
+     "sha256": "b46c46049cb0c11e36eb533c55b4e8fd1c80437bdd6ace967c19c28a8ac02aff"
+    }
+   ]
+  },
+  {
+   "slug": "cultural-institutions-act-1998",
+   "short": "Cultural Institutions Act",
+   "title": "Cultural Institutions Act",
+   "url": "https://www.gov.za/documents/cultural-institutions-act",
+   "versions": [
+    {
+     "from": "1998-12-04",
+     "units": 21,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a119-98.pdf",
+     "sha256": "dc1ccca7d13431b70547e72bbbb777a1a1a59054507be63b70e476e5d6c1dc77"
+    }
+   ]
+  },
+  {
+   "slug": "conversion-of-sasria-act-1998",
+   "short": "Conversion of SASRIA Act",
+   "title": "Conversion of SASRIA Act",
+   "url": "https://www.gov.za/documents/acts/conversion-sasria-act-134-1998-04-dec-1998",
+   "versions": [
+    {
+     "from": "1998-12-04",
+     "units": 12,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a134-98.pdf",
+     "sha256": "dbb2b4421288dbb640cda96701ef1cc9eb8a1281154adee8f23fafbea2341f4a"
+    }
+   ]
+  },
+  {
+   "slug": "military-discipline-supplementary-measures-act-1999",
+   "short": "Military Discipline Supplementary Measures Act",
+   "title": "Military Discipline Supplementary Measures Act",
+   "url": "https://www.gov.za/documents/military-discipline-supplementary-measures-act",
+   "versions": [
+    {
+     "from": "1999-04-23",
+     "units": 48,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a16-99.pdf",
+     "sha256": "d3ce677562deb02eea1a07198610c4c38595b3dcd7221458fe2f9f6f9b29e5dd"
+    }
+   ]
+  },
+  {
+   "slug": "onderstepoort-biological-products-incorporation-act-1999",
+   "short": "Onderstepoort Biological Products Incorporation Act",
+   "title": "Onderstepoort Biological Products Incorporation Act",
+   "url": "https://www.gov.za/documents/onderstepoort-biological-products-incorporation-act",
+   "versions": [
+    {
+     "from": "1999-04-23",
+     "units": 12,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a19-99.pdf",
+     "sha256": "698f771fa46ebcc40fe63abba066fb0ba9d82b203a7adef5f3a15ab61301213f"
+    }
+   ]
+  },
+  {
+   "slug": "road-traffic-management-corporation-act-1999",
+   "short": "Road Traffic Management Corporation Act",
+   "title": "Road Traffic Management Corporation Act",
+   "url": "https://www.gov.za/documents/road-traffic-management-corporation-act",
+   "versions": [
+    {
+     "from": "1999-04-28",
+     "units": 54,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a20-99.pdf",
+     "sha256": "610fad895383e9e507f011816a0a014129ed7188b9a1c9e381e5be4fe019f07c"
+    }
+   ]
+  },
+  {
+   "slug": "national-heritage-resources-act-1999",
+   "short": "National Heritage Resources Act",
+   "title": "National Heritage Resources Act",
+   "url": "https://www.gov.za/documents/acts/national-heritage-resources-act-25-1999-28-apr-1999",
+   "versions": [
+    {
+     "from": "1999-04-28",
+     "units": 64,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a25-99.pdf",
+     "sha256": "e4244ed54438cd47bf0eab5a974c724a27b4f9494d860c1ee69ac11eda7d22ab"
+    }
+   ]
+  },
+  {
+   "slug": "skills-development-levies-act-1999",
+   "short": "Skills Development Levies Act",
+   "title": "Skills Development Levies Act",
+   "url": "https://www.gov.za/documents/skills-development-levies-act",
+   "versions": [
+    {
+     "from": "1999-04-30",
+     "units": 27,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a9-99.pdf",
+     "sha256": "25cfb345c68c7328d5ade01c96edae2c96b3e1af5a14d130845fd1770f3cf870"
+    }
+   ]
+  },
+  {
+   "slug": "abolition-of-certain-title-conditions-act-1999",
+   "short": "Abolition of Certain Title Conditions Act",
+   "title": "Abolition of Certain Title Conditions Act",
+   "url": "https://www.gov.za/documents/acts/abolition-certain-title-conditions-act-43-1999-24-nov-1999",
+   "versions": [
+    {
+     "from": "1999-11-24",
+     "units": 4,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a43-99.pdf",
+     "sha256": "41a648514e65945075654041efb8c5a93b06d372c46c849d0715440ad8708030"
+    }
+   ]
+  },
+  {
+   "slug": "disestablishment-of-the-local-government-affairs-council-act-1999",
+   "short": "Disestablishment of the Local Government Affairs Council Act",
+   "title": "Disestablishment of the Local Government Affairs Council Act",
+   "url": "https://www.gov.za/documents/acts/disestablishment-local-government-affairs-council-act-59-1999-06-dec-1999",
+   "versions": [
+    {
+     "from": "1999-12-06",
+     "units": 5,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a59-99.pdf",
+     "sha256": "b1a25a57f1765c8c2ac90390c0b641b0926bea77cc2fb1a0f58849dc30ea2549"
+    }
+   ]
+  },
+  {
+   "slug": "world-heritage-convention-act-1999",
+   "short": "World Heritage Convention Act",
+   "title": "World Heritage Convention Act",
+   "url": "https://www.gov.za/documents/world-heritage-convention-act",
+   "versions": [
+    {
+     "from": "1999-12-09",
+     "units": 47,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a49-99.pdf",
+     "sha256": "6b8b43da40c55371bc8f1356ad8cae25c9af05ebea60663bfa124b08c7efb92e"
+    }
+   ]
+  },
+  {
+   "slug": "rental-housing-act-1999",
+   "short": "Rental Housing Act",
+   "title": "Rental Housing Act",
+   "url": "https://www.gov.za/documents/rental-housing-act",
+   "versions": [
+    {
+     "from": "1999-12-15",
+     "units": 23,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a50-99.pdf",
+     "sha256": "f5965d58392c1a29c0093c98767cf5f4f74e1a055fb04121c9d3ecf63083bf85"
+    }
+   ]
+  },
+  {
+   "slug": "preferential-procurement-policy-framework-act-2000",
+   "short": "Preferential Procurement Policy Framework Act",
+   "title": "Preferential Procurement Policy Framework Act",
+   "url": "https://www.gov.za/documents/acts/preferential-procurement-policy-framework-act-5-2000-03-feb-2000",
+   "versions": [
+    {
+     "from": "2000-02-03",
+     "units": 7,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a5-000.pdf",
+     "sha256": "848d356e610d91d52a9c903a4029f935f92af6a7cfac0a7dc23d7b65f3b221a2"
+    }
+   ]
+  },
+  {
+   "slug": "south-african-airways-unallocatable-debt-act-2000",
+   "short": "South African Airways Unallocatable Debt Act",
+   "title": "South African Airways Unallocatable Debt Act",
+   "url": "https://www.gov.za/documents/acts/south-african-airways-unallocatable-debt-act-7-2000-17-mar-2000",
+   "versions": [
+    {
+     "from": "2000-03-17",
+     "units": 4,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a7-000.pdf",
+     "sha256": "1e72d75af8e6c1a9dd71a73d4539ab677a4d6081866a383e28acadf84caedea3"
+    }
+   ]
+  },
+  {
+   "slug": "independent-communications-authority-of-south-africa-act-2000",
+   "short": "Independent Communications Authority of South Africa Act",
+   "title": "Independent Communications Authority of South Africa Act",
+   "url": "https://www.gov.za/documents/independent-communications-authority-south-africa-act",
+   "versions": [
+    {
+     "from": "2000-05-05",
+     "units": 30,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/13000.pdf",
+     "sha256": "0aa03b935df8e4974783efa74aef662741e66a34155e24d0ac05e1cc831a0875"
+    }
+   ]
+  },
+  {
+   "slug": "protected-disclosures-act-2000",
+   "short": "Protected Disclosures Act",
+   "title": "Protected Disclosures Act",
+   "url": "https://www.gov.za/documents/acts/protected-disclosures-act-26-2000-07-aug-2000",
+   "versions": [
+    {
+     "from": "2000-08-07",
+     "units": 12,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a26-000.pdf",
+     "sha256": "9d409a64b656fe4acd27d32bce65b9e801843914ef13b824a151a1e35d2988ac"
+    }
+   ]
+  },
+  {
+   "slug": "african-renaissance-and-international-co-operation-fund-act-2000",
+   "short": "African Renaissance and International Co-operation Fund Act",
+   "title": "African Renaissance and International Co-operation Fund Act",
+   "url": "https://www.gov.za/documents/acts/african-renaissance-and-international-co-operation-fund-act-51-2000-24-nov-2000",
+   "versions": [
+    {
+     "from": "2000-11-24",
+     "units": 12,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a51-000.pdf",
+     "sha256": "3c2181003a3655f92bd54040522185a3e87748b232b0edbc7660786b4c02d912"
+    }
+   ]
+  },
+  {
+   "slug": "council-for-the-built-environment-act-2000",
+   "short": "Council for the Built Environment Act",
+   "title": "Council for the Built Environment Act",
+   "url": "https://www.gov.za/documents/acts/council-built-environment-act-43-2000-01-dec-2000",
+   "versions": [
+    {
+     "from": "2000-12-01",
+     "units": 23,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a43-000.pdf",
+     "sha256": "43c6639dc93b05a4e7c6bfd74d5358ddb1bffb0a36ce8abd9c6efaf372c924ac"
+    }
+   ]
+  },
+  {
+   "slug": "project-and-construction-management-professions-act-2000",
+   "short": "Project and Construction Management Professions Act",
+   "title": "Project and Construction Management Professions Act",
+   "url": "https://www.gov.za/documents/acts/project-and-construction-management-professions-act-48-2000-01-dec-2000",
+   "versions": [
+    {
+     "from": "2000-12-01",
+     "units": 45,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a48-000.pdf",
+     "sha256": "e37155473b7a95831dbf053bb22377329298498cea1ab0fb4dc58a3298fbaf66"
+    }
+   ]
+  },
+  {
+   "slug": "national-health-laboratory-service-act-2000",
+   "short": "National Health Laboratory Service Act",
+   "title": "National Health Laboratory Service Act",
+   "url": "https://www.gov.za/documents/national-health-laboratory-service-act",
+   "versions": [
+    {
+     "from": "2000-12-13",
+     "units": 31,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a37-000.pdf",
+     "sha256": "ea6db70fe12d158eac368a6731559366a594b299f11838277297113906204522"
+    }
+   ]
+  },
+  {
+   "slug": "council-for-medical-schemes-levies-act-2000",
+   "short": "Council for Medical Schemes Levies Act",
+   "title": "Council for Medical Schemes Levies Act",
+   "url": "https://www.gov.za/documents/acts/council-medical-schemes-levies-act-58-2000-13-dec-2000",
+   "versions": [
+    {
+     "from": "2000-12-13",
+     "units": 8,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a58-000.pdf",
+     "sha256": "f3a4ad4ef012a90e4d73e78abed77becf19caa94ae1493af01c952942cf4d729"
+    }
+   ]
+  },
+  {
+   "slug": "sea-transport-documents-act-2000",
+   "short": "Sea Transport Documents Act",
+   "title": "Sea Transport Documents Act",
+   "url": "https://www.gov.za/documents/sea-transport-documents-act",
+   "versions": [
+    {
+     "from": "2000-12-13",
+     "units": 12,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a65-000.pdf",
+     "sha256": "1797f21968fe80da3be278e1154c4cf9440f51721b20a2bcd61f40990811ef5c"
+    }
+   ]
+  },
+  {
+   "slug": "abolition-of-lebowa-mineral-trust-act-2000",
+   "short": "Abolition of Lebowa Mineral Trust Act",
+   "title": "Abolition of Lebowa Mineral Trust Act",
+   "url": "https://www.gov.za/documents/acts/abolition-lebowa-mineral-trust-act-67-2000-13-dec-2000",
+   "versions": [
+    {
+     "from": "2000-12-13",
+     "units": 9,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a67-000.pdf",
+     "sha256": "0fe955ec266f1ec0c831e92d3232d9dd87398f48f0c8c6aa02f7c02d58c59bc4"
+    }
+   ]
+  },
+  {
+   "slug": "south-african-rail-commuter-corporation-limited-financial-arrangements-act-2000",
+   "short": "South African Rail Commuter Corporation Limited Financial Arrangements Act",
+   "title": "South African Rail Commuter Corporation Limited Financial Arrangements Act",
+   "url": "https://www.gov.za/documents/south-african-rail-commuter-corporation-limited-financial-arrangements-act",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 5,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a64-2000c.pdf",
+     "sha256": "5166a54a300ca5ceef7bf4ab385882fea36eb1b1c9791690c9588a239d839600"
+    }
+   ]
+  },
+  {
+   "slug": "disestablishment-of-south-african-housing-trust-limited-act-2002",
+   "short": "Disestablishment of South African Housing Trust Limited Act",
+   "title": "Disestablishment of South African Housing Trust Limited Act",
+   "url": "https://www.gov.za/documents/acts/disestablishment-south-african-housing-trust-limited-act-26-2002-05-dec-2002",
+   "versions": [
+    {
+     "from": "2002-12-05",
+     "units": 6,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a26-02.pdf",
+     "sha256": "a865513e6fd293e932de6631ac2b5af46cf57d3e42c484444e8c1e8c062c4a3a"
+    }
+   ]
+  },
+  {
+   "slug": "public-investment-corporation-act-2004",
+   "short": "Public Investment Corporation Act",
+   "title": "Public Investment Corporation Act",
+   "url": "https://www.gov.za/documents/acts/public-investment-corporation-act-23-2004-14-dec-2004",
+   "versions": [
+    {
+     "from": "2004-12-14",
+     "units": 19,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a23-04.pdf",
+     "sha256": "2f2b7cb38292b1428622d326c82c465566786453ba4a4bacf8fdfe38149c522f"
+    }
+   ]
+  },
+  {
+   "slug": "public-audit-act-2004",
+   "short": "Public Audit Act",
+   "title": "Public Audit Act",
+   "url": "https://www.gov.za/documents/public-audit-act",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 58,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a25-04.pdf",
+     "sha256": "c8013ebbe771c02d0e39a9cab3e8d0e3266e6cd6bbcda887c17e7df4b562aba2"
+    }
+   ]
+  },
+  {
+   "slug": "petroleum-pipelines-levies-act-2004",
+   "short": "Petroleum Pipelines Levies Act",
+   "title": "Petroleum Pipelines Levies Act",
+   "url": "https://www.gov.za/documents/acts/petroleum-pipelines-levies-act-28-2004-20-dec-2004",
+   "versions": [
+    {
+     "from": "2004-12-20",
+     "units": 8,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a28-04.pdf",
+     "sha256": "a122ee319a29adce3b12265e3ebb61a50b7dd7712d5ca44df211f1f87c8235e0"
+    }
+   ]
+  },
+  {
+   "slug": "traditional-health-practitioners-act-2004",
+   "short": "Traditional Health Practitioners Act",
+   "title": "Traditional Health Practitioners Act",
+   "url": "https://www.gov.za/documents/acts/traditional-health-practitioners-act-35-2004-11-feb-2005",
+   "versions": [
+    {
+     "from": "2005-02-11",
+     "units": 54,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a35-04.pdf",
+     "sha256": "de4cb43fda4a5a9d008b511783d502ffaf34ec438e1914a50ecaf7c774aa968e"
+    }
+   ]
+  },
+  {
+   "slug": "national-environment-management-air-quality-act-2004",
+   "short": "National Environment Management: Air Quality Act",
+   "title": "National Environment Management: Air Quality Act",
+   "url": "https://www.gov.za/documents/national-environment-management-air-quality-act",
+   "versions": [
+    {
+     "from": "2005-02-24",
+     "units": 67,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a39-04.pdf",
+     "sha256": "46f043ec66ccec64cb15646335a189d4c97656fc23782ba0ccad24ceb6c64664"
+    }
+   ]
+  },
+  {
+   "slug": "national-energy-regulator-act-2004",
+   "short": "National Energy Regulator Act",
+   "title": "National Energy Regulator Act",
+   "url": "https://www.gov.za/documents/national-energy-regulator-act",
+   "versions": [
+    {
+     "from": "2005-04-06",
+     "units": 19,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a40-04.pdf",
+     "sha256": "b1b6eb73ce7d58976ae03e7c0141a0869c1dff4be89da43c32925c612b1ff296"
+    }
+   ]
+  },
+  {
+   "slug": "citation-of-constitutional-laws-act-2005",
+   "short": "Citation of Constitutional Laws Act",
+   "title": "Citation of Constitutional Laws Act",
+   "url": "https://www.gov.za/documents/citation-constitutional-laws-act",
+   "versions": [
+    {
+     "from": "2005-06-27",
+     "units": 6,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a5-050.pdf",
+     "sha256": "aa085699ddac906fd9244b9ca9bf4c3c654e04749a18a52c190f3d3e8bf208f9"
+    }
+   ]
+  },
+  {
+   "slug": "intergovernmental-relations-framework-act-2005",
+   "short": "Intergovernmental Relations Framework Act",
+   "title": "Intergovernmental Relations Framework Act",
+   "url": "https://www.gov.za/documents/intergovernmental-relations-framework-act",
+   "versions": [
+    {
+     "from": "2005-08-15",
+     "units": 50,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a13-051.pdf",
+     "sha256": "e04fa3964df1a0d5b6e150b7a84686f6b29a6c90d3dd3467451820a1ad7f61d9"
+    }
+   ]
+  },
+  {
+   "slug": "auditing-profession-act-2005",
+   "short": "Auditing Profession Act",
+   "title": "Auditing Profession Act",
+   "url": "https://www.gov.za/documents/auditing-profession-act",
+   "versions": [
+    {
+     "from": "2006-01-16",
+     "units": 63,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a26-050.pdf",
+     "sha256": "00ef5a31a80b8bdc81357286adde8842e9f1b2fb4111a6557493bb6eb65fc369"
+    }
+   ]
+  },
+  {
+   "slug": "national-credit-act-2005",
+   "short": "National Credit Act",
+   "title": "National Credit Act",
+   "url": "https://www.gov.za/documents/national-credit-act",
+   "versions": [
+    {
+     "from": "2006-03-15",
+     "units": 176,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a34-050_1.pdf",
+     "sha256": "9beac6d6d68c5c9144eca2f652d1a762a004368ee1d7aebe76c0400e0e4b9041"
+    }
+   ]
+  },
+  {
+   "slug": "electronic-communications-act-2005",
+   "short": "Electronic Communications Act",
+   "title": "Electronic Communications Act",
+   "url": "https://www.gov.za/documents/electronic-communications-act",
+   "versions": [
+    {
+     "from": "2006-04-18",
+     "units": 101,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a36-050.pdf",
+     "sha256": "099e3e5534ca81211caaa37a2c393e2075156ba4b1188a6a1f06eb1c77946f55"
+    }
+   ]
+  },
+  {
+   "slug": "precious-metals-act-2005",
+   "short": "Precious Metals Act",
+   "title": "Precious Metals Act",
+   "url": "https://www.gov.za/documents/acts/precious-metals-act-37-2005-21-apr-2006",
+   "versions": [
+    {
+     "from": "2006-04-21",
+     "units": 26,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a37-050.pdf",
+     "sha256": "3975d1adbb2e5f014acf0dd0f6c3c721797ba0fbf987b7e79ddc2b4d824b5c35"
+    }
+   ]
+  },
+  {
+   "slug": "nursing-act-2005",
+   "short": "Nursing Act",
+   "title": "Nursing Act",
+   "url": "https://www.gov.za/documents/nursing-act",
+   "versions": [
+    {
+     "from": "2006-05-29",
+     "units": 65,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a33-050.pdf",
+     "sha256": "25fd0188f0e3cc899345e779c65a86e450c63dbd8cdce7861431e860249d25b8"
+    }
+   ]
+  },
+  {
+   "slug": "2010-fifa-world-cup-south-africa-special-measures-act-2006",
+   "short": "2010 FIFA World Cup South Africa Special Measures Act",
+   "title": "2010 FIFA World Cup South Africa Special Measures Act",
+   "url": "https://www.gov.za/documents/acts/2010-fifa-world-cup-south-africa-special-measures-act-11-2006-07-sep-2006",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 11,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a11-060.pdf",
+     "sha256": "d206a9f6d3a1d81ab9af84baec60b9905687d450320b61913c1f254d47556baf"
+    }
+   ]
+  },
+  {
+   "slug": "second-2010-fifa-world-cup-south-africa-special-measures-act-2006",
+   "short": "Second 2010 FIFA World Cup South Africa Special Measures Act",
+   "title": "Second 2010 FIFA World Cup South Africa Special Measures Act",
+   "url": "https://www.gov.za/documents/acts/second-2010-fifa-world-cup-south-africa-special-measures-act-12-2006-07-sep-2006",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 8,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a12-060.pdf",
+     "sha256": "e3aae74b36fd715b8d05104ac6173329c63db398d6177338f1d88f13fee639fa"
+    }
+   ]
+  },
+  {
+   "slug": "older-persons-act-2006",
+   "short": "Older Persons Act",
+   "title": "Older Persons Act",
+   "url": "https://www.gov.za/documents/older-persons-act",
+   "versions": [
+    {
+     "from": "2006-11-02",
+     "units": 38,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a13-062.pdf",
+     "sha256": "fb99e86737eb2a0b23d70fc27aaa610650e62359565e6cb61cec682eb0fbcf0c"
+    }
+   ]
+  },
+  {
+   "slug": "civil-union-act-2006",
+   "short": "Civil Union Act",
+   "title": "Civil Union Act",
+   "url": "https://www.gov.za/documents/acts/civil-union-act-17-2006-17-nov-2006",
+   "versions": [
+    {
+     "from": "2006-11-17",
+     "units": 17,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a17-061.pdf",
+     "sha256": "1153e8c8111cffee5a207cba39adcb5b0dd7bb132540eae7c0cc60467d36e5f0"
+    }
+   ]
+  },
+  {
+   "slug": "continuing-education-and-training-act-previously-known-as-further-education-and-training-colleges-act-2006",
+   "short": "Continuing Education and Training Act (previously known as Further Education and Training Colleges Act)",
+   "title": "Continuing Education and Training Act (previously known as Further Education and Training Colleges Act)",
+   "url": "https://www.gov.za/documents/further-education-and-training-colleges-act",
+   "versions": [
+    {
+     "from": "2006-12-11",
+     "units": 61,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a16-060.pdf",
+     "sha256": "4d5e5972fa99ffc2a1a3ce1efd8582600062616404777a9f5173840880fbd4fd"
+    }
+   ]
+  },
+  {
+   "slug": "accreditation-for-conformity-assessment-calibration-and-good-laboratory-practice-act-2006",
+   "short": "Accreditation for Conformity Assessment, Calibration and Good Laboratory Practice Act",
+   "title": "Accreditation for Conformity Assessment, Calibration and Good Laboratory Practice Act",
+   "url": "https://www.gov.za/documents/acts/accreditation-conformity-assessment-calibration-and-good-laboratory-practice-act-19",
+   "versions": [
+    {
+     "from": "2007-03-16",
+     "units": 32,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a19-060.pdf",
+     "sha256": "5ce2b5ecde8fc5c35e29ce9e1eeb50873c8984b6b05cb0275a04f097ea806797"
+    }
+   ]
+  },
+  {
+   "slug": "finance-act-2007",
+   "short": "Finance Act",
+   "title": "Finance Act",
+   "url": "https://www.gov.za/documents/acts/finance-act-2-2007-31-mar-2007",
+   "versions": [
+    {
+     "from": "2007-03-31",
+     "units": 6,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a2-070.pdf",
+     "sha256": "5aaf63ad3e9de330f455a16d55dcf2cb1f1ab10218894c8da07724e776182453"
+    }
+   ]
+  },
+  {
+   "slug": "astronomy-geographic-advantage-act-2007",
+   "short": "Astronomy Geographic Advantage Act",
+   "title": "Astronomy Geographic Advantage Act",
+   "url": "https://www.gov.za/documents/astronomy-geographic-advantage-act",
+   "versions": [
+    {
+     "from": "2008-06-17",
+     "units": 55,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/gg31157nn666apg1-30.pdf",
+     "sha256": "92551b9cc313ad8a9964478da1c8359a306b03ba32c84af1e21b99a4a0c452e4"
+    }
+   ]
+  },
+  {
+   "slug": "national-qualifications-framework-act-2008",
+   "short": "National Qualifications Framework Act",
+   "title": "National Qualifications Framework Act",
+   "url": "https://www.gov.za/documents/national-qualifications-framework-act",
+   "versions": [
+    {
+     "from": "2009-02-17",
+     "units": 39,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/31909167.pdf",
+     "sha256": "735c2a1c7f954520b8638643585fee17eabd1fc66525b903ae7130812f45aab8"
+    }
+   ]
+  },
+  {
+   "slug": "second-hand-goods-act-2009",
+   "short": "Second-Hand Goods Act",
+   "title": "Second-Hand Goods Act",
+   "url": "https://www.gov.za/documents/second-hand-goods-act",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 48,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/32087392.pdf",
+     "sha256": "bb4f76bce0570031e895b09146cb84c34dc0880889dcc3ba4b4d02b6f61c77dc"
+    }
+   ]
+  },
+  {
+   "slug": "prevention-of-and-treatment-for-substance-abuse-act-2008",
+   "short": "Prevention of and Treatment for Substance Abuse Act",
+   "title": "Prevention of and Treatment for Substance Abuse Act",
+   "url": "https://www.gov.za/documents/prevention-and-treatment-substance-abuse-act",
+   "versions": [
+    {
+     "from": "2009-04-21",
+     "units": 69,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/70of2008ocr.pdf",
+     "sha256": "c55b96c94e7cf433a9e920dd3940bc3d31e80270528f96995f7df3828fbfa54c"
+    }
+   ]
+  },
+  {
+   "slug": "financial-management-of-parliament-act-2009",
+   "short": "Financial Management of Parliament Act",
+   "title": "Financial Management of Parliament Act",
+   "url": "https://www.gov.za/documents/financial-management-parliament-act",
+   "versions": [
+    {
+     "from": "2009-04-21",
+     "units": 75,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/32152438.pdf",
+     "sha256": "de8fe7ef1c4e1568d0cef2fd5ccba918cebed341cee872ea6b57785e7badfe69"
+    }
+   ]
+  },
+  {
+   "slug": "reform-of-customary-law-of-succession-and-regulation-of-related-matters-act-2009",
+   "short": "Reform of Customary Law of Succession and Regulation of Related Matters Act",
+   "title": "Reform of Customary Law of Succession and Regulation of Related Matters Act",
+   "url": "https://www.gov.za/documents/reform-customary-law-succession-and-regulation-related-matters-act",
+   "versions": [
+    {
+     "from": "2009-04-21",
+     "units": 4,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/32147433.pdf",
+     "sha256": "75ecf8c825d9d3cf5bb8b26ea87dc4277c8a5aa196e2fd09532a1ec9988acebf"
+    }
+   ]
+  },
+  {
+   "slug": "western-cape-inherited-debt-relief-act-2009",
+   "short": "Western Cape Inherited Debt Relief Act",
+   "title": "Western Cape Inherited Debt Relief Act",
+   "url": "https://www.gov.za/documents/acts/western-cape-inherited-debt-relief-act-7-2009-21-apr-2009",
+   "versions": [
+    {
+     "from": "2009-04-21",
+     "units": 7,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/7of2009ocr.pdf",
+     "sha256": "645137ba04688a80fd7f6088a73621493e35b7031f94e25efe5315eb19da945d"
+    }
+   ]
+  },
+  {
+   "slug": "consumer-protection-act-2008",
+   "short": "Consumer Protection Act",
+   "title": "Consumer Protection Act",
+   "url": "https://www.gov.za/documents/consumer-protection-act",
+   "versions": [
+    {
+     "from": "2009-04-29",
+     "units": 125,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/321864670.pdf",
+     "sha256": "35b70595dcd315e12ee46290bca426facecae33edad9ad3bdc5e5223bfcb1db7"
+    }
+   ]
+  },
+  {
+   "slug": "community-schemes-ombud-service-act-2011",
+   "short": "Community Schemes Ombud Service Act",
+   "title": "Community Schemes Ombud Service Act",
+   "url": "https://www.gov.za/documents/community-schemes-ombud-service-act",
+   "versions": [
+    {
+     "from": "2011-06-14",
+     "units": 61,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/a92011.pdf",
+     "sha256": "0b8fad1d3ea6ba644f60208cc6662000b2c3d0f9484782333c9871a6f363f933"
+    }
+   ]
+  },
+  {
+   "slug": "road-accident-fund-transitional-provisions-act-2012",
+   "short": "Road Accident Fund (Transitional Provisions) Act",
+   "title": "Road Accident Fund (Transitional Provisions) Act",
+   "url": "https://www.gov.za/documents/road-accident-fund-transitional-provisions-act",
+   "versions": [
+    {
+     "from": "2012-12-10",
+     "units": 4,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/35979gon1057.pdf",
+     "sha256": "8006550f64f661c0755e9f2d6c5f30002f0b39938f8b6be5633bad304581f118"
+    }
+   ]
+  },
+  {
+   "slug": "credit-rating-services-act-2012",
+   "short": "Credit Rating Services Act",
+   "title": "Credit Rating Services Act",
+   "url": "https://www.gov.za/documents/credit-rating-services-act",
+   "versions": [
+    {
+     "from": "2013-01-14",
+     "units": 40,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/36071gon15.pdf",
+     "sha256": "f28faaae93077ba1f981a9447132181bb8f4bd56459154c38cf21c788251cde7"
+    }
+   ]
+  },
+  {
+   "slug": "dangerous-weapons-act-2013",
+   "short": "Dangerous Weapons Act",
+   "title": "Dangerous Weapons Act",
+   "url": "https://www.gov.za/documents/dangerous-weapons-act",
+   "versions": [
+    {
+     "from": "2013-07-24",
+     "units": 9,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/36704gon531.pdf",
+     "sha256": "c2b152a47f24356d1529c3a5a799c65065e29ed2e8996e9fda076e2bcb1e8a21"
+    }
+   ]
+  },
+  {
+   "slug": "prevention-of-combating-and-torture-of-persons-act-2013",
+   "short": "Prevention of Combating and Torture of Persons Act",
+   "title": "Prevention of Combating and Torture of Persons Act",
+   "url": "https://www.gov.za/documents/prevention-combating-and-torture-persons-act",
+   "versions": [
+    {
+     "from": "2013-07-29",
+     "units": 15,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/36716act13of2013.pdf",
+     "sha256": "5f173de7cea57e776ba0c9851e6d6e6585201e31f68ce87c4f0dea81146c9f68"
+    }
+   ]
+  },
+  {
+   "slug": "prevention-and-combating-of-trafficking-in-persons-act-2013",
+   "short": "Prevention and Combating of Trafficking in Persons Act",
+   "title": "Prevention and Combating of Trafficking in Persons Act",
+   "url": "https://www.gov.za/documents/prevention-and-combating-trafficking-persons-act",
+   "versions": [
+    {
+     "from": "2013-07-30",
+     "units": 53,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/36715gon544.pdf",
+     "sha256": "65c982f71db9bccfd88dadaddf469cb0e73502c372ed08b6c9fcb46f99fa4436"
+    }
+   ]
+  },
+  {
+   "slug": "spatial-planning-and-land-use-management-act-2013",
+   "short": "Spatial Planning and Land Use Management Act",
+   "title": "Spatial Planning and Land Use Management Act",
+   "url": "https://www.gov.za/documents/spatial-planning-and-land-use-management-act",
+   "versions": [
+    {
+     "from": "2013-08-05",
+     "units": 64,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/367305-8act16of20.pdf",
+     "sha256": "fa8f64106c7a42cb7350ab1e2fbf45b0d29f6f38b5f383b4dabbb3bb036158d0"
+    }
+   ]
+  },
+  {
+   "slug": "geomatics-profession-act-2013",
+   "short": "Geomatics Profession Act",
+   "title": "Geomatics Profession Act",
+   "url": "https://www.gov.za/documents/geomatics-profession-act",
+   "versions": [
+    {
+     "from": "2013-12-10",
+     "units": 42,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37142gon990act19of2013.pdf",
+     "sha256": "6b13223f7c15217329667beba22695420d452d61a6f2f1cbaead778fb02f8a3d"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-international-oil-pollution-compensation-fund-act-2013",
+   "short": "Merchant Shipping (International Oil Pollution Compensation Fund) Act",
+   "title": "Merchant Shipping (International Oil Pollution Compensation Fund) Act",
+   "url": "https://www.gov.za/documents/merchant-shipping-international-oil-pollution-act",
+   "versions": [
+    {
+     "from": "2013-12-10",
+     "units": 13,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37145gon993act24-2013.pdf",
+     "sha256": "90cd2b83657531af549666369e8522fb54ede42c96d40d4c3b704053baf68128"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-civil-liability-convention-act-2013",
+   "short": "Merchant Shipping (Civil Liability Convention) Act",
+   "title": "Merchant Shipping (Civil Liability Convention) Act",
+   "url": "https://www.gov.za/documents/merchant-shipping-civil-liability-convention-act",
+   "versions": [
+    {
+     "from": "2013-12-10",
+     "units": 22,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37146gon994act25-2103.pdf",
+     "sha256": "32fba71fdb1f67ad2248ee5f91f346b63cd1ab67677a7f802b593c19ee906959"
+    }
+   ]
+  },
+  {
+   "slug": "employment-tax-incentive-act-2013",
+   "short": "Employment Tax Incentive Act",
+   "title": "Employment Tax Incentive Act",
+   "url": "https://www.gov.za/documents/employment-tax-incentive-act",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 16,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37185gon1032.pdf",
+     "sha256": "659743729107b7429d1cdba2e6a8d56708b18a60431ed52fc1d6dd36bdc80b31"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-international-oil-pollution-compensation-fund-administration-act-2013",
+   "short": "Merchant Shipping (International Oil Pollution Compensation Fund) Administration Act",
+   "title": "Merchant Shipping (International Oil Pollution Compensation Fund) Administration Act",
+   "url": "https://www.gov.za/documents/merchant-shipping-international-oil-pollution-compensation-fund-administration-act",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 9,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37174gon1023.pdf",
+     "sha256": "fe616c9520e69a91e1e748866384c7c6e013fde86646227b6d8662937d62842c"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-international-oil-pollution-compensation-fund-contributions-act-2013",
+   "short": "Merchant Shipping (International Oil Pollution Compensation Fund) Contributions Act",
+   "title": "Merchant Shipping (International Oil Pollution Compensation Fund) Contributions Act",
+   "url": "https://www.gov.za/documents/merchant-shipping-international-oil-pollution-compensation-fund-contributions-act",
+   "versions": [
+    {
+     "from": "2014-01-08",
+     "units": 7,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37219act36of2013merchantship8jan.pdf",
+     "sha256": "a58ad002bad45b2eb4ffbf7546ecd767e1e151a069adbbd3b62a82b463e3dab5"
+    }
+   ]
+  },
+  {
+   "slug": "south-african-human-rights-commission-act-2013",
+   "short": "South African Human Rights Commission Act",
+   "title": "South African Human Rights Commission Act",
+   "url": "https://www.gov.za/documents/south-african-human-rights-commission-act",
+   "versions": [
+    {
+     "from": "2014-01-22",
+     "units": 26,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37253act40of2013sa-humanrightscom22jan2014.pdf",
+     "sha256": "0a6fdf7ed8682e1e92ae9c4396c084f55b5b9d96c4a263c83d6982d0223e1500"
+    }
+   ]
+  },
+  {
+   "slug": "tourism-act-2014",
+   "short": "Tourism Act",
+   "title": "Tourism Act",
+   "url": "https://www.gov.za/documents/tourism-act-0",
+   "versions": [
+    {
+     "from": "2014-04-07",
+     "units": 67,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37538act3of2014tourism7april2014.pdf",
+     "sha256": "ec17aae1fb197bd7cdb078a5f04f0252afc02055a7986192a77c75139255db05"
+    }
+   ]
+  },
+  {
+   "slug": "employment-services-act-2014",
+   "short": "Employment Services Act",
+   "title": "Employment Services Act",
+   "url": "https://www.gov.za/documents/employment-services-act",
+   "versions": [
+    {
+     "from": "2014-04-07",
+     "units": 56,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37539act4of2014employservices7apr2014.pdf",
+     "sha256": "a7e8f1bf1ba363f447524c8a5d4e7a00a0b3906b7653e47c5e2166568b469882"
+    }
+   ]
+  },
+  {
+   "slug": "special-economic-zones-act-2014",
+   "short": "Special Economic Zones Act",
+   "title": "Special Economic Zones Act",
+   "url": "https://www.gov.za/documents/special-economic-zones-act",
+   "versions": [
+    {
+     "from": "2014-05-19",
+     "units": 44,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37664act16of2014specialeconzones19may2014.pdf",
+     "sha256": "b6e5c889d2488be07a0aa979018eacbaecf54099f374d50dc39a07ee5ddfbd73"
+    }
+   ]
+  },
+  {
+   "slug": "south-african-language-practitioners-council-act-2014",
+   "short": "South African Language Practitioners' Council Act",
+   "title": "South African Language Practitioners' Council Act",
+   "url": "https://www.gov.za/documents/south-african-language-practitioners-council-act",
+   "versions": [
+    {
+     "from": "2014-05-19",
+     "units": 45,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37660gon384.pdf",
+     "sha256": "885358363c441ba4c556da48f6621b39edf05c6128fbacce34f28b829be70548"
+    }
+   ]
+  },
+  {
+   "slug": "legal-metrology-act-2014",
+   "short": "Legal Metrology Act",
+   "title": "Legal Metrology Act",
+   "url": "https://www.gov.za/documents/legal-metrology-act",
+   "versions": [
+    {
+     "from": "2014-05-19",
+     "units": 46,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37661gon385.pdf",
+     "sha256": "e275f924b3f384341b4023213c81e930e843519db5a1a7314206a43303b7dbc8"
+    }
+   ]
+  },
+  {
+   "slug": "infrastructure-development-act-2014",
+   "short": "Infrastructure Development Act",
+   "title": "Infrastructure Development Act",
+   "url": "https://www.gov.za/documents/infrastructure-development-act",
+   "versions": [
+    {
+     "from": "2014-06-02",
+     "units": 26,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/377122-6act23of2014infrastrucdevelopa.pdf",
+     "sha256": "588f0b347cd92b21bc6cae07e5723c803a3b630834f6b42fbd9466a7375db690"
+    }
+   ]
+  },
+  {
+   "slug": "property-valuation-act-2014",
+   "short": "Property Valuation Act",
+   "title": "Property Valuation Act",
+   "url": "https://www.gov.za/documents/property-valuation-act",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 23,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37792act17of2014propertyvaluationact1july2014.pdf",
+     "sha256": "924a5d84006e4acd129a0614022df13ec1181180f059153b858e3d272acd2c55"
+    }
+   ]
+  },
+  {
+   "slug": "customs-duty-act-2014",
+   "short": "Customs Duty Act",
+   "title": "Customs Duty Act",
+   "url": "https://www.gov.za/documents/customs-duty-act",
+   "versions": [
+    {
+     "from": "2014-07-10",
+     "units": 231,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37821gon552act30of2014.pdf",
+     "sha256": "bf237a9db44c1a51917a788b0835099aeaccfe62d84bdc2f4caaf33bdc55dad0"
+    }
+   ]
+  },
+  {
+   "slug": "customs-control-act-2014",
+   "short": "Customs Control Act",
+   "title": "Customs Control Act",
+   "url": "https://www.gov.za/documents/customs-control-act",
+   "versions": [
+    {
+     "from": "2014-07-23",
+     "units": 947,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201409/37862gon582.pdf",
+     "sha256": "84a74cb56ab70e5883510285ab45c449ab9fbd1f51b212e4cdb51617e81715eb"
+    }
+   ]
+  },
+  {
+   "slug": "legal-aid-south-africa-act-2014",
+   "short": "Legal Aid South Africa Act",
+   "title": "Legal Aid South Africa Act",
+   "url": "https://www.gov.za/documents/legal-aid-south-africa-act",
+   "versions": [
+    {
+     "from": "2014-12-09",
+     "units": 30,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201412/383159-12act39of2014legalaidsaact2014a.pdf",
+     "sha256": "1517f78c69275a0c64e7f9ca35021acff725a92e628d23e318b495165869bbbd"
+    }
+   ]
+  },
+  {
+   "slug": "public-administration-management-act-2014",
+   "short": "Public Administration Management Act",
+   "title": "Public Administration Management Act",
+   "url": "https://www.gov.za/documents/public-administration-management-act",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 23,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201501/38374gon1054act11of2014.pdf",
+     "sha256": "b11a57d3391b9479dc89c89b256aebef1ee54a90a13a80372fb02023ce2b6c50"
+    }
+   ]
+  },
+  {
+   "slug": "agrement-south-africa-act-2015",
+   "short": "Agrément South Africa Act",
+   "title": "Agrément South Africa Act",
+   "url": "https://www.gov.za/documents/agr%C3%A9ment-south-africa-act-11-2015-15-dec-2015-0000",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 32,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201512/39511act11of2015agrementsa-act.pdf",
+     "sha256": "00e53529ab378d9e33d55d4a5effdcb9f4e475620866ca2562ece05bf06748fb"
+    }
+   ]
+  },
+  {
+   "slug": "finance-act-2015",
+   "short": "Finance Act",
+   "title": "Finance Act",
+   "url": "https://www.gov.za/documents/finance-act-19-2015-15-dec-2015-0000",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 6,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201512/39512act19of2015financeact.pdf",
+     "sha256": "5dbd043cbb3fb4881aa305f66a7543678ebd64ee38b8ac3b766b7cceb466b811"
+    }
+   ]
+  },
+  {
+   "slug": "protection-of-investment-act-2015",
+   "short": "Protection of Investment Act",
+   "title": "Protection of Investment Act",
+   "url": "https://www.gov.za/documents/protection-investment-act-22-2015-15-dec-2015-0000",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 18,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201512/39514act22of2015protectionofinvestmentact.pdf",
+     "sha256": "2091959bb00312fb994baa52ae13d2eeebc92e8f5ee110b987b9baf96170d424"
+    }
+   ]
+  },
+  {
+   "slug": "finance-act-2016",
+   "short": "Finance Act",
+   "title": "Finance Act",
+   "url": "https://www.gov.za/documents/finance-act-7-2016-english-setswana-19-jan-2017-0000",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 6,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201701/a7of2016financeact.pdf",
+     "sha256": "d5e85ed680d38c100cc327796cdc5d34ace66ac1fe30e079427d7cf961f2b82b"
+    }
+   ]
+  },
+  {
+   "slug": "justice-administered-fund-act-2017",
+   "short": "Justice Administered Fund Act",
+   "title": "Justice Administered Fund Act",
+   "url": "https://www.gov.za/documents/justice-administered-fund-act-2-2017-6-apr-2017-0000",
+   "versions": [
+    {
+     "from": "2017-04-06",
+     "units": 11,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201704/407736-4act2of2017.pdf",
+     "sha256": "c40a61fba597e90b2d670e7de613d368b81ee71d6734471a978924a4eb4ad8d4"
+    }
+   ]
+  },
+  {
+   "slug": "international-arbitration-act-2017",
+   "short": "International Arbitration Act",
+   "title": "International Arbitration Act",
+   "url": "https://www.gov.za/documents/acts/international-arbitration-act-15-2017-english-afrikaans-20-dec-2017",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 25,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201712/41347internationalarbitrationact15of2017.pdf",
+     "sha256": "e06377389af9ba7f2e5fc0e231da0f1b27d4aeae6b008c6eb038eb42e5959b15"
+    }
+   ]
+  },
+  {
+   "slug": "insurance-act-2017",
+   "short": "Insurance Act",
+   "title": "Insurance Act",
+   "url": "https://www.gov.za/documents/acts/insurance-act-18-2017-english-afrikaans-18-jan-2018",
+   "versions": [
+    {
+     "from": "2018-01-18",
+     "units": 76,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201801/41388gon32insuranceact2017.pdf",
+     "sha256": "3bdf53995841616207a826471726fa36391202aed703a80303bb5f0cb310a7c1"
+    }
+   ]
+  },
+  {
+   "slug": "national-minimum-wage-act-2018",
+   "short": "National Minimum Wage Act",
+   "title": "National Minimum Wage Act",
+   "url": "https://www.gov.za/documents/acts/national-minimum-wage-act-9-2018-english-tshivenda-27-nov-2018",
+   "versions": [
+    {
+     "from": "2018-11-27",
+     "units": 20,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201811/42060gon1303act9of2018.pdf",
+     "sha256": "cec294beadbae4cc18710b04615f47d0ef5ec5841c4220b5b1e3c722cfdbd2e7"
+    }
+   ]
+  },
+  {
+   "slug": "political-party-funding-act-2018",
+   "short": "Political Party Funding Act",
+   "title": "Political Party Funding Act",
+   "url": "https://www.gov.za/documents/acts/political-party-funding-act-6-2018-english-setswana-23-jan-2019",
+   "versions": [
+    {
+     "from": "2019-01-23",
+     "units": 28,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201901/42188gon63politicalpartyfundingact6of2019.pdf",
+     "sha256": "5a885cbc4e1521367a026a0bf07345e8237fc5b0b51df9d44c13c151c40e221b"
+    }
+   ]
+  },
+  {
+   "slug": "plant-improvement-act-2018",
+   "short": "Plant Improvement Act",
+   "title": "Plant Improvement Act",
+   "url": "https://www.gov.za/documents/acts/plant-improvement-act-11-2018-english-isizulu-29-mar-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 69,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201903/4234829-3-2019plantimprovementact11of2018.pdf",
+     "sha256": "dcc08848eb6fdfb4978173fb8876b02d8c39a7f114b0bac9901a0039e5b4a21f"
+    }
+   ]
+  },
+  {
+   "slug": "plant-breeders-rights-act-2018",
+   "short": "Plant Breeders' Rights Act",
+   "title": "Plant Breeders' Rights Act",
+   "url": "https://www.gov.za/documents/acts/plant-breeders-rights-act-12-2018-english-setswana-29-mar-2019",
+   "versions": [
+    {
+     "from": "2019-03-29",
+     "units": 64,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201903/4234729-3-2019plantbreedersact12of2018.pdf",
+     "sha256": "22886e5d113988141d12e0b177f787d52ff0ac0cd6fb399b67e0631954685448"
+    }
+   ]
+  },
+  {
+   "slug": "marine-spatial-planning-act-2018",
+   "short": "Marine Spatial Planning Act",
+   "title": "Marine Spatial Planning Act",
+   "url": "https://www.gov.za/documents/acts/marine-spatial-planning-act-16-2018-english-siswati-06-may-2019",
+   "versions": [
+    {
+     "from": "2019-05-06",
+     "units": 17,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201905/42444gon641marinespatialplanningact16of2018.pdf",
+     "sha256": "a9939f5ad8aef12e50e7845ff5ec8ec7a317d19020ae2a2d924cd107d6a9bdd5"
+    }
+   ]
+  },
+  {
+   "slug": "carbon-tax-act-2019",
+   "short": "Carbon Tax Act",
+   "title": "Carbon Tax Act",
+   "url": "https://www.gov.za/documents/acts/carbon-tax-act-15-2019-english-afrikaans-23-may-2019",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 24,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201905/4248323-5act15of2019carbontaxact.pdf",
+     "sha256": "1ca0649e099e13bce1c04903e4495911f78110ced2c81f33bc1c0a0689581478"
+    }
+   ]
+  },
+  {
+   "slug": "public-audit-excess-fee-act-2019",
+   "short": "Public Audit Excess Fee Act",
+   "title": "Public Audit Excess Fee Act",
+   "url": "https://www.gov.za/documents/acts/public-audit-excess-fee-act-20-2019-english-afrikaans-23-may-2019",
+   "versions": [
+    {
+     "from": "2019-05-23",
+     "units": 3,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201905/4248123-5act20of2019pubicauditexcessfeeact.pdf",
+     "sha256": "79f90b972bdccf66557b4c7c03e7bc997abb45b38b57063038b1ddd01cbed31b"
+    }
+   ]
+  },
+  {
+   "slug": "protection-promotion-development-and-management-of-indigenous-knowledge-act-2019",
+   "short": "Protection, Promotion, Development and Management of Indigenous Knowledge Act",
+   "title": "Protection, Promotion, Development and Management of Indigenous Knowledge Act",
+   "url": "https://www.gov.za/documents/acts/protection-promotion-development-and-management-indigenous-knowledge-act-6-2019",
+   "versions": [
+    {
+     "from": "2019-08-19",
+     "units": 36,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201908/4264719-8act6of2019protectpromodevelopmanagementindigenousknowledgeact.pdf",
+     "sha256": "427d10aeb8c457fd3e6bde58b54676f1981ef533c84095b66b69fa96d4b56deb"
+    }
+   ]
+  },
+  {
+   "slug": "electronic-deeds-registration-systems-act-2019",
+   "short": "Electronic Deeds Registration Systems Act",
+   "title": "Electronic Deeds Registration Systems Act",
+   "url": "https://www.gov.za/documents/acts/electronic-deeds-registration-systems-act-19-2019-english-afrikaans-03-oct-2019",
+   "versions": [
+    {
+     "from": "2019-10-03",
+     "units": 9,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201910/42744gon1293.pdf",
+     "sha256": "ff43bbef31d53f093bf0ce317f373abe243807dade3a60f94311b59d0809cd86"
+    }
+   ]
+  },
+  {
+   "slug": "property-practitioners-act-2019",
+   "short": "Property Practitioners Act",
+   "title": "Property Practitioners Act",
+   "url": "https://www.gov.za/documents/acts/property-practitioners-act-22-2019-english-tshivenda-03-oct-2019",
+   "versions": [
+    {
+     "from": "2019-10-03",
+     "units": 79,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201910/42746gon1295.pdf",
+     "sha256": "1535ee536d42af1c44d1c51a53b63b22bf8d4ff1da94855ccb049a70a52a4270"
+    }
+   ]
+  },
+  {
+   "slug": "traditional-and-khoi-san-leadership-act-2019",
+   "short": "Traditional and Khoi-San Leadership Act",
+   "title": "Traditional and Khoi-San Leadership Act",
+   "url": "https://www.gov.za/documents/acts/traditional-and-khoi-san-leadership-act-3-2019-english-afrikaans-28-nov-2019",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 69,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201911/4286528-11act3of2019tradkhoisanleadership.pdf",
+     "sha256": "f4f088be0f03e0046abe6c7d82a434e7c300c88491109a1a008dffb251bf72de"
+    }
+   ]
+  },
+  {
+   "slug": "critical-infrastructure-protection-act-2019",
+   "short": "Critical Infrastructure Protection Act",
+   "title": "Critical Infrastructure Protection Act",
+   "url": "https://www.gov.za/documents/acts/critical-infrastructure-protection-act-8-2019-english-isixhosa-28-nov-2019",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 35,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/201911/4286628-11act8of2019criticalinfraprotectact.pdf",
+     "sha256": "8ec338a8c962e73157628d68a7681ec17177ea99278e89f0ed793f6969bd89a6"
+    }
+   ]
+  },
+  {
+   "slug": "hydrographic-act-2019",
+   "short": "Hydrographic Act",
+   "title": "Hydrographic Act",
+   "url": "https://www.gov.za/documents/acts/hydrographic-act-35-2019-english-isixhosa-03-jun-2020",
+   "versions": [
+    {
+     "from": "2020-06-03",
+     "units": 20,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202006/433893-6-2020hydrographicact35of2019a.pdf",
+     "sha256": "3202cb72bf69de9adc5867fce2262d12bddf9100d199ddf7fc76974b89b84f4c"
+    }
+   ]
+  },
+  {
+   "slug": "foreign-service-act-2019",
+   "short": "Foreign Service Act",
+   "title": "Foreign Service Act",
+   "url": "https://www.gov.za/documents/acts/foreign-service-act-26-2019-english-xitsonga-04-jun-2020",
+   "versions": [
+    {
+     "from": "2020-06-04",
+     "units": 17,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202006/43403gon642.pdf",
+     "sha256": "3b8fad808f74eeb42045f16123a40e2dbbf5db19cf259c59d44ed5e0b63d93aa"
+    }
+   ]
+  },
+  {
+   "slug": "disaster-management-tax-relief-act-2020",
+   "short": "Disaster Management Tax Relief Act",
+   "title": "Disaster Management Tax Relief Act",
+   "url": "https://www.gov.za/documents/acts/disaster-management-tax-relief-act-13-2020-english-afrikaans-05-nov-2020",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 13,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202011/43883-gon1188.pdf",
+     "sha256": "ad9474ea205d4cc89ff153098d6a0a8531421066adaa58fc09e82d52f21f708d"
+    }
+   ]
+  },
+  {
+   "slug": "disaster-management-tax-relief-administration-act-2020",
+   "short": "Disaster Management Tax Relief Administration Act",
+   "title": "Disaster Management Tax Relief Administration Act",
+   "url": "https://www.gov.za/documents/acts/disaster-management-tax-relief-administration-act-14-2020-english-afrikaans-05-nov",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 10,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202011/43884gon1189.pdf",
+     "sha256": "12dc572e0ac99f02e83cab391b9d06c86a46a1e04a540321c69a9f05010f1f03"
+    }
+   ]
+  },
+  {
+   "slug": "cybercrimes-act-2020",
+   "short": "Cybercrimes Act",
+   "title": "Cybercrimes Act",
+   "url": "https://www.gov.za/documents/acts/cybercrimes-act-19-2020-english-afrikaans-01-jun-2021",
+   "versions": [
+    {
+     "from": "2021-06-01",
+     "units": 63,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202106/44651gon324.pdf",
+     "sha256": "757c22f52c88caf245469c150d08ba7b410f68f8eb5d211e3807101a3fa23b44"
+    }
+   ]
+  },
+  {
+   "slug": "customary-initiation-act-2021",
+   "short": "Customary Initiation Act",
+   "title": "Customary Initiation Act",
+   "url": "https://www.gov.za/documents/acts/customary-initiation-act-2-2021-english-siswati-04-jun-2021",
+   "versions": [
+    {
+     "from": "2021-06-04",
+     "units": 44,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202106/4466804-06customaryinitiationact2of2021a.pdf",
+     "sha256": "3187b0f7287f3c99771c7fd812fe667b69e967a89482f19ad985a3452fd18b1e"
+    }
+   ]
+  },
+  {
+   "slug": "financial-sector-and-deposit-insurance-levies-act-2022",
+   "short": "Financial Sector and Deposit Insurance Levies Act",
+   "title": "Financial Sector and Deposit Insurance Levies Act",
+   "url": "https://www.gov.za/documents/acts/financial-sector-and-deposit-insurance-levies-act-11-2022-english-sesotho-09-dec",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 16,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202212/47695-9-12-financialsectordepositinsuranceleviesact112022a_1.pdf",
+     "sha256": "11beb3467dd2acaf949c21daa5b7536b6ee7d6c32392f6206be6e36f8ad27e61"
+    }
+   ]
+  },
+  {
+   "slug": "financial-sector-and-deposit-insurance-levies-administration-and-deposit-insurance-premiums-act-2022",
+   "short": "Financial Sector and Deposit Insurance Levies (Administration) and Deposit Insurance Premiums Act",
+   "title": "Financial Sector and Deposit Insurance Levies (Administration) and Deposit Insurance Premiums Act",
+   "url": "https://www.gov.za/documents/acts/financial-sector-and-deposit-insurance-levies-administration-and-deposit-insurance",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 20,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202212/47696finsecdepinsurlevadmindepositinsuact122022.pdf",
+     "sha256": "55d78bd3c932ecb724a5daee76148ea70ae14402908dc9d3bff4195236f41550"
+    }
+   ]
+  },
+  {
+   "slug": "eskom-debt-relief-act-2023",
+   "short": "Eskom Debt Relief Act",
+   "title": "Eskom Debt Relief Act",
+   "url": "https://www.gov.za/documents/acts/eskom-debt-relief-act-7-2023-english-isixhosa-07-jul-2023",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 5,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202308/48915eskomdebtreliefact72023.pdf",
+     "sha256": "b648b166f3f75475e96799a6530a128567f6dd024dc633e8c802839554adf50c"
+    }
+   ]
+  },
+  {
+   "slug": "traditional-courts-act-2022",
+   "short": "Traditional Courts Act",
+   "title": "Traditional Courts Act",
+   "url": "https://www.gov.za/documents/acts/traditional-courts-act-9-2022-english-isixhosa-27-sep-2023",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 22,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202310/49373traditionalcourtsact92022.pdf",
+     "sha256": "f580740160eda80938ead3bc223d9ed7eeb6d14c4b3c83f50b17ed43b03901bc"
+    }
+   ]
+  },
+  {
+   "slug": "land-court-act-2023",
+   "short": "Land Court Act",
+   "title": "Land Court Act",
+   "url": "https://www.gov.za/documents/acts/land-court-act-6-2023-english-isizulu-27-sep-2023",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 41,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202310/49372landcourtact62023.pdf",
+     "sha256": "786cdcad37495f25f5cbc30e73dca58dfcc33f34a8165b0b5cc1364b099eab63"
+    }
+   ]
+  },
+  {
+   "slug": "prevention-and-combating-of-hate-crimes-and-hate-speech-act-2023",
+   "short": "Prevention and Combating of Hate Crimes and Hate Speech Act",
+   "title": "Prevention and Combating of Hate Crimes and Hate Speech Act",
+   "url": "https://www.gov.za/documents/acts/prevention-and-combating-hate-crimes-and-hate-speech-act-16-2023-english-sepedi-14",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 14,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202405/50652preventionandcombatingofhatecrimesandhatespeech162023.pdf",
+     "sha256": "0f20522f5a958a3087a5f98898676744d1c5c6f59658f691bf422ef6ecfbfe77"
+    }
+   ]
+  },
+  {
+   "slug": "national-council-on-gender-based-violence-and-femicide-act-2024",
+   "short": "National Council on Gender-Based Violence and Femicide Act",
+   "title": "National Council on Gender-Based Violence and Femicide Act",
+   "url": "https://www.gov.za/documents/acts/national-council-gender-based-violence-and-femicide-act-9-2024-english-sepedi-27-may",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 27,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202405/50712natcouncilgender-basedviolencefemicideact92024.pdf",
+     "sha256": "cd91444982999fa76d58de914e78b01b0ad860dea16daeb2c715c51963b7913d"
+    }
+   ]
+  },
+  {
+   "slug": "cannabis-for-private-purposes-act-2024",
+   "short": "Cannabis for Private Purposes Act",
+   "title": "Cannabis for Private Purposes Act",
+   "url": "https://www.gov.za/documents/acts/cannabis-private-purposes-act-7-2024-english-sepedi-03-jun-2024",
+   "versions": [
+    {
+     "from": "2024-06-03",
+     "units": 11,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202406/50744-03-06-cannabisforprivatepurposesact-72024.pdf",
+     "sha256": "01048f50a6dfee6542ef6ccb759a63af802b2fef674ac54172c51ba37010f579"
+    }
+   ]
+  },
+  {
+   "slug": "climate-change-act-2024",
+   "short": "Climate Change Act",
+   "title": "Climate Change Act",
+   "url": "https://www.gov.za/documents/acts/climate-change-act-22-2024-english-tshivenda-23-jul-2024",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 41,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202407/50966climatechangeact222024.pdf",
+     "sha256": "731eba0336de20b8c983c6e2dc994d5b7697ea407b2258eefe6b749e996695d5"
+    }
+   ]
+  },
+  {
+   "slug": "public-procurement-act-2024",
+   "short": "Public Procurement Act",
+   "title": "Public Procurement Act",
+   "url": "https://www.gov.za/documents/acts/public-procurement-act-28-2024-english-setswana-23-jul-2024",
+   "versions": [
+    {
+     "from": "2024-07-23",
+     "units": 72,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202407/50967-publicprocurementact282024.pdf",
+     "sha256": "5005bd944601172eb69f8dccc4b76ee05debf0ffe99a55fea60d786742518359"
+    }
+   ]
+  },
+  {
+   "slug": "south-african-national-water-resources-infrastructure-agency-soc-limited-act-act-2024",
+   "short": "South African National Water Resources Infrastructure Agency Soc Limited Act Act",
+   "title": "South African National Water Resources Infrastructure Agency Soc Limited Act Act",
+   "url": "https://www.gov.za/documents/acts/south-african-national-water-resources-infrastructure-agency-soc-limited-act-act-34",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 55,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202409/51163-southafricanwaterresourcesinfrastructureagencsoclimiact34of2024.pdf",
+     "sha256": "aaa31621282f3b20dffd385b399bcb68b5a6be7e9a670858474d75b468299441"
+    }
+   ]
+  },
+  {
+   "slug": "upstream-petroleum-resources-development-act-2024",
+   "short": "Upstream Petroleum Resources Development Act",
+   "title": "Upstream Petroleum Resources Development Act",
+   "url": "https://www.gov.za/documents/acts/upstream-petroleum-resources-development-act-23-2024-english-isizulu-29-oct-2024",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 114,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202410/51463upstreampetroleumresourcesdevelopmentactno232024.pdf",
+     "sha256": "6e8ef153654c7a2585e3823860c1ee5858febadbfde9297c6a3d70a785d1fee5"
+    }
+   ]
+  },
+  {
+   "slug": "railway-safety-act-2024",
+   "short": "Railway Safety Act",
+   "title": "Railway Safety Act",
+   "url": "https://www.gov.za/documents/acts/railway-safety-act-30-2024-english-sepedi-10-dec-2024",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 73,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202412/51731railwaysafetyact30of2024.pdf",
+     "sha256": "02adaabb19a7742e38d6e574823bb0a04b894e3dff3c1dbf9fc4170433df4b6b"
+    }
+   ]
+  },
+  {
+   "slug": "plant-health-phytosanitary-act-2024",
+   "short": "Plant Health (Phytosanitary) Act",
+   "title": "Plant Health (Phytosanitary) Act",
+   "url": "https://www.gov.za/documents/acts/plant-health-phytosanitary-act-35-2024-20-dec-2024",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 41,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202501/51806-planthealthphytosanitaryact35of2024_0.pdf",
+     "sha256": "8e017c6e837f356de336da5d159e034fcda42d4a41a0e686909190908ae11c26"
+    }
+   ]
+  },
+  {
+   "slug": "global-minimum-tax-administration-act-2024",
+   "short": "Global Minimum Tax Administration Act",
+   "title": "Global Minimum Tax Administration Act",
+   "url": "https://www.gov.za/documents/acts/global-minimum-tax-administration-act-47-2024-english-afrikaans-09-jan-2025",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 14,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202501/51884globalminimumtaxadministrationact47of2024.pdf",
+     "sha256": "f367c749a2887032dd43369d759221e3cae932b014483622d144c6f821f79b69"
+    }
+   ]
+  },
+  {
+   "slug": "expropriation-act-2024",
+   "short": "Expropriation Act",
+   "title": "Expropriation Act",
+   "url": "https://www.gov.za/documents/acts/expropriation-act-13-2024-english-sepedi-24-jan-2025",
+   "versions": [
+    {
+     "from": "2025-01-24",
+     "units": 33,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202501/51964-expropriationact13-2024.pdf",
+     "sha256": "9f27acc58ffcef07071e728ea7895e7fe437b7f9ed11815ca5181015f1b43b7b"
+    }
+   ]
+  },
+  {
+   "slug": "housing-consumer-protection-act-2024",
+   "short": "Housing Consumer Protection Act",
+   "title": "Housing Consumer Protection Act",
+   "url": "https://www.gov.za/documents/acts/housing-consumer-protection-act-25-2024-english-siswati-29-jan-2025",
+   "versions": [
+    {
+     "from": "2025-01-29",
+     "units": 96,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202501/52007-housingconsumerprotectionact25of2024.pdf",
+     "sha256": "a585f4096c1ed496ecc4df68195dd4a416c9262b9bd9f41310e779bc44a42e0c"
+    }
+   ]
   }
  ]
 }

@@ -1,33 +1,202 @@
 key,label,kind,title,enacted,published,in_force_days,commits,url
+act-1993-79,Act 79 of 1993,law,Finance Act (House of Assembly) 79 of 1993,,1993-07-02,1993-07-02,1,https://www.gov.za/documents/acts/finance-act-house-assembly-79-1993-02-jul-1993
+act-1993-131,Act 131 of 1993,law,Nuclear Energy Act 131 of 1993,,1993-10-06,1993-10-06,1,https://www.gov.za/documents/nuclear-energy-act-0
+act-1993-161,Act 161 of 1993,law,Second Unauthorised Expenditure Act (House of Assembly) 161 of 1993,,1993-12-15,1993-12-15,1,https://www.gov.za/documents/acts/second-unauthorised-expenditure-act-house-assembly-161-1993-15-dec-1993
+act-1995-66,Act 66 of 1995,law,Labour Relations Act 66 of 1995,,1995-12-13,1995-12-13,1,https://www.gov.za/documents/labour-relations-act
 act-1996-108,Act 108 of 1996,law,"Constitution of the Republic of South Africa, 1996",1996-12-10,1996-12-18,1997-02-04 1998-01-01,2,https://www.justice.gov.za/legislation/constitution/SAConstitution-web-eng.pdf
 proc-r6-1997,Proc. R6 of 1997,decree,"Commencement: Constitution of the Republic of South Africa, 1996",1997-01-22,,1997-02-04 1997-06-30,2,https://www.justice.gov.za/constitution/history/act/AMEND/PROC0697.PDF
 a35-1997,First Amendment (1997),law,Constitution First Amendment Act of 1997 (Act 35 of 1997),1997-08-28,1997-08-29,1997-02-04,1,https://www.justice.gov.za/legislation/acts/1997-035.pdf
+act-1997-36,Act 36 of 1997,law,South African Olympic Hostings Act 36 of 1997,,1997-09-03,1997-09-03,1,https://www.gov.za/documents/acts/south-african-olympic-hostings-act-36-1997-03-sep-1997
+act-1997-34,Act 34 of 1997,law,South African Revenue Service Act 34 of 1997,,1997-09-05,1997-09-05,1,https://www.gov.za/documents/south-african-revenue-service-act
+act-1997-37,Act 37 of 1997,law,Counterfeit Goods Act 37 of 1997,,1997-10-01,1997-10-01,1,https://www.gov.za/documents/counterfeit-goods-act
+act-1997-45,Act 45 of 1997,law,Extension of Terms of Office of Members of Certain Councils Act 45 of 1997,,1997-10-03,1997-10-03,1,https://www.gov.za/documents/extension-terms-office-members-certain-councils-act
+act-1997-46,Act 46 of 1997,law,Public Service Commission Act 46 of 1997,,1997-10-03,1997-10-03,1,https://www.gov.za/documents/public-service-commission-act
+act-1997-48,Act 48 of 1997,law,Abolition of Public Administration Commissions Act 48 of 1997,,1997-10-03,1997-10-03,1,https://www.gov.za/documents/acts/abolition-public-administration-commissions-act-48-1997-03-oct-1997
+act-1997-50,Act 50 of 1997,law,"Marriage Act, Extension Act 50 of 1997",,1997-11-12,1997-11-12,1,https://www.gov.za/documents/acts/marriage-act-extension-act-50-1997-12-nov-1997
+act-1997-51,Act 51 of 1997,law,Environmental Laws Rationalisation Act 51 of 1997,,1997-11-12,1997-11-12,1,https://www.gov.za/documents/environmental-laws-rationalisation-act
+act-1997-52,Act 52 of 1997,law,Organised Local Government Act 52 of 1997,,1997-11-12,1997-11-12,1,https://www.gov.za/documents/organised-local-government-act
+act-1997-56,Act 56 of 1997,law,National Arts Council Act 56 of 1997,,1997-11-14,1997-11-14,1,https://www.gov.za/documents/national-arts-council-act
+act-1997-57,Act 57 of 1997,law,Lotteries Act 57 of 1997,,1997-11-14,1997-11-14,1,https://www.gov.za/documents/lotteries-act
+act-1997-64,Act 64 of 1997,law,State of Emergency Act 64 of 1997,,1997-11-21,1997-11-21,1,https://www.gov.za/documents/acts/state-emergency-act-64-1997-21-nov-1997
+act-1997-66,Act 66 of 1997,law,Contingency Fees Act 66 of 1997,,1997-11-21,1997-11-21,1,https://www.gov.za/documents/acts/contingency-fees-act-66-1997-21-nov-1997
+act-1997-68,Act 68 of 1997,law,Identification Act 68 of 1997,,1997-12-03,1997-12-03,1,https://www.gov.za/documents/identification-act
+act-1997-71,Act 71 of 1997,law,Nonprofit Organisations Act 71 of 1997,,1997-12-03,1997-12-03,1,https://www.gov.za/documents/nonprofit-organisations-act
+act-1997-73,Act 73 of 1997,law,National Film and Video Foundation Act 73 of 1997,,1997-12-03,1997-12-03,1,https://www.gov.za/documents/national-film-and-video-foundation-act
+act-1997-97,Act 97 of 1997,law,Intergovernmental Fiscal Relations Act 97 of 1997,,1997-12-17,1997-12-17,1,https://www.gov.za/documents/acts/intergovernmental-fiscal-relations-act-97-1997-17-dec-1997
+act-1997-107,Act 107 of 1997,law,Housing Act 107 of 1997,,1997-12-19,1997-12-19,1,https://www.gov.za/documents/housing-act
+act-1997-99,Act 99 of 1997,law,Financial and Fiscal Commission Act 99 of 1997,,1997-12-19,1997-12-19,1,https://www.gov.za/documents/financial-and-fiscal-commission-act
+act-1998-10,Act 10 of 1998,law,Department of Communications Rationalisation Act 10 of 1998,,1998-03-31,1998-03-31,1,https://www.gov.za/documents/department-communications-rationalisation-act
+act-1998-4,Act 4 of 1998,law,Cross-Border Road Transport Act 4 of 1998,,1998-03-31,1998-03-31,1,https://www.gov.za/documents/cross-border-road-transport-act
+act-1998-6,Act 6 of 1998,law,South African Maritime Safety Authority Levies Act 6 of 1998,,1998-03-31,1998-03-31,1,https://www.gov.za/documents/acts/south-african-maritime-safety-authority-levies-act-6-1998-31-mar-1998
+act-1998-7,Act 7 of 1998,law,South African National Roads Agency Limited and National Roads Act 7 of 1998,,1998-03-31,1998-03-31,1,https://www.gov.za/documents/south-african-national-roads-agency-limited-and-national-roads-act
+act-1998-15,Act 15 of 1998,law,Regulation of Foreign Military Assistance Act 15 of 1998,,1998-05-20,1998-05-20,1,https://www.gov.za/documents/acts/regulation-foreign-military-assistance-act-15-1998-20-may-1998
+act-1998-18,Act 18 of 1998,law,Marine Living Resources Act 18 of 1998,,1998-05-27,1998-05-27,1,https://www.gov.za/documents/marine-living-resources-act-27-may-1998-0000
+act-1998-19,Act 19 of 1998,law,Prevention of Illegal Eviction from and Unlawful Occupation of Land Act 19 of 1998,,1998-06-05,1998-06-05,1,https://www.gov.za/documents/prevention-illegal-eviction-and-unlawful-occupation-land-act
+act-1998-23,Act 23 of 1998,law,National Research Foundation Act 23 of 1998,,1998-07-03,1998-07-03,1,https://www.gov.za/documents/acts/national-research-foundation-act-23-1998-03-jul-1998
+act-1998-40,Act 40 of 1998,law,South African Civil Aviation Authority Act 40 of 1998,,1998-09-04,1998-09-04,1,https://www.gov.za/documents/south-african-civil-aviation-authority-act
+act-1998-41,Act 41 of 1998,law,South African Civil Aviation Authority Levies Act 41 of 1998,,1998-09-04,1998-09-04,1,https://www.gov.za/documents/south-african-civil-aviation-authority-levies-act
+act-1998-44,Act 44 of 1998,law,Sterilisation Act 44 of 1998,,1998-09-04,1998-09-04,1,https://www.gov.za/documents/sterilisation-act
+act-1998-45,Act 45 of 1998,law,National Land Transport Interim Arrangements Act 45 of 1998,,1998-09-11,1998-09-11,1,https://www.gov.za/documents/national-land-transport-interim-arrangements-act
+act-1998-46,Act 46 of 1998,law,Administrative Adjudication of Road Traffic Offences Act 46 of 1998,,1998-09-11,1998-09-11,1,https://www.gov.za/documents/administrative-adjudication-road-traffic-offences-act
+act-1998-47,Act 47 of 1998,law,Road Traffic Laws Rationalisation Act 47 of 1998,,1998-09-11,1998-09-11,1,https://www.gov.za/documents/acts/road-traffic-laws-rationalisation-act-47-1998-11-sep-1998
+act-1998-20,Act 20 of 1998,law,Remuneration of Public Office Bearers Act 20 of 1998,,1998-09-23,1998-09-23,1,https://www.gov.za/documents/remuneration-public-office-bearers-act-0
+act-1998-53,Act 53 of 1998,law,Short-term Insurance Act 53 of 1998,,1998-09-23,1998-09-23,1,https://www.gov.za/documents/short-term-insurance-act
+act-1998-54,Act 54 of 1998,law,Inherited Debt Relief Act 54 of 1998,,1998-09-23,1998-09-23,1,https://www.gov.za/documents/acts/inherited-debt-relief-act-54-1998-23-sep-1998
+act-1998-76,Act 76 of 1998,law,Employment of Educators Act 76 of 1998,,1998-10-02,1998-10-02,1,https://www.gov.za/documents/employment-educators-act
 a65-1998,Second Amendment (1998),law,Constitution Second Amendment Act of 1998 (Act 65 of 1998),1998-09-28,1998-10-07,1998-10-07,1,https://www.justice.gov.za/legislation/acts/1998-065.pdf
+act-1998-69,Act 69 of 1998,law,Determination of Delegates (National Council of Provinces) Act 69 of 1998,,1998-10-07,1998-10-07,1,https://www.gov.za/documents/determination-delegates-national-council-provinces-act
+act-1998-71,Act 71 of 1998,law,Road Accident Fund Commission Act 71 of 1998,,1998-10-07,1998-10-07,1,https://www.gov.za/documents/acts/road-accident-fund-commission-act-71-1998-07-oct-1998
+act-1998-72,Act 72 of 1998,law,Agricultural Laws Rationalisation Act 72 of 1998,,1998-10-07,1998-10-07,1,https://www.gov.za/documents/agricultural-laws-rationalisation-act
+act-1998-77,Act 77 of 1998,law,Port of Ngqura Establishment Act 77 of 1998,,1998-10-28,1998-10-28,1,https://www.gov.za/documents/acts/port-ngqura-establishment-act-77-1998-28-oct-1998
+act-1998-78,Act 78 of 1998,law,National Payment System Act 78 of 1998,,1998-10-28,1998-10-28,1,https://www.gov.za/documents/national-payment-system-act
+act-1998-79,Act 79 of 1998,law,Reconstruction and Development Programme Fund Act 79 of 1998,,1998-10-28,1998-10-28,1,https://www.gov.za/documents/reconstruction-and-development-programme-fund-act
+act-1998-80,Act 80 of 1998,law,Inspection of Financial Institutions Act 80 of 1998,,1998-10-28,1998-10-28,1,https://www.gov.za/documents/inspection-financial-institutions-act
+act-1998-82,Act 82 of 1998,law,Executive Members' Ethics Act 82 of 1998,,1998-10-28,1998-10-28,1,https://www.gov.za/documents/acts/executive-members-ethics-act-82-1998-28-oct-1998
 a87-1998,Third Amendment (1998),law,Constitution Third Amendment Act of 1998 (Act 87 of 1998),,1998-10-30,1998-10-30,1,https://www.justice.gov.za/legislation/acts/1998-087.pdf
+act-1998-91,Act 91 of 1998,law,The South African Library for the Blind Act 91 of 1998,,1998-11-02,1998-11-02,1,https://www.gov.za/documents/acts/south-african-library-blind-act-91-1998-02-nov-1998
+act-1998-92,Act 92 of 1998,law,The National Library of South Africa Act 92 of 1998,,1998-11-02,1998-11-02,1,https://www.gov.za/documents/acts/national-library-south-africa-act-92-1998-02-nov-1998
+act-1998-94,Act 94 of 1998,law,Transformation of Certain Rural Areas Act 94 of 1998,,1998-11-02,1998-11-02,1,https://www.gov.za/documents/transformation-certain-rural-areas-act
+act-1998-108,Act 108 of 1998,law,National Development Agency Act 108 of 1998,,1998-11-27,1998-11-27,1,https://www.gov.za/documents/national-development-agency-act
+act-1998-118,Act 118 of 1998,law,South African Geographical Names Council Act 118 of 1998,,1998-12-02,1998-12-02,1,https://www.gov.za/documents/south-african-geographical-names-council-act
+act-1998-131,Act 131 of 1998,law,Medical Schemes Act 131 of 1998,,1998-12-02,1998-12-02,1,https://www.gov.za/documents/medical-schemes-act
+act-1998-110,Act 110 of 1998,law,National Sport and Recreation Act 110 of 1998,,1998-12-04,1998-12-04,1,https://www.gov.za/documents/national-sport-and-recreation-act
+act-1998-119,Act 119 of 1998,law,Cultural Institutions Act 119 of 1998,,1998-12-04,1998-12-04,1,https://www.gov.za/documents/cultural-institutions-act
+act-1998-134,Act 134 of 1998,law,Conversion of SASRIA Act 134 of 1998,,1998-12-04,1998-12-04,1,https://www.gov.za/documents/acts/conversion-sasria-act-134-1998-04-dec-1998
 a2-1999,Fifth Amendment (1999),law,Constitution Fifth Amendment Act of 1999 (Act 2 of 1999),1999-03-17,1999-03-19,1999-03-19,1,https://www.justice.gov.za/legislation/acts/const5th-1999.pdf
 a3-1999,Fourth Amendment (1999),law,Constitution Fourth Amendment Act of 1999 (Act 3 of 1999),1999-03-17,1999-03-19,1999-03-19,1,https://www.justice.gov.za/legislation/acts/const4th-1999.pdf
+act-1999-16,Act 16 of 1999,law,Military Discipline Supplementary Measures Act 16 of 1999,,1999-04-23,1999-04-23,1,https://www.gov.za/documents/military-discipline-supplementary-measures-act
+act-1999-19,Act 19 of 1999,law,Onderstepoort Biological Products Incorporation Act 19 of 1999,,1999-04-23,1999-04-23,1,https://www.gov.za/documents/onderstepoort-biological-products-incorporation-act
+act-1999-20,Act 20 of 1999,law,Road Traffic Management Corporation Act 20 of 1999,,1999-04-28,1999-04-28,1,https://www.gov.za/documents/road-traffic-management-corporation-act
+act-1999-25,Act 25 of 1999,law,National Heritage Resources Act 25 of 1999,,1999-04-28,1999-04-28,1,https://www.gov.za/documents/acts/national-heritage-resources-act-25-1999-28-apr-1999
+act-1999-9,Act 9 of 1999,law,Skills Development Levies Act 9 of 1999,,1999-04-30,1999-04-30,1,https://www.gov.za/documents/skills-development-levies-act
+act-1999-43,Act 43 of 1999,law,Abolition of Certain Title Conditions Act 43 of 1999,,1999-11-24,1999-11-24,1,https://www.gov.za/documents/acts/abolition-certain-title-conditions-act-43-1999-24-nov-1999
+act-1999-59,Act 59 of 1999,law,Disestablishment of the Local Government Affairs Council Act 59 of 1999,,1999-12-06,1999-12-06,1,https://www.gov.za/documents/acts/disestablishment-local-government-affairs-council-act-59-1999-06-dec-1999
+act-1999-49,Act 49 of 1999,law,World Heritage Convention Act 49 of 1999,,1999-12-09,1999-12-09,1,https://www.gov.za/documents/world-heritage-convention-act
+act-1999-50,Act 50 of 1999,law,Rental Housing Act 50 of 1999,,1999-12-15,1999-12-15,1,https://www.gov.za/documents/rental-housing-act
+act-2000-5,Act 5 of 2000,law,Preferential Procurement Policy Framework Act 5 of 2000,,2000-02-03,2000-02-03,1,https://www.gov.za/documents/acts/preferential-procurement-policy-framework-act-5-2000-03-feb-2000
+act-2000-7,Act 7 of 2000,law,South African Airways Unallocatable Debt Act 7 of 2000,,2000-03-17,2000-03-17,1,https://www.gov.za/documents/acts/south-african-airways-unallocatable-debt-act-7-2000-17-mar-2000
+act-2000-13,Act 13 of 2000,law,Independent Communications Authority of South Africa Act 13 of 2000,,2000-05-05,2000-05-05,1,https://www.gov.za/documents/independent-communications-authority-south-africa-act
+act-2000-26,Act 26 of 2000,law,Protected Disclosures Act 26 of 2000,,2000-08-07,2000-08-07,1,https://www.gov.za/documents/acts/protected-disclosures-act-26-2000-07-aug-2000
+act-2000-51,Act 51 of 2000,law,African Renaissance and International Co-operation Fund Act 51 of 2000,,2000-11-24,2000-11-24,1,https://www.gov.za/documents/acts/african-renaissance-and-international-co-operation-fund-act-51-2000-24-nov-2000
+act-2000-43,Act 43 of 2000,law,Council for the Built Environment Act 43 of 2000,,2000-12-01,2000-12-01,1,https://www.gov.za/documents/acts/council-built-environment-act-43-2000-01-dec-2000
+act-2000-48,Act 48 of 2000,law,Project and Construction Management Professions Act 48 of 2000,,2000-12-01,2000-12-01,1,https://www.gov.za/documents/acts/project-and-construction-management-professions-act-48-2000-01-dec-2000
+act-2000-37,Act 37 of 2000,law,National Health Laboratory Service Act 37 of 2000,,2000-12-13,2000-12-13,1,https://www.gov.za/documents/national-health-laboratory-service-act
+act-2000-58,Act 58 of 2000,law,Council for Medical Schemes Levies Act 58 of 2000,,2000-12-13,2000-12-13,1,https://www.gov.za/documents/acts/council-medical-schemes-levies-act-58-2000-13-dec-2000
+act-2000-65,Act 65 of 2000,law,Sea Transport Documents Act 65 of 2000,,2000-12-13,2000-12-13,1,https://www.gov.za/documents/sea-transport-documents-act
+act-2000-67,Act 67 of 2000,law,Abolition of Lebowa Mineral Trust Act 67 of 2000,,2000-12-13,2000-12-13,1,https://www.gov.za/documents/acts/abolition-lebowa-mineral-trust-act-67-2000-13-dec-2000
+act-2000-64,Act 64 of 2000,law,South African Rail Commuter Corporation Limited Financial Arrangements Act 64 of 2000,,2000-12-15,2000-12-15,1,https://www.gov.za/documents/south-african-rail-commuter-corporation-limited-financial-arrangements-act
 a34-2001,Sixth Amendment (2001),law,Constitution Sixth Amendment Act of 2001 (Act 34 of 2001),2001-11-20,2001-11-21,2001-11-21,1,https://www.justice.gov.za/legislation/acts/const6th-2001gg.pdf
 a61-2001,Seventh Amendment (2001),law,Constitution Seventh Amendment Act of 2001 (Act 61 of 2001),2001-12-07,2001-12-14,2002-04-26 2003-12-01,2,https://www.justice.gov.za/legislation/acts/const7th-2001gg.pdf
 a18-2002,Eighth Amendment (2002),law,Constitution Eighth Amendment Act of 2002 (Act 18 of 2002),2002-06-19,2002-06-20,2002-06-20,1,https://www.justice.gov.za/legislation/acts/const8th-2002gg.pdf
 a21-2002,Ninth Amendment (2002),law,Constitution Ninth Amendment Act of 2002 (Act 21 of 2002),2002-06-19,2002-06-20,2002-06-20,1,https://www.justice.gov.za/legislation/acts/const9th-2002gg.pdf
+act-2002-26,Act 26 of 2002,law,Disestablishment of South African Housing Trust Limited Act 26 of 2002,,2002-12-05,2002-12-05,1,https://www.gov.za/documents/acts/disestablishment-south-african-housing-trust-limited-act-26-2002-05-dec-2002
 a2-2003,Tenth Amendment (2003),law,Constitution Tenth Amendment Act of 2003 (Act 2 of 2003),2003-03-19,2003-03-19,2003-03-20,1,https://www.justice.gov.za/legislation/acts/const10th-2003gg.pdf
 a3-2003,Eleventh Amendment (2003),law,Constitution Eleventh Amendment Act of 2003 (Act 3 of 2003),2003-04-09,2003-04-11,2003-07-11,1,https://www.justice.gov.za/legislation/acts/const11th-2003gg.pdf
+act-2004-23,Act 23 of 2004,law,Public Investment Corporation Act 23 of 2004,,2004-12-14,2004-12-14,1,https://www.gov.za/documents/acts/public-investment-corporation-act-23-2004-14-dec-2004
+act-2004-25,Act 25 of 2004,law,Public Audit Act 25 of 2004,,2004-12-20,2004-12-20,1,https://www.gov.za/documents/public-audit-act
+act-2004-28,Act 28 of 2004,law,Petroleum Pipelines Levies Act 28 of 2004,,2004-12-20,2004-12-20,1,https://www.gov.za/documents/acts/petroleum-pipelines-levies-act-28-2004-20-dec-2004
+act-2004-35,Act 35 of 2004,law,Traditional Health Practitioners Act 35 of 2004,,2005-02-11,2005-02-11,1,https://www.gov.za/documents/acts/traditional-health-practitioners-act-35-2004-11-feb-2005
+act-2004-39,Act 39 of 2004,law,National Environment Management: Air Quality Act 39 of 2004,,2005-02-24,2005-02-24,1,https://www.gov.za/documents/national-environment-management-air-quality-act
+act-2004-40,Act 40 of 2004,law,National Energy Regulator Act 40 of 2004,,2005-04-06,2005-04-06,1,https://www.gov.za/documents/national-energy-regulator-act
+act-2005-5,Act 5 of 2005,law,Citation of Constitutional Laws Act 5 of 2005,,2005-06-27,2005-06-27,1,https://www.gov.za/documents/citation-constitutional-laws-act
+act-2005-13,Act 13 of 2005,law,Intergovernmental Relations Framework Act 13 of 2005,,2005-08-15,2005-08-15,1,https://www.gov.za/documents/intergovernmental-relations-framework-act
 c12-2005,Twelfth Amendment (2005),law,Constitution Twelfth Amendment Act of 2005,2005-12-22,2005-12-23,2005-12-23 2006-03-01,2,https://www.justice.gov.za/legislation/acts/const12th-2005gg.pdf
+act-2005-26,Act 26 of 2005,law,Auditing Profession Act 26 of 2005,,2006-01-16,2006-01-16,1,https://www.gov.za/documents/auditing-profession-act
+act-2005-36,Act 36 of 2005,law,Electronic Communications Act 36 of 2005,,2006-04-18,2006-04-18,1,https://www.gov.za/documents/electronic-communications-act
+act-2005-37,Act 37 of 2005,law,Precious Metals Act 37 of 2005,,2006-04-21,2006-04-21,1,https://www.gov.za/documents/acts/precious-metals-act-37-2005-21-apr-2006
+act-2005-33,Act 33 of 2005,law,Nursing Act 33 of 2005,,2006-05-29,2006-05-29,1,https://www.gov.za/documents/nursing-act
+act-2006-11,Act 11 of 2006,law,2010 FIFA World Cup South Africa Special Measures Act 11 of 2006,,2006-09-07,2006-09-07,1,https://www.gov.za/documents/acts/2010-fifa-world-cup-south-africa-special-measures-act-11-2006-07-sep-2006
+act-2006-12,Act 12 of 2006,law,Second 2010 FIFA World Cup South Africa Special Measures Act 12 of 2006,,2006-09-07,2006-09-07,1,https://www.gov.za/documents/acts/second-2010-fifa-world-cup-south-africa-special-measures-act-12-2006-07-sep-2006
+act-2006-13,Act 13 of 2006,law,Older Persons Act 13 of 2006,,2006-11-02,2006-11-02,1,https://www.gov.za/documents/older-persons-act
+act-2006-17,Act 17 of 2006,law,Civil Union Act 17 of 2006,,2006-11-17,2006-11-17,1,https://www.gov.za/documents/acts/civil-union-act-17-2006-17-nov-2006
+act-2006-16,Act 16 of 2006,law,Continuing Education and Training Act (previously known as Further Education and Training Colleges Act) 16 of 2006,,2006-12-11,2006-12-11,1,https://www.gov.za/documents/further-education-and-training-colleges-act
+act-2006-19,Act 19 of 2006,law,"Accreditation for Conformity Assessment, Calibration and Good Laboratory Practice Act 19 of 2006",,2007-03-16,2007-03-16,1,https://www.gov.za/documents/acts/accreditation-conformity-assessment-calibration-and-good-laboratory-practice-act-19
+act-2007-2,Act 2 of 2007,law,Finance Act 2 of 2007,,2007-03-31,2007-03-31,1,https://www.gov.za/documents/acts/finance-act-2-2007-31-mar-2007
 a23-2007,Thirteenth Amendment (2007),law,Constitution Thirteenth Amendment Act of 2007 (Act 23 of 2007),2007-12-13,2007-12-14,2007-12-14,1,https://www.justice.gov.za/legislation/acts/const13th-2007gg.pdf
+act-2007-21,Act 21 of 2007,law,Astronomy Geographic Advantage Act 21 of 2007,,2008-06-17,2008-06-17,1,https://www.gov.za/documents/astronomy-geographic-advantage-act
 c14-2008,Fourteenth Amendment (2008),law,Constitution Fourteenth Amendment Act of 2008,2009-01-06,2009-01-09,2009-04-17,1,https://www.justice.gov.za/legislation/acts/const14th_2008gg.pdf
 c15-2008,Fifteenth Amendment (2008),law,Constitution Fifteenth Amendment Act of 2008,2009-01-06,2009-01-09,2009-04-17,1,https://www.justice.gov.za/legislation/acts/const15th_2008gg.pdf
+act-2008-67,Act 67 of 2008,law,National Qualifications Framework Act 67 of 2008,,2009-02-17,2009-02-17,1,https://www.gov.za/documents/national-qualifications-framework-act
 c16-2009,Sixteenth Amendment (2009),law,Constitution Sixteenth Amendment Act of 2009,2009-03-25,2009-03-26,2009-04-03,1,https://www.justice.gov.za/legislation/acts/const16th_2009gg.pdf
+act-2009-6,Act 6 of 2009,law,Second-Hand Goods Act 6 of 2009,,2009-04-01,2009-04-01,1,https://www.gov.za/documents/second-hand-goods-act
 act-2008-71,Act 71 of 2008,law,"Companies Act, 2008",2009-04-08,2009-04-09,2011-05-01,1,https://www.gov.za/sites/default/files/gcis_document/201409/321214210.pdf
+act-2008-70,Act 70 of 2008,law,Prevention of and Treatment for Substance Abuse Act 70 of 2008,,2009-04-21,2009-04-21,1,https://www.gov.za/documents/prevention-and-treatment-substance-abuse-act
+act-2009-10,Act 10 of 2009,law,Financial Management of Parliament Act 10 of 2009,,2009-04-21,2009-04-21,1,https://www.gov.za/documents/financial-management-parliament-act
+act-2009-11,Act 11 of 2009,law,Reform of Customary Law of Succession and Regulation of Related Matters Act 11 of 2009,,2009-04-21,2009-04-21,1,https://www.gov.za/documents/reform-customary-law-succession-and-regulation-related-matters-act
+act-2009-7,Act 7 of 2009,law,Western Cape Inherited Debt Relief Act 7 of 2009,,2009-04-21,2009-04-21,1,https://www.gov.za/documents/acts/western-cape-inherited-debt-relief-act-7-2009-21-apr-2009
+act-2008-68,Act 68 of 2008,law,Consumer Protection Act 68 of 2008,,2009-04-29,2009-04-29,1,https://www.gov.za/documents/consumer-protection-act
 act-2011-3,Act 3 of 2011,law,"Companies Amendment Act, 2011",2011-04-20,2011-04-26,2011-05-01 2014-05-01,2,https://www.gov.za/documents/companies-amendment-act
 proc-r32-2011,Proc. R32 of 2011,decree,"Commencement of the Companies Act, 2008",,2011-04-26,2011-05-01,1,https://www.justice.gov.za/legislation/acts/2008-071.pdf
+act-2011-9,Act 9 of 2011,law,Community Schemes Ombud Service Act 9 of 2011,2011-06-11,2011-06-14,2011-06-14,1,https://www.gov.za/documents/community-schemes-ombud-service-act
+act-2012-15,Act 15 of 2012,law,Road Accident Fund (Transitional Provisions) Act 15 of 2012,2012-12-06,2012-12-10,2012-12-10,1,https://www.gov.za/documents/road-accident-fund-transitional-provisions-act
+act-2012-24,Act 24 of 2012,law,Credit Rating Services Act 24 of 2012,2013-01-09,2013-01-14,2013-01-14,1,https://www.gov.za/documents/credit-rating-services-act
 act-2012-19,Act 19 of 2012,law,"Financial Markets Act, 2012",2013-02-01,2013-02-01,2013-06-03,1,https://www.justice.gov.za/legislation/acts/2008-071.pdf
 c17-2012,Seventeenth Amendment (2012),law,Constitution Seventeenth Amendment Act of 2012,2013-02-01,2013-02-01,2013-08-23,1,https://www.justice.gov.za/legislation/acts/const17th_2013gg36128no72.pdf
+act-2013-15,Act 15 of 2013,law,Dangerous Weapons Act 15 of 2013,2013-07-24,2013-07-24,2013-07-24,1,https://www.gov.za/documents/dangerous-weapons-act
+act-2013-16,Act 16 of 2013,law,Spatial Planning and Land Use Management Act 16 of 2013,2013-08-02,2013-08-05,2013-08-05,1,https://www.gov.za/documents/spatial-planning-and-land-use-management-act
 act-2013-4,Act 4 of 2013,law,"Protection of Personal Information Act, 2013",2013-11-19,2013-11-26,2014-04-11 2020-07-01 2021-06-30,3,https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013popi.pdf
+act-2013-19,Act 19 of 2013,law,Geomatics Profession Act 19 of 2013,2013-12-09,2013-12-10,2013-12-10,1,https://www.gov.za/documents/geomatics-profession-act
+act-2013-24,Act 24 of 2013,law,Merchant Shipping (International Oil Pollution Compensation Fund) Act 24 of 2013,2013-12-09,2013-12-10,2013-12-10,1,https://www.gov.za/documents/merchant-shipping-international-oil-pollution-act
+act-2013-25,Act 25 of 2013,law,Merchant Shipping (Civil Liability Convention) Act 25 of 2013,2013-12-09,2013-12-10,2013-12-10,1,https://www.gov.za/documents/merchant-shipping-civil-liability-convention-act
+act-2013-35,Act 35 of 2013,law,Merchant Shipping (International Oil Pollution Compensation Fund) Administration Act 35 of 2013,2013-12-14,2013-12-18,2013-12-18,1,https://www.gov.za/documents/merchant-shipping-international-oil-pollution-compensation-fund-administration-act
+act-2013-26,Act 26 of 2013,law,Employment Tax Incentive Act 26 of 2013,2013-12-17,2013-12-18,2013-12-18,1,https://www.gov.za/documents/employment-tax-incentive-act
+act-2013-36,Act 36 of 2013,law,Merchant Shipping (International Oil Pollution Compensation Fund) Contributions Act 36 of 2013,2013-12-21,2014-01-08,2014-01-08,1,https://www.gov.za/documents/merchant-shipping-international-oil-pollution-compensation-fund-contributions-act
+act-2013-40,Act 40 of 2013,law,South African Human Rights Commission Act 40 of 2013,2014-01-20,2014-01-22,2014-01-22,1,https://www.gov.za/documents/south-african-human-rights-commission-act
+act-2014-3,Act 3 of 2014,law,Tourism Act 3 of 2014,2014-04-03,2014-04-07,2014-04-07,1,https://www.gov.za/documents/tourism-act-0
+act-2014-4,Act 4 of 2014,law,Employment Services Act 4 of 2014,2014-04-03,2014-04-07,2014-04-07,1,https://www.gov.za/documents/employment-services-act
 proc-r25-2014,Proc. R25 of 2014,decree,"Commencement of certain sections of the Protection of Personal Information Act, 2013",2014-04-11,2014-04-11,2014-04-11,1,https://www.justice.gov.za/legislation/acts/2013-004.pdf
+act-2014-16,Act 16 of 2014,law,Special Economic Zones Act 16 of 2014,2014-05-16,2014-05-19,2014-05-19,1,https://www.gov.za/documents/special-economic-zones-act
+act-2014-8,Act 8 of 2014,law,South African Language Practitioners' Council Act 8 of 2014,2014-05-16,2014-05-19,2014-05-19,1,https://www.gov.za/documents/south-african-language-practitioners-council-act
+act-2014-9,Act 9 of 2014,law,Legal Metrology Act 9 of 2014,2014-05-16,2014-05-19,2014-05-19,1,https://www.gov.za/documents/legal-metrology-act
+act-2014-23,Act 23 of 2014,law,Infrastructure Development Act 23 of 2014,2014-05-30,2014-06-02,2014-06-02,1,https://www.gov.za/documents/infrastructure-development-act
+act-2014-17,Act 17 of 2014,law,Property Valuation Act 17 of 2014,2014-06-29,2014-07-01,2014-07-01,1,https://www.gov.za/documents/property-valuation-act
+act-2014-30,Act 30 of 2014,law,Customs Duty Act 30 of 2014,2014-07-09,2014-07-10,2014-07-10,1,https://www.gov.za/documents/customs-duty-act
+act-2014-31,Act 31 of 2014,law,Customs Control Act 31 of 2014,2014-07-21,2014-07-23,2014-07-23,1,https://www.gov.za/documents/customs-control-act
+act-2014-11,Act 11 of 2014,law,Public Administration Management Act 11 of 2014,2014-12-19,2014-12-22,2014-12-22,1,https://www.gov.za/documents/public-administration-management-act
+act-2015-11,Act 11 of 2015,law,Agrément South Africa Act 11 of 2015,2015-12-13,2015-12-15,2015-12-15,1,https://www.gov.za/documents/agr%C3%A9ment-south-africa-act-11-2015-15-dec-2015-0000
+act-2015-19,Act 19 of 2015,law,Finance Act 19 of 2015,2015-12-13,2015-12-15,2015-12-15,1,https://www.gov.za/documents/finance-act-19-2015-15-dec-2015-0000
+act-2015-22,Act 22 of 2015,law,Protection of Investment Act 22 of 2015,2015-12-13,2015-12-15,2015-12-15,1,https://www.gov.za/documents/protection-investment-act-22-2015-15-dec-2015-0000
+act-2016-7,Act 7 of 2016,law,Finance Act 7 of 2016,2017-01-18,2017-01-19,2017-01-19,1,https://www.gov.za/documents/finance-act-7-2016-english-setswana-19-jan-2017-0000
+act-2017-2,Act 2 of 2017,law,Justice Administered Fund Act 2 of 2017,2017-04-04,2017-04-06,2017-04-06,1,https://www.gov.za/documents/justice-administered-fund-act-2-2017-6-apr-2017-0000
+act-2017-15,Act 15 of 2017,law,International Arbitration Act 15 of 2017,2017-06-27,2017-12-20,2017-12-20,1,https://www.gov.za/documents/acts/international-arbitration-act-15-2017-english-afrikaans-20-dec-2017
+act-2017-18,Act 18 of 2017,law,Insurance Act 18 of 2017,2018-01-17,2018-01-18,2018-01-18,1,https://www.gov.za/documents/acts/insurance-act-18-2017-english-afrikaans-18-jan-2018
+act-2018-9,Act 9 of 2018,law,National Minimum Wage Act 9 of 2018,2018-11-23,2018-11-27,2018-11-27,1,https://www.gov.za/documents/acts/national-minimum-wage-act-9-2018-english-tshivenda-27-nov-2018
+act-2018-6,Act 6 of 2018,law,Political Party Funding Act 6 of 2018,2019-01-21,2019-01-23,2019-01-23,1,https://www.gov.za/documents/acts/political-party-funding-act-6-2018-english-setswana-23-jan-2019
+act-2018-11,Act 11 of 2018,law,Plant Improvement Act 11 of 2018,2019-03-27,2019-03-29,2019-03-29,1,https://www.gov.za/documents/acts/plant-improvement-act-11-2018-english-isizulu-29-mar-2019
+act-2018-12,Act 12 of 2018,law,Plant Breeders' Rights Act 12 of 2018,2019-03-27,2019-03-29,2019-03-29,1,https://www.gov.za/documents/acts/plant-breeders-rights-act-12-2018-english-setswana-29-mar-2019
+act-2018-16,Act 16 of 2018,law,Marine Spatial Planning Act 16 of 2018,2019-04-29,2019-05-06,2019-05-06,1,https://www.gov.za/documents/acts/marine-spatial-planning-act-16-2018-english-siswati-06-may-2019
+act-2019-15,Act 15 of 2019,law,Carbon Tax Act 15 of 2019,2019-05-22,2019-05-23,2019-05-23,1,https://www.gov.za/documents/acts/carbon-tax-act-15-2019-english-afrikaans-23-may-2019
+act-2019-20,Act 20 of 2019,law,Public Audit Excess Fee Act 20 of 2019,2019-05-22,2019-05-23,2019-05-23,1,https://www.gov.za/documents/acts/public-audit-excess-fee-act-20-2019-english-afrikaans-23-may-2019
+act-2019-6,Act 6 of 2019,law,"Protection, Promotion, Development and Management of Indigenous Knowledge Act 6 of 2019",2019-08-13,2019-08-19,2019-08-19,1,https://www.gov.za/documents/acts/protection-promotion-development-and-management-indigenous-knowledge-act-6-2019
+act-2019-19,Act 19 of 2019,law,Electronic Deeds Registration Systems Act 19 of 2019,2019-09-19,2019-10-03,2019-10-03,1,https://www.gov.za/documents/acts/electronic-deeds-registration-systems-act-19-2019-english-afrikaans-03-oct-2019
+act-2019-22,Act 22 of 2019,law,Property Practitioners Act 22 of 2019,2019-09-19,2019-10-03,2019-10-03,1,https://www.gov.za/documents/acts/property-practitioners-act-22-2019-english-tshivenda-03-oct-2019
+act-2019-3,Act 3 of 2019,law,Traditional and Khoi-San Leadership Act 3 of 2019,2019-11-20,2019-11-28,2019-11-28,1,https://www.gov.za/documents/acts/traditional-and-khoi-san-leadership-act-3-2019-english-afrikaans-28-nov-2019
+act-2019-8,Act 8 of 2019,law,Critical Infrastructure Protection Act 8 of 2019,2019-11-20,2019-11-28,2019-11-28,1,https://www.gov.za/documents/acts/critical-infrastructure-protection-act-8-2019-english-isixhosa-28-nov-2019
+act-2019-35,Act 35 of 2019,law,Hydrographic Act 35 of 2019,2020-05-26,2020-06-03,2020-06-03,1,https://www.gov.za/documents/acts/hydrographic-act-35-2019-english-isixhosa-03-jun-2020
+act-2019-26,Act 26 of 2019,law,Foreign Service Act 26 of 2019,2020-05-26,2020-06-04,2020-06-04,1,https://www.gov.za/documents/acts/foreign-service-act-26-2019-english-xitsonga-04-jun-2020
 proc-r21-2020,Proc. R21 of 2020,decree,"Commencement of certain sections of the Protection of Personal Information Act, 2013",2020-06-17,2020-06-22,2020-07-01 2021-06-30,2,https://inforegulator.org.za/wp-content/uploads/2020/07/20200622-gg43461-rg11136-pr21-POPIAsections.pdf
+act-2020-13,Act 13 of 2020,law,Disaster Management Tax Relief Act 13 of 2020,2020-11-03,2020-11-05,2020-11-05,1,https://www.gov.za/documents/acts/disaster-management-tax-relief-act-13-2020-english-afrikaans-05-nov-2020
+act-2020-14,Act 14 of 2020,law,Disaster Management Tax Relief Administration Act 14 of 2020,2020-11-03,2020-11-05,2020-11-05,1,https://www.gov.za/documents/acts/disaster-management-tax-relief-administration-act-14-2020-english-afrikaans-05-nov
 gn-297-2021,GN 297 of 2021,decree,Information Regulator: date from which s. 58(2) applies to processing referred to in s. 57,2021-04-01,2021-04-01,2022-02-01,1,https://www.justice.gov.za/legislation/acts/2013-004.pdf
+act-2021-2,Act 2 of 2021,law,Customary Initiation Act 2 of 2021,2021-06-01,2021-06-04,2021-06-04,1,https://www.gov.za/documents/acts/customary-initiation-act-2-2021-english-siswati-04-jun-2021
+act-2022-11,Act 11 of 2022,law,Financial Sector and Deposit Insurance Levies Act 11 of 2022,2022-12-06,2022-12-09,2022-12-09,1,https://www.gov.za/documents/acts/financial-sector-and-deposit-insurance-levies-act-11-2022-english-sesotho-09-dec
+act-2022-12,Act 12 of 2022,law,Financial Sector and Deposit Insurance Levies (Administration) and Deposit Insurance Premiums Act 12 of 2022,2022-12-06,2022-12-09,2022-12-09,1,https://www.gov.za/documents/acts/financial-sector-and-deposit-insurance-levies-administration-and-deposit-insurance
 act-2022-22,Act 22 of 2022,law,"General Laws (Anti-Money Laundering and Combating Terrorism Financing) Amendment Act, 2022",2022-12-29,2022-12-29,2022-12-31 2023-04-01,2,https://www.justice.gov.za/legislation/acts/2008-071.pdf
+act-2023-7,Act 7 of 2023,law,Eskom Debt Relief Act 7 of 2023,2023-07-05,2023-07-07,2023-07-07,1,https://www.gov.za/documents/acts/eskom-debt-relief-act-7-2023-english-isixhosa-07-jul-2023
 a3-2023,Eighteenth Amendment (2023),law,"Constitution Eighteenth Amendment Act, 2023 (Act 3 of 2023)",2023-07-19,2023-07-27,2026-06-26,1,https://www.justice.gov.za/constitution/docs/2023-003-Constitution18thAmendment-gg49041-GoN3730-27Jul2023.pdf
+act-2022-9,Act 9 of 2022,law,Traditional Courts Act 9 of 2022,2023-09-16,2023-09-27,2023-09-27,1,https://www.gov.za/documents/acts/traditional-courts-act-9-2022-english-isixhosa-27-sep-2023
+act-2023-6,Act 6 of 2023,law,Land Court Act 6 of 2023,2023-09-16,2023-09-27,2023-09-27,1,https://www.gov.za/documents/acts/land-court-act-6-2023-english-isizulu-27-sep-2023
+act-2024-9,Act 9 of 2024,law,National Council on Gender-Based Violence and Femicide Act 9 of 2024,2024-05-24,2024-05-27,2024-05-27,1,https://www.gov.za/documents/acts/national-council-gender-based-violence-and-femicide-act-9-2024-english-sepedi-27-may
+act-2024-7,Act 7 of 2024,law,Cannabis for Private Purposes Act 7 of 2024,2024-05-28,2024-06-03,2024-06-03,1,https://www.gov.za/documents/acts/cannabis-private-purposes-act-7-2024-english-sepedi-03-jun-2024
+act-2024-22,Act 22 of 2024,law,Climate Change Act 22 of 2024,2024-07-18,2024-07-23,2024-07-23,1,https://www.gov.za/documents/acts/climate-change-act-22-2024-english-tshivenda-23-jul-2024
+act-2024-28,Act 28 of 2024,law,Public Procurement Act 28 of 2024,2024-07-18,2024-07-23,2024-07-23,1,https://www.gov.za/documents/acts/public-procurement-act-28-2024-english-setswana-23-jul-2024
+act-2024-34,Act 34 of 2024,law,South African National Water Resources Infrastructure Agency Soc Limited Act Act 34 of 2024,2024-08-27,2024-09-02,2024-09-02,1,https://www.gov.za/documents/acts/south-african-national-water-resources-infrastructure-agency-soc-limited-act-act-34
+act-2024-23,Act 23 of 2024,law,Upstream Petroleum Resources Development Act 23 of 2024,2024-10-25,2024-10-29,2024-10-29,1,https://www.gov.za/documents/acts/upstream-petroleum-resources-development-act-23-2024-english-isizulu-29-oct-2024
+act-2024-30,Act 30 of 2024,law,Railway Safety Act 30 of 2024,2024-12-02,2024-12-10,2024-12-10,1,https://www.gov.za/documents/acts/railway-safety-act-30-2024-english-sepedi-10-dec-2024
+act-2024-35,Act 35 of 2024,law,Plant Health (Phytosanitary) Act 35 of 2024,2024-12-10,2024-12-20,2024-12-20,1,https://www.gov.za/documents/acts/plant-health-phytosanitary-act-35-2024-20-dec-2024
+act-2024-47,Act 47 of 2024,law,Global Minimum Tax Administration Act 47 of 2024,2025-01-07,2025-01-09,2025-01-09,1,https://www.gov.za/documents/acts/global-minimum-tax-administration-act-47-2024-english-afrikaans-09-jan-2025
+act-2024-13,Act 13 of 2024,law,Expropriation Act 13 of 2024,2024-12-20,2025-01-24,2025-01-24,1,https://www.gov.za/documents/acts/expropriation-act-13-2024-english-sepedi-24-jan-2025
+act-2024-25,Act 25 of 2024,law,Housing Consumer Protection Act 25 of 2024,2024-12-20,2025-01-29,2025-01-29,1,https://www.gov.za/documents/acts/housing-consumer-protection-act-25-2024-english-siswati-29-jan-2025
 act-1944-32,Act 32 of 1944,law,"Magistrates' Courts Act, 1944",,,,0,https://www.justice.gov.za/legislation/acts/1944-032.pdf
 act-1952-40,Act 40 of 1952,law,"Magistrates' Courts Amendment Act, 1952",,,,0,
 act-1954-14,Act 14 of 1954,law,"Magistrates' Courts Amendment Act, 1954",,,,0,
@@ -115,24 +284,24 @@ act-1996-85,Act 85 of 1996,law,"Criminal Procedure Second Amendment Act, 1996",,
 act-1996-86,Act 86 of 1996,law,"Criminal Procedure Amendment Act, 1996",,,,0,
 act-1996-88,Act 88 of 1996,law,"Abolition of Restrictions on the Jurisdiction of Courts Act, 1996",,,,0,
 act-1997-105,Act 105 of 1997,law,"Criminal Law Amendment Act, 1997",,,,0,
-act-1997-33,Act 33 of 1997,law,"Abolition of Corporal Punishment Act, 1997",,,,0,
+act-1997-33,Act 33 of 1997,law,"Abolition of Corporal Punishment Act, 1997",,,1997-09-05,1,
 act-1997-76,Act 76 of 1997,law,"Criminal Procedure Amendment Act, 1997",,,,0,
 act-1997-80,Act 80 of 1997,law,"Magistrates' Courts Second Amendment Act, 1997",,,,0,
 act-1997-81,Act 81 of 1997,law,"Magistrates' Courts Amendment Act, 1997",,,,0,
 act-1997-85,Act 85 of 1997,law,"Criminal Procedure Second Amendment Act, 1997",,,,0,
 act-1997-87,Act 87 of 1997,law,"Parole and Correctional Supervision Amendment Act, 1997",,,,0,
 act-1998-111,Act 111 of 1998,law,"Correctional Services Act, 1998",,,,0,
-act-1998-112,Act 112 of 1998,law,"Witness Protection Act, 1998",,,,0,
-act-1998-114,Act 114 of 1998,law,"Debt Collectors Act, 1998",,,,0,
-act-1998-116,Act 116 of 1998,law,"Domestic Violence Act, 1998",,,,0,
+act-1998-112,Act 112 of 1998,law,"Witness Protection Act, 1998",,,1998-11-27,1,
+act-1998-114,Act 114 of 1998,law,"Debt Collectors Act, 1998",,,1998-11-27,1,
+act-1998-116,Act 116 of 1998,law,"Domestic Violence Act, 1998",,,1998-12-02,1,
 act-1998-122,Act 122 of 1998,law,"Judicial Matters Second Amendment Act, 1998",,,,0,
-act-1998-32,Act 32 of 1998,law,"National Prosecuting Authority Act, 1998",,,,0,
+act-1998-32,Act 32 of 1998,law,"National Prosecuting Authority Act, 1998",,,1998-07-03,1,
 act-1998-34,Act 34 of 1998,law,"Judicial Matters Amendment Act, 1998",,,,0,
 act-1998-66,Act 66 of 1998,law,"Magistrates Amendment Act, 1998",,,,0,
 act-1998-67,Act 67 of 1998,law,"Magistrates' Courts Amendment Act, 1998",,,,0,
 act-1998-68,Act 68 of 1998,law,"Criminal Matters Amendment Act, 1998",,,,0,
 act-1998-74,Act 74 of 1998,law,"Sheriff's Amendment Act, 1998",,,,0,
-act-1998-99,Act 99 of 1998,law,"Maintenance Act, 1998",,,,0,
+act-1998-99,Act 99 of 1998,law,"Maintenance Act, 1998",,,1998-11-27,1,
 act-2000-2,Act 2 of 2000,law,"Promotion of Access to Information Act, 2000",,,,0,https://www.justice.gov.za/legislation/acts/2000-002.pdf
 act-2000-3,Act 3 of 2000,law,"Promotion of Administrative Justice Act, 2000",,,,0,https://www.justice.gov.za/legislation/acts/2000-003.pdf
 act-2000-4,Act 4 of 2000,law,"Promotion of Equality and Prevention of Unfair Discrimination Act, 2000",,,,0,https://www.justice.gov.za/legislation/acts/2000-004.pdf
@@ -153,7 +322,7 @@ act-2003-55,Act 55 of 2003,law,"Judicial Matters Second Amendment Act, 2003",,,,
 act-2004-12,Act 12 of 2004,law,"Prevention and Combating of Corrupt Activities Act, 2004",,,,0,
 act-2004-33,Act 33 of 2004,law,"Protection of Constitutional Democracy against Terrorist and Related Activities Act, 2004",,,,0,
 act-2005-22,Act 22 of 2005,law,"Judicial Matters Amendment Act, 2005",,,,0,
-act-2005-34,Act 34 of 2005,law,"National Credit Act, 2005",,,,0,
+act-2005-34,Act 34 of 2005,law,"National Credit Act, 2005",,,2006-03-15,1,
 act-2007-30,Act 30 of 2007,law,"Public Service Amendment Act, 2007",,,,0,
 act-2007-32,Act 32 of 2007,law,"Criminal Law (Sexual Offences and Related Matters) Amendment Act, 2007",,,,0,https://www.justice.gov.za/legislation/acts/2007-032.pdf
 act-2007-38,Act 38 of 2007,law,"Criminal Law (Sentencing) Amendment Act, 2007",,,,0,
@@ -166,15 +335,15 @@ act-2010-6,Act 6 of 2010,law,"Criminal Law (Forensic Procedures) Amendment Act, 
 act-2012-6,Act 6 of 2012,law,"Criminal Law (Sexual Offences and Related Matters) Amendment Act Amendment Act, 2012",,,,0,
 act-2012-9,Act 9 of 2012,law,"Criminal Procedure Amendment Act, 2012",,,,0,
 act-2013-10,Act 10 of 2013,law,"Superior Courts Act, 2013",,,,0,https://www.justice.gov.za/legislation/acts/2013-010.pdf
-act-2013-13,Act 13 of 2013,law,"Prevention and Combating of Torture of Persons Act, 2013",,,,0,
+act-2013-13,Act 13 of 2013,law,"Prevention and Combating of Torture of Persons Act, 2013",,,2013-07-29,1,
 act-2013-37,Act 37 of 2013,law,"Criminal Law (Forensic Procedures) Amendment Act, 2013",,,,0,
 act-2013-42,Act 42 of 2013,law,"Judicial Matters Amendment Act, 2013",,,,0,
 act-2013-43,Act 43 of 2013,law,"Judicial Matters Second Amendment Act, 2013",,,,0,
-act-2013-7,Act 7 of 2013,law,"Prevention and Combating of Trafficking in Persons Act, 2013",,,,0,
+act-2013-7,Act 7 of 2013,law,"Prevention and Combating of Trafficking in Persons Act, 2013",,,2013-07-30,1,
 act-2013-8,Act 8 of 2013,law,"Criminal Procedure Amendment Act, 2013",,,,0,
 act-2014-14,Act 14 of 2014,law,"Judicial Matters Amendment Act, 2014",,,,0,
 act-2014-28,Act 28 of 2014,law,"Legal Practice Act, 2014",,,,0,https://www.justice.gov.za/legislation/acts/2014-028.pdf
-act-2014-39,Act 39 of 2014,law,"Legal Aid South Africa Act, 2014",,,,0,
+act-2014-39,Act 39 of 2014,law,"Legal Aid South Africa Act, 2014",,,2014-12-09,1,
 act-2015-18,Act 18 of 2015,law,"Criminal Matters Amendment Act, 2015",,,,0,
 act-2015-24,Act 24 of 2015,law,"Judicial Matters Amendment Act, 2015",,,,0,
 act-2015-5,Act 5 of 2015,law,"Criminal Law (Sexual Offences and Related Matters) Amendment Act Amendment Act, 2015",,,,0,
@@ -185,13 +354,13 @@ act-2017-8,Act 8 of 2017,law,"Judicial Matters Amendment Act, 2017",,,,0,
 act-2019-28,Act 28 of 2019,law,"Child Justice Amendment Act, 2019",,,,0,
 act-2019-31,Act 31 of 2019,law,"Promotion of Access to Information Amendment Act, 2019",,,,0,
 act-2020-15,Act 15 of 2020,law,"Prescription in Civil and Criminal Matters (Sexual Offences) Amendment Act, 2020",,,,0,
-act-2020-19,Act 19 of 2020,law,"Cybercrimes Act, 2020",,,,0,
+act-2020-19,Act 19 of 2020,law,"Cybercrimes Act, 2020",,,2021-06-01,1,
 act-2021-12,Act 12 of 2021,law,"Criminal and Related Matters Amendment Act, 2021",,,,0,
 act-2021-13,Act 13 of 2021,law,"Criminal Law (Sexual Offences and Related Matters) Amendment Act Amendment Act, 2021",,,,0,
 act-2021-16,Act 16 of 2021,law,"Criminal Procedure Amendment Act, 2021",,,,0,
 act-2021-23,Act 23 of 2021,law,"Financial Sector Laws Amendment Act, 2021",,,2023-06-01,1,https://www.justice.gov.za/legislation/acts/2008-071.pdf
 act-2022-23,Act 23 of 2022,law,"Protection of Constitutional Democracy against Terrorist and Related Activities Amendment Act, 2022",,,,0,
 act-2023-15,Act 15 of 2023,law,"Judicial Matters Amendment Act, 2023",,,,0,
-act-2023-16,Act 16 of 2023,law,"Prevention and Combating of Hate Crimes and Hate Speech Act, 2023",,,,0,
+act-2023-16,Act 16 of 2023,law,"Prevention and Combating of Hate Crimes and Hate Speech Act, 2023",,,2024-05-14,1,
 act-2024-16,Act 16 of 2024,law,"Companies Amendment Act, 2024",,,2024-12-27,1,https://www.justice.gov.za/legislation/acts/2008-071.pdf
 act-2024-17,Act 17 of 2024,law,"Companies Second Amendment Act, 2024",,,2024-12-27,1,https://www.justice.gov.za/legislation/acts/2008-071.pdf
