@@ -17,6 +17,7 @@ This file is written by the build on 2026-11-04, the day the source data was ret
 | LawLibrary (Laws.Africa), Wayback captures only | <https://lawlibrary.org.za/akn/za/act/2008/71/eng@2014-05-01> | 2026-10-28 | CC BY-NC 4.0; attribution: LawLibrary (lawlibrary.org.za) |
 | Department of Justice and Constitutional Development: consolidated Acts | <https://www.justice.gov.za/legislation/acts/acts_full.html> | 2026-10-29 | justice.gov.za terms: non-commercial informational or reference use; Copyright Act 98 of 1978 s. 12(8)(a): no copyright in official legislative texts. |
 | South African Government (gov.za): Acts as published in the Government Gazette | <https://www.gov.za/documents/acts> | 2026-11-03 | gov.za terms: non-commercial informational or reference use; Copyright Act 98 of 1978 s. 12(8)(a): no copyright in official texts of a legislative nature. |
+| South African Government, Government Gazette 51830 | <https://www.gov.za/documents/acts/global-minimum-tax-act-46-2024-english-afrikaans-24-dec-2024> | 2026-11-04 | gov.za terms: non-commercial informational or reference use; Copyright Act 98 of 1978 s. 12(8)(a): no copyright in official legislative text. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -218,20 +219,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `global-minimum-tax-administration-act-2024` | Global Minimum Tax Administration Act | 1 | 2025-01-09 to 2025-01-09 |
 | `expropriation-act-2024` | Expropriation Act | 1 | 2025-01-24 to 2025-01-24 |
 | `housing-consumer-protection-act-2024` | Housing Consumer Protection Act | 1 | 2025-01-29 to 2025-01-29 |
+| `global-minimum-tax-act-2024` | Global Minimum Tax Act, 2024 | 1 | 2024-01-01 to 2024-01-01 |
 
-The build made 232 commits:
+The build made 233 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 194 | first version of an act |
+| 195 | first version of an act |
 | 38 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-04.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 365 laws in the record.
-- 434 tags.
+- 366 laws in the record.
+- 436 tags.
 
 ## Dates
 
@@ -243,7 +245,7 @@ When a law gives no date of its own, the default rule applies: Constitution s. 8
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f2f2beab4ddba2070f5bc74ecd275f14bb9e53c2fcb2ba298c0b8dbfcce8b7b4` (16052881 bytes).
+- Corpus: sha256 `65de72014dc1ec910008e3c024f5ffb616e1925e2406c55e52128d2cb1d08693` (16075391 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -291,6 +293,7 @@ No second build of this corpus has been compared yet.
 - gov.za Acts: an Act is in force from the day the gazette published it (Constitution s. 81; before 1994 the same default rule); commencement by later proclamation, later amendments and repeals are not tracked, so an Act here may since have been amended or repealed.
 - gov.za Acts: only the English pages are kept (a page is English when English function words are at least 9% of its words); running heads, page and margin line numbers and gazette notices are dropped; printed lines are joined into paragraphs, and a word broken at a line end keeps its hyphen.
 - gov.za Acts: an Act is published only if the letters and digits of its units equal, in order, those of the same pages read by a second PDF reader (poppler pdftotext); the others are listed as left out.
+- Act 46 of 2024: as-enacted text only; the source s. 25(2) gives a retrospective commencement date of 1 January 2024, which takes precedence over its 24 December 2024 publication.
 
 ## What AI did and did not do
 
@@ -304,3 +307,4 @@ Model use at data-build time:
 - None at data-build time: Lexifina's code is deterministic code, written with Claude Code (claude-opus-5-5); no model reads, writes or summarises legal text.
 - none
 - none
+- none: script selected and copied official PDF text; no model wrote or corrected law words.

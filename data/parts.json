@@ -200,6 +200,12 @@
     "world-heritage-convention-act-1999"
    ],
    "sha256": "4d6ded785b42b7c0951dcccff5627b2d1388257b9aee69000be0130e778e4769"
+  },
+  "50-q610-global-minimum-tax.json": {
+   "acts": [
+    "global-minimum-tax-act-2024"
+   ],
+   "sha256": "d6061c093d7acfda6509fecd51a445ad83f324098dcdf59a1ecd42023257e6fb"
   }
  },
  "schema": 1

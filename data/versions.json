@@ -2920,6 +2920,20 @@
      "sha256": "a585f4096c1ed496ecc4df68195dd4a416c9262b9bd9f41310e779bc44a42e0c"
     }
    ]
+  },
+  {
+   "slug": "global-minimum-tax-act-2024",
+   "short": "Global Minimum Tax Act",
+   "title": "Global Minimum Tax Act, 2024",
+   "url": "https://www.gov.za/documents/acts/global-minimum-tax-act-46-2024-english-afrikaans-24-dec-2024",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 27,
+     "source_url": "https://www.gov.za/sites/default/files/gcis_document/202501/51830-globalminimumtaxact46of2024.pdf",
+     "sha256": "18918506a554b17faa842fd403df10ccd4c36090762fc44021353aca932da810"
+    }
+   ]
   }
  ]
 }
