@@ -59,6 +59,7 @@ Each change is credited to the law the sources' amendment notes name (`Seventeen
 - Today's text matches the Department of Justice consolidations word for word in all 253 provisions of the Constitution, 114 of POPIA's 115 sections and 228 of the Companies Act's 230 sections and schedules; in the three others the consolidation departs from the gazette without an amendment, and the gazette is kept.
 - An Act from gov.za is published only if the letters and digits of its text equal those a second PDF reader gives for the same pages.
 - History is append-only: no merge commits, no commit dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -82,6 +83,10 @@ Each change is credited to the law the sources' amendment notes name (`Seventeen
 See [`LICENSE`](LICENSE). Under the Copyright Act 98 of 1978, s. 12(8)(a), "No copyright shall subsist in official texts of a legislative, administrative or legal nature"; the terms of justice.gov.za and gov.za allow their content to be copied and distributed for non-commercial informational or reference purposes, and LawLibrary's content is CC BY-NC 4.0 (attribution: LawLibrary, lawlibrary.org.za). Lexifina's arrangement, commit messages, tables and tools are CC0 1.0.
 
 No model wrote, translated or corrected legal text, and no model runs at build time; the scripts that read the sources and build this repository were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
